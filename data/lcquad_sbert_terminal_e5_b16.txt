@@ -1,0 +1,3 @@
+9952	Q265538	+P664, +P641	158	Who is the organizer for the sport of World Series?
++P664, +P641, +organizer, +sport
+top answer: +organizer, +organizer

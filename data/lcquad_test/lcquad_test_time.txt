@@ -1,0 +1,1057 @@
+27852	27852	What is in the category of Percy Bysshe Shelley?	Q93343	0.3537161350250244
+9547	9547	What is the cause and place of John Denver's death?	Q105460	0.5734808444976807
+11247	11247	When did head of government of Seattle and work period (end)?	Q5083	0.34255003929138184
+28883	28883	What is the maximum Strahler number for Loire?	Q1469	0.3458981513977051
+15324	15324	Which spot came from the Ebola virus?	Q51993	0.6147241592407227
+18379	18379	Does cobalt have a time-weighted average exposure limit of .1?	Q740	0.38216114044189453
+25282	25282	Name an ethnolect indigenous to the United States of America that contains the word "american" in its name	Q951873, Q30	0.42804598808288574
+28152	28152	Which is the BMLO for Frederick William I of Prussia?	Q105013	0.5620207786560059
+10463	10463	Who was the King of the Franks after Lothair I?	Q150735, Q22923081	0.6302318572998047
+26918	26918	What is the total solar radiation reflected off of Saturn?	Q193	0.3449521064758301
+1261	1261	Charles the Bald has how many noble titles?	Q71231	0.3393981456756592
+1436	1436	What is the time-weighted average exposure limit for arsenic?	Q871	0.3396596908569336
+8492	8492	What is the name of 1st series of Heinrich Himmler?	Q43067	0.3856322765350342
+26759	26759	What is Deutsche Olympiamannschaft athlete ID for Ralf Schumann ?	Q553279	0.390455961227417
+1863	1863	How many forewords did John Lasseter author?	Q269214	0.40976595878601074
+26233	26233	Which is the oxidation state for phosphorus?	Q674	0.3769500255584717
+10317	10317	When did John Adams' child Abigail Adams Smith born and who is the mother?	Q11806, Q4667661	0.43054890632629395
+20737	20737	What Vostok mission did Yuri Gagarin fly in?	Q7327, Q624038	0.4306979179382324
+19603	19603	Do the vehicles per thousand people equal 540 in Dubai?	Q612	0.38587474822998047
+24937	24937	Which is the recurring sporting event of the Tennis Australia organizer that contains the word australian in it's name?	Q18608583, Q3494880	0.4360377788543701
+7595	7595	What is Gian Lorenzo Bernini's first name?	Q160538	0.6325056552886963
+1955	1955	How much of the intended audience is female?	Q467	0.3729889392852783
+3892	3892	What degree did Katherine Dunham earn at the University of Chicago?	Q272637, Q131252	0.39975929260253906
+17490	17490	What is first language of Dirk Nowitzki ?	Q44068	0.5784800052642822
+29682	29682	WHAT IS THE MUSHROOM CAP SHAPE OF PLEUROTUS OSTREATUS	Q186451	0.3484311103820801
+19279	19279	Is the luminosity of the Alpha Andromedae less than 240.0?	Q13039	0.38764381408691406
+16422	16422	Who founded postmodernism?	Q47783	0.615440845489502
+28962	28962	Which is the top-level Internet domain of Saint-Barthélemy?	Q25362	0.37456393241882324
+23391	23391	Which is the painting that contains the word young in it's name?	Q3305213	0.3501100540161133
+6182	6182	What country did Franz Kafka have a citizenship in in 1882-7-3?	Q905	0.3447737693786621
+28963	28963	Which is the public holiday of Georgia?	Q230	0.3860597610473633
+14772	14772	Which is award received by pupil of Enrico Fermi ?	Q8753	0.40781497955322266
+10690	10690	Who followed Berengar I of Italy as monarch?	Q274606, Q271148	0.6917498111724854
+24744	24744	What are the angle that starts with the letter e	Q11352	0.34531092643737793
+18676	18676	Is the oxidation state of phosphorus equal to 3?	Q674	0.337695837020874
+28186	28186	What is the Bien de Interes Cultural (BIC) code of Cave of Altamira?	Q133575	0.3446810245513916
+29038	29038	WHICH TOGETHER WITH AIDS	Q12199	0.5846619606018066
+7584	7584	What state of matter is water in when it's density is .9857?	Q283	0.38696908950805664
+1405	1405	What territory overlaps the Rideau Canal?	Q651323	0.36413097381591797
+9780	9780	What are the genetic association and the health specialty of a Migraine?	Q133823	0.6247818470001221
+14950	14950	What do you call a citizen of Belgium?	Q31	0.3879239559173584
+26386	26386	Which is the Cycling Quotient male cyclist ID of Chris Froome?	Q319591	0.5673491954803467
+1358	1358	Name the religions names of the  Mother Teresa ?	Q30547	0.39985084533691406
+29460	29460	What is Uzbekistan's PPP GDP per capita?	Q265	0.5622868537902832
+19446	19446	Is the relative permeability of iron equal to 240000.0	Q677	0.3499290943145752
+28637	28637	Which is the ultimate tensile strength of nylon?	Q177941	0.3473639488220215
+2491	2491	WHICH IS THE CLASS IC FLAMMABLE LIQUID WITH THE MAXIMUM BOILING POINT	Q21009056	0.33946990966796875
+19950	19950	Taj Mahal, the humans place of burial is where?	Q9141, Q5	0.3800208568572998
+11411	11411	What award did Peter Debye receive and how much was the prize money?	Q103835	0.6117291450500488
+17752	17752	Which are the papers of the narrative set in The Grapes of Wrath?	Q215983	0.5844721794128418
+239	239	Was there a remake of the show Doctor Who that was also called Doctor Who?	Q34316	0.34302186965942383
+28292	28292	What is Gamebase64 identifier for Donkey Kong?	Q12384	0.571723222732544
+1050	1050	What were the last words of Jesus Christ?	Q302	0.3628659248352051
+1169	1169	how many authors have there been for the new testament?	Q18813	0.34844017028808594
+2458	2458	What profession has the highest base salary?	Q28640	0.35211610794067383
+23261	23261	Tell me gene whose name has the word vgf in it.	Q7187	0.36371898651123047
+18586	18586	Is 160 the stroke of the Mayback MD 871?	Q1914397	0.3492431640625
+2798	2798	Which airline has the highest total revenue?	Q46970	0.778022050857544
+23643	23643	What are the war of national liberation which start with the letter war	Q1006311	0.34714794158935547
+25552	25552	Tell me the public univbersity that used English language and which starts with the letter u	Q875538, Q1860	0.37789392471313477
+2295	2295	What are the legal forms are for the sole proprietorship ?	Q2912172	0.3479743003845215
+11416	11416	When did educated at of Stephen King and academic degree?	Q39829	0.3526179790496826
+9717	9717	What is the country and the World Heritage criteria of Taj_Mahal ?	Q9141	0.5930800437927246
+4309	4309	What is the population of Thirteen colonies in 1980?	Q179997	0.3484780788421631
+17938	17938	what are the  signs and cause of carbon tetrachloride?	Q225045	0.6666660308837891
+24495	24495	Tell me spiral galaxy which start with the letter u	Q2488	0.3450891971588135
+1356	1356	How many payment types are accepted at the Louvre museum?	Q19675	0.34516286849975586
+11571	11571	What are the three phases of water and what are their respective pressures?	Q283	0.3506331443786621
+27027	27027	What is Czech Street ID of Charles Bridge	Q204871	0.5766501426696777
+19590	19590	Is the net worth of Jesus Christ equal to t1417656573	Q302	0.3490171432495117
+10302	10302	What is the date of birth and death of Pedro I, whose daughter Maria II is from Portugal?	Q939, Q221145	0.7825860977172852
+2552	2552	What is the newspaper with the MAX publication interval?	Q11032	1.5239160060882568
+18116	18116	Is 12 the suicide rate of the United States of America?	Q30	0.34452199935913086
+27529	27529	Which is the CiNii author ID of the books of François Hollande?	Q157	0.35828399658203125
+18884	18884	Does the individual tax rate of the Netherland equal 41.6?	Q55	0.34879207611083984
+26080	26080	Which is GOST 7.67 cyrillic for South Korea?	Q884	0.5832500457763672
+4469	4469	Which nomination did The simpsons receive in the year 2001?	Q886	0.6096951961517334
+20971	20971	Where Charles Darwin was living ?	Q1035, Q3947	0.5902509689331055
+22882	22882	Which video game company developed Pong?	Q216293, Q210167	0.3802490234375
+4107	4107	What award did David Lynch receive in 2006?	Q2071	0.5891709327697754
+23154	23154	TELL ME THE CHEMICAL ELEMENT THAT CONTAINS THE WORD YTTERBIUM IN THEIR NAME	Q11344	0.3474292755126953
+1252	1252	How many ethnic groups are with the Uzbekistan ?	Q265	0.354992151260376
+25764	25764	What is located in the administrative territorial entity of Nicaragua?	Q811	0.3439939022064209
+11572	11572	Who is Pedro I's child and when were they born?	Q939	0.3409600257873535
+12044	12044	What is the native language of Vivien Leigh?	Q129429	0.35610485076904297
+1293	1293	how many academic degrees does ernest rutherford have?	Q9123	0.3433549404144287
+24128	24128	What are the type of number which start with the letter n	Q47460393	0.34867119789123535
+11162	11162	Who is the spouse of Anna Akhmatova and where did they get married?	Q80440	0.3588860034942627
+27733	27733	Which is the author name string for A Mathematical Theory of Communication?	Q724029	0.6102759838104248
+1385	1385	Who was the plaintiff in the Nuremberg trials?	Q80130	0.35224294662475586
+8582	8582	For what Maria Sharapova was nominated in the year 2007?	Q11666	0.8297562599182129
+11424	11424	Tell me about position held of Malcolm Fraser and elected in?	Q315979	0.34803199768066406
+26434	26434	Väinö Linna received what prize?	Q311037	0.34810709953308105
+4178	4178	When did the Ivory Coast have a population of 1.17111e+07?	Q1008	0.34663915634155273
+3838	3838	Was the movie, 'Full Metal Jacket' released on June 26, 1987?	Q243439	0.3741292953491211
+19250	19250	Is the Gini coefficient of France equal to 23.936?	Q142	0.33916330337524414
+26012	26012	wich means explosive velocity at 2,4,6-trinitrotoluene ?	Q170167	0.3510749340057373
+10044	10044	Who is the mother and child of Courtney Love?	Q222071	0.6179976463317871
+3562	3562	What material is used for the runway at O'Hare International Airport	Q213717	0.6168932914733887
+9776	9776	which is the medical treatment and health specialty of Ebola_virus_disease?	Q51993	0.3547208309173584
+29011	29011	Which is the Commonwealth Games Federation athlete ID of Sebastian Coe?	Q188502	0.5775861740112305
+22839	22839	Neil Armstrong was the crew member of which moon landing?	Q1615, Q495307	0.7179293632507324
+10315	10315	Where and with what height did Yelena Isinbayeva break the record for pole vault?	Q185027, Q6319	0.6298828125
+26854	26854	Which is the minimum wavelength of sensitivity of Karl G. Jansky Very Large Array?	Q461382	0.3475499153137207
+25661	25661	What people are indigenous to the USA and start with the letter A?	Q951873, Q30	0.3855628967285156
+9741	9741	Where is the official residence and the office from which Pope directs the organisation?	Q19546	0.5837008953094482
+11288	11288	Who is Marilyn Monroe's husband and when did they end their marriage?	Q4616	0.34110093116760254
+19354	19354	Is it true that the absolute magnitude of the Triton equals to -1.2?	Q3359	0.34613490104675293
+10289	10289	When is the Prince of Beira's birthdate and who is his mother?	Q939, Q4765121	0.38279294967651367
+28794	28794	Which is decays to Higgs boson?	Q402	0.34180617332458496
+6649	6649	What is the produced sound of housecat by Felis Silvestris catus.ogg?	Q146	0.5612359046936035
+29797	29797	Which spaceflight was Alan Shepard part of?	Q174979, Q752783	0.4014451503753662
+24256	24256	Name a kind of leather that starts with letter S	Q286	0.35773706436157227
+16124	16124	The Treaty of Versailles was signed by which diplomats?	Q8736	0.3525667190551758
+22576	22576	What is crew member Yuri Gagarin's Vostok?	Q7327, Q624038	0.40644407272338867
+7951	7951	What is the aspect ratio for Belarus that contains the map image as LocationBelarus.svg?	Q184	0.5632319450378418
+28690	28690	Which is a service entry of Airbus A340?	Q6481	0.5914769172668457
+23119	23119	Tell me mythological Greek character whose name has the word tityos in it.	Q22988604	0.34439826011657715
+26271	26271	What is language is spoken by the Gujarati people?	Q5137	0.34453725814819336
+11262	11262	When did chairperson of Communist Party of China and followed by?	Q17427	0.3449110984802246
+13882	13882	What point divides into the Rhineland-Palatinate, and has the wgs-84 position of 7.59778?	Q1200	0.35185670852661133
+22247	22247	What is the unit used to measure a physical quantity of energy?	Q11379, Q2916980	0.37364792823791504
+28895	28895	Which is the grants academic degree for Free University of Berlin?	Q153006	0.3443310260772705
+8234	8234	What is the vapor pressure of hydrogen cyanide at the temperature 68 degrees?	Q26075	0.5652449131011963
+2566	2566	Which excipient has the highest refractive index?	Q902638	4.030397176742554
+10800	10800	What academic degree does Tina Fey hold from the University of Virginia?	Q14540, Q213439	0.629723072052002
+28925	28925	Which is the statistical leader of LeBron James?	Q36159	0.33824706077575684
+25367	25367	Name an isotope of neutronium that starts with letter N	Q12525553, Q11418	0.39217686653137207
+22530	22530	What is the internet standard for Internet Protocol version 4?	Q11103, Q290378	0.3746769428253174
+11384	11384	Tell me the most notable work of Christopher Hitchens and also the publisher.	Q49081	0.3399338722229004
+19530	19530	Is the standard enthalpy of formation of acetaldehyde equal to -166?	Q61457	0.34329676628112793
+20806	20806	Who is the operator of business at CBS?	Q43380, Q4830453	0.6300826072692871
+3329	3329	Which excipient chemical compound has the least kinematic viscosity?	Q902638, Q11173	0.5825259685516357
+10206	10206	Who are the parent organization and the parent club of FC Barcelona?	Q7156	0.565159797668457
+1504	1504	How many judges are held in the  Nuremberg trials ?	Q80130	0.33962297439575195
+17236	17236	What was Alistair Brownlee accused of?	Q716308	0.5823071002960205
+29509	29509	Which is the UAI code for Collège de France?	Q202660	0.5648109912872314
+29216	29216	Which is the storyboard artist for Ub Iwerks?	Q336424	0.34412074089050293
+10053	10053	Who is in charge of Toronto's  government and what is the title of the office he/she holds?	Q172	0.5985190868377686
+10391	10391	When did George Marshall win the Nobel Peace Prize and how much was his prize money?	Q151414, Q35637	0.3894541263580322
+1792	1792	How many dome enclosures are there?	Q12493	0.34325695037841797
+29790	29790	Which sovereign state replaced Czechoslovakia ?	Q33946, Q3624078	0.7259969711303711
+25269	25269	What social skills are used by the media that contain the word communication?	Q1413287, Q17502905	0.3805198669433594
+27883	27883	What is port of registry forTallinn ?	Q1770	0.3448309898376465
+29741	29741	Which is the filming location for The Godfather Part II?	Q184768	0.34097909927368164
+18937	18937	DOES THE OPTIMUM VIABLE TEMPERATURE OF THE PSEUDOMONAS PUTIDA K T2440 EQUALS 28	Q21079489	0.3390200138092041
+14606	14606	Where was the birth place of Grazia Deledda?	Q7728	0.5850949287414551
+1522	1522	How many official residences are there in the Parthian Empire?	Q1986139	0.3385581970214844
+21871	21871	Name a movie directed by Federico Fellini	Q7371, Q11424	0.3870687484741211
+14434	14434	Who is married to the daughters of Ferdinand II of Aragon?	Q12860	0.5812327861785889
+24372	24372	What are the star which start with the letter v	Q523	0.358903169631958
+29474	29474	Which is the Yelp ID for Eiffel tower?	Q243	0.5567290782928467
+19247	19247	Is Jupiter's apparent magnitude equal to -1.6?	Q319	0.33633995056152344
+27441	27441	What is Guide to Pharmacology Ligand ID for L-Cysteine ?	Q186474	0.3502159118652344
+19432	19432	Is the Poisson's ratio of gold equal to 0.4?	Q897	0.35589098930358887
+20503	20503	Which anatomical structure connects with the stomach?	Q1029907, Q4936952	0.5891962051391602
+2033	2033	How many countries have diplomatic relations with Burkina Faso?	Q965	0.34800171852111816
+8540	8540	At what point in time did Apple Inc. report a net profit of 5.3394e+10?	Q312	0.5563790798187256
+26552	26552	What is Hall for Light Amiga database ID of Doom ?	Q189784	0.5804131031036377
+10684	10684	What is Alexander Fleming's award-winning, time-honored prize for the Nobel Prize in Physiology and Medicine?	Q37064, Q80061	0.6189718246459961
+9326	9326	What is the total revenue of Burger King in the year of 2012?	Q177054	0.5819809436798096
+1368	1368	How many connectors does Nintendo Switch have?	Q19610114	0.3469700813293457
+23764	23764	tell me glucan name has the word zymosan in it	Q416796	0.3462338447570801
+27201	27201	Which is the home world for Superman?	Q79015	0.3538792133331299
+9578	9578	What is the member of political party of Angela_Merkel ?	Q567	0.5813708305358887
+13084	13084	What member of Barbados was formed on November 16, 1945?	Q244	0.5974569320678711
+13228	13228	Which prescribed drug for epilepsy has a weight of 221.988?	Q41571	0.3472611904144287
+11329	11329	When did educated at of Mahmoud Ahmadinejad and academic major?	Q34448	0.342728853225708
+29323	29323	What is the Treaty of Versailles' depositor?	Q8736	0.3474740982055664
+20657	20657	Who is the doctoral student Richard Dawkins?	Q44461, Q5	0.38214111328125
+27786	27786	What kind of vessel is the Hubble Space Telescope?	Q2513	0.34857702255249023
+4955	4955	At what temperature does methanol have a density of 0.79?	Q14982	0.5913231372833252
+29943	29943	Which is the music term for partially coincident with classical music?	Q9730, Q20202269	0.3781869411468506
+2263	2263	How many are dedicated to Basil of Caesarea?	Q44258	0.3423919677734375
+29336	29336	Which is the global-warming potential of dichlorodifluoromethane?	Q423021	0.34092116355895996
+25973	25973	What is the AMCA Radiocommunications Licence ID for Qantas?	Q32491	0.5687003135681152
+18010	18010	Is it true that the total reserves of Luxembourg are greater than 1036389448.8?	Q32	0.3390951156616211
+15813	15813	What was the diplomatic relation of the release region of Pet Sounds?	Q212863	0.7092900276184082
+29245	29245	The trachea is of what anatomical branch?	Q175449	0.3397960662841797
+1334	1334	Karlsruhe has how many areas?	Q1040	0.34468603134155273
+10424	10424	Mention the life span duration of Roald Dahl when he was a professional writer	Q25161, Q36180	0.5907580852508545
+29293	29293	Which is the Quebec municipalities geographical code for Montreal?	Q340	0.3522312641143799
+6531	6531	What temperature does lead with a density of 11.34 have?	Q708	0.34402990341186523
+10962	10962	Which is the field of work and doctoral adviser of Hans Bethe who has an academic degree as a doctoral degree?	Q155794, Q849697	0.6354560852050781
+3821	3821	What award did Aleksandr Solzhenitsyn receive in 1998 ?	Q34474	0.3435630798339844
+17975	17975	Which is the trunk prefix from Nintendo?	Q8093	0.34828710556030273
+1350	1350	How many conjugations are there in Latin?	Q397	0.3370811939239502
+10715	10715	What is follows and followed by Communist Party of China chairperson as Zhao Ziyang	Q17427, Q99829	0.627310037612915
+23418	23418	What are the music term which start with the letter via	Q20202269	0.3447268009185791
+23728	23728	Tell me halide anion whose name has the word ion in it.	Q30972056	0.343045711517334
+24039	24039	WHAT ARE THE BATTLE WHICH START WITH THE LETTER S.	Q178561	0.3474302291870117
+26793	26793	What is SilentEra.com film ID for The Gold Rush ?	Q214723	0.34745287895202637
+28362	28362	What is the NALT ID for β-lactose?	Q127900	0.5848162174224854
+27975	27975	which fax number of Federal Communications Commission ?	Q128831	0.5698812007904053
+4599	4599	What was Leonhard Euler a member of in 1741?	Q7604	0.5948312282562256
+29002	29002	What are the production statistics for the ivory coast?	Q1008	0.3448781967163086
+2454	2454	Which extrasolar planet has the largest M sin i?	Q44559	0.3458669185638428
+15830	15830	Who is the leader of the Robert A. Heinlein award?	Q123078	0.34528398513793945
+11715	11715	Where and when did John Kenneth Galbraith study?	Q186042	0.3472309112548828
+19271	19271	Was the net profit of Glencore greater than -6,491,200,000?	Q169339	0.34752583503723145
+11038	11038	what and where did Donald Trump study?	Q22686	0.34488892555236816
+14037	14037	Which is the HQ location of Alibaba Group with a height of 10.0?	Q1359568	0.5552830696105957
+11056	11056	Who are the cast members of Days of our Lives and when did it end?	Q185059	0.35155296325683594
+21900	21900	Which person is know for Taj Mahal?	Q9141, Q5	0.38376903533935547
+22386	22386	What is the unit of measure for energy?	Q11379, Q2916980	0.6498198509216309
+27081	27081	Which is the Libraries.org ID for Bibliothèque nationale de France?	Q193563	0.5643999576568604
+15763	15763	What is the Time Zone of administrative headquarters taungoo dyansty?	Q519718	0.6001908779144287
+9796	9796	What are the symptoms of Hepatitis C and what drug is used to treat it?	Q154869	0.34177613258361816
+2477	2477	What magazine has the most readers?	Q41298	0.5796248912811279
+27930	27930	What is professional or sports partner for giovanni falcone?	Q207073	0.35076403617858887
+1986	1986	How many home world does the Earth has?	Q2	0.3384242057800293
+28619	28619	Which is produced by petroleum?	Q22656	0.34238719940185547
+6924	6924	When did Metro Manila have a population of 794,839?	Q13580	0.35027098655700684
+1064	1064	How many industries are connected with the Apple Inc. ?	Q312	0.33654022216796875
+27859	27859	Which is the shape of dome?	Q12493	0.3392629623413086
+18179	18179	DOES THE DECAY WIDTH OF THE HIGGS BOSON EQUALS 13000000	Q402	0.3414180278778076
+22363	22363	who cation for conjugate acid of water?	Q283, Q326277	0.6063108444213867
+10872	10872	Who preceded and who succeeded Clovis I as king of Franks?	Q82339, Q22923081	0.37149596214294434
+18241	18241	Is it true that the employment by economic sector of Amsterdam is 12250?	Q9899	0.349545955657959
+25181	25181	Tell me me a public university whose name consist of the word "university" and whoselanguage used English	Q875538, Q1860	0.3796422481536865
+29531	29531	What is Scandinavian Airlines' CVR number?	Q187854	0.5777170658111572
+17496	17496	Which is afflicts of outcome of dichlorodifluoromethane ?	Q423021	0.5746021270751953
+8423	8423	Where was A Clockwork Orange published on 1972-4-1?	Q181086	0.3507070541381836
+1625	1625	Tell me the legislative bodies are there for France?	Q142	0.34974122047424316
+27633	27633	What is  in the territory claimed by of United States of America ?	Q30	0.3423030376434326
+29463	29463	Which is the short-term exposure limit of ammonia?	Q4087	0.34494996070861816
+24076	24076	What are the music term which start with the letter V	Q20202269	0.34130001068115234
+23020	23020	Alan Shepard participated in which space missions?	Q174979, Q752783	0.3910388946533203
+23321	23321	What are the cooking method that contains the word steeping in their name	Q1039303	0.3435497283935547
+18958	18958	Is the nominal GDP of the United States of America equal to 2.32687248e+13?	Q30	0.3457019329071045
+9714	9714	What are the names of Courtney Love's husband and child?	Q222071	0.3541717529296875
+2608	2608	Which public company has the most debt?	Q891723	0.5813171863555908
+17437	17437	How do you address the head or the supreme authority of Khanka Lake?	Q201843	0.585874080657959
+17847	17847	What file format is the environment of Grand Theft Auto III?	Q149106	0.35056591033935547
+26442	26442	Which is the UMLS CUI for standard genetic code?	Q180618	0.5695779323577881
+20444	20444	Who is the head coach of F.C. Porto?	Q128446, Q5	0.3738410472869873
+21957	21957	What medication is encoded INS?	Q21163221, Q12140	0.6009769439697266
+1179	1179	How many people has a contribution factor for the wall?	Q42948	0.3540761470794678
+24328	24328	What are the halide anion which start with the letter i	Q30972056	0.34133005142211914
+10124	10124	What is the Lake inflows and the reservoir created of Hoover_Dam ?	Q172822	0.5882871150970459
+25841	25841	What is the Human Development Index for Papua New Guinea?	Q691	0.34454989433288574
+15984	15984	Who is the diplomat of Serbia?	Q403	0.3558988571166992
+11542	11542	where is the ivan Turgenev residence and lived with whom?	Q42831	0.345217227935791
+1289	1289	How many people worshipped Yahweh?	Q766677	0.3445301055908203
+10268	10268	When was Rotrude, child of Charlemagne, born?	Q3044, Q269691	0.5974209308624268
+29342	29342	Who is nominated by the United Nations Secretary-General?	Q81066	0.5604889392852783
+28221	28221	What is Octavio Paz' Paris Review intervieweeID?	Q46739	0.574023962020874
+11688	11688	Tell me about member of of George Lincoln Rockwell and military rank?	Q440145	0.3532710075378418
+1462	1462	What other entities are owned by Alphabet Inc?	Q20800404	0.340040922164917
+26579	26579	what is elfilm of person id of linus torvalds	Q34253	0.562298059463501
+27854	27854	What is in the category of South Korea ??	Q884	0.34122180938720703
+1582	1582	How many manufacturers are for Concorde?	Q6505	0.33821702003479004
+25447	25447	tell me recurring sporting event organizer tennis Australia  starts with a	Q18608583, Q3494880	0.3916127681732178
+18332	18332	Does the luminosity of the sun equal 3.0624e+17	Q525	0.3390200138092041
+17298	17298	Name the religious incorporation of the Titanic record producer	Q44578	0.5740222930908203
+1340	1340	How many excavation directors are in the Pompeii ?	Q43332	0.34067869186401367
+11140	11140	What is the award winning book of J.R.R. Tolkien and book.	Q892	0.34186601638793945
+19501	19501	Is the bore of Maybach MD 871 less than 148?	Q1914397	0.34222984313964844
+1004	1004	What is the prevalence of tuberculosis?	Q12204	0.33985304832458496
+6557	6557	What position did William Cavendish-Bentinck, 3rd Duke of Portland hold on March, 31 1807?	Q157208	0.34490013122558594
+26705	26705	What is Redump.org ID for Space Invaders ?	Q220665	0.3423449993133545
+23348	23348	tell me jurisdiction that name has the word viguerie in it	Q471855	0.3540537357330322
+28860	28860	Who spirit is Harry Potter possessed by?	Q3244512	0.35411715507507324
+26995	26995	Which is the KEGG ID of nitric acid?	Q83320	0.5712080001831055
+27519	27519	Which is participating teams of FC Bayern Munich?	Q15789	0.3439750671386719
+28110	28110	Which is a continent of San Marino?	Q238	0.3435349464416504
+1101	1101	How many things are proved by the modularity theorem?	Q649469	0.3598637580871582
+9722	9722	Which is the country for sport and the sport of Magnus_Carlsen ?	Q106807	0.5825979709625244
+24996	24996	Tell me the conglomerate of the industry conglomerate which contains the word ling in it's name?	Q778575	0.7165446281433105
+3974	3974	Who became the chief executive officer of Advanced Micro Devices in 2014?	Q128896	0.3692741394042969
+19524	19524	Is it true that the biobased content weight percentage of the Polyamid 610 is greater than 48?	Q57249107	0.34986281394958496
+24859	24859	What are the war of national liberation which start with the letter w	Q1006311	0.35327982902526855
+1384	1384	What's the retirement age in Australia?	Q408	0.33873605728149414
+19711	19711	What revolution caused the destruction of the Russian Empire?	Q34266, Q10931	0.3808591365814209
+25763	25763	Which is the authority for Yale University?	Q49112	0.3389739990234375
+26948	26948	Which is the Colour Index International constitution ID for zinc oxide?	Q190077	0.5932862758636475
+3116	3116	Which vehicle has the highest wheelbase?	Q1420	0.6846582889556885
+29636	29636	Which is the stellar rotational velocity for Antares?	Q12166	0.3483450412750244
+2656	2656	WHICH COUNTRY HAS THE HIGHEST AGE OF CONSENT?	Q5852411	0.5734107494354248
+16104	16104	What is the tributary of on the  bay of Austria-Hungary?	Q28513	1.037337303161621
+22340	22340	Which is the revolution that had it's location in the Russian Empire?	Q34266, Q10931	0.38207006454467773
+11574	11574	Who is Pedro I's child and when were they born?	Q939	0.33548998832702637
+18782	18782	Is the total equity in Delta Air Lines equal to 245,000,000?	Q188920	0.3402109146118164
+23350	23350	Which song that contains the word world in their name	Q7366	0.34730076789855957
+19181	19181	Is it true that the number of deaths of D. B. Cooper is less than 0.0?	Q348970	0.3400566577911377
+28178	28178	Which is the organisation directed from the office of the pope?	Q19546	0.339047908782959
+11684	11684	Where was Milton Friedman educated at and what was his academic major?	Q47426	0.33713507652282715
+26582	26582	What is the publication interval for The New York Times?	Q9684	0.3365137577056885
+1097	1097	How many destinations does Voyager 2 have?	Q48475	0.339893102645874
+26821	26821	On the Churchill River what lakes are on the river?	Q3318	0.35627293586730957
+19090	19090	Is the Solomon Island Human Development Index equal to .3952?	Q685	0.33782315254211426
+28243	28243	Which is the real gross domestic product growth rate for Burkina Faso?	Q965	0.5576598644256592
+28685	28685	What is the stock exchange for PayPal?	Q483959	0.34131312370300293
+10147	10147	Who are the director and director of photography of Fight Club?	Q190050	0.34032297134399414
+21	21	Is JavaScript influenced by JavaScript?	Q2005	0.3386850357055664
+19650	19650	Is the coefficient of Polycarbonate friction greater than 0.248?	Q62246	0.34236717224121094
+26335	26335	Which is the THW Kiel player ID for Nikola Karabatić?	Q157809	0.5773770809173584
+2948	2948	What is the Class IB flammable liquid with the highest upper flammable limit whose instance of is occupational carcinogen?	Q21009055, Q21074597	0.6610398292541504
+27851	27851	What is in the category of Ernest Renan?	Q157155	0.3489811420440674
+6317	6317	Which platforms were Grand Theft Auto V for that were published in 9/17/2013?	Q17452	0.5843720436096191
+24090	24090	What are the group of organisms known by one particular common name which start with the letter w	Q55983715	0.34577202796936035
+11676	11676	How many matches did Carlos Alberto Torres play?	Q295262	0.34601402282714844
+10975	10975	Where was Joseph Chamberlain elected as Member of the 27th Parliament of the United Kingdom and why did it end?	Q315999, Q41582575	0.37508082389831543
+29311	29311	Which is the Pokédex number for Pikachu?	Q9351	0.550133228302002
+11454	11454	Michel Plantini is a member of which sports team and how many matches did he play?	Q4261	0.34871578216552734
+11182	11182	Tell me about award received of Neil Gaiman and point in time?	Q210059	0.37059807777404785
+2395	2395	how much was solved by leonhard euler?	Q7604	0.3419802188873291
+11677	11677	Who are the cast members of Days of Our Lives and when does the show start?	Q185059	0.3453340530395508
+1432	1432	What is the home venue of the New York Yankees?	Q213417	0.33763790130615234
+23094	23094	Tell me city whose name has the word whitehorse in it.	Q515	0.35144805908203125
+26721	26721	I need to know Northern Dancer's Czech Jockey Club horse ID.	Q1969034	0.568345308303833
+8837	8837	Which child of John Adams died on February 23, 1848?	Q11806	0.5532400608062744
+27430	27430	Which is the danskefilm animated film ID for Toy Story?	Q171048	0.9948601722717285
+25864	25864	Is time travel a superhuman feature or ability?	Q182154	0.35190677642822266
+1905	1905	How many exemplars of the New Testament are there?	Q18813	0.34478187561035156
+28714	28714	Who is the manager/director of Heinrich Himmler?	Q43067	0.34932374954223633
+18015	18015	Does the tensile modulus of elasticity of AKROLOY PARA ICF 40 equals 38000	Q57273218	0.3449108600616455
+27450	27450	which  candidate of John Howard?	Q51330	0.33867311477661133
+25803	25803	Which is the distributor for The Gold Rush?	Q214723	0.3472328186035156
+29009	29009	How does Arabidopsis thaliana disperse seeds?	Q158695	0.346513032913208
+29180	29180	What is the rank of diopside?	Q316671	0.5713560581207275
+19395	19395	Does the main voltage of Denmark equal 230	Q35	0.346843957901001
+1116	1116	How many artists made the storyboards for The Lion King?	Q36479	0.34273529052734375
+25823	25823	Which is the prize money of Venus Williams?	Q11578	0.3398890495300293
+26758	26758	What is KIT Linked Open Numbers ID for 1 ?	Q199	0.5787153244018555
+10211	10211	Who are the followers of Hu Yaobang the chairperson of the Communist Party of China?	Q17427, Q99850	0.6307470798492432
+8243	8243	What is Bernhard Schlink's notable work from the year 2000?	Q76699	0.35125088691711426
+8071	8071	What is  Berlin's twinned administrative body  that is  start time  is  1992 - 8 - 28 ?	Q64	0.604058027267456
+10355	10355	Was Vladimir Putin a student of Saint Petersburg State University, and what was his academic degree?	Q7747, Q27621	0.6065301895141602
+2291	2291	How many means of locomotion are powered by bipedalism?	Q372949	0.350963830947876
+11666	11666	When did child of Pedro I and mother?	Q939	0.337357759475708
+14312	14312	What governments operated the II-76?	Q142549	0.5794711112976074
+10192	10192	Where was the New York Stock Exchange formed and where is it presently?	Q13677	0.5691471099853516
+1041	1041	How many cases of Malaria were reported?	Q12156	0.33948826789855957
+10360	10360	Who followed Guy of Lusignan as count of Jaffa and Ascalon?	Q294192, Q52160370	0.3740060329437256
+18966	18966	Is it true that the ulimate tensile strength of teh AKROLOY PARA ICF 40 equals to 255?	Q57273218	0.3372306823730469
+28612	28612	Which is the Microsoft Store artist ID for Madonna?	Q1744	0.5465662479400635
+29440	29440	What is the numeric value of 0?	Q204	0.3405129909515381
+19833	19833	Where does the game Grand Theft Auto take place?	Q132730, Q559618	0.5820012092590332
+28442	28442	Which is the scanned file on WIkimedia Commons for The Jungle Book?	Q189509	0.9674408435821533
+26762	26762	Which is the Yle Areena ID of Doctor Who?	Q34316	0.5618009567260742
+28624	28624	Which is the apparent magnitude of Antares?	Q12166	0.34235429763793945
+23309	23309	Tell me occupational carcinogen whose name has the word trichloropropane in it.	Q21074597	0.3453700542449951
+16949	16949	Who gave the child body of companion of of Alpha Centauri A ?	Q2090157	0.3470022678375244
+22891	22891	who bridge for architect of Isambard Kingdom Brunel?	Q207380, Q12280	0.36810898780822754
+1408	1408	How many people occupy Windsor Castle?	Q42646	0.3392488956451416
+2003	2003	How many fastest lap times are held by Lewis Hamilton?	Q9673	0.3435037136077881
+29363	29363	Which is the partition coefficient water/octanol of carbon tetrachloride?	Q225045	0.3485219478607178
+2369	2369	How many people are appointed by the pope?	Q19546	0.34543490409851074
+26479	26479	flower color arabidopsis thaliana	Q158695	0.3503429889678955
+11204	11204	Who is the child of Louis IX of France and when did the child die?	Q346	0.3397030830383301
+18020	18020	Is the shear modulus of titanium greater than 49.68?	Q716	0.34189319610595703
+10436	10436	When did Pedro I's child Princess Januária of Brazil die, and who was her mother?	Q939, Q261802	0.3842620849609375
+28063	28063	What are the payment types accepted for PayPal?	Q483959	0.3395991325378418
+17991	17991	Is the hardness of the callitris glaucophylla equals 7.8?	Q7177505	0.34203290939331055
+11348	11348	Who was the child of Charlemagne and when were they born?	Q3044	0.5502400398254395
+16983	16983	What is the coat of arms of lithium's findspot?	Q568	0.35958290100097656
+26205	26205	What is the Youtube Tag of Zaha Hadid?	Q47780	0.5632908344268799
+6313	6313	What Minecraft software version applies to Minecraft?	Q49740	0.5656781196594238
+11171	11171	Who is the child of Joseph Stalin and his mother?	Q855	0.34142017364501953
+1453	1453	How many nominations did Lewis Hamilton receive?	Q9673	0.345012903213501
+2538	2538	Which country has maximum age of candidacy?	Q6256	0.339885950088501
+3252	3252	Name the chemical substance with the lowest flash point ?	Q79529	0.6079750061035156
+3211	3211	What is the human with the lowest national team caps whose instance of is human?	Q5	0.57753586769104
+29312	29312	what is the market capitalization of the Alibaba Group	Q1359568	0.3400876522064209
+21220	21220	What quantity is measured in degree Fahrenheit?	Q42289, Q230937	0.3781411647796631
+9083	9083	What is based on  degrees Celsius that is defining formula is ^\circ\textC = \textK - 273.15 ?	Q25267	0.5369198322296143
+28496	28496	Which is the cell component for cholesterol?	Q43656	0.33707427978515625
+24867	24867	What are thetelevision genre which start with the letter z	Q15961987	0.35514378547668457
+25722	25722	What is John Kenneth Galbraith's Google News ID?	Q186042	0.5661840438842773
+29326	29326	What is the product brand for iPhone?	Q2766	0.340045690536499
+10392	10392	When was Abigail Adams' daughter Abigail Adams Smith born and when did she die?	Q206191, Q4667661	0.5828249454498291
+21687	21687	Who leads the Society of Jesus?	Q36380, Q5	1.3644001483917236
+27306	27306	What is The Big Cartoon DataBase ID for Fantasia ?	Q943192	0.5734398365020752
+18640	18640	Is the inflation rate of Japan equal to -0.8?	Q17	0.3421287536621094
+26853	26853	what is in the INSEE department code  of French Guiana ?	Q3769	0.5728199481964111
+1897	1897	How many production companies are by HBO?	Q23633	0.3445470333099365
+4705	4705	What award did Gai Xingjian receive in the year 2000?	Q18143	0.34545397758483887
+18072	18072	Is it true that the Human Development Index of Solomon Islands is less than 0.404?	Q685	0.34008097648620605
+23462	23462	What are the television genre which start with the letter zeitfunk	Q15961987	0.3469269275665283
+27115	27115	What is the Parliamentary record identifier of Glenda Jackson?	Q182408	0.5628039836883545
+13867	13867	What is Bernhard Schlink's place of birth, area code 05209?	Q76699	0.35282206535339355
+11015	11015	What and where is the record for the pole vault held?	Q185027	0.3342101573944092
+13925	13925	What higher taxon name of Prunus dulcis also has the common name of plum?	Q39918	0.35096192359924316
+1092	1092	How many space experts support Neil Armstrong?	Q1615	0.33495402336120605
+7669	7669	What is located in the administrative territorial entity of Saint-Barthélemy before 2007-7-14?	Q25362	0.5695900917053223
+11199	11199	When did child of Abigail Adams and date of birth?	Q206191	0.5616369247436523
+11055	11055	When did member of sports team of Franz Beckenbauer and number of matches played?	Q4457	0.34439611434936523
+24045	24045	What are the chemical element  which start with the letter y	Q11344	0.34920191764831543
+10651	10651	Which phase of matter and temperature of water has phase point as critical point ?	Q283, Q111059	0.3830149173736572
+1003	1003	How many muscle origins are there in the humerus ?	Q162595	0.3435549736022949
+28982	28982	Which is the prerequisite of a master's degree?	Q183816	0.3401467800140381
+11578	11578	What follows the European Union after it is dissolved, abolished or demolished?	Q458	0.35149097442626953
+4066	4066	What is happening at the  Rijksmuseum located at Museumstraat 1 ?	Q190804	0.5489318370819092
+26706	26706	Which is the RTECS number for calcium carbonate?	Q23767	0.5746269226074219
+18950	18950	Is the minimum lethal dose of acetaldehyde equal to 300?	Q61457	0.3428778648376465
+27338	27338	What is RHE doctor ID for Ernest Renan ?	Q157155	0.3441312313079834
+1540	1540	how many holidays does isreal have?	Q801	0.3388979434967041
+24171	24171	What are the social movement which start with the letter y	Q49773	0.3447549343109131
+26182	26182	What is Ayn Rand's Ban Q author ID?	Q132524	0.34549498558044434
+28504	28504	How many people travel through the Guangzhou Metro daily?	Q660751	0.3404221534729004
+10130	10130	Who is the most important character and who are the other characters of Crucifixion of Jesus?	Q51636	0.5674009323120117
+6466	6466	Hubble Space Telescope was named after what in the year 1983?	Q2513	0.6083745956420898
+26912	26912	What is the ITA Women's Collegiate Tennis Hall of Fame identification of Billie Jean King?	Q54527	0.3536829948425293
+21631	21631	What is Salman of Saudi Arabia's hereditary title?	Q367825, Q5737899	0.38770198822021484
+28514	28514	Which is the legal form of sole proprietorship?	Q2912172	0.3666691780090332
+2583	2583	Which country has the highest nominal GDP per capita?	Q6256	0.5600020885467529
+18228	18228	Is the water footprint of beef more than 18498.0?	Q192628	0.340472936630249
+10889	10889	What are the phase and temperature of water at its triple point?	Q283, Q106410	0.3876070976257324
+1508	1508	How many director are for The Wizard of Oz?	Q193695	0.34070706367492676
+6588	6588	When did Lesotho start using a flag image as the Flag of Lesotho in 1966?	Q1013	0.5517771244049072
+27037	27037	Which is the encoding for L-Cysteine?	Q186474	0.358705997467041
+21573	21573	Who is the patron saint of Thessaloniki?	Q17151, Q5	0.6094679832458496
+26390	26390	Who is on the committee of the Free Software Foundation?	Q48413	0.3427419662475586
+8235	8235	did vladimir putin perticipate in 1999-12-31?	Q7747	0.3336489200592041
+15542	15542	What did Karl Weierstraß's pupil do for a job?	Q57103	0.6104910373687744
+5553	5553	Does carbon tetrachloride have a short-term exposure limit of 60.0?	Q225045	0.5466098785400391
+17997	17997	Is it true that the employment by economic sector of Amsterdam equals to 90804?	Q9899	0.3418731689453125
+24024	24024	What are the chemical compound which start with the letter w	Q11173	0.3449289798736572
+11283	11283	When did significant event of Nancy Pelosi and location?	Q170581	0.5561859607696533
+10457	10457	Who is the doctoral advisor and what is the location of Hans Bethe's academic and doctoral degree?	Q155794, Q849697	0.6206867694854736
+16036	16036	What is the field of profession for Robert A. Heinlein?	Q123078	0.34540700912475586
+11070	11070	What is Saladin's official noble title?	Q8581	0.33941197395324707
+21169	21169	Which was the person as doctoral student of Galileo Galilei?	Q307, Q5	0.39305925369262695
+10220	10220	Tell me the matter phase and pressure where water has a phase point as triple.	Q283, Q106410	0.3752880096435547
+19437	19437	Is the ionization energy of toluene equal to 8.82?	Q15779	0.3388831615447998
+10509	10509	Who follows Berengar 1 of Italy as monarch of Italy	Q274606, Q271148	0.3800060749053955
+11130	11130	Who is the child of Louis IX of France and when did the child die?	Q346	0.34033203125
+10108	10108	Which is the basic form of government and the contains administrative territorial entity of Thirteen_Colonies ?	Q179997	0.5485868453979492
+2328	2328	The Knights Templar has how many religious orders?	Q41300	0.34325313568115234
+11638	11638	What did is the job role of Barack Obama and constituency?	Q76	0.33585286140441895
+27500	27500	What is the astronomic symbol image of Saturn?	Q193	0.3436777591705322
+23639	23639	Tell me  tournament whose name has the word  weltklasse in it.	Q500834	0.33929896354675293
+2456	2456	Which public company has the largest number of registered users/contributors?	Q891723	0.6490681171417236
+18584	18584	Is the solubility of carbon dioxide equal to 0.2?	Q1997	0.33732008934020996
+18631	18631	Is the flexural strength of AKROLOY PARA ICF 40 equal to 360?	Q57273218	0.3444540500640869
+5532	5532	When did the Free University of Berlin have 4200 employees?	Q153006	0.35048604011535645
+27622	27622	Which is the Latvian Address register ID of Riga?	Q1773	0.5554890632629395
+18795	18795	IS THE ELECTRONEGATIVITY OF THE LEAD EQUALS 2	Q708	0.35111093521118164
+17678	17678	Which Q48460 field of this profession is housekeeper ?	Q2596569	0.34497904777526855
+1479	1479	How many names are there for Kang Youwei?	Q360135	0.34546518325805664
+11354	11354	Who was the member of Birgit Prinz's sports team with the same number of matches played?	Q109868	0.3378429412841797
+26609	26609	What is the Flanders Arts Institute venue ID of this British museum?	Q6373	0.5636920928955078
+17644	17644	What afflicts the ozone implies?	Q36933	0.6160619258880615
+28231	28231	Which is Christie's creator ID for Lewis Hine?	Q347194	0.34639906883239746
+29220	29220	What officially opened by Franz Beckenbauer?	Q4457	0.3356187343597412
+28323	28323	Which is the Inventory of French sanctuaries ID for Notre-Dame de Chartres?	Q180274	0.34907078742980957
+18818	18818	Is the natural abundance of the helium-4 greater than 1.199998392?	Q1151346	0.3437991142272949
+20726	20726	What are people who live in Venice called?	Q641, Q5	0.37894511222839355
+11065	11065	Who follows the member of Victor Hugo?	Q535	0.5607340335845947
+16789	16789	What language was the Superman from work created on?	Q79015	0.3506309986114502
+27885	27885	What is Open Food Facts food additive id for potassium hydroxide ?	Q132298	0.5767619609832764
+11363	11363	When did publisher of Pac-Man and place of publication?	Q173626	0.3418910503387451
+2431	2431	Give the name of gravitational-wave detector with lowest wavelength of sensitivity?	Q2302080	0.34029722213745117
+22818	22818	who  is the mausoleum for place of burial of Qin Shi Huang?	Q7192, Q162875	0.3749978542327881
+19674	19674	Who died in Rome?	Q220, Q5	0.37350893020629883
+11739	11739	What follows the European Union and when was its inception?	Q458	0.3413078784942627
+28248	28248	Which is connected with the Iberian Peninsula?	Q12837	0.3410778045654297
+28422	28422	WHAT IS THE USE OF BANK	Q22687	0.3455517292022705
+2292	2292	How many sidekicks does the Batman have?	Q2695156	0.35437607765197754
+27769	27769	Please tell me the Teutonic Knights' chivalric order.	Q48189	0.34247779846191406
+11600	11600	What position does Joes Howard hold and what is his electoral district?	Q51330	0.33649301528930664
+10605	10605	How much money did George Marshall receive with his Nobel Peace Prize?	Q151414, Q35637	0.640265941619873
+18256	18256	Does the neutron have a gyromagnetic ratio of 183247172?	Q2348	0.34845733642578125
+10122	10122	Who is the producer and executive producer of Full Metal Jacket?	Q243439	0.6450891494750977
+10515	10515	Mention the temperature and the state of the matter of water upon achieving the critical point	Q283, Q111059	0.6303360462188721
+15023	15023	What are the greatest accomplishments of William Henry Bragg?	Q133747	0.3499791622161865
+1421	1421	How many degrees are equaling the master's degree ?	Q183816	0.352510929107666
+8862	8862	What player's points/goals/set scored is 16.0 on the same team as Allan Simonsen?	Q153463	0.5551841259002686
+1753	1753	What is the taxon rate of each subspecies?	Q68947	0.34366583824157715
+26562	26562	Which  is terminus of Channel Tunnel?	Q10257	0.5453438758850098
+19930	19930	Who was Carl Gustav Jung's student?	Q41532, Q5	0.39269399642944336
+1736	1736	How many movies in the fictional universe are from the Marvel Cinematic Universe?	Q642878	0.3411388397216797
+27951	27951	What was the manner of death of Mstislav Rostropovich?	Q152043	0.34315967559814453
+1429	1429	How many things are proved by the modularity theorem?	Q649469	0.3502929210662842
+26534	26534	What is Emporis building ID for CN Tower ?	Q134883	0.3484189510345459
+11286	11286	Harold Wilson was elected in what year and to what position?	Q128956	0.34009599685668945
+2654	2654	Which weapon model has the longest field of view?	Q15142894	0.33791112899780273
+27763	27763	What is CNC film rating France for Fight Club	Q190050	0.5659348964691162
+2206	2206	How many citizens are in Finland?	Q33	0.34949302673339844
+18239	18239	Did Mikko Lehtonen never score any goals in their career?	Q59951	0.3404672145843506
+16443	16443	Which is the treatment that treats the medical condition of gold?	Q897	0.573383092880249
+1796	1796	Of how many companies is Donald Trump a chairperson?	Q22686	0.3528788089752197
+27006	27006	Which is The Peerage person ID for Coco Chanel?	Q45661	0.572166919708252
+10003	10003	Which is the active ingredient in the significant drug interaction of Amphetamine ?	Q179452	0.9017317295074463
+5464	5464	What's the name of the cemetary L.L. Zamenhof is burried in, on the coordenates 52.24525 20.976080555556?	Q11758	0.3493001461029053
+7454	7454	What is the determination method of Sabadell which has population as 185170?	Q12258	0.5545988082885742
+28704	28704	Which is the atomic number of cobalt?	Q740	0.33974385261535645
+24781	24781	which polygon starts with the letter t	Q37555	0.3468210697174072
+17106	17106	Who gave the chancellor of place of work of Bernie Sanders ?	Q359442	0.6115539073944092
+26700	26700	What is ERA Journal ID of Astronomy and Astrophysics ?	Q752075	0.5687539577484131
+18097	18097	Is the chromosome count for Down syndrome equal to 47?	Q47715	0.3447532653808594
+29972	29972	Which is the music term for partially coincident with classical music?	Q9730, Q20202269	0.3865947723388672
+16690	16690	What is the subsidiary entities of the developed by Windows XP ?	Q11248	0.5867059230804443
+3890	3890	Who employed James Hansen beginning in 2003?	Q724095	0.3508439064025879
+11210	11210	What is the phase point of water and the phase of matter?	Q283	0.3354480266571045
+2592	2592	Which disease has the highest maximal incubation period in humans.	Q12136	0.3389909267425537
+10156	10156	What is the language of work or name and the programming language of Skype ?	Q40984	0.34408998489379883
+11534	11534	When did phase point of acetic acid and pressure?	Q47512	0.3575320243835449
+7504	7504	What is  sport team member  of  Ian Rush  that is  start time  is  1980 - 1 - 1 ?	Q219354	0.3418440818786621
+2185	2185	What's the dialect of the Portuguese?	Q5146	0.3356211185455322
+27218	27218	What's the LombardiaBeniCulturali artwork ID of The Last Supper?	Q128910	0.5644741058349609
+1659	1659	How many deaths are by battles?	Q178561	0.3501617908477783
+1404	1404	How many times did Billie Jean King obtain a victory?	Q54527	0.343966007232666
+1360	1360	Who distributes GTA III?	Q149106	0.3372061252593994
+19219	19219	Did Mikko Lehtonen have zero career penalty minutes?	Q59951	0.34188294410705566
+19312	19312	Is the age of majority in Poland greater than 21.6?	Q36	0.34080004692077637
+18023	18023	in Norway, the marriage age is 18?	Q20	0.34602999687194824
+1247	1247	How many production designers are for the The Wizard of Oz ?	Q193695	0.3466951847076416
+21524	21524	What medication is encoded by the INS?	Q21163221, Q12140	0.6010169982910156
+11539	11539	Who is the father of Abigail Adams child?	Q206191	0.5446760654449463
+19364	19364	Is the net tonnage of the Dundonald equal to 2115?	Q5314887	0.3524479866027832
+20667	20667	Who wrote the movie Seven Samourai ?	Q189540, Q5	0.3766021728515625
+25805	25805	What is the number of representatives in an organization of the Christian Democratic Union?	Q49762	0.33984994888305664
+17537	17537	The Art of Painting is located in which museum collection?	Q588695	0.3475630283355713
+27268	27268	Which is the Kindred Britain ID of William Cavendish-Bentinck, 3rd Duke of Portland?	Q157208	0.34157609939575195
+20563	20563	Who is the human for notable work of Burj Khalifa	Q12495, Q5	0.8758530616760254
+29078	29078	Singin' in the Rain has what Discogs master ID?	Q309153	0.5657069683074951
+10804	10804	When and with which degree did Guy Fieri completed his education at the University of Nevada, Las Vegas	Q12057690, Q2302311	0.38134288787841797
+27108	27108	What is the vaccine for Influenza?	Q383260	0.33894777297973633
+28692	28692	What is the symbol for pi?	Q167	0.336223840713501
+2693	2693	Which national economy has the highest unemployment rate?	Q6456916	0.5963821411132812
+29444	29444	What is the temperature of Triton?	Q3359	0.34143924713134766
+24589	24589	what are the constellation which starts with v	Q8928	0.34612488746643066
+27918	27918	What is Gordon Brown's Journalist ID?	Q10648	0.5631208419799805
+17098	17098	What is representative of those active in Harry Potter?	Q3244512	0.34133195877075195
+10281	10281	Majed Abdullah played how many matches and scored how many points as a member of the Saudi Arabia national football team?	Q446181, Q189723	0.7124748229980469
+17876	17876	wich meansQ48460 it fromat The Walt Disney Company ?	Q7414	0.5505847930908203
+18602	18602	Does the Dundonald have 3.2 masts?	Q5314887	0.3668711185455322
+21967	21967	Where is the Mausoleum of the First Qin Emperor?	Q7192, Q162875	0.37491297721862793
+28907	28907	Walt Disney is apart of what production company?	Q7414	0.3427608013153076
+3750	3750	What was the population of the Gaza Strip on January 1, 2014?	Q39760	0.5746641159057617
+29579	29579	Which is the mouthpiece for Scandinavian Airlines?	Q187854	0.34181880950927734
+16924	16924	Who developed Space Invaders?	Q220665	0.34203410148620605
+2209	2209	how many are separated from northwest territorires?	Q2007	0.34432315826416016
+22578	22578	On which mission did Neil Armstrong land on the moon?	Q1615, Q495307	0.5839171409606934
+1013	1013	Hungary has what number of time zones contained within it?	Q28	0.341339111328125
+28171	28171	Which is the total production of Airbus A380?	Q5830	0.3444039821624756
+27860	27860	What is in the category of Tonga?	Q678	0.34304118156433105
+21892	21892	What is the Internet Standard of the translation of the Internet Protocol version 4?	Q11103, Q290378	0.3771188259124756
+24141	24141	Tell me the name of a mythological Greek character that starts with the letter t.	Q22988604	0.3407618999481201
+19336	19336	Is the total exports of Northern England equal to 53549000000?	Q1788657	0.345379114151001
+1998	1998	How many types of iPhone exist?	Q2766	0.3431360721588135
+10201	10201	Which is notation and the child astronomical body of Sun ?	Q525	1.1614038944244385
+9835	9835	Which is the product or material produced and the uses of Human ?	Q5	0.5852811336517334
+6360	6360	Who did Napoleon marry in 1810?	Q517	0.34749388694763184
+18859	18859	Does the  ethanol combustion enthalpy less than -1640.4?	Q153	0.34858179092407227
+29230	29230	Which is see also of kinship?	Q171318	0.5517570972442627
+9462	9462	At what point in time did Northern England have a population of 14933000?	Q1788657	0.5746700763702393
+2284	2284	How many parent astronomical bodies are there by Jupiter?	Q319	0.34572815895080566
+26210	26210	What is the implementation  of Hypertext Transfer Protocol?	Q8777	0.5627498626708984
+14275	14275	What land are alumni of Francis from?	Q450675	0.5857391357421875
+11708	11708	When did child of Louis IX of France and date of birth?	Q346	0.34427309036254883
+7100	7100	What nominations was the Shawshank Redemption up for on 2/14/1995?	Q172241	0.3465569019317627
+1470	1470	How many recorded for Pet Sounds?	Q212863	0.3417370319366455
+29186	29186	Which is the label in sign language for university?	Q3918	0.34308576583862305
+2036	2036	Which player positions on the sports team sprint?	Q624482	0.34798312187194824
+10498	10498	WHO FOLLOWS AND FOLLOWED BY CLOVISAS NOBLE TITLE AS KING OF FRANKS	Q82339, Q22923081	0.6238479614257812
+28384	28384	Which is the NOC Occupation Code for truck driver?	Q508846	0.350909948348999
+2786	2786	What is the Stainless steel with highest toughness called?	Q172587	0.5729053020477295
+27301	27301	Which is the boundary of the asteroid belt?	Q2179	0.34168505668640137
+12460	12460	What animal is found in the AVP species whose vernacular name is _______?	Q12009087	0.5894200801849365
+9014	9014	What is the temperature for amphetamine whose density is 936000.0?	Q179452	0.5590090751647949
+17999	17999	Is the mean lifetime of the Higgs boson equal .000156?	Q402	0.3366129398345947
+28052	28052	What is the Quebec cultural heritage directory ID for the Ottawa River?	Q60974	0.5632331371307373
+11323	11323	Who is the child of Pedro I and when was he born?	Q939	0.33754801750183105
+25781	25781	Which is the unemployment rate for Jordan?	Q810	0.34142398834228516
+22313	22313	Which video game company produced Pong?	Q216293, Q1137109	0.6118779182434082
+11529	11529	which record did pole vault hold and which is the height?	Q185027	0.33815932273864746
+27295	27295	Which is the interaction for proton?	Q2294	0.3387868404388428
+2447	2447	Which chemical element has the highest thermal conductivity?	Q11344	0.3443121910095215
+8375	8375	How many matches did Majed Abdullah play for the Saudi Arabia national football team?	Q446181, Q189723	0.3747110366821289
+24134	24134	What are the minor basilica hich start with the letter s	Q120560	0.34381985664367676
+10719	10719	What is water temperature and pressure when it is at a phase point as a critical point?	Q283, Q111059	0.8391821384429932
+26583	26583	What is Noam Chomsky's Quora username?	Q9049	0.33852195739746094
+28757	28757	What is the wingspan of a Airbus A340?	Q6481	0.3489561080932617
+28678	28678	Which follows Rhineland-Palatinate?	Q1200	0.3477780818939209
+26649	26649	What is World Heritage Site ID for Taj Mahal?	Q9141	0.3507108688354492
+24198	24198	What are the Christian denomination which start with the letter u	Q879146	0.34522485733032227
+26005	26005	Which is the ROME Occupation Code (v3) of the prosecutor?	Q600751	0.566115140914917
+1633	1633	How many platforms are in Metroid?	Q12397	0.34241390228271484
+26727	26727	What is ISO 639-2 cod for vietnamese	Q9199	0.3427612781524658
+26814	26814	is Rene Maggritte the personal ID of Saint louis Art museum?	Q7836	0.5751829147338867
+18108	18108	Is the minimal lethal does of the arsenic greater than 8?	Q871	0.33757901191711426
+10756	10756	Whey did Pedro I die, and when was his son Pedro II of Brazil born?	Q939, Q156774	0.38701295852661133
+1109	1109	How many collections or exhibition sizes are in Prado National Musuem?	Q160112	0.3442530632019043
+10503	10503	Tell me the major of Larry Page who studied at Stanford University.	Q4934, Q41506	0.37973785400390625
+5451	5451	What award did Enrico Fermi receive in 1949?	Q8753	0.3504619598388672
+11683	11683	Franz Kafka was educated at what school and holds what academic degree?	Q905	0.34714698791503906
+9816	9816	What did FC Barcelona receive an award and nomination for?	Q7156	0.35132908821105957
+18827	18827	Is the market capitalization of the JP Morgan chase equal to 307295000000?	Q192314	0.339432954788208
+3807	3807	Which award did Mstislav Rostropovich receive in the year 1981?	Q152043	0.35082077980041504
+19471	19471	Are parents the first family relationship degree?	Q7566	0.3355677127838135
+20943	20943	Name the health related disease of psychotherapy	Q183257, Q12136	0.37518310546875
+1543	1543	There are several administrative territorial entities for Norway.	Q20	0.34351205825805664
+1377	1377	How many languages used are for the Federated States of Micronesia?	Q702	0.343717098236084
+366	366	Was Abigail Adams Smith the daughter of John Adams?	Q11806, Q4667661	0.3879208564758301
+5919	5919	Why did Anthony Eden resign from his position as a member of the 38th Parliament of the United Kingdom?	Q128995, Q41582597	0.37888193130493164
+19051	19051	Is it true that the borrowing rate of the ADAC Credit Card GOLD equals to 12.95?	Q56746601	0.35698509216308594
+6726	6726	At the time of 2001-1-1 what was the inflation rate of Moldova?	Q217	0.669395923614502
+6116	6116	How does Saskatchewan determine that their population is 1.13264+06?	Q1989	0.5781011581420898
+29810	29810	When did khanate for country of Golden Horde?	Q79965, Q331644	0.7413220405578613
+8451	8451	What note, with a frequency of 87.307, is the lowest of Mariah Careys range?	Q41076	0.6073081493377686
+18776	18776	Is the real GDP growth rate of the USA equal to 1.6?	Q30	0.3460531234741211
+29351	29351	Which is the SABR ID of Babe Ruth?	Q213812	0.42142486572265625
+4109	4109	On February 8, 1974, what position did Harold Wilson hold?	Q128956	0.5561189651489258
+29514	29514	Which is the diplomatic relation for Liberia?	Q1014	0.34577083587646484
+23888	23888	Tell me social movement whose name has the word yomango in it	Q49773	0.34714603424072266
+24161	24161	Tell me the bell tower that starts with the letter t	Q200334	0.34134888648986816
+28774	28774	Which is the designed to carry of Sciuridae?	Q9482	0.3441600799560547
+28012	28012	What is pages of tuberculosis ?	Q12204	0.5525169372558594
+15696	15696	Who has kid of songwriter of The Gold Rush ?	Q214723	0.35116100311279297
+3930	3930	The stock exchange rate of Nintendo is ticker symbol, 7974	Q8093	0.3488290309906006
+10380	10380	When did the mother of Charlemagne, grandmother of Charles the Younger die?	Q3044, Q283107	0.618995189666748
+27802	27802	Where is the location of the wheelchair access in the Louvre Museum?	Q19675	0.7986648082733154
+26765	26765	Which is the term length of office for United Nations Secretary-General?	Q81066	0.3424038887023926
+10014	10014	Who is the employer and spouse of Neil Gaiman?	Q210059	0.5939083099365234
+11659	11659	When did employer of William Henry Bragg and start time?	Q133747	0.352877140045166
+9171	9171	What year did Norway have a 20,602 children not enrolled in school?	Q20	0.5648250579833984
+19031	19031	Is the density of water equal to 0.96862?	Q283	0.3490779399871826
+27261	27261	What is the cathedral of Notre-Dame de Chartres?	Q180274	0.34783387184143066
+11371	11371	When did noble title of Charlemagne and follows?	Q3044	0.34748005867004395
+24136	24136	which song starts with the letter w	Q7366	0.3461921215057373
+21387	21387	Who was the doctoral advisor for Janet Yellen?	Q263725, Q5	0.6219158172607422
+9284	9284	When did North Carolina have a population of 3,170,280?	Q1454	0.6010482311248779
+2150	2150	How much money was the subsidy?	Q193219	0.35283589363098145
+19360	19360	Is the fusion enthalpy of acetone equal to 4.552?	Q49546	0.37787699699401855
+25954	25954	Which is the number of subscribers of HBO?	Q23633	0.37389683723449707
+22700	22700	WHO IS THE ANIME FILM EDITOR HAYAO MIYAZAKI?	Q55400, Q1107	0.7904651165008545
+10104	10104	What is the parent tax and the taxon of Almond?	Q39918	0.5777218341827393
+27694	27694	Who is the crew member of the C-130 Hercules?	Q182027	0.5486230850219727
+11493	11493	What position was held by Obama, and when was this position held?	Q76	0.3476879596710205
+2152	2152	How much has been proved by Alexander Grothendieck?	Q77141	0.3448362350463867
+19714	19714	Where was Charles Darwin born?	Q1035, Q3947	0.3788118362426758
+5758	5758	Who is nominated for of FC Barcelona where point in time is 2007-0-0 ?	Q7156	0.37419795989990234
+12734	12734	human population is 31232bordered by of Puerto Princesa	Q111739	0.37320613861083984
+29436	29436	Which is the Mérimée ID of the Eiffel tower?	Q243	0.560377836227417
+24311	24311	Which is the mineral species which starts with the letter z?	Q55076514	0.5715899467468262
+28082	28082	Which is Lakde ID of Sweden for Vättern?	Q188195	0.6127638816833496
+19642	19642	Is the fusion enthalpy of nitric acid less than 12.564	Q83320	0.3408071994781494
+17813	17813	What is a license made out of?	Q274897	0.5668520927429199
+28431	28431	Which is the DocCheck Flexikon En ID for diabetes mellitus?	Q12206	0.5737462043762207
+11573	11573	What position does Jeremy Corbyn hold and when was he elected?	Q291169	0.6031720638275146
+11340	11340	When did Ingrid Bergman get married and who is their spouse?	Q43247	0.3431992530822754
+19168	19168	Does the standard molar entropy of lithium equal 29.1?	Q568	0.34679412841796875
+18282	18282	Is the foreign direct investment net outflow of Belarus less than 348480000?	Q184	0.36090898513793945
+2078	2078	How many vessels are to be voyage ?	Q579421	0.3440968990325928
+28021	28021	Which is the electronegativity of helium?	Q560	0.34061098098754883
+8229	8229	What was located in the administrative territorial entity of Toranto during 1840?	Q172	0.3575859069824219
+22826	22826	What is the name of the talk show produced by Ellen DeGeneres ?	Q483325, Q622812	0.42431092262268066
+17024	17024	I want to know at what took part of Ralf Schumann?	Q553279	0.3915679454803467
+10709	10709	Who followed Berengar I of Italy as monarch?	Q274606, Q271148	0.6792969703674316
+10912	10912	Tell me the date of birth and death of Charlemagne, child of Rotrude.	Q3044, Q269691	0.9845020771026611
+23396	23396	Which is the war that contains the word wars in it's name?	Q198	0.3709900379180908
+13743	13743	What residence of L.L. Zamenhof has a surface area of 517.24?	Q11758	0.3774242401123047
+9976	9976	What is the notation and parent astronomical body of the Sun?	Q525	0.603564977645874
+1535	1535	How many headquarters locations do the Teutonic Knights have?	Q48189	0.37498903274536133
+1576	1576	How many developers are there for MP3?	Q42591	0.3617091178894043
+26061	26061	Which is the Olympic Committee of Serbia athlete ID for Novak Djokovic?	Q5812	0.6126940250396729
+14258	14258	"Where is location of narrative of Oliver Twist, which has postcode is EC ?"	Q164974	0.608151912689209
+28744	28744	Which is the Songkick venue ID for Louvre Museum?	Q19675	0.5946156978607178
+29497	29497	What is the positive therapeutic predictor of aspirin?	Q18216	0.5915257930755615
+21218	21218	Who is the person that was the professional or sport partner of Paul McCartney?	Q2599, Q5	0.41013193130493164
+24162	24162	What glucan starts with the letter "z"?	Q416796	0.3741922378540039
+23996	23996	Tell me a taxon that starts with the letter s.	Q16521	0.3600902557373047
+12955	12955	What used language of Das Lied der Deutschen has the shortened name of німецька?	Q44042	0.8614852428436279
+2375	2375	How many deaths does breast cancer cause?	Q128581	0.3630809783935547
+15797	15797	Who are the children of the husbands of Philip II of France?	Q34428	0.6976830959320068
+2411	2411	How many representatives does Slovenia have?	Q215	0.36933016777038574
+28148	28148	Which is the Glottolog code for Vietnamese?	Q9199	0.36760401725769043
+23907	23907	Tell me type of magnets whose name has the word  magnet in it.	Q50002046	0.38510894775390625
+21365	21365	Residents of Venice are called what?	Q641, Q5	0.4067270755767822
+9838	9838	What is the genetic association of Bipolar disorder and what drug is used for treatment?	Q131755	1.6310479640960693
+5970	5970	What happened in Hiroshima in year 1904?	Q34664	0.6162922382354736
+23605	23605	Tell me book whose name has the word world in it.	Q571	0.37687110900878906
+8812	8812	Tina Turner was a citizen of what country as of 01/01/2013?	Q131814	0.6484811305999756
+17882	17882	What is the ideology of party member Nigel Farage?	Q318471	0.6252570152282715
+26927	26927	Which SkyscraperPage building ID is of CN Tower?	Q134883	0.3757462501525879
+6468	6468	Where did Hugo Pratt move from on August 20, 1995?	Q12113	0.7443468570709229
+6622	6622	What is the award received by American Graffiti in the year 1995?	Q375855	0.6166689395904541
+11394	11394	Who is the child of Charlemagne and who is their mother?	Q3044	0.5709869861602783
+27814	27814	What is National Historic Sites of Canada ID for Rideau Canal ?	Q651323	0.37003302574157715
+26373	26373	What is Advanced Micro Devices ISIN?	Q128896	0.3763399124145508
+3736	3736	When was the Cave of Altamira being used by humans?	Q133575	0.36893224716186523
+11707	11707	Roger Milla was a member of which sports teams and how many matches did he play?	Q168540	0.3723182678222656
+17145	17145	what is executive director of developed by of ios?	Q48493	0.6180276870727539
+29459	29459	What is the RKDlibrary ID for Henry Peach Robinson?	Q574144	0.5988709926605225
+22238	22238	Which is the enterprise that operates CBS?	Q43380, Q6881511	0.6481142044067383
+1780	1780	how many filming locations are in scotland?	Q22	0.3668990135192871
+27445	27445	Which is Sina Weibo ID for United Nations?	Q1065	0.37425732612609863
+26044	26044	What is the size of human genome?	Q720988	0.3713338375091553
+18338	18338	Does the mean lifetime of the neutron equal 1056.24?	Q2348	0.36278820037841797
+21799	21799	Which was the person as doctoral student of Galileo Galilei?	Q307, Q5	0.41900205612182617
+19216	19216	Is the isospin quantum number of the J/psi meson greater than 0.0?	Q876518	0.3691978454589844
+19220	19220	Is the voltage of Jersey less than 480.0?	Q785	0.3653440475463867
+27375	27375	What is  in the Pokémon browser number of Pikachu ?	Q9351	0.3634910583496094
+26711	26711	What is art director of Snow White and Seven Dwarfs ?	Q134430	0.35938596725463867
+1997	1997	What types of gas are there?	Q11432	0.36081790924072266
+27394	27394	What is WorldFootball.net ID for Zlatan Ibrahimović ?	Q46896	0.3664531707763672
+2646	2646	which human live highest time in space?	Q5	0.6679909229278564
+10175	10175	What position and team did Babe Ruth play for?	Q213812	0.6338181495666504
+1380	1380	How many numeric values are there for pi?	Q167	0.3615739345550537
+23443	23443	Tell me the medication which contains the word verapamil in it's name?	Q12140	0.36639928817749023
+28589	28589	What is Lu Xun's Calis ID?	Q23114	0.5863668918609619
+23108	23108	What are the What are the film studio which start with the letter s which start with the letter water	Q11173	0.3464798927307129
+27454	27454	What was the last meal of Jesus Christ?	Q302	0.3525400161743164
+16756	16756	Who is the parent of the leader of Communist Party of China?	Q17427	0.76320481300354
+20439	20439	What is Federico Fellini's screenwriter movie?	Q7371, Q11424	0.3789360523223877
+19888	19888	Name the movie that Hayao Miyazaki was the director of photography.	Q55400, Q11424	0.6000630855560303
+26342	26342	Which is signatory of Millard Fillmore?	Q12306	0.3416728973388672
+23151	23151	Tell me minor basilica  whose name has the word st in it.	Q120560	0.3400998115539551
+1989	1989	What type of patron was Napoleon?	Q517	0.33882689476013184
+1507	1507	How many people has a contribution factor for the wall?	Q42948	0.3394129276275635
+29441	29441	What is the country of origin of Achaemenid Empire?	Q389688	0.3504037857055664
+11510	11510	What follows the European Union and when was its inception?	Q458	0.34465479850769043
+26034	26034	Which is the immediate cause of grilling?	Q264619	0.3425869941711426
+1548	1548	What is the dynamic viscosity of acetic acid?	Q47512	0.3466203212738037
+4402	4402	What award did Rihanna Receive in 2010?	Q36844	0.5845499038696289
+25870	25870	Which is the The Godfather Part II based on?	Q184768	0.3369431495666504
+6818	6818	What is the translation of Dennis Rodman's nickname 'Adivina quien viene esta noche'?	Q201608	0.6683778762817383
+5677	5677	What was Richard Feynman nominated for in 1960?	Q39246	0.5935287475585938
+1249	1249	What's the National Heritage List for England for Windsor Castle?	Q42646	0.3411750793457031
+25237	25237	Name an isotope of neutronium with weak interaction that contains the word "neutron" in its name	Q12525553, Q11418	0.3791930675506592
+2287	2287	There are how many therapeutic areas related to breast cancer?	Q128581	0.34070587158203125
+1098	1098	How many scientific Instruments are there for Hubble Space Telescope ?	Q2513	0.35346102714538574
+9660	9660	What is another name for sex?	Q290	0.72723388671875
+28111	28111	Which is the source code repository of PHP?	Q59	0.5593299865722656
+10026	10026	Mike Trout plays which position and is what gender?	Q3090378	0.3453657627105713
+28908	28908	What is contains for kiel ?	Q1707	0.34941697120666504
+26176	26176	What is the ISTAT ID of Rimini?	Q13369	0.3480539321899414
+19464	19464	Is the interest rate of the ADAC Credit Card GOLD 0.1?	Q56746601	0.3434712886810303
+18199	18199	Does the water occupy the 10.67 percent of the area in Washington, D.C.?	Q61	0.3394441604614258
+18938	18938	Is the combustion enthalpy of oxalic acid less than -201.44?	Q184832	0.34606194496154785
+5978	5978	Did the head of Government for Montreal start in 2001-1-1	Q340	0.33896803855895996
+1030	1030	Name the religions names of the  Mother Teresa ?	Q30547	0.34749484062194824
+9853	9853	What is said to be the same as and the opposite of of 0 ?	Q204	0.607490062713623
+18635	18635	Is 0.5 the incidence of hepatitis C?	Q154869	0.342465877532959
+10394	10394	Tell me who follows Pepin the Short who has the title of king of Franks.	Q81212, Q22923081	0.37825918197631836
+9904	9904	Where is NYSE headquarter located an when was it formed?	Q13677	0.8742599487304688
+24545	24545	What are the type of magnets that start with the letter n?	Q50002046	0.34974002838134766
+14048	14048	Where will the journey of the Voyager 2 spacecraft end, given the semi-major axis of 9.53668?	Q48475	0.34708189964294434
+27455	27455	What is the LNH id for Nikola Karabatić?	Q157809	0.5701727867126465
+23828	23828	What are the film studio which start with the letter s	Q3199141	0.34519410133361816
+1319	1319	how much external subpropertyies are needed for a seat?	Q2731419	0.3441338539123535
+2278	2278	How many Pentecost public holidays are there?	Q39864	0.3446619510650635
+25694	25694	What what is first-order metaclass disjoint union of list values as qualifiers and also which starts with letter i	Q24017414, Q23766486	0.39118003845214844
+19570	19570	Is it true that the heart rate of the horse equals to 46.5?	Q726	0.3410961627960205
+23673	23673	What are the unit of measurement which start with the letter visus	Q15711870	0.3458259105682373
+29115	29115	Who is the manager/director of Schutzstaffel?	Q44687	0.3668379783630371
+17233	17233	What is the Hypertext Transfer Protocol for Garison?	Q8777	0.7150719165802002
+11207	11207	Who is the child of Frederick William I of Prussia and when did he die?	Q105013	0.3379077911376953
+16207	16207	wich means Carnegie Classification of Institutions of Higher Educationforgraduated from atLewis Hine ?	Q347194	0.3597540855407715
+26939	26939	Which is the takeoff and landing capability of Airbus A380?	Q5830	0.5699560642242432
+29026	29026	Which is the American National Biography ID of Henry Cabot Lodge?	Q174037	0.5997159481048584
+10218	10218	When was Charlemagne's child Rotrude born and who was the mother?	Q3044, Q269691	0.6424498558044434
+5418	5418	What was Kingdom of Sicily's capital in the year of 1816?	Q188586	0.5763950347900391
+23425	23425	Tell me type of number  whose name has the word number in it.	Q47460393	0.3406801223754883
+26589	26589	What Musée d'Orsay artist ID for Lewis Hine?	Q347194	0.35418200492858887
+11496	11496	Winston Churchill was elected to what position and when?	Q8016	0.334791898727417
+11673	11673	To whom did Katharine Hepburn get married and when did it end?	Q56016	0.344008207321167
+26633	26633	What is  the  fictional universe described in Marvel Cinematic Universe?	Q642878	0.3443121910095215
+17638	17638	What is the molecular formula of the drug prescribed for AIDS?	Q12199	0.5821340084075928
+9712	9712	What are the executive body and the legislative body of Himachal Pradesh?	Q1177	0.3503279685974121
+10390	10390	When was Abigail Adams's child Thomas Boylston Adams born and who was his father?	Q206191, Q7787805	0.5834610462188721
+10354	10354	Tell me the academic major of student Valdimir Putin who graduated from Saint Petersburg State University.	Q7747, Q27621	0.5897688865661621
+11333	11333	When did open days of British Museum and closed on?	Q6373	0.33707404136657715
+19229	19229	Is the decay width of J/psi meson equal to 92900?	Q876518	0.3439209461212158
+23604	23604	Tell me Protestantism whose name has the word huguenot in it.	Q23540	0.3421609401702881
+25510	25510	Name a social skill useful in the media jobs that starts with letter C	Q1413287, Q17502905	0.38013315200805664
+23316	23316	Tell me which is the polygon which contains the word trapezoid in it's name?	Q37555	0.34287524223327637
+26527	26527	What is  in the performer of Vivien Leigh ?	Q129429	0.3496081829071045
+6179	6179	What was the population of Kiel on December 31st, 2015?	Q1707	0.3419802188873291
+13435	13435	The birthplace of Gao Xingjian has a Red Banner featuring women, where is it?	Q18143	0.5547139644622803
+25984	25984	Which is the maritime identification digits of Tonga?	Q678	0.3513472080230713
+1601	1601	How many doctoral advisors are determined for Gottfried Wilhelm Leibniz?	Q9047	0.3483560085296631
+19804	19804	Which type of quantum particle has a photon as it's superpartner?	Q3198, Q22675015	0.3800828456878662
+4351	4351	How many visitors per year does British Museum get in 2016?	Q6373	0.3421149253845215
+7044	7044	What was the award of Trondheim received in 2008?	Q25804	0.5740108489990234
+21502	21502	Who is the human for head of government of German Democratic Republic	Q16957, Q5	0.371265172958374
+11561	11561	What and where is the record for the pole vault held?	Q185027	0.335878849029541
+24174	24174	What unit of time starts with "z"?	Q1790144	0.339447021484375
+14629	14629	What medium is preceded by Grand Theft Auto V?	Q17452	0.5651118755340576
+28421	28421	Which is the JECFA database ID for citric acid?	Q159683	0.7866697311401367
+26773	26773	What is Steam Application ID for Portal ?	Q274897	0.8884232044219971
+4885	4885	What type of award was received by Peter Debye in 1937?	Q103835	0.6138849258422852
+7287	7287	When did Latvia have 10,293 out of school children?	Q211	0.5554502010345459
+26002	26002	The AGORHA login information of Mona Lisa is what?	Q12418	0.6127550601959229
+18126	18126	Is the PPP GDP per capita of Brazil 15893?	Q155	0.34943294525146484
+25892	25892	What commemorates Christmas?	Q19809	0.3405730724334717
+29122	29122	Which is the MAC Address Block Large ID for Nokia?	Q1418	0.6858301162719727
+7136	7136	What is the temperature for benzene at density 0.88?	Q2270	0.6276788711547852
+11365	11365	Tell me about member of sports team of Ian Rush and number of matches played?	Q219354	0.34839701652526855
+15337	15337	J. R. R. Tolkien is part of what trend?	Q892	0.5690321922302246
+9859	9859	What is the lake inflow and the drainage basin of the Hoover Dam?	Q172822	0.5782420635223389
+28695	28695	palace pares id?	Q16560	0.57004714012146
+9524	9524	What type of game is Pac-Man, and what are its main characters?	Q173626	0.34322190284729004
+10196	10196	where is the office held by head of government and head of state of Himachal_Pradesh	Q1177	0.3470759391784668
+1273	1273	How many doctoral advisors are determined for Gottfried Wilhelm Leibniz?	Q9047	0.34589409828186035
+13612	13612	What is taxon parent of Populus, which has the vernacular name of ヤナギ科?	Q25356	0.5860347747802734
+17685	17685	What is studied in the plays of Ian Rush?	Q219354	0.34287476539611816
+18568	18568	Is the stall speed of the Airbus A320 280?	Q6475	0.34005093574523926
+27513	27513	What is practiced by the housekeeper?	Q2596569	0.3436899185180664
+11525	11525	When did residence of Ivan Turgenev and earliest date?	Q42831	0.3433268070220947
+3925	3925	When was Joseph Chamberlain held the position as Member of the 27th Parliament of the United Kingdom?	Q315999, Q41582575	0.3721950054168701
+24531	24531	Tell me the aircraft family which begins with alphabet v	Q15056993	0.33520984649658203
+21262	21262	Who is the anime for executive producer of Hayao Miyazaki	Q55400, Q1107	0.5874719619750977
+10155	10155	What is the category for films shot at this location and the category of associated people of Glasgow ?	Q4093	0.5798008441925049
+1311	1311	How many software engines are used to play Wolfenstein?	Q4357563	0.3411870002746582
+7488	7488	When did Uruguay have a population of 3.03105e+06?	Q77	0.5560991764068604
+21561	21561	Which is treaty location of Soviet Union?	Q15180, Q131569	0.6404538154602051
+27621	27621	What is the Lemon 64 identifier of Frogger?	Q524267	0.564918041229248
+11460	11460	When did series of 1 and follows?	Q199	0.33431005477905273
+11075	11075	When did educated at of Nancy Pelosi and academic major?	Q170581	0.3417510986328125
+9155	9155	What instance of  the Taungoo Dynasty was created in 1486?	Q519718	0.5786571502685547
+1750	1750	How many motto's are for the Latin ?	Q397	0.3455219268798828
+4149	4149	When was the Art of Painting was started which was ended in 1668?	Q588695	0.34643101692199707
+18555	18555	Is it true that the proper motion of Alpha Centauri A equals to 3673?	Q2090157	0.3389577865600586
+10403	10403	Name the mother and the date on which she gave birth to Princess Maria Amélia of Brazil	Q939, Q235815	0.6244993209838867
+1412	1412	How many directors of photography are there for Triumph of the Will?	Q156497	0.3405430316925049
+21076	21076	Which company created Space X	Q193701, Q431289	0.3721749782562256
+29634	29634	Which is the relief location map for Serbia?	Q403	0.35062384605407715
+11635	11635	What is the job title of Gregory VII and when did he start working?	Q133063	0.3431241512298584
+1709	1709	How much lake inflows to the Missouri River?	Q5419	0.34148502349853516
+15448	15448	How is the main electricity voltage divided in Metro Manila?	Q13580	0.5775978565216064
+28812	28812	Which is Trismegistos Geo ID for Canterbury?	Q29303	0.3484039306640625
+29151	29151	Which is the periapsis for 10 Hygiea?	Q2640	0.35440516471862793
+21765	21765	Who edited the film Seven Samurai?	Q189540, Q5	0.38939809799194336
+14745	14745	which has rural cities in the village  of Loire ?	Q1469	0.3450949192047119
+25734	25734	What are the statistics Canada geographic code of New Brunswick?	Q1965	0.5618391036987305
+1296	1296	Tell me the domain of saint or deities for Santo Tomas de Aquinas?	Q9438	0.3400139808654785
+18064	18064	Is the flexural strength of the callitris glaucophylla equal to 63.2?	Q7177505	0.3338298797607422
+24850	24850	tell me category in the Köppen climate classification system starts with c	Q23702033	0.33548903465270996
+18841	18841	Tell me if the tensile modulus of elasticity of the callitris glaucophylla is equal to 9000.	Q7177505	0.3353390693664551
+27391	27391	What is Jonathan Edwards' European Athletics ID?	Q221648	0.6019010543823242
+24881	24881	Tell me the name of the bank that starts with "u".	Q22687	0.36638474464416504
+18138	18138	Does the IDLH of the beryllium equals 3.2?	Q569	0.36227869987487793
+26204	26204	What is the transfer location for Tokyo International Airport?	Q204853	0.36399006843566895
+27488	27488	What is in the  OlimpBase Women's Chess Olympiad player ID of Judit Polgár ?	Q183250	0.5917091369628906
+7242	7242	What city in Alaska is located at (71.387, -156.4746)?	Q797	0.5501103401184082
+15048	15048	How is the diplomatic relation between the basin countries of the Euphrates?	Q34589	1.2664308547973633
+28412	28412	What is Ensemble Gene ID for SCT?	Q14820612	0.5713107585906982
+10075	10075	What is the symptoms of the drug used for treatment of Migraine ?	Q133823	0.699376106262207
+26430	26430	What is the Fogis ID of Zlatan Ibrahimovic?	Q46896	0.3547556400299072
+2455	2455	How much melting point that Class IIIA combustible liquid have?	Q21009058	0.35484981536865234
+7283	7283	When did Daimier AG have a profit of 8.711e+09?	Q27530	0.5559360980987549
+9891	9891	Who is the chairperson and the member of of Yale_University ?	Q49112	0.35204386711120605
+10979	10979	Who preceded and followed Chlothar II, King of Franks?	Q209118, Q22923081	0.6418917179107666
+4987	4987	How was it determined that Puerto Princessa has a population of 45,709?	Q111739	0.35366392135620117
+25929	25929	What is Ext4 maximum size or capacity?	Q283827	0.34227681159973145
+1285	1285	How many dishes are traditionally associated with the Christmas ?	Q19809	0.3511810302734375
+10267	10267	When was Anthony Eden a member of the 38th Parliament of the UK?	Q128995, Q41582597	0.38871192932128906
+2047	2047	How many copyright owners are in Nintendo ?	Q8093	0.3549370765686035
+14625	14625	Which is state of participated in by Ronaldo ?	Q529207	0.6304948329925537
+28543	28543	How is the medical condition epilepsy treated?	Q41571	0.34821295738220215
+23550	23550	which category in the koppen climate classification system contains the word climate in their name	Q23702033	0.35686516761779785
+2889	2889	Name the lethal excipient mad eof chemical compound ?	Q902638, Q11173	0.6472208499908447
+17256	17256	What is the temperature of the fork in degrees Celsius?	Q25267	0.5754592418670654
+26197	26197	WHICH IS THE HUMBLE STORE ID OF GRAND THEFT AUTO III	Q149106	0.5731201171875
+11124	11124	Which award did Mick Jagger receive?	Q128121	0.34735727310180664
+29242	29242	Which is Ready64 identifier for Frogger?	Q524267	0.5698869228363037
+10167	10167	which is the  parent organisation and the  subsidary of metro-godwyn-mayer?	Q179200	0.352247953414917
+29500	29500	Anhydrous magnesium sulfate has what Drugbank ID?	Q288266	0.5851640701293945
+1679	1679	How many flag bearers does Mijain Lopez have?	Q462790	0.3468451499938965
+27998	27998	What is Yandex.Music album ID for Revolver ?	Q185121	0.5767900943756104
+23238	23238	Tell me  film whose name has the word yor in it.	Q11424	0.3505582809448242
+27931	27931	what is Kijkwijzer rating for Snow white and the seven dwarfs?	Q134430	0.5812609195709229
+30092	30092	Which sovereign state replaced Czechoslovakia ?	Q33946, Q3624078	0.6042559146881104
+19344	19344	is the radius of Messier 10 more than 32.0?	Q4755	0.3564326763153076
+11516	11516	What is the name of offspring of Joseph Stalin and he born on which date?	Q855	0.5608999729156494
+20407	20407	Which is the fictional universe that takes place in the fictional universe of Grand Theft Auto?	Q132730, Q559618	0.5980849266052246
+9346	9346	When did Africa have 1.01e+08 children out of school?	Q15	0.7777059078216553
+23581	23581	Which essential medicine  contains the word vincristine in their name	Q35456	0.3519301414489746
+3123	3123	Which flammable liquid carcinogen has the highest exposure limit?	Q21009055, Q21074597	0.7845191955566406
+28029	28029	What is California's elector[-ate]?	Q99	0.5642249584197998
+4605	4605	In which year did the Louvre Museum have 8.6 million visitors?	Q19675	0.5626020431518555
+2863	2863	Which island nation has the largest real gross domestic product growth rate?	Q112099	0.5646011829376221
+8476	8476	Which player in Jock Stein's team has played only one match?	Q355378	0.3499410152435303
+18265	18265	is 8.5 the ionization energy of phenol?	Q130336	0.348491907119751
+25049	25049	Tell me me a first-order metaclass whose name consist of the word "level" and whose list value as qualitiers are disjiont union	Q24017414, Q23766486	0.3813748359680176
+2311	2311	How many ancestral homes are in England?	Q21	0.3497488498687744
+19669	19669	Which is the person as a significant person of Carl Gustav Jung?	Q41532, Q5	0.3895289897918701
+28807	28807	What is the asteroid ID given by DAMIT for 10 Hygiea?	Q2640	0.5743989944458008
+24759	24759	What are the mathematical concept which start with the letter u	Q24034552	0.34508275985717773
+21744	21744	What does Fahrenheit measure?	Q42289, Q230937	0.6005020141601562
+16828	16828	Who died on at patron saint of dog ?	Q144	0.6060149669647217
+11538	11538	What is Abigail Adams child's deathdate?	Q206191	0.5617258548736572
+11306	11306	When was Sandra Bernhardt born?	Q4605	0.34519314765930176
+3973	3973	When did Belgium have a population of 11,150,516?	Q31	0.35346412658691406
+26376	26376	What is reward program for KLM ?	Q181912	0.34533095359802246
+14447	14447	What is the diplomatic relation that originates at The Age of Innocence?	Q1045464	0.9288158416748047
+7862	7862	Who is the member of sports team of Roger Milla who died at 1996-1-1?	Q168540	0.3821699619293213
+18483	18483	Does the ultimate tensile strength of Alloy 718 equal 1240?	Q55843475	0.3627450466156006
+2238	2238	Tell me the number of superhuman feature or ability in time travel?	Q182154	0.35764288902282715
+1513	1513	What is the refractive index for water?	Q283	0.3947000503540039
+2671	2671	Which island nation has highest Human Development Index?	Q112099	0.43468809127807617
+18243	18243	Is the retirement age of Belgium 67?	Q31	0.4078390598297119
+11619	11619	What follows the European Union after it is dissolved, abolished or demolished?	Q458	0.46237802505493164
+11242	11242	When did John Ruskin get married?	Q179126	0.396071195602417
+6866	6866	What is the population of Rimini?	Q13369	0.3809189796447754
+22284	22284	What is the honorific title of Salman of Saudi Arabia?	Q367825, Q5737899	0.42902708053588867
+21508	21508	What business manufactures the Minigun?	Q864060, Q4830453	0.4241976737976074
+3010	3010	What is the minimum viable temperature for a strain with a biosafety level of 1?	Q855769, Q18396533	0.42435193061828613
+10985	10985	At which point in time and together with whom did Christopher A. Pissarides received an award as Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel?	Q109582, Q47170	0.43292689323425293
+25830	25830	What is consumption rate of petroleum ?	Q22656	0.41223788261413574
+8892	8892	Buckminster Fuller received which award in 1968?	Q102289	0.7399759292602539
+1314	1314	How many languages does Flickr support?	Q103204	0.4246101379394531
+11025	11025	Where did Vladimir Nabokov go to college and what was his academic major?	Q36591	0.3931760787963867
+27829	27829	Which is the biosafety level of 1?	Q199	0.3678619861602783
+26359	26359	What is the World Rugby Hall of Fame ID for Colin Meads?	Q642380	0.593437910079956
+2174	2174	How much is the Russian ruble?	Q41044	0.39968013763427734
+12907	12907	Where was the aircraft operated with grilling that was introduced with -10000000-0-0?	Q264619	0.8687560558319092
+28658	28658	Which is the Cairn author ID of François Hollande?	Q157	0.5204432010650635
+28318	28318	Which is the software version for JavaScript?	Q2005	0.3881559371948242
+26027	26027	What is the Graphic Processing unit inside an Xbox one?	Q13361286	0.5692708492279053
+6486	6486	did jpmorgan chase start the ipv4 routing prefix in 161.192.0.0/16?	Q192314	0.5760560035705566
+15455	15455	What is the award for signatories of the Declaration fo the Establishment of the State of Israel?	Q223732	0.7476019859313965
+2068	2068	How many people are the incarnation of Shiva?	Q11378	0.9849810600280762
+20500	20500	What does the business Minigun produce?	Q864060, Q4830453	0.4721708297729492
+11264	11264	Charles the Bald position is what and he got his position after which person?	Q71231	0.3926229476928711
+29663	29663	What is a neutron's gyromagnetic ratio?	Q2348	0.3471500873565674
+21272	21272	Do you know what human incluenced JRR Tolkien?	Q892, Q5	0.3968698978424072
+24346	24346	What are the gravitational-wave detector which start with the letter v	Q2302080	0.3480660915374756
+2576	2576	What star has the highest parallax?	Q523	60.704309940338135
+24487	24487	What are the cooking method which start with the letter s	Q1039303	0.34525179862976074
+13552	13552	What is the life stance of the Christian denomination hat has the OSM key which is Tag:lifestance=christian?	Q879146	0.399212121963501
+16592	16592	Who gave the has case of first language of Millard Fillmore ?	Q12306	0.39829397201538086
+28730	28730	Which is the pendant of the intelligence quotient?	Q170277	0.3894810676574707
+11364	11364	When did child of Pedro I and mother?	Q939	0.35507774353027344
+27353	27353	What is in the category connector of USB-C ?	Q20026619	0.3638126850128174
+18224	18224	Is the time-weighted average exposure limit of the beryllium equal to 0.0024?	Q569	0.3448007106781006
+10555	10555	What is Guy of Lisignan, the King of Jerusalem's, noble title	Q294192, Q693614	0.37241697311401367
+29261	29261	What is A Clockwork Orange's KAVI rating?	Q181086	0.34360194206237793
+2062	2062	How many fictional characters are there in the Marvel Cinematic Universe?	Q642878	0.33802199363708496
+21509	21509	What product does SpaceX produce?	Q193701, Q431289	0.4464249610900879
+18957	18957	Is the vehicles per thousand people of Luxembourg equal to 662?	Q32	0.4342930316925049
+1596	1596	How many directors are there for Schutzstaffel?	Q44687	0.350355863571167
+23227	23227	Tell me which profession contains the word tenor in it's name?	Q28640	0.34351205825805664
+3458	3458	How many instance the taxon has the highest observed lifespan?	Q16521	0.7565412521362305
+12360	12360	What is Paul McCartney's language of expression which has англійська as an acronym?	Q2599	0.6030919551849365
+11048	11048	Who is the father of Abigail Adams child?	Q206191	0.5637357234954834
+1181	1181	What was the birth name of Ayn Rand?	Q132524	0.3445589542388916
+10942	10942	What is Yelena Isinbayeva highest pole vault height and where did she do this?	Q185027, Q6319	0.38216280937194824
+24741	24741	What are the radiometric dating which start with the letter d	Q214753	0.34484291076660156
+15647	15647	How many school children of continent of Missouri River?	Q5419	0.3576929569244385
+16840	16840	What religion does the sister of Basil of Caesarea follow?	Q44258	0.35263991355895996
+5723	5723	Which award did Mother Teresa receive in 1976?	Q30547	0.3406400680541992
+2618	2618	which unit of time has the highest wikidata time precision?	Q1790144	0.42508888244628906
+12480	12480	What is the runtime of Scala whose latest release version is ECMA Script 6?	Q460584	0.6092309951782227
+29590	29590	Which is the PhDTree person ID for Noam Chomsky?	Q9049	0.3424050807952881
+10595	10595	Which is point in time educated at of Leonid Kantorovich has academic degree as professor	Q107441, Q121594	0.6095378398895264
+19510	19510	Is 3.6 the mass of the Alpha Andromedae?	Q13039	0.3477809429168701
+15331	15331	Where did Albert Einstein live?	Q937	0.6442131996154785
+1186	1186	How many narrators are in Dracula?	Q41542	0.36743807792663574
+9921	9921	Who are the characters and what is depicted by the Crucifixion of Jesus?	Q51636	0.5840251445770264
+28347	28347	Which is the day of week for Pentecost?	Q39864	0.3810391426086426
+23129	23129	Tell me angle whose name has the word elevation in it.	Q11352	0.5083637237548828
+9680	9680	Who was Poseidon mother and child?	Q41127	0.7106199264526367
+21247	21247	Name the doctoral advisor of Carl Gustav Jung.	Q41532, Q5	0.3739290237426758
+27347	27347	Which is the Mountain Project ID for Joshua Tree National Park?	Q735202	0.5669009685516357
+14847	14847	What is the energy source of gamma-aminobutyric acid?	Q210021	0.5954771041870117
+20064	20064	What is Sergei Eisenstein's film	Q8003, Q11424	0.3889622688293457
+3883	3883	For what Juan Antonio Samarnch held the position in the year 1973?	Q171166	0.7383041381835938
+11746	11746	Where did Richard Feynman study, and who was his doctoral advisor ?	Q39246	0.5967342853546143
+20572	20572	Name the person who led to the production of The Birth of a Nation	Q220394, Q5	0.3715670108795166
+7089	7089	Who is replaced by James Scullin, the Member of the Australian House of Representatives?	Q23362, Q18912794	0.3784511089324951
+11349	11349	Who is the child of Louis IX of France and when did the child die?	Q346	0.3388490676879883
+24342	24342	WHICH IS THE CITY OF INDONESIA THAT STARTS WITH Y	Q3199141	0.3475921154022217
+24109	24109	What are the occupational carcinogen which start with the letter t	Q21074597	0.3438599109649658
+9515	9515	What are the effects and cause of Rabies?	Q39222	0.5822389125823975
+11710	11710	What position does Jeremy Corbyn hold and when was he elected?	Q291169	0.5805723667144775
+2137	2137	What is the taxon rate of each subspecies?	Q68947	0.3379671573638916
+1995	1995	What number month of the year is December?	Q126	0.3509640693664551
+23584	23584	Which is the mathematical concept which contains the word ultrafinitism in it's name?	Q24034552	0.3501770496368408
+29269	29269	Which is the audio for Neil Armstrong?	Q1615	0.3747718334197998
+10632	10632	At which point in time and together with whom did Christopher A. Pissarides received an award as Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel?	Q109582, Q47170	0.4382808208465576
+2553	2553	in which weapon model the maximum slope belongs?	Q15142894	0.47651076316833496
+11155	11155	where and what did Milton Babbitt studied	Q318518	0.7059950828552246
+28732	28732	What is the person is use researchgate of James Hanson	Q724095	0.5325870513916016
+4464	4464	In 1983, what award did the film "E.T. The Extra-Terrestrial" win?	Q11621	0.490339994430542
+19637	19637	Does the yield strength of the Alloy 718 equal 828?	Q55843475	0.3509409427642822
+10596	10596	Which is academic major and academic degree of Ana Kasparian educated at California State University, Northridge?	Q19661, Q1026939	0.4000740051269531
+11009	11009	where and what did Niels Bohr study?	Q7085	0.3895297050476074
+29465	29465	What is Madonna's RSL ID (person)?	Q1744	0.5724079608917236
+19622	19622	is it true that the median lethal dose of benzene is less than 6840?	Q2270	0.36678600311279297
+6769	6769	What engine was Dota 2 based on at the start of September 2015?	Q771541	0.584230899810791
+15422	15422	What is the language spoken in the city which Ronaldinho played sports?	Q39444	0.6419081687927246
+30020	30020	Which is the 3D film for the series of the Marvel Cinematic Universe?	Q642878, Q229390	0.3849968910217285
+10295	10295	Mention the qualifying degree and the major specialization course in which Tina Fey graduated from the University of Virginia	Q14540, Q213439	0.37727999687194824
+29581	29581	Which is the clearance of the Forth Bridge?	Q275	0.34539175033569336
+11062	11062	When did significant event of Philip II of Spain and applies to jurisdiction?	Q34417	0.39883995056152344
+12337	12337	1880 was the year Henry Peach Robinson founded what trend?	Q574144	0.33792805671691895
+18330	18330	Is the median income of Germany less than 39999.6?	Q183	0.34471607208251953
+10422	10422	At which point in time was educated Leonid Kantorovich who has an academic degree as a professor?	Q107441, Q121594	0.6453428268432617
+11114	11114	How much did Ellyse Perry score when playing for which team?	Q600090	0.36115097999572754
+23674	23674	Tell me radiometric dating whose name has the word dating in it.	Q214753	0.39211487770080566
+10830	10830	When was George Cayley has elected as Member of the 11th Parliament of the United Kingdom and what ended his position?	Q319362, Q41582546	0.45296406745910645
+1158	1158	How many countries are in Canterbury?	Q29303	0.35357189178466797
+27949	27949	What is the PORT film ID for the movie Toy Story?	Q171048	0.579010009765625
+8528	8528	who was the spouse of Carl Jung as at 1955-0-0?	Q41532	0.3799149990081787
+9766	9766	Which is the notable work and the field of work of Thomas_Hobbes ?	Q37621	0.9787890911102295
+10992	10992	What are the phase and temperature of water at its triple point?	Q283, Q106410	0.44274473190307617
+28078	28078	Who is the head coach of Malcolm Allison?	Q1383862	0.3618319034576416
+25996	25996	Which is in opposition to nuclear weapon?	Q12802	0.8722221851348877
+23538	23538	TELL ME CABLE-STAYED BRIDGE WHOSE NAME HAS THE WORD YPSILON IN IT.	Q158555	0.36252903938293457
+3790	3790	What is population of Samara whose point in time is 1890-1-1 ?	Q894	0.3521597385406494
+19180	19180	Is it true that the foreign direct investment net inflow of Afghanistan equals to 53390000?	Q889	0.33893394470214844
+3434	3434	Who is the youngest participant?	Q5	0.61844801902771
+19881	19881	Is the conjugate base of water, cation?	Q283, Q326277	0.9385788440704346
+10518	10518	What are the work timings of British museum on all weekdays?	Q6373, Q26214163	0.7692239284515381
+11736	11736	Who was Joseph Stain's child and when did they die?	Q855	0.5542709827423096
+21107	21107	who was the mausoleum for the  commemorates of Muhammad Ali Jinnah?	Q160554, Q162875	0.4363219738006592
+17567	17567	What planet orbits the star of an asteroid belt?	Q2179	0.4122319221496582
+11524	11524	Who is the child of Charlemagne and who is their mother?	Q3044	0.6133971214294434
+2066	2066	How many depositors are with the United Nations Secretary-General ?	Q81066	0.3569471836090088
+9667	9667	What position does Mike Trout play, and where was he born?	Q3090378	0.3473069667816162
+11636	11636	Where did Stephen King study and what was his major?	Q39829	0.3865358829498291
+11668	11668	Where and what did Nancy Pelosi study?	Q170581	0.4074859619140625
+11467	11467	Where and what did Milton Babbitt study?	Q318518	0.3458280563354492
+26127	26127	What is the enthalpy of vaporization for potassium hydroxide?	Q132298	0.3503072261810303
+11324	11324	what is phrase point of water and temperature	Q283	0.34210991859436035
+26985	26985	What did Henry Luce donate?	Q516473	0.5727431774139404
+23225	23225	Tell me the group of organisms known by one particular common name and that contains the word wireworm in it's name?	Q55983715	0.33913516998291016
+10486	10486	What are the phase and temperature of water at its triple point?	Q283, Q106410	0.3881821632385254
+19127	19127	Is the IDLH of the graphite less than 1500?	Q5309	0.36373472213745117
+16838	16838	Who takes the form of brother of Poseidon?	Q41127	0.38105273246765137
+28247	28247	Which is found in taxon of the nitric oxide radical?	Q207843	0.34548211097717285
+20538	20538	What is the name of the MCU series of movies?	Q642878, Q11424	0.37955808639526367
+27947	27947	What is the name of the film script for Mr. Smith Goes to Washington?	Q866120	0.5788710117340088
+11412	11412	Who is a member of the same military branch as George Lincoln Rockwell?	Q440145	0.3500678539276123
+14550	14550	Who gave  the  pronunciation audio of national of of Maurice de Vlaminck ?	Q241098	1.1116669178009033
+1799	1799	How many publishers are members of the United Nations?	Q1065	0.3506758213043213
+27607	27607	What is the Quora topic ID for Percy Bysshe Shelley?	Q93343	0.3675391674041748
+2089	2089	What reward program does KLM offer?	Q181912	0.35148000717163086
+19736	19736	Who was the leader of the Tokugawa shogunate?	Q205662, Q5	0.3802638053894043
+28299	28299	Which is the vessel of Soyuz?	Q579421	0.35245299339294434
+16978	16978	Which position occupied is incumbent of United Nations Secretary-General ?	Q81066	0.5799500942230225
+28941	28941	What is the pathogen transmission process of tuberculosis?	Q12204	0.3431379795074463
+21880	21880	Who is the person as secretary general of Social Democratic Party of Germany?	Q49768, Q5	0.3873779773712158
+25783	25783	WHICH IS THE ISSN OF FOREIGN AFFAIRS	Q1135577	0.5777699947357178
+19817	19817	who mausoleum for place of burial of Muhammad Ali Jinnah?	Q160554, Q162875	0.38994622230529785
+11428	11428	What noble title did Berengar I of Italy hold and who did he follow?	Q274606	0.34465599060058594
+11178	11178	When did award received of Octavio Paz and field of work?	Q46739	0.3462240695953369
+26859	26859	Which are the coordinates for northernmost point of Afghanistan?	Q889	0.3543097972869873
+29423	29423	The Diary of Anne Frank has how many editions?	Q6911	0.34668540954589844
+15633	15633	Who is the titleholder of Katharine Hepburn's honours?	Q56016	0.350877046585083
+19026	19026	Is the shear modulus of diamond less than 573.6?	Q5283	0.3504021167755127
+29309	29309	WHAT IS THE MAIN REGULATORY TEXT OF COPYRIGHT	Q12948581	0.5535879135131836
+1320	1320	How many diplomatic relations are for Serbia?	Q403	0.35387492179870605
+12737	12737	Located in the administrative territorial entity of Samara, what would be found at the geo-coordinates of 53.5167?	Q894	0.3465569019317627
+28099	28099	What is the CNO-11 occupation code for truck driver?	Q508846	0.3529319763183594
+11451	11451	When was Gordon Brown elected, and what position did he hold?	Q10648	0.35006213188171387
+19461	19461	Is the flattening of Neptune equal to 0.0171?	Q332	0.34850478172302246
+27632	27632	What is  in the  CosIng number of citric acid ?	Q159683	0.7030327320098877
+18784	18784	Does the Human Development Index of Kenya equal 0.453?	Q114	0.34705090522766113
+24516	24516	What are the jurisdiction which start with the letter v	Q471855	0.35565996170043945
+24287	24287	What are the gene which start with the letter t	Q7187	0.36196398735046387
+16961	16961	What is antonym of of spore print color of Pleurotus ostreatus ?	Q186451	0.35533690452575684

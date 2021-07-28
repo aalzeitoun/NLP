@@ -1,0 +1,4131 @@
+Q1065, Q1624231	+	+Biblioteca Nacional de España ID	+P950
+Q1065, Q1624231	+	+page banner	+P948
+Q1065, Q1624231	+	+Commons gallery	+P935
+Q1065, Q1624231	+	+topic's main category	+P910
+Q1065, Q1624231	+	+SELIBR ID	+P906
+Q1065, Q1624231	+	+HDS ID	+P902
+Q1065, Q1624231	+	+official website	+P856
+Q1065, Q1624231	+	+NKCR AUT ID	+P691
+Q1065, Q1624231	+	+MeSH tree code	+P672
+Q1065, Q1624231	+	+Open Library ID	+P648
+Q1065, Q1624231	+	+Freebase ID	+P646
+Q1065, Q1624231	+	+inception	+P571
+Q1065, Q1624231	+	+archINFORM person or group ID	+P5508
+Q1065, Q1624231	+	+Canadian Encyclopedia article ID	+P5395
+Q1065, Q1624231	+	+Google News topics ID	+P5337
+Q1065, Q1624231	+	+diplomatic relation	+P530
+Q1065, Q1624231	+	+has part	+P527
+Q1065, Q1624231	+	+ASC Leiden Thesaurus ID	+P5198
+Q1065, Q1624231	+	+Wikimedia outline	+P5125
+Q1065, Q1624231	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q1065, Q1624231	+	+on focus list of Wikimedia project	+P5008
+Q1065, Q1624231	+	+Unicode character	+P487
+Q1065, Q1624231	+	+MeSH descriptor ID	+P486
+Q1065, Q1624231	+	+Uppslagsverket Finland ID	+P4854
+Q1065, Q1624231	+	+C-SPAN organization ID	+P4725
+Q1065, Q1624231	+	+foundational text	+P457
+Q1065, Q1624231	+	+UK Parliament thesaurus ID	+P4527
+Q1065, Q1624231	+	+Store norske leksikon ID	+P4342
+Q1065, Q1624231	+	+PM20 folder ID	+P4293
+Q1065, Q1624231	+	+Bengali Banglapedia ID	+P4254
+Q1065, Q1624231	+	+category for employees of the organization	+P4195
+Q1065, Q1624231	+	+Libraries Australia ID	+P409
+Q1065, Q1624231	+	+SHARE Catalogue author ID	+P3987
+Q1065, Q1624231	+	+secretary general	+P3975
+Q1065, Q1624231	+	+Pinterest username	+P3836
+Q1065, Q1624231	+	+openMLOL author ID	+P3762
+Q1065, Q1624231	+	+Commons category	+P373
+Q1065, Q1624231	+	+Babelio author ID	+P3630
+Q1065, Q1624231	+	+Le Monde diplomatique subject ID	+P3612
+Q1065, Q1624231	+	+part of	+P361
+Q1065, Q1624231	+	+Sina Weibo user ID	+P3579
+Q1065, Q1624231	+	+Cultureel Woordenboek ID	+P3569
+Q1065, Q1624231	+	+subsidiary	+P355
+Q1065, Q1624231	+	+National Diet Library ID	+P349
+Q1065, Q1624231	+	+Quora topic ID	+P3417
+Q1065, Q1624231	+	+PermID	+P3347
+Q1065, Q1624231	+	+Flickr user ID	+P3267
+Q1065, Q1624231	+	+NE.se ID	+P3222
+Q1065, Q1624231	+	+New York Times topic ID	+P3221
+Q1065, Q1624231	+	+Encyclopædia Universalis ID	+P3219
+Q1065, Q1624231	+	+Nobel prize ID	+P3188
+Q1065, Q1624231	+	+Crossref funder ID	+P3153
+Q1065, Q1624231	+	+Guardian topic ID	+P3106
+Q1065, Q1624231	+	+National Library of Wales Authority ID	+P2966
+Q1065, Q1624231	+	+permanent duplicated item	+P2959
+Q1065, Q1624231	+	+Great Russian Encyclopedia Online ID	+P2924
+Q1065, Q1624231	+	+exact match	+P2888
+Q1065, Q1624231	+	+Google+ ID	+P2847
+Q1065, Q1624231	+	+subclass of	+P279
+Q1065, Q1624231	+	+IdRef ID	+P269
+Q1065, Q1624231	+	+Bibliothèque nationale de France ID	+P268
+Q1065, Q1624231	+	+ISO 9362 SWIFT/BIC code	+P2627
+Q1065, Q1624231	+	+BabelNet ID	+P2581
+Q1065, Q1624231	+	+GRID ID	+P2427
+Q1065, Q1624231	+	+YouTube channel ID	+P2397
+Q1065, Q1624231	+	+office held by head of the organization	+P2388
+Q1065, Q1624231	+	+history of topic	+P2184
+Q1065, Q1624231	+	+FAST ID	+P2163
+Q1065, Q1624231	+	+GitHub username	+P2037
+Q1065, Q1624231	+	+Facebook ID	+P2013
+Q1065, Q1624231	+	+Instagram username	+P2003
+Q1065, Q1624231	+	+Twitter username	+P2002
+Q1065, Q1624231	+	+different from	+P1889
+Q1065, Q1624231	+	+short name	+P1813
+Q1065, Q1624231	+	+British Museum person or institution ID	+P1711
+Q1065, Q1624231	+	+native label	+P1705
+Q1065, Q1624231	+	+Getty Thesaurus of Geographic Names ID	+P1667
+Q1065, Q1624231	+	+BBC Things ID	+P1617
+Q1065, Q1624231	+	+legal form	+P1454
+Q1065, Q1624231	+	+official name	+P1448
+Q1065, Q1624231	+	+Jewish Encyclopedia ID (Russian)	+P1438
+Q1065, Q1624231	+	+topic's main template	+P1424
+Q1065, Q1624231	+	+Encyclopædia Britannica Online ID	+P1417
+Q1065, Q1624231	+	+replaces	+P1365
+Q1065, Q1624231	+	+phone number	+P1329
+Q1065, Q1624231	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q1065, Q1624231	+	+CONOR.SI ID	+P1280
+Q1065, Q1624231	+	+Legal Entity Identifier	+P1278
+Q1065, Q1624231	+	+CANTIC ID	+P1273
+Q1065, Q1624231	+	+NUKAT ID	+P1207
+Q1065, Q1624231	+	+topic's main Wikimedia portal	+P1151
+Q1065, Q1624231	+	+Vatican Library ID (former scheme)	+P1017
+Q1065, Q1624231	+	+BIBSYS ID	+P1015
+Q1065, Q1624231	+	+Portuguese National Library ID	+P1005
+Q1065, Q1624231	+	+coat of arms image	+P94
+Q1065, Q1624231	+	+flag image	+P41
+Q1065, Q1624231	+	+official language	+P37
+Q1065, Q1624231	+	+instance of	+P31
+Q1065, Q1624231	+	+Union List of Artist Names ID	+P245
+Q1065, Q1624231	+	+Library of Congress authority ID	+P244
+Q1065, Q1624231	+	+locator map image	+P242
+Q1065, Q1624231	+	+GND ID	+P227
+Q1065, Q1624231	+	+VIAF ID	+P214
+Q1065, Q1624231	+	+ISNI	+P213
+Q1065, Q1624231	+	+award received	+P166
+Q1065, Q1624231	+	+flag	+P163
+Q1065, Q1624231	+	+headquarters location	+P159
+Q1065, Q1624231	+	+seal image	+P158
+Q1065, Q1624231	+	+logo image	+P154
+Q1065, Q1624231	+	+founded by	+P112
+Q1065, Q1624231	-	-category combines topics	-P971
+Q1065, Q1624231	-	-allegiance	-P945
+Q1065, Q1624231	-	-inspired by	-P941
+Q1065, Q1624231	-	-main subject	-P921
+Q1065, Q1624231	-	-sponsor	-P859
+Q1065, Q1624231	-	-authority	-P797
+Q1065, Q1624231	-	-approved by	-P790
+Q1065, Q1624231	-	-parent organization	-P749
+Q1065, Q1624231	-	-participant	-P710
+Q1065, Q1624231	-	-organizer	-P664
+Q1065, Q1624231	-	-commemorates	-P547
+Q1065, Q1624231	-	-target	-P533
+Q1065, Q1624231	-	-diplomatic relation	-P530
+Q1065, Q1624231	-	-has part	-P527
+Q1065, Q1624231	-	-archives at	-P485
+Q1065, Q1624231	-	-legislated by	-P467
+Q1065, Q1624231	-	-occupant	-P466
+Q1065, Q1624231	-	-member of	-P463
+Q1065, Q1624231	-	-part of	-P361
+Q1065, Q1624231	-	-designated as terrorist by	-P3461
+Q1065, Q1624231	-	-category's main topic	-P301
+Q1065, Q1624231	-	-permanent duplicated item	-P2959
+Q1065, Q1624231	-	-subclass of	-P279
+Q1065, Q1624231	-	-production company	-P272
+Q1065, Q1624231	-	-partnership with	-P2652
+Q1065, Q1624231	-	-operating area	-P2541
+Q1065, Q1624231	-	-organization directed by the office or position	-P2389
+Q1065, Q1624231	-	-issued by	-P2378
+Q1065, Q1624231	-	-depositor	-P2058
+Q1065, Q1624231	-	-signatory	-P1891
+Q1065, Q1624231	-	-different from	-P1889
+Q1065, Q1624231	-	-Wikidata property example	-P1855
+Q1065, Q1624231	-	-used by	-P1535
+Q1065, Q1624231	-	-published in	-P1433
+Q1065, Q1624231	-	-template has topic	-P1423
+Q1065, Q1624231	-	-affiliation	-P1416
+Q1065, Q1624231	-	-replaced by	-P1366
+Q1065, Q1624231	-	-winner	-P1346
+Q1065, Q1624231	-	-participant in	-P1344
+Q1065, Q1624231	-	-partner in business or sport	-P1327
+Q1065, Q1624231	-	-facet of	-P1269
+Q1065, Q1624231	-	-represents	-P1268
+Q1065, Q1624231	-	-Wikimedia portal's main topic	-P1204
+Q1065, Q1624231	-	-fictional analog of	-P1074
+Q1065, Q1624231	-	-conferred by	-P1027
+Q1065, Q1624231	-	-applies to jurisdiction	-P1001
+Q1065, Q1624231	-	-editor	-P98
+Q1065, Q1624231	-	-commissioned by	-P88
+Q1065, Q1624231	-	-author	-P50
+Q1065, Q1624231	-	-position held	-P39
+Q1065, Q1624231	-	-instance of	-P31
+Q1065, Q1624231	-	-depicts	-P180
+Q1065, Q1624231	-	-developer	-P178
+Q1065, Q1624231	-	-creator	-P170
+Q1065, Q1624231	-	-country	-P17
+Q1065, Q1624231	-	-based on	-P144
+Q1065, Q1624231	-	-named after	-P138
+Q1065, Q1624231	-	-operator	-P137
+Q1065, Q1624231	-	-owned by	-P127
+Q1065, Q1624231	-	-maintained by	-P126
+Q1065, Q1624231	-	-publisher	-P123
+Q1065, Q1624231	-	-founded by	-P112
+Q1065, Q1624231	-	-employer	-P108
+Q1065, Q1624231	-	-occupation	-P106
+Q1065, Q1624231	-	-field of work	-P101
+Q11036, Q918542	+	+Biblioteca Nacional de España ID	+P950
+Q11036, Q918542	+	+National Library of Israel ID	+P949
+Q11036, Q918542	+	+Commons gallery	+P935
+Q11036, Q918542	+	+topic's main category	+P910
+Q11036, Q918542	+	+SELIBR ID	+P906
+Q11036, Q918542	+	+official website	+P856
+Q11036, Q918542	+	+notable work	+P800
+Q11036, Q918542	+	+location of formation	+P740
+Q11036, Q918542	+	+influenced by	+P737
+Q11036, Q918542	+	+NKCR AUT ID	+P691
+Q11036, Q918542	+	+Freebase ID	+P646
+Q11036, Q918542	+	+inception	+P571
+Q11036, Q918542	+	+setlist.fm artist ID	+P5431
+Q11036, Q918542	+	+Rate Your Music artist ID	+P5404
+Q11036, Q918542	+	+The Encyclopedia of Science Fiction ID	+P5357
+Q11036, Q918542	+	+Laut.de artist ID	+P5356
+Q11036, Q918542	+	+Songfacts artist ID	+P5287
+Q11036, Q918542	+	+has part	+P527
+Q11036, Q918542	+	+All About Jazz musician ID	+P5121
+Q11036, Q918542	+	+country of origin	+P495
+Q11036, Q918542	+	+National Library of Brazil ID	+P4619
+Q11036, Q918542	+	+Store norske leksikon ID	+P4342
+Q11036, Q918542	+	+MusicBrainz artist ID	+P434
+Q11036, Q918542	+	+Billboard artist ID	+P4208
+Q11036, Q918542	+	+Google Play Music artist ID (former scheme)	+P4198
+Q11036, Q918542	+	+Carnegie Hall agent ID	+P4104
+Q11036, Q918542	+	+Libraries Australia ID	+P409
+Q11036, Q918542	+	+MOOMA artist ID	+P3733
+Q11036, Q918542	+	+Commons category	+P373
+Q11036, Q918542	+	+discography	+P358
+Q11036, Q918542	+	+Dagens Nyheter topic ID	+P3509
+Q11036, Q918542	+	+National Diet Library ID	+P349
+Q11036, Q918542	+	+Songkick artist ID	+P3478
+Q11036, Q918542	+	+IMDb ID	+P345
+Q11036, Q918542	+	+Quora topic ID	+P3417
+Q11036, Q918542	+	+BAnQ author ID	+P3280
+Q11036, Q918542	+	+Myspace ID	+P3265
+Q11036, Q918542	+	+Encyclopædia Universalis ID	+P3219
+Q11036, Q918542	+	+Last.fm ID	+P3192
+Q11036, Q918542	+	+Rock and Roll Hall of Fame ID	+P3162
+Q11036, Q918542	+	+Guardian topic ID	+P3106
+Q11036, Q918542	+	+RERO ID	+P3065
+Q11036, Q918542	+	+Rolling Stone artist ID	+P3017
+Q11036, Q918542	+	+Great Russian Encyclopedia Online ID	+P2924
+Q11036, Q918542	+	+SecondHandSongs artist ID	+P2909
+Q11036, Q918542	+	+iTunes artist ID	+P2850
+Q11036, Q918542	+	+Deezer artist ID	+P2722
+Q11036, Q918542	+	+CiNii author ID (books)	+P271
+Q11036, Q918542	+	+IdRef ID	+P269
+Q11036, Q918542	+	+Bibliothèque nationale de France ID	+P268
+Q11036, Q918542	+	+record label	+P264
+Q11036, Q918542	+	+National Discography of Italian Song artist/group ID	+P2510
+Q11036, Q918542	+	+YouTube channel ID	+P2397
+Q11036, Q918542	+	+Swedish Film Database group ID	+P2337
+Q11036, Q918542	+	+uses	+P2283
+Q11036, Q918542	+	+official symbol	+P2238
+Q11036, Q918542	+	+work period (start)	+P2031
+Q11036, Q918542	+	+Facebook ID	+P2013
+Q11036, Q918542	+	+Instagram username	+P2003
+Q11036, Q918542	+	+Twitter username	+P2002
+Q11036, Q918542	+	+Discogs artist ID	+P1953
+Q11036, Q918542	+	+Spotify artist ID	+P1902
+Q11036, Q918542	+	+CCAB ID	+P1890
+Q11036, Q918542	+	+represented by	+P1875
+Q11036, Q918542	+	+AllMusic artist ID	+P1728
+Q11036, Q918542	+	+British Museum person or institution ID	+P1711
+Q11036, Q918542	+	+Canadiana Authorities ID	+P1670
+Q11036, Q918542	+	+BBC Things ID	+P1617
+Q11036, Q918542	+	+official name	+P1448
+Q11036, Q918542	+	+topic's main template	+P1424
+Q11036, Q918542	+	+Encyclopædia Britannica Online ID	+P1417
+Q11036, Q918542	+	+nominated for	+P1411
+Q11036, Q918542	+	+NSK ID	+P1375
+Q11036, Q918542	+	+LNB ID	+P1368
+Q11036, Q918542	+	+NLA Trove ID	+P1315
+Q11036, Q918542	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q11036, Q918542	+	+Munzinger Pop ID	+P1286
+Q11036, Q918542	+	+NUKAT ID	+P1207
+Q11036, Q918542	+	+BIBSYS ID	+P1015
+Q11036, Q918542	+	+Portuguese National Library ID	+P1005
+Q11036, Q918542	+	+instance of	+P31
+Q11036, Q918542	+	+Library of Congress authority ID	+P244
+Q11036, Q918542	+	+GND ID	+P227
+Q11036, Q918542	+	+VIAF ID	+P214
+Q11036, Q918542	+	+ISNI	+P213
+Q11036, Q918542	+	+image	+P18
+Q11036, Q918542	+	+country	+P17
+Q11036, Q918542	+	+award received	+P166
+Q11036, Q918542	+	+named after	+P138
+Q11036, Q918542	+	+genre	+P136
+Q11036, Q918542	-	-category combines topics	-P971
+Q11036, Q918542	-	-main subject	-P921
+Q11036, Q918542	-	-dedicated to	-P825
+Q11036, Q918542	-	-influenced by	-P737
+Q11036, Q918542	-	-member of	-P463
+Q11036, Q918542	-	-part of	-P361
+Q11036, Q918542	-	-category's main topic	-P301
+Q11036, Q918542	-	-used by	-P1535
+Q11036, Q918542	-	-template has topic	-P1423
+Q11036, Q918542	-	-winner	-P1346
+Q11036, Q918542	-	-represents	-P1268
+Q11036, Q918542	-	-composer	-P86
+Q11036, Q918542	-	-performer	-P175
+Q11036, Q918542	-	-producer	-P162
+Q11036, Q918542	-	-cast member	-P161
+Q11036, Q918542	-	-named after	-P138
+Q11036, Q918542	-	-founded by	-P112
+Q11036, Q918542	-	-employer	-P108
+Q229313, Q102427	+	+Biblioteca Nacional de España ID	+P950
+Q229313, Q102427	+	+given name	+P735
+Q229313, Q102427	+	+family name	+P734
+Q229313, Q102427	+	+NKCR AUT ID	+P691
+Q229313, Q102427	+	+Freebase ID	+P646
+Q229313, Q102427	+	+date of birth	+P569
+Q229313, Q102427	+	+Open Media Database person ID	+P5534
+Q229313, Q102427	+	+residence	+P551
+Q229313, Q102427	+	+Kino-teatr.ua person ID	+P5312
+Q229313, Q102427	+	+Filmweb.pl person ID	+P5033
+Q229313, Q102427	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q229313, Q102427	+	+TMDb person ID	+P4985
+Q229313, Q102427	+	+Internet Off-Broadway Database creditable entity ID	+P4456
+Q229313, Q102427	+	+Store norske leksikon ID	+P4342
+Q229313, Q102427	+	+Carnegie Hall agent ID	+P4104
+Q229313, Q102427	+	+Commons category	+P373
+Q229313, Q102427	+	+Sina Weibo user ID	+P3579
+Q229313, Q102427	+	+IMDb ID	+P345
+Q229313, Q102427	+	+KINENOTE person ID	+P3305
+Q229313, Q102427	+	+ISzDb person ID	+P3114
+Q229313, Q102427	+	+TCM Movie Database person ID	+P3056
+Q229313, Q102427	+	+Snapchat username	+P2984
+Q229313, Q102427	+	+WikiTree person ID	+P2949
+Q229313, Q102427	+	+IdRef ID	+P269
+Q229313, Q102427	+	+Box Office Mojo person ID	+P2688
+Q229313, Q102427	+	+Bibliothèque nationale de France ID	+P268
+Q229313, Q102427	+	+TV.com ID	+P2638
+Q229313, Q102427	+	+Danish National Filmography person ID	+P2626
+Q229313, Q102427	+	+ČSFD person ID	+P2605
+Q229313, Q102427	+	+Kinopoisk person ID	+P2604
+Q229313, Q102427	+	+Scope.dk person ID	+P2519
+Q229313, Q102427	+	+Models.com person ID	+P2471
+Q229313, Q102427	+	+PORT person ID	+P2435
+Q229313, Q102427	+	+Elonet person ID	+P2387
+Q229313, Q102427	+	+Swedish Film Database person ID	+P2168
+Q229313, Q102427	+	+work period (start)	+P2031
+Q229313, Q102427	+	+AllMovie person ID	+P2019
+Q229313, Q102427	+	+Facebook ID	+P2013
+Q229313, Q102427	+	+Instagram username	+P2003
+Q229313, Q102427	+	+Twitter username	+P2002
+Q229313, Q102427	+	+number of children	+P1971
+Q229313, Q102427	+	+Discogs artist ID	+P1953
+Q229313, Q102427	+	+hair color	+P1884
+Q229313, Q102427	+	+GTAA ID	+P1741
+Q229313, Q102427	+	+NLP ID (unique)	+P1695
+Q229313, Q102427	+	+lifestyle	+P1576
+Q229313, Q102427	+	+birth name	+P1477
+Q229313, Q102427	+	+languages spoken, written or signed	+P1412
+Q229313, Q102427	+	+nominated for	+P1411
+Q229313, Q102427	+	+described by source	+P1343
+Q229313, Q102427	+	+Munzinger person ID	+P1284
+Q229313, Q102427	+	+filmography	+P1283
+Q229313, Q102427	+	+CANTIC ID	+P1273
+Q229313, Q102427	+	+AlloCiné person ID	+P1266
+Q229313, Q102427	+	+NNDB people ID	+P1263
+Q229313, Q102427	+	+Internet Broadway Database person ID	+P1220
+Q229313, Q102427	+	+NUKAT ID	+P1207
+Q229313, Q102427	+	+educated at	+P69
+Q229313, Q102427	+	+instance of	+P31
+Q229313, Q102427	+	+country of citizenship	+P27
+Q229313, Q102427	+	+Library of Congress authority ID	+P244
+Q229313, Q102427	+	+GND ID	+P227
+Q229313, Q102427	+	+VIAF ID	+P214
+Q229313, Q102427	+	+ISNI	+P213
+Q229313, Q102427	+	+sex or gender	+P21
+Q229313, Q102427	+	+place of birth	+P19
+Q229313, Q102427	+	+image	+P18
+Q229313, Q102427	+	+award received	+P166
+Q229313, Q102427	+	+occupation	+P106
+Q229313, Q102427	-	-main subject	-P921
+Q229313, Q102427	-	-voice actor	-P725
+Q229313, Q102427	-	-narrator	-P2438
+Q229313, Q102427	-	-winner	-P1346
+Q229313, Q102427	-	-performer	-P175
+Q229313, Q102427	-	-producer	-P162
+Q229313, Q102427	-	-cast member	-P161
+Q748, Q1309633	+	+spoken text audio	+P989
+Q748, Q1309633	+	+page banner	+P948
+Q748, Q1309633	+	+topic's main category	+P910
+Q748, Q1309633	+	+HDS ID	+P902
+Q748, Q1309633	+	+has edition or translation	+P747
+Q748, Q1309633	+	+location of formation	+P740
+Q748, Q1309633	+	+Freebase ID	+P646
+Q748, Q1309633	+	+inception	+P571
+Q748, Q1309633	+	+EuroVoc ID	+P5437
+Q748, Q1309633	+	+IPTC NewsCode	+P5429
+Q748, Q1309633	+	+Canadian Encyclopedia article ID	+P5395
+Q748, Q1309633	+	+IAB code	+P5250
+Q748, Q1309633	+	+Giant Bomb ID	+P5247
+Q748, Q1309633	+	+ASC Leiden Thesaurus ID	+P5198
+Q748, Q1309633	+	+Wikimedia outline	+P5125
+Q748, Q1309633	+	+BNCF Thesaurus ID	+P508
+Q748, Q1309633	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q748, Q1309633	+	+on focus list of Wikimedia project	+P5008
+Q748, Q1309633	+	+New Georgia Encyclopedia ID	+P4903
+Q748, Q1309633	+	+MeSH descriptor ID	+P486
+Q748, Q1309633	+	+UK Parliament thesaurus ID	+P4527
+Q748, Q1309633	+	+pronunciation audio	+P443
+Q748, Q1309633	+	+Store norske leksikon ID	+P4342
+Q748, Q1309633	+	+PACTOLS thesaurus ID	+P4212
+Q748, Q1309633	+	+subreddit	+P3984
+Q748, Q1309633	+	+UNESCO Thesaurus ID	+P3916
+Q748, Q1309633	+	+Open Library subject ID	+P3847
+Q748, Q1309633	+	+JSTOR topic ID	+P3827
+Q748, Q1309633	+	+Commons category	+P373
+Q748, Q1309633	+	+Le Monde diplomatique subject ID	+P3612
+Q748, Q1309633	+	+Cultureel Woordenboek ID	+P3569
+Q748, Q1309633	+	+National Diet Library ID	+P349
+Q748, Q1309633	+	+Quora topic ID	+P3417
+Q748, Q1309633	+	+Treccani ID	+P3365
+Q748, Q1309633	+	+Catholic Encyclopedia ID	+P3241
+Q748, Q1309633	+	+NE.se ID	+P3222
+Q748, Q1309633	+	+New York Times topic ID	+P3221
+Q748, Q1309633	+	+Encyclopædia Universalis ID	+P3219
+Q748, Q1309633	+	+Guardian topic ID	+P3106
+Q748, Q1309633	+	+practiced by	+P3095
+Q748, Q1309633	+	+Great Russian Encyclopedia Online ID	+P2924
+Q748, Q1309633	+	+subclass of	+P279
+Q748, Q1309633	+	+Bibliothèque nationale de France ID	+P268
+Q748, Q1309633	+	+TED topic ID	+P2612
+Q748, Q1309633	+	+BabelNet ID	+P2581
+Q748, Q1309633	+	+studied by	+P2579
+Q748, Q1309633	+	+YSO ID	+P2347
+Q748, Q1309633	+	+member count	+P2124
+Q748, Q1309633	+	+Global Anabaptist Mennonite Encyclopedia Online ID	+P1842
+Q748, Q1309633	+	+topic's main template	+P1424
+Q748, Q1309633	+	+Encyclopædia Britannica Online ID	+P1417
+Q748, Q1309633	+	+described by source	+P1343
+Q748, Q1309633	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q748, Q1309633	+	+OpenStreetMap tag or key	+P1282
+Q748, Q1309633	+	+OmegaWiki Defined Meaning	+P1245
+Q748, Q1309633	+	+U.S. National Archives Identifier	+P1225
+Q748, Q1309633	+	+Universal Decimal Classification	+P1190
+Q748, Q1309633	+	+topic's main Wikimedia portal	+P1151
+Q748, Q1309633	+	+PSH ID	+P1051
+Q748, Q1309633	+	+Dewey Decimal Classification	+P1036
+Q748, Q1309633	+	+Art & Architecture Thesaurus ID	+P1014
+Q748, Q1309633	+	+instance of	+P31
+Q748, Q1309633	+	+Library of Congress authority ID	+P244
+Q748, Q1309633	+	+GND ID	+P227
+Q748, Q1309633	+	+image	+P18
+Q748, Q1309633	+	+named after	+P138
+Q748, Q1309633	+	+founded by	+P112
+Q748, Q1309633	-	-category combines topics	-P971
+Q748, Q1309633	-	-inspired by	-P941
+Q748, Q1309633	-	-main subject	-P921
+Q748, Q1309633	-	-influenced by	-P737
+Q748, Q1309633	-	-religious order	-P611
+Q748, Q1309633	-	-field of this occupation	-P425
+Q748, Q1309633	-	-part of	-P361
+Q748, Q1309633	-	-official religion	-P3075
+Q748, Q1309633	-	-category's main topic	-P301
+Q748, Q1309633	-	-subclass of	-P279
+Q748, Q1309633	-	-interested in	-P2650
+Q748, Q1309633	-	-culture	-P2596
+Q748, Q1309633	-	-studies	-P2578
+Q748, Q1309633	-	-different from	-P1889
+Q748, Q1309633	-	-Wikidata property example	-P1855
+Q748, Q1309633	-	-lifestyle	-P1576
+Q748, Q1309633	-	-template has topic	-P1423
+Q748, Q1309633	-	-affiliation	-P1416
+Q748, Q1309633	-	-facet of	-P1269
+Q748, Q1309633	-	-represents	-P1268
+Q748, Q1309633	-	-Wikimedia portal's main topic	-P1204
+Q748, Q1309633	-	-political ideology	-P1142
+Q748, Q1309633	-	-worshipped by	-P1049
+Q748, Q1309633	-	-academic thesis	-P1026
+Q748, Q1309633	-	-instance of	-P31
+Q748, Q1309633	-	-depicts	-P180
+Q748, Q1309633	-	-religion	-P140
+Q748, Q1309633	-	-genre	-P136
+Q748, Q1309633	-	-movement	-P135
+Q748, Q1309633	-	-occupation	-P106
+Q748, Q1309633	-	-field of work	-P101
+Q49740, Q178990	+	+programmer	+P943
+Q49740, Q178990	+	+USK rating	+P914
+Q49740, Q178990	+	+topic's main category	+P910
+Q49740, Q178990	+	+PEGI rating	+P908
+Q49740, Q178990	+	+official website	+P856
+Q49740, Q178990	+	+CERO rating	+P853
+Q49740, Q178990	+	+ESRB rating	+P852
+Q49740, Q178990	+	+distributed by	+P750
+Q49740, Q178990	+	+influenced by	+P737
+Q49740, Q178990	+	+NKCR AUT ID	+P691
+Q49740, Q178990	+	+Freebase ID	+P646
+Q49740, Q178990	+	+Google News topics ID	+P5337
+Q49740, Q178990	+	+Giant Bomb ID	+P5247
+Q49740, Q178990	+	+country of origin	+P495
+Q49740, Q178990	+	+Gaming-History ID	+P4806
+Q49740, Q178990	+	+input method	+P479
+Q49740, Q178990	+	+Twitch category ID	+P4467
+Q49740, Q178990	+	+review score	+P444
+Q49740, Q178990	+	+distribution format	+P437
+Q49740, Q178990	+	+Store norske leksikon ID	+P4342
+Q49740, Q178990	+	+Fandom wiki ID	+P4073
+Q49740, Q178990	+	+soundtrack release	+P406
+Q49740, Q178990	+	+game mode	+P404
+Q49740, Q178990	+	+platform	+P400
+Q49740, Q178990	+	+subreddit	+P3984
+Q49740, Q178990	+	+copyright holder	+P3931
+Q49740, Q178990	+	+App Store app ID (global)	+P3861
+Q49740, Q178990	+	+Commons category	+P373
+Q49740, Q178990	+	+Babelio author ID	+P3630
+Q49740, Q178990	+	+software version identifier	+P348
+Q49740, Q178990	+	+IMDb ID	+P345
+Q49740, Q178990	+	+Quora topic ID	+P3417
+Q49740, Q178990	+	+NE.se ID	+P3222
+Q49740, Q178990	+	+operating system	+P306
+Q49740, Q178990	+	+designed by	+P287
+Q49740, Q178990	+	+programming language	+P277
+Q49740, Q178990	+	+copyright license	+P275
+Q49740, Q178990	+	+BabelNet ID	+P2581
+Q49740, Q178990	+	+name	+P2561
+Q49740, Q178990	+	+YouTube channel ID	+P2397
+Q49740, Q178990	+	+YSO ID	+P2347
+Q49740, Q178990	+	+Museum of Modern Art work ID	+P2014
+Q49740, Q178990	+	+Twitter username	+P2002
+Q49740, Q178990	+	+MobyGames game ID	+P1933
+Q49740, Q178990	+	+different from	+P1889
+Q49740, Q178990	+	+minimum number of players	+P1872
+Q49740, Q178990	+	+Wikidata property	+P1687
+Q49740, Q178990	+	+port	+P1641
+Q49740, Q178990	+	+has quality	+P1552
+Q49740, Q178990	+	+Stack Exchange tag	+P1482
+Q49740, Q178990	+	+title	+P1476
+Q49740, Q178990	+	+takes place in fictional universe	+P1434
+Q49740, Q178990	+	+bug tracking system	+P1401
+Q49740, Q178990	+	+topic's main Wikimedia portal	+P1151
+Q49740, Q178990	+	+composer	+P86
+Q49740, Q178990	+	+instance of	+P31
+Q49740, Q178990	+	+Library of Congress authority ID	+P244
+Q49740, Q178990	+	+GND ID	+P227
+Q49740, Q178990	+	+VIAF ID	+P214
+Q49740, Q178990	+	+collection	+P195
+Q49740, Q178990	+	+developer	+P178
+Q49740, Q178990	+	+award received	+P166
+Q49740, Q178990	+	+genre	+P136
+Q49740, Q178990	+	+publisher	+P123
+Q49740, Q178990	+	+founded by	+P112
+Q49740, Q178990	-	-inspired by	-P941
+Q49740, Q178990	-	-main subject	-P921
+Q49740, Q178990	-	-has part	-P527
+Q49740, Q178990	-	-part of	-P361
+Q49740, Q178990	-	-category's main topic	-P301
+Q49740, Q178990	-	-record label	-P264
+Q49740, Q178990	-	-different from	-P1889
+Q49740, Q178990	-	-Wikidata property example	-P1855
+Q49740, Q178990	-	-subject item of this property	-P1629
+Q49740, Q178990	-	-used by	-P1535
+Q49740, Q178990	-	-fictional universe described in	-P1445
+Q49740, Q178990	-	-present in work	-P1441
+Q49740, Q178990	-	-depicted by	-P1299
+Q49740, Q178990	-	-Wikimedia portal's main topic	-P1204
+Q49740, Q178990	-	-product or material produced	-P1056
+Q49740, Q178990	-	-part of the series	-P179
+Q49740, Q178990	-	-based on	-P144
+Q1203, Q211573	+	+Biblioteca Nacional de España ID	+P950
+Q1203, Q211573	+	+National Library of Israel ID	+P949
+Q1203, Q211573	+	+Commons gallery	+P935
+Q1203, Q211573	+	+topic's main category	+P910
+Q1203, Q211573	+	+SELIBR ID	+P906
+Q1203, Q211573	+	+Perlentaucher ID	+P866
+Q1203, Q211573	+	+official website	+P856
+Q1203, Q211573	+	+notable work	+P800
+Q1203, Q211573	+	+given name	+P735
+Q1203, Q211573	+	+family name	+P734
+Q1203, Q211573	+	+Digitale Bibliotheek voor de Nederlandse Letteren author ID	+P723
+Q1203, Q211573	+	+NKCR AUT ID	+P691
+Q1203, Q211573	+	+RKDartists ID	+P650
+Q1203, Q211573	+	+Open Library ID	+P648
+Q1203, Q211573	+	+Freebase ID	+P646
+Q1203, Q211573	+	+date of death	+P570
+Q1203, Q211573	+	+date of birth	+P569
+Q1203, Q211573	+	+Open Media Database person ID	+P5534
+Q1203, Q211573	+	+residence	+P551
+Q1203, Q211573	+	+Trading Card Database person ID	+P5421
+Q1203, Q211573	+	+Find A Grave memorial ID	+P535
+Q1203, Q211573	+	+American Film Institute person ID	+P5340
+Q1203, Q211573	+	+Songfacts artist ID	+P5287
+Q1203, Q211573	+	+FilmTv.it person ID	+P5254
+Q1203, Q211573	+	+Giant Bomb ID	+P5247
+Q1203, Q211573	+	+All About Jazz musician ID	+P5121
+Q1203, Q211573	+	+cause of death	+P509
+Q1203, Q211573	+	+Flanders Arts Institute person ID	+P5068
+Q1203, Q211573	+	+Interlingual Index ID	+P5063
+Q1203, Q211573	+	+National Library of Korea ID	+P5034
+Q1203, Q211573	+	+Filmweb.pl person ID	+P5033
+Q1203, Q211573	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q1203, Q211573	+	+Behind The Voice Actors person ID	+P5007
+Q1203, Q211573	+	+TMDb person ID	+P4985
+Q1203, Q211573	+	+Invaluable.com person ID	+P4927
+Q1203, Q211573	+	+American National Biography ID	+P4823
+Q1203, Q211573	+	+MYmovies name ID	+P4785
+Q1203, Q211573	+	+Movieplayer person ID	+P4782
+Q1203, Q211573	+	+MYmovies director ID	+P4781
+Q1203, Q211573	+	+MYmovies actor ID	+P4779
+Q1203, Q211573	+	+cinematografo.it name or company ID	+P4768
+Q1203, Q211573	+	+Songwriters Hall of Fame ID	+P4757
+Q1203, Q211573	+	+Eldoblaje original actor ID	+P4682
+Q1203, Q211573	+	+CineMagia person ID	+P4666
+Q1203, Q211573	+	+DACS ID	+P4663
+Q1203, Q211573	+	+The Numbers person ID	+P4657
+Q1203, Q211573	+	+member of	+P463
+Q1203, Q211573	+	+National Library of Brazil ID	+P4619
+Q1203, Q211573	+	+Prisma ID	+P4515
+Q1203, Q211573	+	+unmarried partner	+P451
+Q1203, Q211573	+	+MNCARS artist ID	+P4439
+Q1203, Q211573	+	+BFI Films, TV and people ID	+P4438
+Q1203, Q211573	+	+Google Doodle	+P4431
+Q1203, Q211573	+	+gravsted.dk ID	+P4359
+Q1203, Q211573	+	+Store norske leksikon ID	+P4342
+Q1203, Q211573	+	+MusicBrainz artist ID	+P434
+Q1203, Q211573	+	+Deutsche Synchronkartei actor ID	+P4332
+Q1203, Q211573	+	+BFI Filmography person ID	+P4326
+Q1203, Q211573	+	+LUMIERE director ID	+P4283
+Q1203, Q211573	+	+Billboard artist ID	+P4208
+Q1203, Q211573	+	+voice type	+P412
+Q1203, Q211573	+	+Carnegie Hall agent ID	+P4104
+Q1203, Q211573	+	+Libraries Australia ID	+P409
+Q1203, Q211573	+	+MyAnimeList people ID	+P4084
+Q1203, Q211573	+	+Bait La Zemer Ha-Ivri artist ID	+P3997
+Q1203, Q211573	+	+Unifrance person ID	+P3980
+Q1203, Q211573	+	+SBN author ID	+P396
+Q1203, Q211573	+	+Cinema.de ID	+P3933
+Q1203, Q211573	+	+ADAGP artist ID	+P3901
+Q1203, Q211573	+	+DBC author ID	+P3846
+Q1203, Q211573	+	+TV Guide person ID (former scheme)	+P3845
+Q1203, Q211573	+	+BNMM authority ID	+P3788
+Q1203, Q211573	+	+Artnet artist ID	+P3782
+Q1203, Q211573	+	+openMLOL author ID	+P3762
+Q1203, Q211573	+	+MOOMA artist ID	+P3733
+Q1203, Q211573	+	+Commons category	+P373
+Q1203, Q211573	+	+Babelio author ID	+P3630
+Q1203, Q211573	+	+part of	+P361
+Q1203, Q211573	+	+discography	+P358
+Q1203, Q211573	+	+Te Papa agent ID	+P3544
+Q1203, Q211573	+	+National Diet Library ID	+P349
+Q1203, Q211573	+	+Songkick artist ID	+P3478
+Q1203, Q211573	+	+IMDb ID	+P345
+Q1203, Q211573	+	+VGMdb artist ID	+P3435
+Q1203, Q211573	+	+SNAC Ark ID	+P3430
+Q1203, Q211573	+	+Quora topic ID	+P3417
+Q1203, Q211573	+	+National Library of Greece ID	+P3348
+Q1203, Q211573	+	+Kvikmyndir person ID	+P3341
+Q1203, Q211573	+	+KINENOTE person ID	+P3305
+Q1203, Q211573	+	+BAnQ author ID	+P3280
+Q1203, Q211573	+	+NE.se ID	+P3222
+Q1203, Q211573	+	+Encyclopædia Universalis ID	+P3219
+Q1203, Q211573	+	+Ciné-Ressources person ID	+P3204
+Q1203, Q211573	+	+Last.fm ID	+P3192
+Q1203, Q211573	+	+Rock and Roll Hall of Fame ID	+P3162
+Q1203, Q211573	+	+Runeberg author ID	+P3154
+Q1203, Q211573	+	+EDb person ID	+P3142
+Q1203, Q211573	+	+elCinema person ID	+P3136
+Q1203, Q211573	+	+ISzDb person ID	+P3114
+Q1203, Q211573	+	+Guardian topic ID	+P3106
+Q1203, Q211573	+	+RERO ID	+P3065
+Q1203, Q211573	+	+TCM Movie Database person ID	+P3056
+Q1203, Q211573	+	+UK National Archives ID	+P3029
+Q1203, Q211573	+	+Rolling Stone artist ID	+P3017
+Q1203, Q211573	+	+National Library of Wales Authority ID	+P2966
+Q1203, Q211573	+	+Goodreads author ID	+P2963
+Q1203, Q211573	+	+WikiTree person ID	+P2949
+Q1203, Q211573	+	+Great Russian Encyclopedia Online ID	+P2924
+Q1203, Q211573	+	+FamilySearch person ID	+P2889
+Q1203, Q211573	+	+iTunes artist ID	+P2850
+Q1203, Q211573	+	+Google+ ID	+P2847
+Q1203, Q211573	+	+Deezer artist ID	+P2722
+Q1203, Q211573	+	+CiNii author ID (books)	+P271
+Q1203, Q211573	+	+IdRef ID	+P269
+Q1203, Q211573	+	+Bibliothèque nationale de France ID	+P268
+Q1203, Q211573	+	+record label	+P264
+Q1203, Q211573	+	+Filmportal ID	+P2639
+Q1203, Q211573	+	+TV.com ID	+P2638
+Q1203, Q211573	+	+Danish National Filmography person ID	+P2626
+Q1203, Q211573	+	+ČSFD person ID	+P2605
+Q1203, Q211573	+	+Kinopoisk person ID	+P2604
+Q1203, Q211573	+	+Geni.com profile ID	+P2600
+Q1203, Q211573	+	+Scope.dk person ID	+P2519
+Q1203, Q211573	+	+National Discography of Italian Song artist/group ID	+P2510
+Q1203, Q211573	+	+Theatricalia person ID	+P2469
+Q1203, Q211573	+	+PORT person ID	+P2435
+Q1203, Q211573	+	+YouTube channel ID	+P2397
+Q1203, Q211573	+	+Elonet person ID	+P2387
+Q1203, Q211573	+	+time period	+P2348
+Q1203, Q211573	+	+Museum of Modern Art artist ID	+P2174
+Q1203, Q211573	+	+Swedish Film Database person ID	+P2168
+Q1203, Q211573	+	+FAST ID	+P2163
+Q1203, Q211573	+	+Artsy artist ID	+P2042
+Q1203, Q211573	+	+work period (end)	+P2032
+Q1203, Q211573	+	+work period (start)	+P2031
+Q1203, Q211573	+	+AllMovie person ID	+P2019
+Q1203, Q211573	+	+Facebook ID	+P2013
+Q1203, Q211573	+	+Instagram username	+P2003
+Q1203, Q211573	+	+Twitter username	+P2002
+Q1203, Q211573	+	+Le Delarge ID	+P1988
+Q1203, Q211573	+	+Les Archives du Spectacle Person ID	+P1977
+Q1203, Q211573	+	+number of children	+P1971
+Q1203, Q211573	+	+MovieMeter director ID	+P1969
+Q1203, Q211573	+	+Discogs artist ID	+P1953
+Q1203, Q211573	+	+Spotify artist ID	+P1902
+Q1203, Q211573	+	+CCAB ID	+P1890
+Q1203, Q211573	+	+different from	+P1889
+Q1203, Q211573	+	+IPI name number	+P1828
+Q1203, Q211573	+	+genealogics.org person ID	+P1819
+Q1203, Q211573	+	+National Portrait Gallery (London) person ID	+P1816
+Q1203, Q211573	+	+GTAA ID	+P1741
+Q1203, Q211573	+	+AllMusic artist ID	+P1728
+Q1203, Q211573	+	+Metacritic ID	+P1712
+Q1203, Q211573	+	+British Museum person or institution ID	+P1711
+Q1203, Q211573	+	+NLP ID (unique)	+P1695
+Q1203, Q211573	+	+Canadiana Authorities ID	+P1670
+Q1203, Q211573	+	+University of Barcelona authority ID	+P1580
+Q1203, Q211573	+	+name in native language	+P1559
+Q1203, Q211573	+	+birth name	+P1477
+Q1203, Q211573	+	+OpenPlaques subject ID	+P1430
+Q1203, Q211573	+	+topic's main template	+P1424
+Q1203, Q211573	+	+Encyclopædia Britannica Online ID	+P1417
+Q1203, Q211573	+	+Oxford Dictionary of National Biography ID	+P1415
+Q1203, Q211573	+	+languages spoken, written or signed	+P1412
+Q1203, Q211573	+	+nominated for	+P1411
+Q1203, Q211573	+	+NSK ID	+P1375
+Q1203, Q211573	+	+LNB ID	+P1368
+Q1203, Q211573	+	+described by source	+P1343
+Q1203, Q211573	+	+partner in business or sport	+P1327
+Q1203, Q211573	+	+NLA Trove ID	+P1315
+Q1203, Q211573	+	+instrument	+P1303
+Q1203, Q211573	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q1203, Q211573	+	+Munzinger Pop ID	+P1286
+Q1203, Q211573	+	+Munzinger person ID	+P1284
+Q1203, Q211573	+	+CONOR.SI ID	+P1280
+Q1203, Q211573	+	+CANTIC ID	+P1273
+Q1203, Q211573	+	+AlloCiné person ID	+P1266
+Q1203, Q211573	+	+NNDB people ID	+P1263
+Q1203, Q211573	+	+Rotten Tomatoes ID	+P1258
+Q1203, Q211573	+	+Internet Speculative Fiction Database author ID	+P1233
+Q1203, Q211573	+	+Internet Broadway Database person ID	+P1220
+Q1203, Q211573	+	+NUKAT ID	+P1207
+Q1203, Q211573	+	+manner of death	+P1196
+Q1203, Q211573	+	+student of	+P1066
+Q1203, Q211573	+	+relative	+P1038
+Q1203, Q211573	+	+BIBSYS ID	+P1015
+Q1203, Q211573	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q1203, Q211573	+	+Portuguese National Library ID	+P1005
+Q1203, Q211573	+	+National Library of Romania ID	+P1003
+Q1203, Q211573	+	+sexual orientation	+P91
+Q1203, Q211573	+	+educated at	+P69
+Q1203, Q211573	+	+child	+P40
+Q1203, Q211573	+	+instance of	+P31
+Q1203, Q211573	+	+country of citizenship	+P27
+Q1203, Q211573	+	+spouse	+P26
+Q1203, Q211573	+	+mother	+P25
+Q1203, Q211573	+	+Union List of Artist Names ID	+P245
+Q1203, Q211573	+	+Library of Congress authority ID	+P244
+Q1203, Q211573	+	+GND ID	+P227
+Q1203, Q211573	+	+father	+P22
+Q1203, Q211573	+	+VIAF ID	+P214
+Q1203, Q211573	+	+ISNI	+P213
+Q1203, Q211573	+	+sex or gender	+P21
+Q1203, Q211573	+	+place of death	+P20
+Q1203, Q211573	+	+place of birth	+P19
+Q1203, Q211573	+	+image	+P18
+Q1203, Q211573	+	+award received	+P166
+Q1203, Q211573	+	+killed by	+P157
+Q1203, Q211573	+	+religion	+P140
+Q1203, Q211573	+	+genre	+P136
+Q1203, Q211573	+	+place of burial	+P119
+Q1203, Q211573	+	+signature	+P109
+Q1203, Q211573	+	+occupation	+P106
+Q1203, Q211573	-	-category combines topics	-P971
+Q1203, Q211573	-	-main subject	-P921
+Q1203, Q211573	-	-dedicated to	-P825
+Q1203, Q211573	-	-contributor to the creative work or subject	-P767
+Q1203, Q211573	-	-influenced by	-P737
+Q1203, Q211573	-	-participant	-P710
+Q1203, Q211573	-	-lyrics by	-P676
+Q1203, Q211573	-	-characters	-P674
+Q1203, Q211573	-	-commemorates	-P547
+Q1203, Q211573	-	-target	-P533
+Q1203, Q211573	-	-has part	-P527
+Q1203, Q211573	-	-adapted by	-P5202
+Q1203, Q211573	-	-occupant	-P466
+Q1203, Q211573	-	-category's main topic	-P301
+Q1203, Q211573	-	-different from	-P1889
+Q1203, Q211573	-	-Wikidata property example	-P1855
+Q1203, Q211573	-	-used by	-P1535
+Q1203, Q211573	-	-template has topic	-P1423
+Q1203, Q211573	-	-winner	-P1346
+Q1203, Q211573	-	-partner in business or sport	-P1327
+Q1203, Q211573	-	-facet of	-P1269
+Q1203, Q211573	-	-relative	-P1038
+Q1203, Q211573	-	-composer	-P86
+Q1203, Q211573	-	-screenwriter	-P58
+Q1203, Q211573	-	-director	-P57
+Q1203, Q211573	-	-author	-P50
+Q1203, Q211573	-	-child	-P40
+Q1203, Q211573	-	-spouse	-P26
+Q1203, Q211573	-	-father	-P22
+Q1203, Q211573	-	-depicts	-P180
+Q1203, Q211573	-	-performer	-P175
+Q1203, Q211573	-	-producer	-P162
+Q1203, Q211573	-	-cast member	-P161
+Q1203, Q211573	-	-named after	-P138
+Q1203, Q211573	-	-owned by	-P127
+Q1203, Q211573	-	-founded by	-P112
+Q34851, Q294	+	+Biblioteca Nacional de España ID	+P950
+Q34851, Q294	+	+National Library of Israel ID	+P949
+Q34851, Q294	+	+Commons gallery	+P935
+Q34851, Q294	+	+topic's main category	+P910
+Q34851, Q294	+	+SELIBR ID	+P906
+Q34851, Q294	+	+official website	+P856
+Q34851, Q294	+	+influenced by	+P737
+Q34851, Q294	+	+given name	+P735
+Q34851, Q294	+	+family name	+P734
+Q34851, Q294	+	+NKCR AUT ID	+P691
+Q34851, Q294	+	+Open Library ID	+P648
+Q34851, Q294	+	+Freebase ID	+P646
+Q34851, Q294	+	+date of death	+P570
+Q34851, Q294	+	+date of birth	+P569
+Q34851, Q294	+	+Open Media Database person ID	+P5534
+Q34851, Q294	+	+Trading Card Database person ID	+P5421
+Q34851, Q294	+	+Find A Grave memorial ID	+P535
+Q34851, Q294	+	+honorific prefix	+P511
+Q34851, Q294	+	+cause of death	+P509
+Q34851, Q294	+	+Interlingual Index ID	+P5063
+Q34851, Q294	+	+National Library of Korea ID	+P5034
+Q34851, Q294	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q34851, Q294	+	+on focus list of Wikimedia project	+P5008
+Q34851, Q294	+	+TMDb person ID	+P4985
+Q34851, Q294	+	+Invaluable.com person ID	+P4927
+Q34851, Q294	+	+cinematografo.it name or company ID	+P4768
+Q34851, Q294	+	+CineMagia person ID	+P4666
+Q34851, Q294	+	+The Numbers person ID	+P4657
+Q34851, Q294	+	+The Peerage person ID	+P4638
+Q34851, Q294	+	+Store norske leksikon ID	+P4342
+Q34851, Q294	+	+MusicBrainz artist ID	+P434
+Q34851, Q294	+	+WeRelate person ID	+P4159
+Q34851, Q294	+	+Athenaeum person ID	+P4145
+Q34851, Q294	+	+Libraries Australia ID	+P409
+Q34851, Q294	+	+Elle.fr person ID	+P3812
+Q34851, Q294	+	+BNMM authority ID	+P3788
+Q34851, Q294	+	+openMLOL author ID	+P3762
+Q34851, Q294	+	+Commons category	+P373
+Q34851, Q294	+	+Cultureel Woordenboek ID	+P3569
+Q34851, Q294	+	+National Diet Library ID	+P349
+Q34851, Q294	+	+Songkick artist ID	+P3478
+Q34851, Q294	+	+IMDb ID	+P345
+Q34851, Q294	+	+SNAC Ark ID	+P3430
+Q34851, Q294	+	+Quora topic ID	+P3417
+Q34851, Q294	+	+significant person	+P3342
+Q34851, Q294	+	+NE.se ID	+P3222
+Q34851, Q294	+	+Encyclopædia Universalis ID	+P3219
+Q34851, Q294	+	+TCM Movie Database person ID	+P3056
+Q34851, Q294	+	+National Library of Wales Authority ID	+P2966
+Q34851, Q294	+	+WikiTree person ID	+P2949
+Q34851, Q294	+	+Great Russian Encyclopedia Online ID	+P2924
+Q34851, Q294	+	+FamilySearch person ID	+P2889
+Q34851, Q294	+	+CiNii author ID (books)	+P271
+Q34851, Q294	+	+IdRef ID	+P269
+Q34851, Q294	+	+Bibliothèque nationale de France ID	+P268
+Q34851, Q294	+	+Filmportal ID	+P2639
+Q34851, Q294	+	+TV.com ID	+P2638
+Q34851, Q294	+	+Danish National Filmography person ID	+P2626
+Q34851, Q294	+	+ČSFD person ID	+P2605
+Q34851, Q294	+	+Kinopoisk person ID	+P2604
+Q34851, Q294	+	+Geni.com profile ID	+P2600
+Q34851, Q294	+	+Scope.dk person ID	+P2519
+Q34851, Q294	+	+Theatricalia person ID	+P2469
+Q34851, Q294	+	+PORT person ID	+P2435
+Q34851, Q294	+	+Elonet person ID	+P2387
+Q34851, Q294	+	+Swedish Film Database person ID	+P2168
+Q34851, Q294	+	+FAST ID	+P2163
+Q34851, Q294	+	+work period (end)	+P2032
+Q34851, Q294	+	+work period (start)	+P2031
+Q34851, Q294	+	+AllMovie person ID	+P2019
+Q34851, Q294	+	+Cooper-Hewitt Person ID	+P2011
+Q34851, Q294	+	+Instagram username	+P2003
+Q34851, Q294	+	+Twitter username	+P2002
+Q34851, Q294	+	+number of children	+P1971
+Q34851, Q294	+	+Discogs artist ID	+P1953
+Q34851, Q294	+	+Spotify artist ID	+P1902
+Q34851, Q294	+	+hair color	+P1884
+Q34851, Q294	+	+owner of	+P1830
+Q34851, Q294	+	+genealogics.org person ID	+P1819
+Q34851, Q294	+	+National Portrait Gallery (London) person ID	+P1816
+Q34851, Q294	+	+GTAA ID	+P1741
+Q34851, Q294	+	+British Museum person or institution ID	+P1711
+Q34851, Q294	+	+KMDb person ID	+P1649
+Q34851, Q294	+	+BBC Things ID	+P1617
+Q34851, Q294	+	+University of Barcelona authority ID	+P1580
+Q34851, Q294	+	+name in native language	+P1559
+Q34851, Q294	+	+birth name	+P1477
+Q34851, Q294	+	+image of grave	+P1442
+Q34851, Q294	+	+Encyclopædia Britannica Online ID	+P1417
+Q34851, Q294	+	+Oxford Dictionary of National Biography ID	+P1415
+Q34851, Q294	+	+languages spoken, written or signed	+P1412
+Q34851, Q294	+	+nominated for	+P1411
+Q34851, Q294	+	+described by source	+P1343
+Q34851, Q294	+	+eye color	+P1340
+Q34851, Q294	+	+NLA Trove ID	+P1315
+Q34851, Q294	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q34851, Q294	+	+Munzinger person ID	+P1284
+Q34851, Q294	+	+filmography	+P1283
+Q34851, Q294	+	+CONOR.SI ID	+P1280
+Q34851, Q294	+	+CANTIC ID	+P1273
+Q34851, Q294	+	+AlloCiné person ID	+P1266
+Q34851, Q294	+	+NNDB people ID	+P1263
+Q34851, Q294	+	+U.S. National Archives Identifier	+P1225
+Q34851, Q294	+	+Internet Broadway Database person ID	+P1220
+Q34851, Q294	+	+NUKAT ID	+P1207
+Q34851, Q294	+	+manner of death	+P1196
+Q34851, Q294	+	+BIBSYS ID	+P1015
+Q34851, Q294	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q34851, Q294	+	+child	+P40
+Q34851, Q294	+	+instance of	+P31
+Q34851, Q294	+	+country of citizenship	+P27
+Q34851, Q294	+	+spouse	+P26
+Q34851, Q294	+	+mother	+P25
+Q34851, Q294	+	+Library of Congress authority ID	+P244
+Q34851, Q294	+	+GND ID	+P227
+Q34851, Q294	+	+father	+P22
+Q34851, Q294	+	+VIAF ID	+P214
+Q34851, Q294	+	+ISNI	+P213
+Q34851, Q294	+	+sex or gender	+P21
+Q34851, Q294	+	+place of death	+P20
+Q34851, Q294	+	+place of birth	+P19
+Q34851, Q294	+	+image	+P18
+Q34851, Q294	+	+award received	+P166
+Q34851, Q294	+	+religion	+P140
+Q34851, Q294	+	+place of burial	+P119
+Q34851, Q294	+	+occupation	+P106
+Q34851, Q294	+	+member of political party	+P102
+Q34851, Q294	-	-category combines topics	-P971
+Q34851, Q294	-	-inspired by	-P941
+Q34851, Q294	-	-main subject	-P921
+Q34851, Q294	-	-voice actor	-P725
+Q34851, Q294	-	-category's main topic	-P301
+Q34851, Q294	-	-signatory	-P1891
+Q34851, Q294	-	-winner	-P1346
+Q34851, Q294	-	-godparent	-P1290
+Q34851, Q294	-	-child	-P40
+Q34851, Q294	-	-spouse	-P26
+Q34851, Q294	-	-mother	-P25
+Q34851, Q294	-	-collection	-P195
+Q34851, Q294	-	-depicts	-P180
+Q34851, Q294	-	-performer	-P175
+Q34851, Q294	-	-producer	-P162
+Q34851, Q294	-	-cast member	-P161
+Q34851, Q294	-	-named after	-P138
+Q34851, Q294	-	-owned by	-P127
+Q34851, Q294	-	-founded by	-P112
+Q1060310, Q183257	+	+possible treatment	+P924
+Q1060310, Q183257	+	+Disease Ontology ID	+P699
+Q1060310, Q183257	+	+Freebase ID	+P646
+Q1060310, Q183257	+	+MedlinePlus ID	+P604
+Q1060310, Q183257	+	+DiseasesDB	+P557
+Q1060310, Q183257	+	+MonDO ID	+P5270
+Q1060310, Q183257	+	+on focus list of Wikimedia project	+P5008
+Q1060310, Q183257	+	+said to be the same as	+P460
+Q1060310, Q183257	+	+ICD-10-CM	+P4229
+Q1060310, Q183257	+	+JSTOR topic ID	+P3827
+Q1060310, Q183257	+	+Commons category	+P373
+Q1060310, Q183257	+	+part of	+P361
+Q1060310, Q183257	+	+Quora topic ID	+P3417
+Q1060310, Q183257	+	+UMLS CUI	+P2892
+Q1060310, Q183257	+	+exact match	+P2888
+Q1060310, Q183257	+	+subclass of	+P279
+Q1060310, Q183257	+	+YSO ID	+P2347
+Q1060310, Q183257	+	+health specialty	+P1995
+Q1060310, Q183257	+	+different from	+P1889
+Q1060310, Q183257	+	+short name	+P1813
+Q1060310, Q183257	+	+NCI Thesaurus ID	+P1748
+Q1060310, Q183257	+	+ICD-9-CM	+P1692
+Q1060310, Q183257	+	+Encyclopædia Britannica Online ID	+P1417
+Q1060310, Q183257	+	+GND ID	+P227
+Q1060310, Q183257	+	+image	+P18
+Q1060310, Q183257	-	-main subject	-P921
+Q1060310, Q183257	-	-said to be the same as	-P460
+Q1060310, Q183257	-	-subclass of	-P279
+Q1060310, Q183257	-	-different from	-P1889
+Q1060310, Q183257	-	-medical condition	-P1050
+Q1060310, Q183257	-	-depicts	-P180
+Q25, Q11010	+	+Curlie ID	+P998
+Q25, Q11010	+	+MusicBrainz area ID	+P982
+Q25, Q11010	+	+page banner	+P948
+Q25, Q11010	+	+Commons gallery	+P935
+Q25, Q11010	+	+topic's main category	+P910
+Q25, Q11010	+	+GSS code (2011)	+P836
+Q25, Q11010	+	+NKCR AUT ID	+P691
+Q25, Q11010	+	+Freebase ID	+P646
+Q25, Q11010	+	+coordinate location	+P625
+Q25, Q11010	+	+highest point	+P610
+Q25, Q11010	+	+NUTS code	+P605
+Q25, Q11010	+	+start time	+P580
+Q25, Q11010	+	+inception	+P571
+Q25, Q11010	+	+has part	+P527
+Q25, Q11010	+	+Giant Bomb ID	+P5247
+Q25, Q11010	+	+Wikimedia outline	+P5125
+Q25, Q11010	+	+Interlingual Index ID	+P5063
+Q25, Q11010	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q25, Q11010	+	+Unicode character	+P487
+Q25, Q11010	+	+MeSH descriptor ID	+P486
+Q25, Q11010	+	+archives at	+P485
+Q25, Q11010	+	+LoC and MARC vocabularies ID	+P4801
+Q25, Q11010	+	+EMLO location ID	+P4672
+Q25, Q11010	+	+UK Parliament thesaurus ID	+P4527
+Q25, Q11010	+	+pronunciation audio	+P443
+Q25, Q11010	+	+GACS ID	+P4427
+Q25, Q11010	+	+PACTOLS thesaurus ID	+P4212
+Q25, Q11010	+	+located in time zone	+P421
+Q25, Q11010	+	+patron saint	+P417
+Q25, Q11010	+	+OpenStreetMap relation ID	+P402
+Q25, Q11010	+	+subreddit	+P3984
+Q25, Q11010	+	+geoshape	+P3896
+Q25, Q11010	+	+Commons category	+P373
+Q25, Q11010	+	+Vision of Britain place ID	+P3616
+Q25, Q11010	+	+part of	+P361
+Q25, Q11010	+	+National Diet Library ID	+P349
+Q25, Q11010	+	+Omni topic ID	+P3479
+Q25, Q11010	+	+Quora topic ID	+P3417
+Q25, Q11010	+	+Catholic Encyclopedia ID	+P3241
+Q25, Q11010	+	+NE.se ID	+P3222
+Q25, Q11010	+	+Encyclopædia Universalis ID	+P3219
+Q25, Q11010	+	+TOID	+P3120
+Q25, Q11010	+	+Guardian topic ID	+P3106
+Q25, Q11010	+	+ISO 3166-2 code	+P300
+Q25, Q11010	+	+permanent duplicated item	+P2959
+Q25, Q11010	+	+language used	+P2936
+Q25, Q11010	+	+Great Russian Encyclopedia Online ID	+P2924
+Q25, Q11010	+	+geography of topic	+P2633
+Q25, Q11010	+	+BabelNet ID	+P2581
+Q25, Q11010	+	+YSO ID	+P2347
+Q25, Q11010	+	+history of topic	+P2184
+Q25, Q11010	+	+FAST ID	+P2163
+Q25, Q11010	+	+area	+P2046
+Q25, Q11010	+	+category of associated people	+P1792
+Q25, Q11010	+	+category of people buried here	+P1791
+Q25, Q11010	+	+category for films shot at this location	+P1740
+Q25, Q11010	+	+British Museum person or institution ID	+P1711
+Q25, Q11010	+	+native label	+P1705
+Q25, Q11010	+	+GeoNames ID	+P1566
+Q25, Q11010	+	+has quality	+P1552
+Q25, Q11010	+	+demonym	+P1549
+Q25, Q11010	+	+category for people who died here	+P1465
+Q25, Q11010	+	+category for people born here	+P1464
+Q25, Q11010	+	+motto text	+P1451
+Q25, Q11010	+	+official name	+P1448
+Q25, Q11010	+	+Encyclopædia Britannica Online ID	+P1417
+Q25, Q11010	+	+described by source	+P1343
+Q25, Q11010	+	+coordinates of westernmost point	+P1335
+Q25, Q11010	+	+coordinates of easternmost point	+P1334
+Q25, Q11010	+	+coordinates of southernmost point	+P1333
+Q25, Q11010	+	+coordinates of northernmost point	+P1332
+Q25, Q11010	+	+office held by head of government	+P1313
+Q25, Q11010	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q25, Q11010	+	+U.S. National Archives Identifier	+P1225
+Q25, Q11010	+	+topic's main Wikimedia portal	+P1151
+Q25, Q11010	+	+population	+P1082
+Q25, Q11010	+	+Dewey Decimal Classification	+P1036
+Q25, Q11010	+	+coat of arms image	+P94
+Q25, Q11010	+	+anthem	+P85
+Q25, Q11010	+	+head of government	+P6
+Q25, Q11010	+	+shares border with	+P47
+Q25, Q11010	+	+flag image	+P41
+Q25, Q11010	+	+currency	+P38
+Q25, Q11010	+	+official language	+P37
+Q25, Q11010	+	+capital	+P36
+Q25, Q11010	+	+instance of	+P31
+Q25, Q11010	+	+continent	+P30
+Q25, Q11010	+	+Library of Congress authority ID	+P244
+Q25, Q11010	+	+locator map image	+P242
+Q25, Q11010	+	+GND ID	+P227
+Q25, Q11010	+	+VIAF ID	+P214
+Q25, Q11010	+	+executive body	+P208
+Q25, Q11010	+	+legislative body	+P194
+Q25, Q11010	+	+image	+P18
+Q25, Q11010	+	+country	+P17
+Q25, Q11010	+	+flag	+P163
+Q25, Q11010	+	+contains administrative territorial entity	+P150
+Q25, Q11010	+	+located in the administrative territorial entity	+P131
+Q25, Q11010	-	-category combines topics	-P971
+Q25, Q11010	-	-work location	-P937
+Q25, Q11010	-	-main subject	-P921
+Q25, Q11010	-	-filming location	-P915
+Q25, Q11010	-	-narrative location	-P840
+Q25, Q11010	-	-location of formation	-P740
+Q25, Q11010	-	-participant	-P710
+Q25, Q11010	-	-located on terrain feature	-P706
+Q25, Q11010	-	-residence	-P551
+Q25, Q11010	-	-has part	-P527
+Q25, Q11010	-	-country of origin	-P495
+Q25, Q11010	-	-drainage basin	-P4614
+Q25, Q11010	-	-category contains	-P4224
+Q25, Q11010	-	-located in present-day administrative territorial entity	-P3842
+Q25, Q11010	-	-part of	-P361
+Q25, Q11010	-	-coextensive with	-P3403
+Q25, Q11010	-	-category's main topic	-P301
+Q25, Q11010	-	-permanent duplicated item	-P2959
+Q25, Q11010	-	-domain of saint or deity	-P2925
+Q25, Q11010	-	-place of publication	-P291
+Q25, Q11010	-	-subclass of	-P279
+Q25, Q11010	-	-location	-P276
+Q25, Q11010	-	-interested in	-P2650
+Q25, Q11010	-	-culture	-P2596
+Q25, Q11010	-	-operating area	-P2541
+Q25, Q11010	-	-indigenous to	-P2341
+Q25, Q11010	-	-debut participant	-P2318
+Q25, Q11010	-	-Wikidata property example	-P1855
+Q25, Q11010	-	-country for sport	-P1532
+Q25, Q11010	-	-licensed to broadcast to	-P1408
+Q25, Q11010	-	-capital of	-P1376
+Q25, Q11010	-	-facet of	-P1269
+Q25, Q11010	-	-Wikimedia portal's main topic	-P1204
+Q25, Q11010	-	-fictional analog of	-P1074
+Q25, Q11010	-	-location of creation	-P1071
+Q25, Q11010	-	-applies to jurisdiction	-P1001
+Q25, Q11010	-	-ancestral home	-P66
+Q25, Q11010	-	-shares border with	-P47
+Q25, Q11010	-	-country of citizenship	-P27
+Q25, Q11010	-	-basin country	-P205
+Q25, Q11010	-	-place of death	-P20
+Q25, Q11010	-	-place of birth	-P19
+Q25, Q11010	-	-depicts	-P180
+Q25, Q11010	-	-ethnic group	-P172
+Q25, Q11010	-	-country	-P17
+Q25, Q11010	-	-headquarters location	-P159
+Q25, Q11010	-	-followed by	-P156
+Q25, Q11010	-	-contains administrative territorial entity	-P150
+Q25, Q11010	-	-named after	-P138
+Q25, Q11010	-	-located in the administrative territorial entity	-P131
+Q25, Q11010	-	-place of burial	-P119
+Q131723, Q33976	+	+described at URL	+P973
+Q131723, Q33976	+	+Biblioteca Nacional de España ID	+P950
+Q131723, Q33976	+	+notation	+P913
+Q131723, Q33976	+	+topic's main category	+P910
+Q131723, Q33976	+	+official website	+P856
+Q131723, Q33976	+	+Freebase ID	+P646
+Q131723, Q33976	+	+publication date	+P577
+Q131723, Q33976	+	+inception	+P571
+Q131723, Q33976	+	+BNCF Thesaurus ID	+P508
+Q131723, Q33976	+	+unit symbol	+P5061
+Q131723, Q33976	+	+Rosetta Code ID	+P5047
+Q131723, Q33976	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q131723, Q33976	+	+ISO 4217 code	+P498
+Q131723, Q33976	+	+derivative work	+P4969
+Q131723, Q33976	+	+currency symbol description	+P489
+Q131723, Q33976	+	+UK Parliament thesaurus ID	+P4527
+Q131723, Q33976	+	+Store norske leksikon ID	+P4342
+Q131723, Q33976	+	+nLab ID	+P4215
+Q131723, Q33976	+	+stock exchange	+P414
+Q131723, Q33976	+	+language of work or name	+P407
+Q131723, Q33976	+	+subreddit	+P3984
+Q131723, Q33976	+	+Commons category	+P373
+Q131723, Q33976	+	+Dagens Nyheter topic ID	+P3509
+Q131723, Q33976	+	+software version identifier	+P348
+Q131723, Q33976	+	+Quora topic ID	+P3417
+Q131723, Q33976	+	+New York Times topic ID	+P3221
+Q131723, Q33976	+	+operating system	+P306
+Q131723, Q33976	+	+software quality assurance	+P2992
+Q131723, Q33976	+	+icon	+P2910
+Q131723, Q33976	+	+power consumed	+P2791
+Q131723, Q33976	+	+programming language	+P277
+Q131723, Q33976	+	+copyright license	+P275
+Q131723, Q33976	+	+IdRef ID	+P269
+Q131723, Q33976	+	+Bibliothèque nationale de France ID	+P268
+Q131723, Q33976	+	+hashtag	+P2572
+Q131723, Q33976	+	+conversion to standard unit	+P2442
+Q131723, Q33976	+	+price	+P2284
+Q131723, Q33976	+	+uses	+P2283
+Q131723, Q33976	+	+history of topic	+P2184
+Q131723, Q33976	+	+FAST ID	+P2163
+Q131723, Q33976	+	+Open Hub ID	+P1972
+Q131723, Q33976	+	+short name	+P1813
+Q131723, Q33976	+	+Stack Exchange tag	+P1482
+Q131723, Q33976	+	+topic's main template	+P1424
+Q131723, Q33976	+	+Encyclopædia Britannica Online ID	+P1417
+Q131723, Q33976	+	+source code repository	+P1324
+Q131723, Q33976	+	+OpenStreetMap tag or key	+P1282
+Q131723, Q33976	+	+time of earliest written record	+P1249
+Q131723, Q33976	+	+Art & Architecture Thesaurus ID	+P1014
+Q131723, Q33976	+	+instance of	+P31
+Q131723, Q33976	+	+Library of Congress authority ID	+P244
+Q131723, Q33976	+	+GND ID	+P227
+Q131723, Q33976	+	+image	+P18
+Q131723, Q33976	+	+developer	+P178
+Q131723, Q33976	+	+logo image	+P154
+Q131723, Q33976	+	+named after	+P138
+Q131723, Q33976	+	+founded by	+P112
+Q131723, Q33976	-	-category combines topics	-P971
+Q131723, Q33976	-	-inspired by	-P941
+Q131723, Q33976	-	-main subject	-P921
+Q131723, Q33976	-	-notable work	-P800
+Q131723, Q33976	-	-participant	-P710
+Q131723, Q33976	-	-industry	-P452
+Q131723, Q33976	-	-category's main topic	-P301
+Q131723, Q33976	-	-payment types accepted	-P2851
+Q131723, Q33976	-	-subclass of	-P279
+Q131723, Q33976	-	-disjoint union of	-P2738
+Q131723, Q33976	-	-protocol	-P2700
+Q131723, Q33976	-	-different from	-P1889
+Q131723, Q33976	-	-Wikidata property example	-P1855
+Q131723, Q33976	-	-has quality	-P1552
+Q131723, Q33976	-	-used by	-P1535
+Q131723, Q33976	-	-topic's main template	-P1424
+Q131723, Q33976	-	-template has topic	-P1423
+Q131723, Q33976	-	-facet of	-P1269
+Q131723, Q33976	-	-product or material produced	-P1056
+Q131723, Q33976	-	-currency	-P38
+Q131723, Q33976	-	-based on	-P144
+Q36949, Q205380	+	+Biblioteca Nacional de España ID	+P950
+Q36949, Q205380	+	+National Library of Israel ID	+P949
+Q36949, Q205380	+	+Commons gallery	+P935
+Q36949, Q205380	+	+topic's main category	+P910
+Q36949, Q205380	+	+SELIBR ID	+P906
+Q36949, Q205380	+	+official website	+P856
+Q36949, Q205380	+	+given name	+P735
+Q36949, Q205380	+	+family name	+P734
+Q36949, Q205380	+	+NKCR AUT ID	+P691
+Q36949, Q205380	+	+Freebase ID	+P646
+Q36949, Q205380	+	+date of birth	+P569
+Q36949, Q205380	+	+Open Media Database person ID	+P5534
+Q36949, Q205380	+	+handedness	+P552
+Q36949, Q205380	+	+residence	+P551
+Q36949, Q205380	+	+Trading Card Database person ID	+P5421
+Q36949, Q205380	+	+American Film Institute person ID	+P5340
+Q36949, Q205380	+	+Douban movie celebrity ID	+P5284
+Q36949, Q205380	+	+FilmTv.it person ID	+P5254
+Q36949, Q205380	+	+Interlingual Index ID	+P5063
+Q36949, Q205380	+	+Filmweb.pl person ID	+P5033
+Q36949, Q205380	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q36949, Q205380	+	+Behind The Voice Actors person ID	+P5007
+Q36949, Q205380	+	+TMDb person ID	+P4985
+Q36949, Q205380	+	+Movieplayer person ID	+P4782
+Q36949, Q205380	+	+MYmovies director ID	+P4781
+Q36949, Q205380	+	+MYmovies actor ID	+P4779
+Q36949, Q205380	+	+cinematografo.it name or company ID	+P4768
+Q36949, Q205380	+	+Eldoblaje original actor ID	+P4682
+Q36949, Q205380	+	+CineMagia person ID	+P4666
+Q36949, Q205380	+	+The Numbers person ID	+P4657
+Q36949, Q205380	+	+member of	+P463
+Q36949, Q205380	+	+National Library of Brazil ID	+P4619
+Q36949, Q205380	+	+Prisma ID	+P4515
+Q36949, Q205380	+	+unmarried partner	+P451
+Q36949, Q205380	+	+BFI Films, TV and people ID	+P4438
+Q36949, Q205380	+	+Store norske leksikon ID	+P4342
+Q36949, Q205380	+	+MusicBrainz artist ID	+P434
+Q36949, Q205380	+	+Deutsche Synchronkartei actor ID	+P4332
+Q36949, Q205380	+	+BFI Filmography person ID	+P4326
+Q36949, Q205380	+	+LUMIERE director ID	+P4283
+Q36949, Q205380	+	+Carnegie Hall agent ID	+P4104
+Q36949, Q205380	+	+Libraries Australia ID	+P409
+Q36949, Q205380	+	+Unifrance person ID	+P3980
+Q36949, Q205380	+	+SBN author ID	+P396
+Q36949, Q205380	+	+Cinema.de ID	+P3933
+Q36949, Q205380	+	+DBC author ID	+P3846
+Q36949, Q205380	+	+TV Guide person ID (former scheme)	+P3845
+Q36949, Q205380	+	+Commons category	+P373
+Q36949, Q205380	+	+part of	+P361
+Q36949, Q205380	+	+Cultureel Woordenboek ID	+P3569
+Q36949, Q205380	+	+Dagens Nyheter topic ID	+P3509
+Q36949, Q205380	+	+National Diet Library ID	+P349
+Q36949, Q205380	+	+IMDb ID	+P345
+Q36949, Q205380	+	+SNAC Ark ID	+P3430
+Q36949, Q205380	+	+Quora topic ID	+P3417
+Q36949, Q205380	+	+Kvikmyndir person ID	+P3341
+Q36949, Q205380	+	+KINENOTE person ID	+P3305
+Q36949, Q205380	+	+NE.se ID	+P3222
+Q36949, Q205380	+	+New York Times topic ID	+P3221
+Q36949, Q205380	+	+Encyclopædia Universalis ID	+P3219
+Q36949, Q205380	+	+Ciné-Ressources person ID	+P3204
+Q36949, Q205380	+	+elFilm person ID	+P3144
+Q36949, Q205380	+	+EDb person ID	+P3142
+Q36949, Q205380	+	+elCinema person ID	+P3136
+Q36949, Q205380	+	+ISzDb person ID	+P3114
+Q36949, Q205380	+	+Guardian topic ID	+P3106
+Q36949, Q205380	+	+TCM Movie Database person ID	+P3056
+Q36949, Q205380	+	+WikiTree person ID	+P2949
+Q36949, Q205380	+	+Great Russian Encyclopedia Online ID	+P2924
+Q36949, Q205380	+	+CiNii author ID (books)	+P271
+Q36949, Q205380	+	+IdRef ID	+P269
+Q36949, Q205380	+	+Box Office Mojo person ID	+P2688
+Q36949, Q205380	+	+Bibliothèque nationale de France ID	+P268
+Q36949, Q205380	+	+Filmportal ID	+P2639
+Q36949, Q205380	+	+TV.com ID	+P2638
+Q36949, Q205380	+	+Danish National Filmography person ID	+P2626
+Q36949, Q205380	+	+ČSFD person ID	+P2605
+Q36949, Q205380	+	+Kinopoisk person ID	+P2604
+Q36949, Q205380	+	+Geni.com profile ID	+P2600
+Q36949, Q205380	+	+Scope.dk person ID	+P2519
+Q36949, Q205380	+	+PORT person ID	+P2435
+Q36949, Q205380	+	+Elonet person ID	+P2387
+Q36949, Q205380	+	+net worth	+P2218
+Q36949, Q205380	+	+C-SPAN person ID	+P2190
+Q36949, Q205380	+	+Swedish Film Database person ID	+P2168
+Q36949, Q205380	+	+FAST ID	+P2163
+Q36949, Q205380	+	+work period (start)	+P2031
+Q36949, Q205380	+	+AllMovie person ID	+P2019
+Q36949, Q205380	+	+number of children	+P1971
+Q36949, Q205380	+	+MovieMeter director ID	+P1969
+Q36949, Q205380	+	+Discogs artist ID	+P1953
+Q36949, Q205380	+	+different from	+P1889
+Q36949, Q205380	+	+GTAA ID	+P1741
+Q36949, Q205380	+	+Metacritic ID	+P1712
+Q36949, Q205380	+	+KMDb person ID	+P1649
+Q36949, Q205380	+	+University of Barcelona authority ID	+P1580
+Q36949, Q205380	+	+name in native language	+P1559
+Q36949, Q205380	+	+birth name	+P1477
+Q36949, Q205380	+	+Encyclopædia Britannica Online ID	+P1417
+Q36949, Q205380	+	+languages spoken, written or signed	+P1412
+Q36949, Q205380	+	+nominated for	+P1411
+Q36949, Q205380	+	+LNB ID	+P1368
+Q36949, Q205380	+	+described by source	+P1343
+Q36949, Q205380	+	+NLA Trove ID	+P1315
+Q36949, Q205380	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q36949, Q205380	+	+Munzinger person ID	+P1284
+Q36949, Q205380	+	+filmography	+P1283
+Q36949, Q205380	+	+CONOR.SI ID	+P1280
+Q36949, Q205380	+	+CANTIC ID	+P1273
+Q36949, Q205380	+	+AlloCiné person ID	+P1266
+Q36949, Q205380	+	+NNDB people ID	+P1263
+Q36949, Q205380	+	+Rotten Tomatoes ID	+P1258
+Q36949, Q205380	+	+Internet Broadway Database person ID	+P1220
+Q36949, Q205380	+	+NUKAT ID	+P1207
+Q36949, Q205380	+	+student of	+P1066
+Q36949, Q205380	+	+BIBSYS ID	+P1015
+Q36949, Q205380	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q36949, Q205380	+	+educated at	+P69
+Q36949, Q205380	+	+child	+P40
+Q36949, Q205380	+	+position held	+P39
+Q36949, Q205380	+	+instance of	+P31
+Q36949, Q205380	+	+country of citizenship	+P27
+Q36949, Q205380	+	+spouse	+P26
+Q36949, Q205380	+	+mother	+P25
+Q36949, Q205380	+	+Union List of Artist Names ID	+P245
+Q36949, Q205380	+	+Library of Congress authority ID	+P244
+Q36949, Q205380	+	+GND ID	+P227
+Q36949, Q205380	+	+father	+P22
+Q36949, Q205380	+	+VIAF ID	+P214
+Q36949, Q205380	+	+ISNI	+P213
+Q36949, Q205380	+	+sex or gender	+P21
+Q36949, Q205380	+	+place of birth	+P19
+Q36949, Q205380	+	+image	+P18
+Q36949, Q205380	+	+award received	+P166
+Q36949, Q205380	+	+religion	+P140
+Q36949, Q205380	+	+occupation	+P106
+Q36949, Q205380	+	+member of political party	+P102
+Q36949, Q205380	-	-category combines topics	-P971
+Q36949, Q205380	-	-main subject	-P921
+Q36949, Q205380	-	-student	-P802
+Q36949, Q205380	-	-influenced by	-P737
+Q36949, Q205380	-	-voice actor	-P725
+Q36949, Q205380	-	-target	-P533
+Q36949, Q205380	-	-has part	-P527
+Q36949, Q205380	-	-unmarried partner	-P451
+Q36949, Q205380	-	-presenter	-P371
+Q36949, Q205380	-	-category's main topic	-P301
+Q36949, Q205380	-	-signatory	-P1891
+Q36949, Q205380	-	-different from	-P1889
+Q36949, Q205380	-	-executive producer	-P1431
+Q36949, Q205380	-	-winner	-P1346
+Q36949, Q205380	-	-screenwriter	-P58
+Q36949, Q205380	-	-director	-P57
+Q36949, Q205380	-	-author	-P50
+Q36949, Q205380	-	-child	-P40
+Q36949, Q205380	-	-spouse	-P26
+Q36949, Q205380	-	-father	-P22
+Q36949, Q205380	-	-performer	-P175
+Q36949, Q205380	-	-creator	-P170
+Q36949, Q205380	-	-producer	-P162
+Q36949, Q205380	-	-cast member	-P161
+Q36949, Q205380	-	-owned by	-P127
+Q36949, Q205380	-	-founded by	-P112
+Q6425, Q9325	+	+Commons gallery	+P935
+Q6425, Q9325	+	+topic's main category	+P910
+Q6425, Q9325	+	+Freebase ID	+P646
+Q6425, Q9325	+	+first flight	+P606
+Q6425, Q9325	+	+country of origin	+P495
+Q6425, Q9325	+	+UK Parliament thesaurus ID	+P4527
+Q6425, Q9325	+	+Store norske leksikon ID	+P4342
+Q6425, Q9325	+	+Commons category	+P373
+Q6425, Q9325	+	+use	+P366
+Q6425, Q9325	+	+Quora topic ID	+P3417
+Q6425, Q9325	+	+subclass of	+P279
+Q6425, Q9325	+	+Encyclopædia Britannica Online ID	+P1417
+Q6425, Q9325	+	+instance of	+P31
+Q6425, Q9325	+	+Library of Congress authority ID	+P244
+Q6425, Q9325	+	+GND ID	+P227
+Q6425, Q9325	+	+image	+P18
+Q6425, Q9325	+	+manufacturer	+P176
+Q6425, Q9325	+	+operator	+P137
+Q6425, Q9325	-	-has part	-P527
+Q6425, Q9325	-	-category's main topic	-P301
+Q6425, Q9325	-	-subclass of	-P279
+Q6425, Q9325	-	-product or material produced	-P1056
+Q6425, Q9325	-	-instance of	-P31
+Q6425, Q9325	-	-depicts	-P180
+Q6425, Q9325	-	-item operated	-P121
+Q6096, Q42365	+	+Biblioteca Nacional de España ID	+P950
+Q6096, Q42365	+	+Commons gallery	+P935
+Q6096, Q42365	+	+topic's main category	+P910
+Q6096, Q42365	+	+SELIBR ID	+P906
+Q6096, Q42365	+	+official website	+P856
+Q6096, Q42365	+	+pseudonym	+P742
+Q6096, Q42365	+	+given name	+P735
+Q6096, Q42365	+	+family name	+P734
+Q6096, Q42365	+	+NKCR AUT ID	+P691
+Q6096, Q42365	+	+Freebase ID	+P646
+Q6096, Q42365	+	+date of birth	+P569
+Q6096, Q42365	+	+Open Media Database person ID	+P5534
+Q6096, Q42365	+	+BNB person ID	+P5361
+Q6096, Q42365	+	+RollDaBeats artist ID	+P5240
+Q6096, Q42365	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q6096, Q42365	+	+Behind The Voice Actors person ID	+P5007
+Q6096, Q42365	+	+TMDb person ID	+P4985
+Q6096, Q42365	+	+CineMagia person ID	+P4666
+Q6096, Q42365	+	+The Numbers person ID	+P4657
+Q6096, Q42365	+	+member of	+P463
+Q6096, Q42365	+	+Tidal artist ID	+P4576
+Q6096, Q42365	+	+IAFD male performer ID	+P4505
+Q6096, Q42365	+	+Store norske leksikon ID	+P4342
+Q6096, Q42365	+	+MusicBrainz artist ID	+P434
+Q6096, Q42365	+	+Reddit username	+P4265
+Q6096, Q42365	+	+Billboard artist ID	+P4208
+Q6096, Q42365	+	+Libraries Australia ID	+P409
+Q6096, Q42365	+	+Giphy username	+P4013
+Q6096, Q42365	+	+MobyGames developer ID	+P3913
+Q6096, Q42365	+	+DBC author ID	+P3846
+Q6096, Q42365	+	+Commons category	+P373
+Q6096, Q42365	+	+discography	+P358
+Q6096, Q42365	+	+Cultureel Woordenboek ID	+P3569
+Q6096, Q42365	+	+Songkick artist ID	+P3478
+Q6096, Q42365	+	+IMDb ID	+P345
+Q6096, Q42365	+	+Quora topic ID	+P3417
+Q6096, Q42365	+	+Adult Film Database actor ID	+P3351
+Q6096, Q42365	+	+Myspace ID	+P3265
+Q6096, Q42365	+	+NE.se ID	+P3222
+Q6096, Q42365	+	+Last.fm ID	+P3192
+Q6096, Q42365	+	+Guardian topic ID	+P3106
+Q6096, Q42365	+	+RERO ID	+P3065
+Q6096, Q42365	+	+SoundCloud ID	+P3040
+Q6096, Q42365	+	+Rolling Stone artist ID	+P3017
+Q6096, Q42365	+	+Snapchat username	+P2984
+Q6096, Q42365	+	+WWE.com superstar ID	+P2857
+Q6096, Q42365	+	+Google+ ID	+P2847
+Q6096, Q42365	+	+Internet Wrestling Database ID	+P2829
+Q6096, Q42365	+	+Deezer artist ID	+P2722
+Q6096, Q42365	+	+IdRef ID	+P269
+Q6096, Q42365	+	+Box Office Mojo person ID	+P2688
+Q6096, Q42365	+	+Bibliothèque nationale de France ID	+P268
+Q6096, Q42365	+	+record label	+P264
+Q6096, Q42365	+	+TV.com ID	+P2638
+Q6096, Q42365	+	+Danish National Filmography person ID	+P2626
+Q6096, Q42365	+	+ČSFD person ID	+P2605
+Q6096, Q42365	+	+Kinopoisk person ID	+P2604
+Q6096, Q42365	+	+Geni.com profile ID	+P2600
+Q6096, Q42365	+	+Scope.dk person ID	+P2519
+Q6096, Q42365	+	+PORT person ID	+P2435
+Q6096, Q42365	+	+YouTube channel ID	+P2397
+Q6096, Q42365	+	+Elonet person ID	+P2387
+Q6096, Q42365	+	+Genius artist ID	+P2373
+Q6096, Q42365	+	+Swedish Film Database person ID	+P2168
+Q6096, Q42365	+	+FAST ID	+P2163
+Q6096, Q42365	+	+height	+P2048
+Q6096, Q42365	+	+work period (start)	+P2031
+Q6096, Q42365	+	+AllMovie person ID	+P2019
+Q6096, Q42365	+	+Facebook ID	+P2013
+Q6096, Q42365	+	+Instagram username	+P2003
+Q6096, Q42365	+	+Twitter username	+P2002
+Q6096, Q42365	+	+number of children	+P1971
+Q6096, Q42365	+	+Discogs artist ID	+P1953
+Q6096, Q42365	+	+Spotify artist ID	+P1902
+Q6096, Q42365	+	+GTAA ID	+P1741
+Q6096, Q42365	+	+AllMusic artist ID	+P1728
+Q6096, Q42365	+	+birth name	+P1477
+Q6096, Q42365	+	+topic's main template	+P1424
+Q6096, Q42365	+	+Encyclopædia Britannica Online ID	+P1417
+Q6096, Q42365	+	+languages spoken, written or signed	+P1412
+Q6096, Q42365	+	+described by source	+P1343
+Q6096, Q42365	+	+NLA Trove ID	+P1315
+Q6096, Q42365	+	+Munzinger Pop ID	+P1286
+Q6096, Q42365	+	+filmography	+P1283
+Q6096, Q42365	+	+CONOR.SI ID	+P1280
+Q6096, Q42365	+	+AlloCiné person ID	+P1266
+Q6096, Q42365	+	+NNDB people ID	+P1263
+Q6096, Q42365	+	+relative	+P1038
+Q6096, Q42365	+	+BIBSYS ID	+P1015
+Q6096, Q42365	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q6096, Q42365	+	+instance of	+P31
+Q6096, Q42365	+	+country of citizenship	+P27
+Q6096, Q42365	+	+Library of Congress authority ID	+P244
+Q6096, Q42365	+	+GND ID	+P227
+Q6096, Q42365	+	+VIAF ID	+P214
+Q6096, Q42365	+	+ISNI	+P213
+Q6096, Q42365	+	+sex or gender	+P21
+Q6096, Q42365	+	+place of birth	+P19
+Q6096, Q42365	+	+image	+P18
+Q6096, Q42365	+	+ethnic group	+P172
+Q6096, Q42365	+	+award received	+P166
+Q6096, Q42365	+	+logo image	+P154
+Q6096, Q42365	+	+religion	+P140
+Q6096, Q42365	+	+genre	+P136
+Q6096, Q42365	+	+occupation	+P106
+Q6096, Q42365	+	+native language	+P103
+Q6096, Q42365	-	-category combines topics	-P971
+Q6096, Q42365	-	-main subject	-P921
+Q6096, Q42365	-	-influenced by	-P737
+Q6096, Q42365	-	-voice actor	-P725
+Q6096, Q42365	-	-lyrics by	-P676
+Q6096, Q42365	-	-has part	-P527
+Q6096, Q42365	-	-presenter	-P371
+Q6096, Q42365	-	-category's main topic	-P301
+Q6096, Q42365	-	-template has topic	-P1423
+Q6096, Q42365	-	-winner	-P1346
+Q6096, Q42365	-	-relative	-P1038
+Q6096, Q42365	-	-composer	-P86
+Q6096, Q42365	-	-screenwriter	-P58
+Q6096, Q42365	-	-director	-P57
+Q6096, Q42365	-	-performer	-P175
+Q6096, Q42365	-	-producer	-P162
+Q6096, Q42365	-	-cast member	-P161
+Q6096, Q42365	-	-founded by	-P112
+Q6096, Q42365	-	-employer	-P108
+Q2331, Q1546001	+	+National Library of Israel ID	+P949
+Q2331, Q1546001	+	+Commons gallery	+P935
+Q2331, Q1546001	+	+topic's main category	+P910
+Q2331, Q1546001	+	+official website	+P856
+Q2331, Q1546001	+	+notable work	+P800
+Q2331, Q1546001	+	+location of formation	+P740
+Q2331, Q1546001	+	+influenced by	+P737
+Q2331, Q1546001	+	+NKCR AUT ID	+P691
+Q2331, Q1546001	+	+Freebase ID	+P646
+Q2331, Q1546001	+	+dissolved, abolished or demolished date	+P576
+Q2331, Q1546001	+	+inception	+P571
+Q2331, Q1546001	+	+setlist.fm artist ID	+P5431
+Q2331, Q1546001	+	+American Film Institute person ID	+P5340
+Q2331, Q1546001	+	+Douban movie celebrity ID	+P5284
+Q2331, Q1546001	+	+has part	+P527
+Q2331, Q1546001	+	+All About Jazz musician ID	+P5121
+Q2331, Q1546001	+	+Filmweb.pl person ID	+P5033
+Q2331, Q1546001	+	+country of origin	+P495
+Q2331, Q1546001	+	+Wolfram Language entity code	+P4839
+Q2331, Q1546001	+	+MYmovies name ID	+P4785
+Q2331, Q1546001	+	+cinematografo.it name or company ID	+P4768
+Q2331, Q1546001	+	+CineMagia person ID	+P4666
+Q2331, Q1546001	+	+National Library of Brazil ID	+P4619
+Q2331, Q1546001	+	+Prisma ID	+P4515
+Q2331, Q1546001	+	+BFI Films, TV and people ID	+P4438
+Q2331, Q1546001	+	+MusicBrainz artist ID	+P434
+Q2331, Q1546001	+	+Billboard artist ID	+P4208
+Q2331, Q1546001	+	+Google Play Music artist ID (former scheme)	+P4198
+Q2331, Q1546001	+	+Carnegie Hall agent ID	+P4104
+Q2331, Q1546001	+	+Libraries Australia ID	+P409
+Q2331, Q1546001	+	+subreddit	+P3984
+Q2331, Q1546001	+	+TV Guide person ID (former scheme)	+P3845
+Q2331, Q1546001	+	+MOOMA artist ID	+P3733
+Q2331, Q1546001	+	+Commons category	+P373
+Q2331, Q1546001	+	+Babelio author ID	+P3630
+Q2331, Q1546001	+	+discography	+P358
+Q2331, Q1546001	+	+Cultureel Woordenboek ID	+P3569
+Q2331, Q1546001	+	+Songkick artist ID	+P3478
+Q2331, Q1546001	+	+IMDb ID	+P345
+Q2331, Q1546001	+	+Quora topic ID	+P3417
+Q2331, Q1546001	+	+New York Times topic ID	+P3221
+Q2331, Q1546001	+	+Encyclopædia Universalis ID	+P3219
+Q2331, Q1546001	+	+Ciné-Ressources person ID	+P3204
+Q2331, Q1546001	+	+Last.fm ID	+P3192
+Q2331, Q1546001	+	+Rock and Roll Hall of Fame ID	+P3162
+Q2331, Q1546001	+	+Guardian topic ID	+P3106
+Q2331, Q1546001	+	+SoundCloud ID	+P3040
+Q2331, Q1546001	+	+Rolling Stone artist ID	+P3017
+Q2331, Q1546001	+	+Great Russian Encyclopedia Online ID	+P2924
+Q2331, Q1546001	+	+Google+ ID	+P2847
+Q2331, Q1546001	+	+Deezer artist ID	+P2722
+Q2331, Q1546001	+	+CiNii author ID (books)	+P271
+Q2331, Q1546001	+	+IdRef ID	+P269
+Q2331, Q1546001	+	+Bibliothèque nationale de France ID	+P268
+Q2331, Q1546001	+	+record label	+P264
+Q2331, Q1546001	+	+TV.com ID	+P2638
+Q2331, Q1546001	+	+Danish National Filmography person ID	+P2626
+Q2331, Q1546001	+	+Kinopoisk person ID	+P2604
+Q2331, Q1546001	+	+Theatricalia person ID	+P2469
+Q2331, Q1546001	+	+YouTube channel ID	+P2397
+Q2331, Q1546001	+	+Genius artist ID	+P2373
+Q2331, Q1546001	+	+Swedish Film Database group ID	+P2337
+Q2331, Q1546001	+	+work period (start)	+P2031
+Q2331, Q1546001	+	+AllMovie person ID	+P2019
+Q2331, Q1546001	+	+Facebook ID	+P2013
+Q2331, Q1546001	+	+Instagram username	+P2003
+Q2331, Q1546001	+	+Twitter username	+P2002
+Q2331, Q1546001	+	+Discogs artist ID	+P1953
+Q2331, Q1546001	+	+Spotify artist ID	+P1902
+Q2331, Q1546001	+	+AllMusic artist ID	+P1728
+Q2331, Q1546001	+	+Metacritic ID	+P1712
+Q2331, Q1546001	+	+official name	+P1448
+Q2331, Q1546001	+	+topic's main template	+P1424
+Q2331, Q1546001	+	+Encyclopædia Britannica Online ID	+P1417
+Q2331, Q1546001	+	+nominated for	+P1411
+Q2331, Q1546001	+	+NSK ID	+P1375
+Q2331, Q1546001	+	+LNB ID	+P1368
+Q2331, Q1546001	+	+participant in	+P1344
+Q2331, Q1546001	+	+NLA Trove ID	+P1315
+Q2331, Q1546001	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q2331, Q1546001	+	+Munzinger Pop ID	+P1286
+Q2331, Q1546001	+	+AlloCiné person ID	+P1266
+Q2331, Q1546001	+	+NUKAT ID	+P1207
+Q2331, Q1546001	+	+BIBSYS ID	+P1015
+Q2331, Q1546001	+	+instance of	+P31
+Q2331, Q1546001	+	+Library of Congress authority ID	+P244
+Q2331, Q1546001	+	+GND ID	+P227
+Q2331, Q1546001	+	+VIAF ID	+P214
+Q2331, Q1546001	+	+ISNI	+P213
+Q2331, Q1546001	+	+image	+P18
+Q2331, Q1546001	+	+award received	+P166
+Q2331, Q1546001	+	+logo image	+P154
+Q2331, Q1546001	+	+genre	+P136
+Q2331, Q1546001	+	+field of work	+P101
+Q2331, Q1546001	-	-category combines topics	-P971
+Q2331, Q1546001	-	-dedicated to	-P825
+Q2331, Q1546001	-	-influenced by	-P737
+Q2331, Q1546001	-	-member of	-P463
+Q2331, Q1546001	-	-part of	-P361
+Q2331, Q1546001	-	-category's main topic	-P301
+Q2331, Q1546001	-	-template has topic	-P1423
+Q2331, Q1546001	-	-winner	-P1346
+Q2331, Q1546001	-	-composer	-P86
+Q2331, Q1546001	-	-performer	-P175
+Q2331, Q1546001	-	-cast member	-P161
+Q2331, Q1546001	-	-founded by	-P112
+Q80823, Q84	+	+National Library of Israel ID	+P949
+Q80823, Q84	+	+Commons gallery	+P935
+Q80823, Q84	+	+topic's main category	+P910
+Q80823, Q84	+	+SELIBR ID	+P906
+Q80823, Q84	+	+IMSLP ID	+P839
+Q80823, Q84	+	+given name	+P735
+Q80823, Q84	+	+family name	+P734
+Q80823, Q84	+	+NKCR AUT ID	+P691
+Q80823, Q84	+	+Biografisch Portaal van Nederland ID	+P651
+Q80823, Q84	+	+Freebase ID	+P646
+Q80823, Q84	+	+date of death	+P570
+Q80823, Q84	+	+date of birth	+P569
+Q80823, Q84	+	+Find A Grave memorial ID	+P535
+Q80823, Q84	+	+cause of death	+P509
+Q80823, Q84	+	+Interlingual Index ID	+P5063
+Q80823, Q84	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q80823, Q84	+	+The Peerage person ID	+P4638
+Q80823, Q84	+	+National Library of Brazil ID	+P4619
+Q80823, Q84	+	+Collective Biographies of Women ID	+P4539
+Q80823, Q84	+	+MusicBrainz artist ID	+P434
+Q80823, Q84	+	+Treccani's Enciclopedia Italiana ID	+P4223
+Q80823, Q84	+	+WeRelate person ID	+P4159
+Q80823, Q84	+	+Carnegie Hall agent ID	+P4104
+Q80823, Q84	+	+Libraries Australia ID	+P409
+Q80823, Q84	+	+Commons category	+P373
+Q80823, Q84	+	+National Diet Library ID	+P349
+Q80823, Q84	+	+IMDb ID	+P345
+Q80823, Q84	+	+SNAC Ark ID	+P3430
+Q80823, Q84	+	+Quora topic ID	+P3417
+Q80823, Q84	+	+sibling	+P3373
+Q80823, Q84	+	+Treccani ID	+P3365
+Q80823, Q84	+	+National Library of Greece ID	+P3348
+Q80823, Q84	+	+BAnQ author ID	+P3280
+Q80823, Q84	+	+NE.se ID	+P3222
+Q80823, Q84	+	+Encyclopædia Universalis ID	+P3219
+Q80823, Q84	+	+Kindred Britain ID	+P3051
+Q80823, Q84	+	+UK National Archives ID	+P3029
+Q80823, Q84	+	+WikiTree person ID	+P2949
+Q80823, Q84	+	+Great Russian Encyclopedia Online ID	+P2924
+Q80823, Q84	+	+BVMC person ID	+P2799
+Q80823, Q84	+	+IdRef ID	+P269
+Q80823, Q84	+	+Bibliothèque nationale de France ID	+P268
+Q80823, Q84	+	+place of detention	+P2632
+Q80823, Q84	+	+Geni.com profile ID	+P2600
+Q80823, Q84	+	+Six Degrees of Francis Bacon ID	+P2401
+Q80823, Q84	+	+FAST ID	+P2163
+Q80823, Q84	+	+Discogs artist ID	+P1953
+Q80823, Q84	+	+CCAB ID	+P1890
+Q80823, Q84	+	+hair color	+P1884
+Q80823, Q84	+	+CERL Thesaurus ID	+P1871
+Q80823, Q84	+	+genealogics.org person ID	+P1819
+Q80823, Q84	+	+National Portrait Gallery (London) person ID	+P1816
+Q80823, Q84	+	+EMLO person ID	+P1802
+Q80823, Q84	+	+GTAA ID	+P1741
+Q80823, Q84	+	+AllMusic artist ID	+P1728
+Q80823, Q84	+	+British Museum person or institution ID	+P1711
+Q80823, Q84	+	+NLP ID (unique)	+P1695
+Q80823, Q84	+	+birth name	+P1477
+Q80823, Q84	+	+OpenPlaques subject ID	+P1430
+Q80823, Q84	+	+Encyclopædia Britannica Online ID	+P1417
+Q80823, Q84	+	+Oxford Dictionary of National Biography ID	+P1415
+Q80823, Q84	+	+described by source	+P1343
+Q80823, Q84	+	+eye color	+P1340
+Q80823, Q84	+	+NLA Trove ID	+P1315
+Q80823, Q84	+	+depicted by	+P1299
+Q80823, Q84	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q80823, Q84	+	+CANTIC ID	+P1273
+Q80823, Q84	+	+NNDB people ID	+P1263
+Q80823, Q84	+	+manner of death	+P1196
+Q80823, Q84	+	+Rodovid ID	+P1185
+Q80823, Q84	+	+relative	+P1038
+Q80823, Q84	+	+Vatican Library ID (former scheme)	+P1017
+Q80823, Q84	+	+BIBSYS ID	+P1015
+Q80823, Q84	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q80823, Q84	+	+noble title	+P97
+Q80823, Q84	+	+coat of arms image	+P94
+Q80823, Q84	+	+family	+P53
+Q80823, Q84	+	+child	+P40
+Q80823, Q84	+	+position held	+P39
+Q80823, Q84	+	+instance of	+P31
+Q80823, Q84	+	+country of citizenship	+P27
+Q80823, Q84	+	+spouse	+P26
+Q80823, Q84	+	+mother	+P25
+Q80823, Q84	+	+Library of Congress authority ID	+P244
+Q80823, Q84	+	+GND ID	+P227
+Q80823, Q84	+	+father	+P22
+Q80823, Q84	+	+VIAF ID	+P214
+Q80823, Q84	+	+ISNI	+P213
+Q80823, Q84	+	+sex or gender	+P21
+Q80823, Q84	+	+place of death	+P20
+Q80823, Q84	+	+place of birth	+P19
+Q80823, Q84	+	+image	+P18
+Q80823, Q84	+	+religion	+P140
+Q80823, Q84	+	+place of burial	+P119
+Q80823, Q84	+	+signature	+P109
+Q80823, Q84	+	+occupation	+P106
+Q80823, Q84	-	-inspired by	-P941
+Q80823, Q84	-	-main subject	-P921
+Q80823, Q84	-	-characters	-P674
+Q80823, Q84	-	-stepparent	-P3448
+Q80823, Q84	-	-sibling	-P3373
+Q80823, Q84	-	-category's main topic	-P301
+Q80823, Q84	-	-Wikidata property example	-P1855
+Q80823, Q84	-	-addressee	-P1817
+Q80823, Q84	-	-fictional analog of	-P1074
+Q80823, Q84	-	-relative	-P1038
+Q80823, Q84	-	-child	-P40
+Q80823, Q84	-	-spouse	-P26
+Q80823, Q84	-	-mother	-P25
+Q80823, Q84	-	-depicts	-P180
+Q80823, Q84	-	-named after	-P138
+Q43044, Q42365	+	+Biblioteca Nacional de España ID	+P950
+Q43044, Q42365	+	+National Library of Israel ID	+P949
+Q43044, Q42365	+	+Commons gallery	+P935
+Q43044, Q42365	+	+topic's main category	+P910
+Q43044, Q42365	+	+given name	+P735
+Q43044, Q42365	+	+family name	+P734
+Q43044, Q42365	+	+NKCR AUT ID	+P691
+Q43044, Q42365	+	+Open Library ID	+P648
+Q43044, Q42365	+	+Freebase ID	+P646
+Q43044, Q42365	+	+date of birth	+P569
+Q43044, Q42365	+	+Open Media Database person ID	+P5534
+Q43044, Q42365	+	+residence	+P551
+Q43044, Q42365	+	+Trading Card Database person ID	+P5421
+Q43044, Q42365	+	+BNB person ID	+P5361
+Q43044, Q42365	+	+American Film Institute person ID	+P5340
+Q43044, Q42365	+	+Google News topics ID	+P5337
+Q43044, Q42365	+	+fernsehserien.de ID	+P5327
+Q43044, Q42365	+	+Kino-teatr.ua person ID	+P5312
+Q43044, Q42365	+	+Douban movie celebrity ID	+P5284
+Q43044, Q42365	+	+FilmTv.it person ID	+P5254
+Q43044, Q42365	+	+Daum Encyclopedia ID	+P5184
+Q43044, Q42365	+	+National Library of Korea ID	+P5034
+Q43044, Q42365	+	+Filmweb.pl person ID	+P5033
+Q43044, Q42365	+	+Behind The Voice Actors person ID	+P5007
+Q43044, Q42365	+	+TMDb person ID	+P4985
+Q43044, Q42365	+	+Wolfram Language entity code	+P4839
+Q43044, Q42365	+	+Movieplayer person ID	+P4782
+Q43044, Q42365	+	+MYmovies actor ID	+P4779
+Q43044, Q42365	+	+cinematografo.it name or company ID	+P4768
+Q43044, Q42365	+	+Eldoblaje original actor ID	+P4682
+Q43044, Q42365	+	+CineMagia person ID	+P4666
+Q43044, Q42365	+	+The Numbers person ID	+P4657
+Q43044, Q42365	+	+Prisma ID	+P4515
+Q43044, Q42365	+	+unmarried partner	+P451
+Q43044, Q42365	+	+Internet Off-Broadway Database creditable entity ID	+P4456
+Q43044, Q42365	+	+BFI Films, TV and people ID	+P4438
+Q43044, Q42365	+	+Store norske leksikon ID	+P4342
+Q43044, Q42365	+	+MusicBrainz artist ID	+P434
+Q43044, Q42365	+	+Deutsche Synchronkartei actor ID	+P4332
+Q43044, Q42365	+	+BFI Filmography person ID	+P4326
+Q43044, Q42365	+	+Familypedia person ID	+P4193
+Q43044, Q42365	+	+Carnegie Hall agent ID	+P4104
+Q43044, Q42365	+	+Libraries Australia ID	+P409
+Q43044, Q42365	+	+subreddit	+P3984
+Q43044, Q42365	+	+SBN author ID	+P396
+Q43044, Q42365	+	+Cinema.de ID	+P3933
+Q43044, Q42365	+	+TV Guide person ID (former scheme)	+P3845
+Q43044, Q42365	+	+Elle.fr person ID	+P3812
+Q43044, Q42365	+	+Commons category	+P373
+Q43044, Q42365	+	+Babelio author ID	+P3630
+Q43044, Q42365	+	+National Diet Library ID	+P349
+Q43044, Q42365	+	+IMDb ID	+P345
+Q43044, Q42365	+	+SNAC Ark ID	+P3430
+Q43044, Q42365	+	+Quora topic ID	+P3417
+Q43044, Q42365	+	+LittleSis people ID	+P3388
+Q43044, Q42365	+	+Treccani ID	+P3365
+Q43044, Q42365	+	+Kvikmyndir person ID	+P3341
+Q43044, Q42365	+	+KINENOTE person ID	+P3305
+Q43044, Q42365	+	+NE.se ID	+P3222
+Q43044, Q42365	+	+New York Times topic ID	+P3221
+Q43044, Q42365	+	+Ciné-Ressources person ID	+P3204
+Q43044, Q42365	+	+Last.fm ID	+P3192
+Q43044, Q42365	+	+Sratim ID	+P3145
+Q43044, Q42365	+	+elFilm person ID	+P3144
+Q43044, Q42365	+	+EDb person ID	+P3142
+Q43044, Q42365	+	+elCinema person ID	+P3136
+Q43044, Q42365	+	+ISzDb person ID	+P3114
+Q43044, Q42365	+	+Guardian topic ID	+P3106
+Q43044, Q42365	+	+RERO ID	+P3065
+Q43044, Q42365	+	+TCM Movie Database person ID	+P3056
+Q43044, Q42365	+	+Goodreads author ID	+P2963
+Q43044, Q42365	+	+WikiTree person ID	+P2949
+Q43044, Q42365	+	+iTunes artist ID	+P2850
+Q43044, Q42365	+	+CiNii author ID (books)	+P271
+Q43044, Q42365	+	+IdRef ID	+P269
+Q43044, Q42365	+	+Box Office Mojo person ID	+P2688
+Q43044, Q42365	+	+Bibliothèque nationale de France ID	+P268
+Q43044, Q42365	+	+TV.com ID	+P2638
+Q43044, Q42365	+	+Danish National Filmography person ID	+P2626
+Q43044, Q42365	+	+ČSFD person ID	+P2605
+Q43044, Q42365	+	+Kinopoisk person ID	+P2604
+Q43044, Q42365	+	+Geni.com profile ID	+P2600
+Q43044, Q42365	+	+BabelNet ID	+P2581
+Q43044, Q42365	+	+hashtag	+P2572
+Q43044, Q42365	+	+Scope.dk person ID	+P2519
+Q43044, Q42365	+	+Models.com person ID	+P2471
+Q43044, Q42365	+	+PORT person ID	+P2435
+Q43044, Q42365	+	+Elonet person ID	+P2387
+Q43044, Q42365	+	+Swedish Film Database person ID	+P2168
+Q43044, Q42365	+	+FAST ID	+P2163
+Q43044, Q42365	+	+Crunchbase person ID	+P2087
+Q43044, Q42365	+	+work period (start)	+P2031
+Q43044, Q42365	+	+AllMovie person ID	+P2019
+Q43044, Q42365	+	+Facebook ID	+P2013
+Q43044, Q42365	+	+Instagram username	+P2003
+Q43044, Q42365	+	+Twitter username	+P2002
+Q43044, Q42365	+	+MovieMeter director ID	+P1969
+Q43044, Q42365	+	+Discogs artist ID	+P1953
+Q43044, Q42365	+	+genealogics.org person ID	+P1819
+Q43044, Q42365	+	+GTAA ID	+P1741
+Q43044, Q42365	+	+Metacritic ID	+P1712
+Q43044, Q42365	+	+NLP ID (unique)	+P1695
+Q43044, Q42365	+	+KMDb person ID	+P1649
+Q43044, Q42365	+	+University of Barcelona authority ID	+P1580
+Q43044, Q42365	+	+lifestyle	+P1576
+Q43044, Q42365	+	+name in native language	+P1559
+Q43044, Q42365	+	+birth name	+P1477
+Q43044, Q42365	+	+languages spoken, written or signed	+P1412
+Q43044, Q42365	+	+nominated for	+P1411
+Q43044, Q42365	+	+NSK ID	+P1375
+Q43044, Q42365	+	+LNB ID	+P1368
+Q43044, Q42365	+	+described by source	+P1343
+Q43044, Q42365	+	+NLA Trove ID	+P1315
+Q43044, Q42365	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q43044, Q42365	+	+Munzinger person ID	+P1284
+Q43044, Q42365	+	+CONOR.SI ID	+P1280
+Q43044, Q42365	+	+CANTIC ID	+P1273
+Q43044, Q42365	+	+AlloCiné person ID	+P1266
+Q43044, Q42365	+	+NNDB people ID	+P1263
+Q43044, Q42365	+	+Rotten Tomatoes ID	+P1258
+Q43044, Q42365	+	+Internet Broadway Database person ID	+P1220
+Q43044, Q42365	+	+NUKAT ID	+P1207
+Q43044, Q42365	+	+Rodovid ID	+P1185
+Q43044, Q42365	+	+BIBSYS ID	+P1015
+Q43044, Q42365	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q43044, Q42365	+	+educated at	+P69
+Q43044, Q42365	+	+child	+P40
+Q43044, Q42365	+	+instance of	+P31
+Q43044, Q42365	+	+country of citizenship	+P27
+Q43044, Q42365	+	+spouse	+P26
+Q43044, Q42365	+	+Library of Congress authority ID	+P244
+Q43044, Q42365	+	+GND ID	+P227
+Q43044, Q42365	+	+VIAF ID	+P214
+Q43044, Q42365	+	+ISNI	+P213
+Q43044, Q42365	+	+sex or gender	+P21
+Q43044, Q42365	+	+place of birth	+P19
+Q43044, Q42365	+	+image	+P18
+Q43044, Q42365	+	+award received	+P166
+Q43044, Q42365	+	+occupation	+P106
+Q43044, Q42365	+	+member of political party	+P102
+Q43044, Q42365	-	-category combines topics	-P971
+Q43044, Q42365	-	-voice actor	-P725
+Q43044, Q42365	-	-has part	-P527
+Q43044, Q42365	-	-unmarried partner	-P451
+Q43044, Q42365	-	-category's main topic	-P301
+Q43044, Q42365	-	-winner	-P1346
+Q43044, Q42365	-	-director	-P57
+Q43044, Q42365	-	-author	-P50
+Q43044, Q42365	-	-spouse	-P26
+Q43044, Q42365	-	-mother	-P25
+Q43044, Q42365	-	-depicts	-P180
+Q43044, Q42365	-	-performer	-P175
+Q43044, Q42365	-	-producer	-P162
+Q43044, Q42365	-	-cast member	-P161
+Q43044, Q42365	-	-founded by	-P112
+Q8683, Q170314	+	+spoken text audio	+P989
+Q8683, Q170314	+	+page banner	+P948
+Q8683, Q170314	+	+topic's main category	+P910
+Q8683, Q170314	+	+HDS ID	+P902
+Q8683, Q170314	+	+significant event	+P793
+Q8683, Q170314	+	+participant	+P710
+Q8683, Q170314	+	+Freebase ID	+P646
+Q8683, Q170314	+	+end time	+P582
+Q8683, Q170314	+	+start time	+P580
+Q8683, Q170314	+	+Canadian Encyclopedia article ID	+P5395
+Q8683, Q170314	+	+The Encyclopedia of Science Fiction ID	+P5357
+Q8683, Q170314	+	+has part	+P527
+Q8683, Q170314	+	+Wikimedia outline	+P5125
+Q8683, Q170314	+	+BNCF Thesaurus ID	+P508
+Q8683, Q170314	+	+Interlingual Index ID	+P5063
+Q8683, Q170314	+	+on focus list of Wikimedia project	+P5008
+Q8683, Q170314	+	+UK Parliament thesaurus ID	+P4527
+Q8683, Q170314	+	+Store norske leksikon ID	+P4342
+Q8683, Q170314	+	+Commons category	+P373
+Q8683, Q170314	+	+Cultureel Woordenboek ID	+P3569
+Q8683, Q170314	+	+Quora topic ID	+P3417
+Q8683, Q170314	+	+Treccani ID	+P3365
+Q8683, Q170314	+	+NE.se ID	+P3222
+Q8683, Q170314	+	+Encyclopædia Universalis ID	+P3219
+Q8683, Q170314	+	+Great Russian Encyclopedia Online ID	+P2924
+Q8683, Q170314	+	+subclass of	+P279
+Q8683, Q170314	+	+location	+P276
+Q8683, Q170314	+	+BabelNet ID	+P2581
+Q8683, Q170314	+	+YSO ID	+P2347
+Q8683, Q170314	+	+topic's main template	+P1424
+Q8683, Q170314	+	+Encyclopædia Britannica Online ID	+P1417
+Q8683, Q170314	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q8683, Q170314	+	+topic's main Wikimedia portal	+P1151
+Q8683, Q170314	+	+PSH ID	+P1051
+Q8683, Q170314	+	+instance of	+P31
+Q8683, Q170314	+	+Library of Congress authority ID	+P244
+Q8683, Q170314	+	+locator map image	+P242
+Q8683, Q170314	+	+GND ID	+P227
+Q8683, Q170314	+	+image	+P18
+Q8683, Q170314	+	+followed by	+P156
+Q8683, Q170314	-	-category combines topics	-P971
+Q8683, Q170314	-	-main subject	-P921
+Q8683, Q170314	-	-significant event	-P793
+Q8683, Q170314	-	-conflict	-P607
+Q8683, Q170314	-	-has part	-P527
+Q8683, Q170314	-	-said to be the same as	-P460
+Q8683, Q170314	-	-part of	-P361
+Q8683, Q170314	-	-category's main topic	-P301
+Q8683, Q170314	-	-subclass of	-P279
+Q8683, Q170314	-	-set in period	-P2408
+Q8683, Q170314	-	-time period	-P2348
+Q8683, Q170314	-	-has contributing factor	-P1479
+Q8683, Q170314	-	-template has topic	-P1423
+Q8683, Q170314	-	-partially coincident with	-P1382
+Q8683, Q170314	-	-participant in	-P1344
+Q8683, Q170314	-	-facet of	-P1269
+Q8683, Q170314	-	-Wikimedia portal's main topic	-P1204
+Q8683, Q170314	-	-instance of	-P31
+Q8683, Q170314	-	-depicts	-P180
+Q8683, Q170314	-	-follows	-P155
+Q8683, Q170314	-	-named after	-P138
+Q8683, Q170314	-	-field of work	-P101
+Q10285, Q43338	+	+e-mail address	+P968
+Q10285, Q43338	+	+page banner	+P948
+Q10285, Q43338	+	+Commons gallery	+P935
+Q10285, Q43338	+	+topic's main category	+P910
+Q10285, Q43338	+	+official website	+P856
+Q10285, Q43338	+	+NKCR AUT ID	+P691
+Q10285, Q43338	+	+Freebase ID	+P646
+Q10285, Q43338	+	+coordinate location	+P625
+Q10285, Q43338	+	+archINFORM project ID	+P5383
+Q10285, Q43338	+	+Interlingual Index ID	+P5063
+Q10285, Q43338	+	+activity policy in this place	+P5023
+Q10285, Q43338	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q10285, Q43338	+	+on focus list of Wikimedia project	+P5008
+Q10285, Q43338	+	+Wolfram Language entity code	+P4839
+Q10285, Q43338	+	+Emporis building ID	+P455
+Q10285, Q43338	+	+Structurae structure ID	+P454
+Q10285, Q43338	+	+EUTA theatre ID	+P4535
+Q10285, Q43338	+	+Store norske leksikon ID	+P4342
+Q10285, Q43338	+	+PACTOLS thesaurus ID	+P4212
+Q10285, Q43338	+	+OpenStreetMap relation ID	+P402
+Q10285, Q43338	+	+Songkick venue ID	+P3977
+Q10285, Q43338	+	+Google Maps Customer ID	+P3749
+Q10285, Q43338	+	+Commons category	+P373
+Q10285, Q43338	+	+use	+P366
+Q10285, Q43338	+	+part of	+P361
+Q10285, Q43338	+	+nighttime view	+P3451
+Q10285, Q43338	+	+Quora topic ID	+P3417
+Q10285, Q43338	+	+Treccani ID	+P3365
+Q10285, Q43338	+	+Catholic Encyclopedia ID	+P3241
+Q10285, Q43338	+	+NE.se ID	+P3222
+Q10285, Q43338	+	+Encyclopædia Universalis ID	+P3219
+Q10285, Q43338	+	+TripAdvisor ID	+P3134
+Q10285, Q43338	+	+Great Russian Encyclopedia Online ID	+P2924
+Q10285, Q43338	+	+postal code	+P281
+Q10285, Q43338	+	+culture	+P2596
+Q10285, Q43338	+	+BabelNet ID	+P2581
+Q10285, Q43338	+	+height	+P2048
+Q10285, Q43338	+	+Digital Atlas of the Roman Empire ID	+P1936
+Q10285, Q43338	+	+Cultural Objects Names Authority ID	+P1669
+Q10285, Q43338	+	+date of official opening	+P1619
+Q10285, Q43338	+	+Pleiades ID	+P1584
+Q10285, Q43338	+	+GeoNames ID	+P1566
+Q10285, Q43338	+	+vici.org ID	+P1481
+Q10285, Q43338	+	+heritage designation	+P1435
+Q10285, Q43338	+	+Encyclopædia Britannica Online ID	+P1417
+Q10285, Q43338	+	+described by source	+P1343
+Q10285, Q43338	+	+phone number	+P1329
+Q10285, Q43338	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q10285, Q43338	+	+OmegaWiki Defined Meaning	+P1245
+Q10285, Q43338	+	+visitors per year	+P1174
+Q10285, Q43338	+	+maximum capacity	+P1083
+Q10285, Q43338	+	+instance of	+P31
+Q10285, Q43338	+	+Library of Congress authority ID	+P244
+Q10285, Q43338	+	+GND ID	+P227
+Q10285, Q43338	+	+VIAF ID	+P214
+Q10285, Q43338	+	+made from material	+P186
+Q10285, Q43338	+	+image	+P18
+Q10285, Q43338	+	+country	+P17
+Q10285, Q43338	+	+architectural style	+P149
+Q10285, Q43338	+	+located in the administrative territorial entity	+P131
+Q10285, Q43338	-	-category combines topics	-P971
+Q10285, Q43338	-	-main subject	-P921
+Q10285, Q43338	-	-filming location	-P915
+Q10285, Q43338	-	-narrative location	-P840
+Q10285, Q43338	-	-has part	-P527
+Q10285, Q43338	-	-category's main topic	-P301
+Q10285, Q43338	-	-Wikidata property example	-P1855
+Q10285, Q43338	-	-depicts	-P180
+Q10285, Q43338	-	-named after	-P138
+Q133087, Q5120034	+	+topic's main category	+P910
+Q133087, Q5120034	+	+symptoms	+P780
+Q133087, Q5120034	+	+Disease Ontology ID	+P699
+Q133087, Q5120034	+	+afflicts	+P689
+Q133087, Q5120034	+	+eMedicine ID	+P673
+Q133087, Q5120034	+	+MeSH tree code	+P672
+Q133087, Q5120034	+	+ICPC 2 ID	+P667
+Q133087, Q5120034	+	+KEGG ID	+P665
+Q133087, Q5120034	+	+Freebase ID	+P646
+Q133087, Q5120034	+	+MedlinePlus ID	+P604
+Q133087, Q5120034	+	+DiseasesDB	+P557
+Q133087, Q5120034	+	+MonDO ID	+P5270
+Q133087, Q5120034	+	+Store medisinske leksikon ID	+P5082
+Q133087, Q5120034	+	+BNCF Thesaurus ID	+P508
+Q133087, Q5120034	+	+on focus list of Wikimedia project	+P5008
+Q133087, Q5120034	+	+OMIM ID	+P492
+Q133087, Q5120034	+	+MeSH descriptor ID	+P486
+Q133087, Q5120034	+	+UK Parliament thesaurus ID	+P4527
+Q133087, Q5120034	+	+ICD-10-CM	+P4229
+Q133087, Q5120034	+	+Human Phenotype Ontology ID	+P3841
+Q133087, Q5120034	+	+JSTOR topic ID	+P3827
+Q133087, Q5120034	+	+Commons category	+P373
+Q133087, Q5120034	+	+Cultureel Woordenboek ID	+P3569
+Q133087, Q5120034	+	+National Diet Library ID	+P349
+Q133087, Q5120034	+	+WikiSkripta ID	+P3471
+Q133087, Q5120034	+	+Quora topic ID	+P3417
+Q133087, Q5120034	+	+Encyclopædia Universalis ID	+P3219
+Q133087, Q5120034	+	+permanent duplicated item	+P2959
+Q133087, Q5120034	+	+Great Russian Encyclopedia Online ID	+P2924
+Q133087, Q5120034	+	+UMLS CUI	+P2892
+Q133087, Q5120034	+	+exact match	+P2888
+Q133087, Q5120034	+	+age of onset	+P2841
+Q133087, Q5120034	+	+subclass of	+P279
+Q133087, Q5120034	+	+YSO ID	+P2347
+Q133087, Q5120034	+	+genetic association	+P2293
+Q133087, Q5120034	+	+drug used for treatment	+P2176
+Q133087, Q5120034	+	+internetmedicin.se ID	+P2074
+Q133087, Q5120034	+	+health specialty	+P1995
+Q133087, Q5120034	+	+NCI Thesaurus ID	+P1748
+Q133087, Q5120034	+	+ICD-9-CM	+P1692
+Q133087, Q5120034	+	+has contributing factor	+P1479
+Q133087, Q5120034	+	+Patientplus ID	+P1461
+Q133087, Q5120034	+	+Encyclopædia Britannica Online ID	+P1417
+Q133087, Q5120034	+	+NSK ID	+P1375
+Q133087, Q5120034	+	+described by source	+P1343
+Q133087, Q5120034	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q133087, Q5120034	+	+OmegaWiki Defined Meaning	+P1245
+Q133087, Q5120034	+	+prevalence	+P1193
+Q133087, Q5120034	+	+instance of	+P31
+Q133087, Q5120034	+	+GND ID	+P227
+Q133087, Q5120034	+	+image	+P18
+Q133087, Q5120034	+	+named after	+P138
+Q133087, Q5120034	-	-category combines topics	-P971
+Q133087, Q5120034	-	-main subject	-P921
+Q133087, Q5120034	-	-has cause	-P828
+Q133087, Q5120034	-	-established from medical condition	-P5166
+Q133087, Q5120034	-	-cause of death	-P509
+Q133087, Q5120034	-	-category's main topic	-P301
+Q133087, Q5120034	-	-permanent duplicated item	-P2959
+Q133087, Q5120034	-	-subclass of	-P279
+Q133087, Q5120034	-	-genetic association	-P2293
+Q133087, Q5120034	-	-medical condition treated	-P2175
+Q133087, Q5120034	-	-Wikidata property example	-P1855
+Q133087, Q5120034	-	-medical condition	-P1050
+Q11885, Q186506	+	+Commons gallery	+P935
+Q11885, Q186506	+	+topic's main category	+P910
+Q11885, Q186506	+	+SELIBR ID	+P906
+Q11885, Q186506	+	+pseudonym	+P742
+Q11885, Q186506	+	+given name	+P735
+Q11885, Q186506	+	+family name	+P734
+Q11885, Q186506	+	+NKCR AUT ID	+P691
+Q11885, Q186506	+	+Freebase ID	+P646
+Q11885, Q186506	+	+date of birth	+P569
+Q11885, Q186506	+	+member of	+P463
+Q11885, Q186506	+	+MusicBrainz artist ID	+P434
+Q11885, Q186506	+	+voice type	+P412
+Q11885, Q186506	+	+Commons category	+P373
+Q11885, Q186506	+	+Songkick artist ID	+P3478
+Q11885, Q186506	+	+IMDb ID	+P345
+Q11885, Q186506	+	+Rolling Stone artist ID	+P3017
+Q11885, Q186506	+	+Deezer artist ID	+P2722
+Q11885, Q186506	+	+IdRef ID	+P269
+Q11885, Q186506	+	+Bibliothèque nationale de France ID	+P268
+Q11885, Q186506	+	+record label	+P264
+Q11885, Q186506	+	+TV.com ID	+P2638
+Q11885, Q186506	+	+FAST ID	+P2163
+Q11885, Q186506	+	+work period (start)	+P2031
+Q11885, Q186506	+	+Twitter username	+P2002
+Q11885, Q186506	+	+Encyclopaedia Metallum artist ID	+P1989
+Q11885, Q186506	+	+Discogs artist ID	+P1953
+Q11885, Q186506	+	+Spotify artist ID	+P1902
+Q11885, Q186506	+	+IPI name number	+P1828
+Q11885, Q186506	+	+GTAA ID	+P1741
+Q11885, Q186506	+	+AllMusic artist ID	+P1728
+Q11885, Q186506	+	+name in native language	+P1559
+Q11885, Q186506	+	+birth name	+P1477
+Q11885, Q186506	+	+Encyclopædia Britannica Online ID	+P1417
+Q11885, Q186506	+	+languages spoken, written or signed	+P1412
+Q11885, Q186506	+	+described by source	+P1343
+Q11885, Q186506	+	+NLA Trove ID	+P1315
+Q11885, Q186506	+	+instrument	+P1303
+Q11885, Q186506	+	+NNDB people ID	+P1263
+Q11885, Q186506	+	+Internet Speculative Fiction Database author ID	+P1233
+Q11885, Q186506	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q11885, Q186506	+	+instance of	+P31
+Q11885, Q186506	+	+country of citizenship	+P27
+Q11885, Q186506	+	+spouse	+P26
+Q11885, Q186506	+	+Library of Congress authority ID	+P244
+Q11885, Q186506	+	+GND ID	+P227
+Q11885, Q186506	+	+VIAF ID	+P214
+Q11885, Q186506	+	+ISNI	+P213
+Q11885, Q186506	+	+sex or gender	+P21
+Q11885, Q186506	+	+place of birth	+P19
+Q11885, Q186506	+	+image	+P18
+Q11885, Q186506	+	+religion	+P140
+Q11885, Q186506	+	+genre	+P136
+Q11885, Q186506	+	+signature	+P109
+Q11885, Q186506	+	+occupation	+P106
+Q11885, Q186506	-	-lyrics by	-P676
+Q11885, Q186506	-	-has part	-P527
+Q11885, Q186506	-	-category's main topic	-P301
+Q11885, Q186506	-	-composer	-P86
+Q11885, Q186506	-	-author	-P50
+Q11885, Q186506	-	-spouse	-P26
+Q11885, Q186506	-	-producer	-P162
+Q11885, Q186506	-	-cast member	-P161
+Q11885, Q186506	-	-named after	-P138
+Q213512, Q23733	+	+Biblioteca Nacional de España ID	+P950
+Q213512, Q23733	+	+work location	+P937
+Q213512, Q23733	+	+topic's main category	+P910
+Q213512, Q23733	+	+SELIBR ID	+P906
+Q213512, Q23733	+	+official website	+P856
+Q213512, Q23733	+	+notable work	+P800
+Q213512, Q23733	+	+significant event	+P793
+Q213512, Q23733	+	+given name	+P735
+Q213512, Q23733	+	+family name	+P734
+Q213512, Q23733	+	+NKCR AUT ID	+P691
+Q213512, Q23733	+	+Open Library ID	+P648
+Q213512, Q23733	+	+Freebase ID	+P646
+Q213512, Q23733	+	+date of birth	+P569
+Q213512, Q23733	+	+Open Media Database person ID	+P5534
+Q213512, Q23733	+	+BNB person ID	+P5361
+Q213512, Q23733	+	+National Library of Korea ID	+P5034
+Q213512, Q23733	+	+Filmweb.pl person ID	+P5033
+Q213512, Q23733	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q213512, Q23733	+	+on focus list of Wikimedia project	+P5008
+Q213512, Q23733	+	+alternate names	+P4970
+Q213512, Q23733	+	+CineMagia person ID	+P4666
+Q213512, Q23733	+	+member of	+P463
+Q213512, Q23733	+	+Store norske leksikon ID	+P4342
+Q213512, Q23733	+	+MusicBrainz artist ID	+P434
+Q213512, Q23733	+	+Billboard artist ID	+P4208
+Q213512, Q23733	+	+position played on team / speciality	+P413
+Q213512, Q23733	+	+Carnegie Hall agent ID	+P4104
+Q213512, Q23733	+	+Libraries Australia ID	+P409
+Q213512, Q23733	+	+Commons category	+P373
+Q213512, Q23733	+	+Babelio author ID	+P3630
+Q213512, Q23733	+	+National Diet Library ID	+P349
+Q213512, Q23733	+	+Songkick artist ID	+P3478
+Q213512, Q23733	+	+IMDb ID	+P345
+Q213512, Q23733	+	+SNAC Ark ID	+P3430
+Q213512, Q23733	+	+Quora topic ID	+P3417
+Q213512, Q23733	+	+New York Times topic ID	+P3221
+Q213512, Q23733	+	+TCM Movie Database person ID	+P3056
+Q213512, Q23733	+	+WikiTree person ID	+P2949
+Q213512, Q23733	+	+IdRef ID	+P269
+Q213512, Q23733	+	+Bibliothèque nationale de France ID	+P268
+Q213512, Q23733	+	+record label	+P264
+Q213512, Q23733	+	+TV.com ID	+P2638
+Q213512, Q23733	+	+place of detention	+P2632
+Q213512, Q23733	+	+Danish National Filmography person ID	+P2626
+Q213512, Q23733	+	+ČSFD person ID	+P2605
+Q213512, Q23733	+	+Kinopoisk person ID	+P2604
+Q213512, Q23733	+	+Scope.dk person ID	+P2519
+Q213512, Q23733	+	+PORT person ID	+P2435
+Q213512, Q23733	+	+Elonet person ID	+P2387
+Q213512, Q23733	+	+net worth	+P2218
+Q213512, Q23733	+	+C-SPAN person ID	+P2190
+Q213512, Q23733	+	+Swedish Film Database person ID	+P2168
+Q213512, Q23733	+	+FAST ID	+P2163
+Q213512, Q23733	+	+mass	+P2067
+Q213512, Q23733	+	+height	+P2048
+Q213512, Q23733	+	+work period (end)	+P2032
+Q213512, Q23733	+	+work period (start)	+P2031
+Q213512, Q23733	+	+AllMovie person ID	+P2019
+Q213512, Q23733	+	+Twitter username	+P2002
+Q213512, Q23733	+	+Discogs artist ID	+P1953
+Q213512, Q23733	+	+hair color	+P1884
+Q213512, Q23733	+	+blood type	+P1853
+Q213512, Q23733	+	+GTAA ID	+P1741
+Q213512, Q23733	+	+AllMusic artist ID	+P1728
+Q213512, Q23733	+	+NLP ID (unique)	+P1695
+Q213512, Q23733	+	+birth name	+P1477
+Q213512, Q23733	+	+Commons Creator page	+P1472
+Q213512, Q23733	+	+nickname	+P1449
+Q213512, Q23733	+	+Encyclopædia Britannica Online ID	+P1417
+Q213512, Q23733	+	+languages spoken, written or signed	+P1412
+Q213512, Q23733	+	+nominated for	+P1411
+Q213512, Q23733	+	+convicted of	+P1399
+Q213512, Q23733	+	+described by source	+P1343
+Q213512, Q23733	+	+eye color	+P1340
+Q213512, Q23733	+	+NLA Trove ID	+P1315
+Q213512, Q23733	+	+instrument	+P1303
+Q213512, Q23733	+	+Munzinger person ID	+P1284
+Q213512, Q23733	+	+CONOR.SI ID	+P1280
+Q213512, Q23733	+	+AlloCiné person ID	+P1266
+Q213512, Q23733	+	+NNDB people ID	+P1263
+Q213512, Q23733	+	+U.S. National Archives Identifier	+P1225
+Q213512, Q23733	+	+Internet Broadway Database person ID	+P1220
+Q213512, Q23733	+	+NUKAT ID	+P1207
+Q213512, Q23733	+	+medical condition	+P1050
+Q213512, Q23733	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q213512, Q23733	+	+Portuguese National Library ID	+P1005
+Q213512, Q23733	+	+sexual orientation	+P91
+Q213512, Q23733	+	+educated at	+P69
+Q213512, Q23733	+	+member of sports team	+P54
+Q213512, Q23733	+	+child	+P40
+Q213512, Q23733	+	+instance of	+P31
+Q213512, Q23733	+	+country of citizenship	+P27
+Q213512, Q23733	+	+spouse	+P26
+Q213512, Q23733	+	+Library of Congress authority ID	+P244
+Q213512, Q23733	+	+military branch	+P241
+Q213512, Q23733	+	+GND ID	+P227
+Q213512, Q23733	+	+VIAF ID	+P214
+Q213512, Q23733	+	+ISNI	+P213
+Q213512, Q23733	+	+sex or gender	+P21
+Q213512, Q23733	+	+place of birth	+P19
+Q213512, Q23733	+	+image	+P18
+Q213512, Q23733	+	+ethnic group	+P172
+Q213512, Q23733	+	+award received	+P166
+Q213512, Q23733	+	+religion	+P140
+Q213512, Q23733	+	+occupation	+P106
+Q213512, Q23733	+	+native language	+P103
+Q213512, Q23733	+	+member of political party	+P102
+Q213512, Q23733	-	-category combines topics	-P971
+Q213512, Q23733	-	-influenced by	-P737
+Q213512, Q23733	-	-category's main topic	-P301
+Q213512, Q23733	-	-different from	-P1889
+Q213512, Q23733	-	-defendant	-P1591
+Q213512, Q23733	-	-executive producer	-P1431
+Q213512, Q23733	-	-winner	-P1346
+Q213512, Q23733	-	-facet of	-P1269
+Q213512, Q23733	-	-composer	-P86
+Q213512, Q23733	-	-screenwriter	-P58
+Q213512, Q23733	-	-director	-P57
+Q213512, Q23733	-	-spouse	-P26
+Q213512, Q23733	-	-father	-P22
+Q213512, Q23733	-	-performer	-P175
+Q213512, Q23733	-	-creator	-P170
+Q213512, Q23733	-	-producer	-P162
+Q213512, Q23733	-	-cast member	-P161
+Q190679, Q181900	+	+topic's main category	+P910
+Q190679, Q181900	+	+pseudonym	+P742
+Q190679, Q181900	+	+given name	+P735
+Q190679, Q181900	+	+family name	+P734
+Q190679, Q181900	+	+Freebase ID	+P646
+Q190679, Q181900	+	+The Encyclopedia of Science Fiction ID	+P5357
+Q190679, Q181900	+	+catalog code	+P528
+Q190679, Q181900	+	+derivative work	+P4969
+Q190679, Q181900	+	+country of origin	+P495
+Q190679, Q181900	+	+member of	+P463
+Q190679, Q181900	+	+unmarried partner	+P451
+Q190679, Q181900	+	+escutcheon image	+P4004
+Q190679, Q181900	+	+Commons category	+P373
+Q190679, Q181900	+	+IMDb ID	+P345
+Q190679, Q181900	+	+Quora topic ID	+P3417
+Q190679, Q181900	+	+IdRef ID	+P269
+Q190679, Q181900	+	+Bibliothèque nationale de France ID	+P268
+Q190679, Q181900	+	+BabelNet ID	+P2581
+Q190679, Q181900	+	+FAST ID	+P2163
+Q190679, Q181900	+	+different from	+P1889
+Q190679, Q181900	+	+owner of	+P1830
+Q190679, Q181900	+	+NLP ID (unique)	+P1695
+Q190679, Q181900	+	+present in work	+P1441
+Q190679, Q181900	+	+topic's main template	+P1424
+Q190679, Q181900	+	+Encyclopædia Britannica Online ID	+P1417
+Q190679, Q181900	+	+from narrative universe	+P1080
+Q190679, Q181900	+	+instance of	+P31
+Q190679, Q181900	+	+country of citizenship	+P27
+Q190679, Q181900	+	+Library of Congress authority ID	+P244
+Q190679, Q181900	+	+GND ID	+P227
+Q190679, Q181900	+	+VIAF ID	+P214
+Q190679, Q181900	+	+sex or gender	+P21
+Q190679, Q181900	+	+place of birth	+P19
+Q190679, Q181900	+	+performer	+P175
+Q190679, Q181900	+	+creator	+P170
+Q190679, Q181900	+	+publisher	+P123
+Q190679, Q181900	+	+occupation	+P106
+Q190679, Q181900	-	-inspired by	-P941
+Q190679, Q181900	-	-main subject	-P921
+Q190679, Q181900	-	-notable work	-P800
+Q190679, Q181900	-	-characters	-P674
+Q190679, Q181900	-	-has part	-P527
+Q190679, Q181900	-	-unmarried partner	-P451
+Q190679, Q181900	-	-category's main topic	-P301
+Q190679, Q181900	-	-different from	-P1889
+Q190679, Q181900	-	-Wikidata property example	-P1855
+Q190679, Q181900	-	-template has topic	-P1423
+Q190679, Q181900	-	-depicts	-P180
+Q190679, Q181900	-	-based on	-P144
+Q190679, Q181900	-	-named after	-P138
+Q190679, Q181900	-	-owned by	-P127
+Q11256, Q796897	+	+Biblioteca Nacional de España ID	+P950
+Q11256, Q796897	+	+National Library of Israel ID	+P949
+Q11256, Q796897	+	+Commons gallery	+P935
+Q11256, Q796897	+	+topic's main category	+P910
+Q11256, Q796897	+	+SELIBR ID	+P906
+Q11256, Q796897	+	+Perlentaucher ID	+P866
+Q11256, Q796897	+	+given name	+P735
+Q11256, Q796897	+	+family name	+P734
+Q11256, Q796897	+	+NKCR AUT ID	+P691
+Q11256, Q796897	+	+Open Library ID	+P648
+Q11256, Q796897	+	+Freebase ID	+P646
+Q11256, Q796897	+	+conflict	+P607
+Q11256, Q796897	+	+date of death	+P570
+Q11256, Q796897	+	+date of birth	+P569
+Q11256, Q796897	+	+residence	+P551
+Q11256, Q796897	+	+Trading Card Database person ID	+P5421
+Q11256, Q796897	+	+NYRB contributor ID	+P5419
+Q11256, Q796897	+	+BNB person ID	+P5361
+Q11256, Q796897	+	+Find A Grave memorial ID	+P535
+Q11256, Q796897	+	+Interlingual Index ID	+P5063
+Q11256, Q796897	+	+National Library of Korea ID	+P5034
+Q11256, Q796897	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q11256, Q796897	+	+TMDb person ID	+P4985
+Q11256, Q796897	+	+member of	+P463
+Q11256, Q796897	+	+Online Books Page author ID	+P4629
+Q11256, Q796897	+	+National Library of Brazil ID	+P4619
+Q11256, Q796897	+	+UK Parliament thesaurus ID	+P4527
+Q11256, Q796897	+	+unmarried partner	+P451
+Q11256, Q796897	+	+pronunciation audio	+P443
+Q11256, Q796897	+	+gravsted.dk ID	+P4359
+Q11256, Q796897	+	+WBPLN author ID	+P4343
+Q11256, Q796897	+	+Store norske leksikon ID	+P4342
+Q11256, Q796897	+	+MusicBrainz artist ID	+P434
+Q11256, Q796897	+	+PM20 folder ID	+P4293
+Q11256, Q796897	+	+Treccani's Enciclopedia Italiana ID	+P4223
+Q11256, Q796897	+	+military rank	+P410
+Q11256, Q796897	+	+Libraries Australia ID	+P409
+Q11256, Q796897	+	+SHARE Catalogue author ID	+P3987
+Q11256, Q796897	+	+SBN author ID	+P396
+Q11256, Q796897	+	+DBC author ID	+P3846
+Q11256, Q796897	+	+BNMM authority ID	+P3788
+Q11256, Q796897	+	+Commons category	+P373
+Q11256, Q796897	+	+Babelio author ID	+P3630
+Q11256, Q796897	+	+Cultureel Woordenboek ID	+P3569
+Q11256, Q796897	+	+Dagens Nyheter topic ID	+P3509
+Q11256, Q796897	+	+National Diet Library ID	+P349
+Q11256, Q796897	+	+IMDb ID	+P345
+Q11256, Q796897	+	+SNAC Ark ID	+P3430
+Q11256, Q796897	+	+Quora topic ID	+P3417
+Q11256, Q796897	+	+sibling	+P3373
+Q11256, Q796897	+	+Treccani ID	+P3365
+Q11256, Q796897	+	+National Library of Greece ID	+P3348
+Q11256, Q796897	+	+BAnQ author ID	+P3280
+Q11256, Q796897	+	+NE.se ID	+P3222
+Q11256, Q796897	+	+New York Times topic ID	+P3221
+Q11256, Q796897	+	+Encyclopædia Universalis ID	+P3219
+Q11256, Q796897	+	+RERO ID	+P3065
+Q11256, Q796897	+	+WikiTree person ID	+P2949
+Q11256, Q796897	+	+warheroes.ru ID	+P2943
+Q11256, Q796897	+	+Great Russian Encyclopedia Online ID	+P2924
+Q11256, Q796897	+	+FamilySearch person ID	+P2889
+Q11256, Q796897	+	+iTunes artist ID	+P2850
+Q11256, Q796897	+	+BVMC person ID	+P2799
+Q11256, Q796897	+	+CiNii author ID (books)	+P271
+Q11256, Q796897	+	+IdRef ID	+P269
+Q11256, Q796897	+	+Bibliothèque nationale de France ID	+P268
+Q11256, Q796897	+	+Filmportal ID	+P2639
+Q11256, Q796897	+	+Danish National Filmography person ID	+P2626
+Q11256, Q796897	+	+ČSFD person ID	+P2605
+Q11256, Q796897	+	+Geni.com profile ID	+P2600
+Q11256, Q796897	+	+Scope.dk person ID	+P2519
+Q11256, Q796897	+	+PORT person ID	+P2435
+Q11256, Q796897	+	+Elonet person ID	+P2387
+Q11256, Q796897	+	+has list	+P2354
+Q11256, Q796897	+	+Swedish Film Database person ID	+P2168
+Q11256, Q796897	+	+FAST ID	+P2163
+Q11256, Q796897	+	+AllMovie person ID	+P2019
+Q11256, Q796897	+	+number of children	+P1971
+Q11256, Q796897	+	+Discogs artist ID	+P1953
+Q11256, Q796897	+	+second family name in Spanish name	+P1950
+Q11256, Q796897	+	+Spotify artist ID	+P1902
+Q11256, Q796897	+	+National Portrait Gallery (London) person ID	+P1816
+Q11256, Q796897	+	+GTAA ID	+P1741
+Q11256, Q796897	+	+British Museum person or institution ID	+P1711
+Q11256, Q796897	+	+University of Barcelona authority ID	+P1580
+Q11256, Q796897	+	+name in native language	+P1559
+Q11256, Q796897	+	+birth name	+P1477
+Q11256, Q796897	+	+Encyclopædia Britannica Online ID	+P1417
+Q11256, Q796897	+	+languages spoken, written or signed	+P1412
+Q11256, Q796897	+	+NSK ID	+P1375
+Q11256, Q796897	+	+LNB ID	+P1368
+Q11256, Q796897	+	+described by source	+P1343
+Q11256, Q796897	+	+NLA Trove ID	+P1315
+Q11256, Q796897	+	+EGAXA ID	+P1309
+Q11256, Q796897	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q11256, Q796897	+	+Munzinger person ID	+P1284
+Q11256, Q796897	+	+CONOR.SI ID	+P1280
+Q11256, Q796897	+	+CANTIC ID	+P1273
+Q11256, Q796897	+	+AlloCiné person ID	+P1266
+Q11256, Q796897	+	+NNDB people ID	+P1263
+Q11256, Q796897	+	+U.S. National Archives Identifier	+P1225
+Q11256, Q796897	+	+NUKAT ID	+P1207
+Q11256, Q796897	+	+Vatican Library ID (former scheme)	+P1017
+Q11256, Q796897	+	+BIBSYS ID	+P1015
+Q11256, Q796897	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q11256, Q796897	+	+Portuguese National Library ID	+P1005
+Q11256, Q796897	+	+educated at	+P69
+Q11256, Q796897	+	+child	+P40
+Q11256, Q796897	+	+position held	+P39
+Q11256, Q796897	+	+instance of	+P31
+Q11256, Q796897	+	+country of citizenship	+P27
+Q11256, Q796897	+	+spouse	+P26
+Q11256, Q796897	+	+Library of Congress authority ID	+P244
+Q11256, Q796897	+	+GND ID	+P227
+Q11256, Q796897	+	+father	+P22
+Q11256, Q796897	+	+VIAF ID	+P214
+Q11256, Q796897	+	+ISNI	+P213
+Q11256, Q796897	+	+sex or gender	+P21
+Q11256, Q796897	+	+place of death	+P20
+Q11256, Q796897	+	+place of birth	+P19
+Q11256, Q796897	+	+image	+P18
+Q11256, Q796897	+	+award received	+P166
+Q11256, Q796897	+	+religion	+P140
+Q11256, Q796897	+	+place of burial	+P119
+Q11256, Q796897	+	+signature	+P109
+Q11256, Q796897	+	+occupation	+P106
+Q11256, Q796897	+	+native language	+P103
+Q11256, Q796897	+	+member of political party	+P102
+Q11256, Q796897	+	+field of work	+P101
+Q11256, Q796897	-	-main subject	-P921
+Q11256, Q796897	-	-speaker	-P823
+Q11256, Q796897	-	-chairperson	-P488
+Q11256, Q796897	-	-unmarried partner	-P451
+Q11256, Q796897	-	-sibling	-P3373
+Q11256, Q796897	-	-category's main topic	-P301
+Q11256, Q796897	-	-subclass of	-P279
+Q11256, Q796897	-	-interested in	-P2650
+Q11256, Q796897	-	-signatory	-P1891
+Q11256, Q796897	-	-facet of	-P1269
+Q11256, Q796897	-	-relative	-P1038
+Q11256, Q796897	-	-author	-P50
+Q11256, Q796897	-	-child	-P40
+Q11256, Q796897	-	-spouse	-P26
+Q11256, Q796897	-	-father	-P22
+Q11256, Q796897	-	-depicts	-P180
+Q11256, Q796897	-	-creator	-P170
+Q11256, Q796897	-	-cast member	-P161
+Q11256, Q796897	-	-named after	-P138
+Q11256, Q796897	-	-founded by	-P112
+Q44329, Q209496	+	+Biblioteca Nacional de España ID	+P950
+Q44329, Q209496	+	+topic's main category	+P910
+Q44329, Q209496	+	+SELIBR ID	+P906
+Q44329, Q209496	+	+significant event	+P793
+Q44329, Q209496	+	+given name	+P735
+Q44329, Q209496	+	+NKCR AUT ID	+P691
+Q44329, Q209496	+	+Freebase ID	+P646
+Q44329, Q209496	+	+conflict	+P607
+Q44329, Q209496	+	+date of birth	+P569
+Q44329, Q209496	+	+BNB person ID	+P5361
+Q44329, Q209496	+	+Google News topics ID	+P5337
+Q44329, Q209496	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q44329, Q209496	+	+UK Parliament thesaurus ID	+P4527
+Q44329, Q209496	+	+Store norske leksikon ID	+P4342
+Q44329, Q209496	+	+Treccani's Enciclopedia Italiana ID	+P4223
+Q44329, Q209496	+	+military rank	+P410
+Q44329, Q209496	+	+Commons category	+P373
+Q44329, Q209496	+	+candidacy in election	+P3602
+Q44329, Q209496	+	+Dagens Nyheter topic ID	+P3509
+Q44329, Q209496	+	+IMDb ID	+P345
+Q44329, Q209496	+	+Quora topic ID	+P3417
+Q44329, Q209496	+	+sibling	+P3373
+Q44329, Q209496	+	+Treccani ID	+P3365
+Q44329, Q209496	+	+New York Times topic ID	+P3221
+Q44329, Q209496	+	+Encyclopædia Universalis ID	+P3219
+Q44329, Q209496	+	+Guardian topic ID	+P3106
+Q44329, Q209496	+	+permanent duplicated item	+P2959
+Q44329, Q209496	+	+Great Russian Encyclopedia Online ID	+P2924
+Q44329, Q209496	+	+IdRef ID	+P269
+Q44329, Q209496	+	+Bibliothèque nationale de France ID	+P268
+Q44329, Q209496	+	+ČSFD person ID	+P2605
+Q44329, Q209496	+	+Kinopoisk person ID	+P2604
+Q44329, Q209496	+	+C-SPAN person ID	+P2190
+Q44329, Q209496	+	+FAST ID	+P2163
+Q44329, Q209496	+	+work period (start)	+P2031
+Q44329, Q209496	+	+GTAA ID	+P1741
+Q44329, Q209496	+	+name in native language	+P1559
+Q44329, Q209496	+	+Encyclopædia Britannica Online ID	+P1417
+Q44329, Q209496	+	+languages spoken, written or signed	+P1412
+Q44329, Q209496	+	+replaces	+P1365
+Q44329, Q209496	+	+described by source	+P1343
+Q44329, Q209496	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q44329, Q209496	+	+Munzinger person ID	+P1284
+Q44329, Q209496	+	+CONOR.SI ID	+P1280
+Q44329, Q209496	+	+NNDB people ID	+P1263
+Q44329, Q209496	+	+relative	+P1038
+Q44329, Q209496	+	+BIBSYS ID	+P1015
+Q44329, Q209496	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q44329, Q209496	+	+educated at	+P69
+Q44329, Q209496	+	+family	+P53
+Q44329, Q209496	+	+position held	+P39
+Q44329, Q209496	+	+instance of	+P31
+Q44329, Q209496	+	+country of citizenship	+P27
+Q44329, Q209496	+	+spouse	+P26
+Q44329, Q209496	+	+mother	+P25
+Q44329, Q209496	+	+Library of Congress authority ID	+P244
+Q44329, Q209496	+	+military branch	+P241
+Q44329, Q209496	+	+GND ID	+P227
+Q44329, Q209496	+	+father	+P22
+Q44329, Q209496	+	+VIAF ID	+P214
+Q44329, Q209496	+	+ISNI	+P213
+Q44329, Q209496	+	+sex or gender	+P21
+Q44329, Q209496	+	+place of birth	+P19
+Q44329, Q209496	+	+image	+P18
+Q44329, Q209496	+	+award received	+P166
+Q44329, Q209496	+	+religion	+P140
+Q44329, Q209496	+	+occupation	+P106
+Q44329, Q209496	+	+native language	+P103
+Q44329, Q209496	+	+member of political party	+P102
+Q44329, Q209496	-	-successful candidate	-P991
+Q44329, Q209496	-	-main subject	-P921
+Q44329, Q209496	-	-candidate	-P726
+Q44329, Q209496	-	-participant	-P710
+Q44329, Q209496	-	-chairperson	-P488
+Q44329, Q209496	-	-secretary general	-P3975
+Q44329, Q209496	-	-sibling	-P3373
+Q44329, Q209496	-	-category's main topic	-P301
+Q44329, Q209496	-	-permanent duplicated item	-P2959
+Q44329, Q209496	-	-replaced by	-P1366
+Q44329, Q209496	-	-officeholder	-P1308
+Q44329, Q209496	-	-relative	-P1038
+Q44329, Q209496	-	-child	-P40
+Q44329, Q209496	-	-head of state	-P35
+Q44329, Q209496	-	-spouse	-P26
+Q44329, Q209496	-	-depicts	-P180
+Q44329, Q209496	-	-cast member	-P161
+Q142794, Q8558	+	+Biblioteca Nacional de España ID	+P950
+Q142794, Q8558	+	+National Library of Israel ID	+P949
+Q142794, Q8558	+	+topic's main category	+P910
+Q142794, Q8558	+	+SELIBR ID	+P906
+Q142794, Q8558	+	+sponsor	+P859
+Q142794, Q8558	+	+official website	+P856
+Q142794, Q8558	+	+given name	+P735
+Q142794, Q8558	+	+family name	+P734
+Q142794, Q8558	+	+NKCR AUT ID	+P691
+Q142794, Q8558	+	+total goals in career	+P6509
+Q142794, Q8558	+	+Freebase ID	+P646
+Q142794, Q8558	+	+sport	+P641
+Q142794, Q8558	+	+date of birth	+P569
+Q142794, Q8558	+	+Trading Card Database person ID	+P5421
+Q142794, Q8558	+	+BNB person ID	+P5361
+Q142794, Q8558	+	+Google News topics ID	+P5337
+Q142794, Q8558	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q142794, Q8558	+	+TMDb person ID	+P4985
+Q142794, Q8558	+	+National Library of Brazil ID	+P4619
+Q142794, Q8558	+	+unmarried partner	+P451
+Q142794, Q8558	+	+Store norske leksikon ID	+P4342
+Q142794, Q8558	+	+MusicBrainz artist ID	+P434
+Q142794, Q8558	+	+position played on team / speciality	+P413
+Q142794, Q8558	+	+Brazilian Olympic Committee athlete ID	+P4060
+Q142794, Q8558	+	+Red Bull athlete ID	+P3883
+Q142794, Q8558	+	+Commons category	+P373
+Q142794, Q8558	+	+LFP player ID	+P3683
+Q142794, Q8558	+	+ESPNFC.com player ID	+P3681
+Q142794, Q8558	+	+Sambafoot player ID	+P3668
+Q142794, Q8558	+	+L'Équipe football player ID	+P3665
+Q142794, Q8558	+	+BDFutbol player ID	+P3655
+Q142794, Q8558	+	+FootballDatabase.eu player ID	+P3537
+Q142794, Q8558	+	+Dagens Nyheter topic ID	+P3509
+Q142794, Q8558	+	+National Diet Library ID	+P349
+Q142794, Q8558	+	+IMDb ID	+P345
+Q142794, Q8558	+	+AS.com athlete ID	+P3427
+Q142794, Q8558	+	+Quora topic ID	+P3417
+Q142794, Q8558	+	+LittleSis people ID	+P3388
+Q142794, Q8558	+	+sibling	+P3373
+Q142794, Q8558	+	+NE.se ID	+P3222
+Q142794, Q8558	+	+RERO ID	+P3065
+Q142794, Q8558	+	+PlaymakerStats.com player ID	+P3047
+Q142794, Q8558	+	+Scoresway soccer person ID	+P3043
+Q142794, Q8558	+	+Great Russian Encyclopedia Online ID	+P2924
+Q142794, Q8558	+	+IdRef ID	+P269
+Q142794, Q8558	+	+Bibliothèque nationale de France ID	+P268
+Q142794, Q8558	+	+National-Football-Teams.com player ID	+P2574
+Q142794, Q8558	+	+Transfermarkt player ID	+P2446
+Q142794, Q8558	+	+Soccerway player ID	+P2369
+Q142794, Q8558	+	+UEFA player ID	+P2276
+Q142794, Q8558	+	+Soccerbase player ID	+P2193
+Q142794, Q8558	+	+FAST ID	+P2163
+Q142794, Q8558	+	+mass	+P2067
+Q142794, Q8558	+	+height	+P2048
+Q142794, Q8558	+	+work period (start)	+P2031
+Q142794, Q8558	+	+WorldFootball.net player ID	+P2020
+Q142794, Q8558	+	+Facebook ID	+P2013
+Q142794, Q8558	+	+Instagram username	+P2003
+Q142794, Q8558	+	+Twitter username	+P2002
+Q142794, Q8558	+	+Discogs artist ID	+P1953
+Q142794, Q8558	+	+CCAB ID	+P1890
+Q142794, Q8558	+	+GTAA ID	+P1741
+Q142794, Q8558	+	+NLP ID (unique)	+P1695
+Q142794, Q8558	+	+sport number	+P1618
+Q142794, Q8558	+	+name in native language	+P1559
+Q142794, Q8558	+	+country for sport	+P1532
+Q142794, Q8558	+	+birth name	+P1477
+Q142794, Q8558	+	+FIFA player ID	+P1469
+Q142794, Q8558	+	+Sports-Reference.com Olympic athlete ID	+P1447
+Q142794, Q8558	+	+Encyclopædia Britannica Online ID	+P1417
+Q142794, Q8558	+	+languages spoken, written or signed	+P1412
+Q142794, Q8558	+	+nominated for	+P1411
+Q142794, Q8558	+	+number of matches played/races/starts	+P1350
+Q142794, Q8558	+	+participant in	+P1344
+Q142794, Q8558	+	+described by source	+P1343
+Q142794, Q8558	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q142794, Q8558	+	+CONOR.SI ID	+P1280
+Q142794, Q8558	+	+CANTIC ID	+P1273
+Q142794, Q8558	+	+AlloCiné person ID	+P1266
+Q142794, Q8558	+	+Rotten Tomatoes ID	+P1258
+Q142794, Q8558	+	+NUKAT ID	+P1207
+Q142794, Q8558	+	+medical condition	+P1050
+Q142794, Q8558	+	+BIBSYS ID	+P1015
+Q142794, Q8558	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q142794, Q8558	+	+member of sports team	+P54
+Q142794, Q8558	+	+instance of	+P31
+Q142794, Q8558	+	+country of citizenship	+P27
+Q142794, Q8558	+	+Library of Congress authority ID	+P244
+Q142794, Q8558	+	+GND ID	+P227
+Q142794, Q8558	+	+VIAF ID	+P214
+Q142794, Q8558	+	+ISNI	+P213
+Q142794, Q8558	+	+sex or gender	+P21
+Q142794, Q8558	+	+place of birth	+P19
+Q142794, Q8558	+	+image	+P18
+Q142794, Q8558	+	+award received	+P166
+Q142794, Q8558	+	+signature	+P109
+Q142794, Q8558	+	+occupation	+P106
+Q142794, Q8558	+	+native language	+P103
+Q142794, Q8558	-	-captain	-P634
+Q142794, Q8558	-	-unmarried partner	-P451
+Q142794, Q8558	-	-sibling	-P3373
+Q142794, Q8558	-	-statistical leader	-P3279
+Q142794, Q8558	-	-category's main topic	-P301
+Q142794, Q8558	-	-Wikidata property example	-P1855
+Q142794, Q8558	-	-points/goal scored by	-P1363
+Q142794, Q8558	-	-child	-P40
+Q142794, Q8558	-	-creator	-P170
+Q142794, Q8558	-	-cast member	-P161
+Q142794, Q8558	-	-named after	-P138
+Q15869, Q193023	+	+Biblioteca Nacional de España ID	+P950
+Q15869, Q193023	+	+National Library of Israel ID	+P949
+Q15869, Q193023	+	+work location	+P937
+Q15869, Q193023	+	+Commons gallery	+P935
+Q15869, Q193023	+	+topic's main category	+P910
+Q15869, Q193023	+	+SELIBR ID	+P906
+Q15869, Q193023	+	+BMLO ID	+P865
+Q15869, Q193023	+	+official website	+P856
+Q15869, Q193023	+	+notable work	+P800
+Q15869, Q193023	+	+pseudonym	+P742
+Q15869, Q193023	+	+location of formation	+P740
+Q15869, Q193023	+	+given name	+P735
+Q15869, Q193023	+	+family name	+P734
+Q15869, Q193023	+	+NKCR AUT ID	+P691
+Q15869, Q193023	+	+Freebase ID	+P646
+Q15869, Q193023	+	+date of death	+P570
+Q15869, Q193023	+	+date of birth	+P569
+Q15869, Q193023	+	+residence	+P551
+Q15869, Q193023	+	+Trading Card Database person ID	+P5421
+Q15869, Q193023	+	+BNB person ID	+P5361
+Q15869, Q193023	+	+Find A Grave memorial ID	+P535
+Q15869, Q193023	+	+Songfacts artist ID	+P5287
+Q15869, Q193023	+	+FilmTv.it person ID	+P5254
+Q15869, Q193023	+	+Giant Bomb ID	+P5247
+Q15869, Q193023	+	+cause of death	+P509
+Q15869, Q193023	+	+National Library of Korea ID	+P5034
+Q15869, Q193023	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q15869, Q193023	+	+on focus list of Wikimedia project	+P5008
+Q15869, Q193023	+	+Songwriters Hall of Fame ID	+P4757
+Q15869, Q193023	+	+CineMagia person ID	+P4666
+Q15869, Q193023	+	+member of	+P463
+Q15869, Q193023	+	+National Library of Brazil ID	+P4619
+Q15869, Q193023	+	+unmarried partner	+P451
+Q15869, Q193023	+	+Google Doodle	+P4431
+Q15869, Q193023	+	+Store norske leksikon ID	+P4342
+Q15869, Q193023	+	+MusicBrainz artist ID	+P434
+Q15869, Q193023	+	+Billboard artist ID	+P4208
+Q15869, Q193023	+	+voice type	+P412
+Q15869, Q193023	+	+Carnegie Hall agent ID	+P4104
+Q15869, Q193023	+	+Libraries Australia ID	+P409
+Q15869, Q193023	+	+MyAnimeList people ID	+P4084
+Q15869, Q193023	+	+SBN author ID	+P396
+Q15869, Q193023	+	+DBC author ID	+P3846
+Q15869, Q193023	+	+Commons category	+P373
+Q15869, Q193023	+	+Babelio author ID	+P3630
+Q15869, Q193023	+	+discography	+P358
+Q15869, Q193023	+	+Cultureel Woordenboek ID	+P3569
+Q15869, Q193023	+	+National Diet Library ID	+P349
+Q15869, Q193023	+	+Songkick artist ID	+P3478
+Q15869, Q193023	+	+IMDb ID	+P345
+Q15869, Q193023	+	+Quora topic ID	+P3417
+Q15869, Q193023	+	+sibling	+P3373
+Q15869, Q193023	+	+Treccani ID	+P3365
+Q15869, Q193023	+	+Myspace ID	+P3265
+Q15869, Q193023	+	+NE.se ID	+P3222
+Q15869, Q193023	+	+Last.fm ID	+P3192
+Q15869, Q193023	+	+Guardian topic ID	+P3106
+Q15869, Q193023	+	+RERO ID	+P3065
+Q15869, Q193023	+	+TCM Movie Database person ID	+P3056
+Q15869, Q193023	+	+Rolling Stone artist ID	+P3017
+Q15869, Q193023	+	+WikiTree person ID	+P2949
+Q15869, Q193023	+	+Great Russian Encyclopedia Online ID	+P2924
+Q15869, Q193023	+	+SecondHandSongs artist ID	+P2909
+Q15869, Q193023	+	+FamilySearch person ID	+P2889
+Q15869, Q193023	+	+IdRef ID	+P269
+Q15869, Q193023	+	+Bibliothèque nationale de France ID	+P268
+Q15869, Q193023	+	+record label	+P264
+Q15869, Q193023	+	+ČSFD person ID	+P2605
+Q15869, Q193023	+	+Geni.com profile ID	+P2600
+Q15869, Q193023	+	+National Discography of Italian Song artist/group ID	+P2510
+Q15869, Q193023	+	+Genius artist ID	+P2373
+Q15869, Q193023	+	+FAST ID	+P2163
+Q15869, Q193023	+	+work period (end)	+P2032
+Q15869, Q193023	+	+work period (start)	+P2031
+Q15869, Q193023	+	+Les Archives du Spectacle Person ID	+P1977
+Q15869, Q193023	+	+Discogs artist ID	+P1953
+Q15869, Q193023	+	+Spotify artist ID	+P1902
+Q15869, Q193023	+	+CCAB ID	+P1890
+Q15869, Q193023	+	+IPI name number	+P1828
+Q15869, Q193023	+	+National Portrait Gallery (London) person ID	+P1816
+Q15869, Q193023	+	+GTAA ID	+P1741
+Q15869, Q193023	+	+AllMusic artist ID	+P1728
+Q15869, Q193023	+	+NLP ID (unique)	+P1695
+Q15869, Q193023	+	+name in native language	+P1559
+Q15869, Q193023	+	+birth name	+P1477
+Q15869, Q193023	+	+OpenPlaques subject ID	+P1430
+Q15869, Q193023	+	+topic's main template	+P1424
+Q15869, Q193023	+	+Encyclopædia Britannica Online ID	+P1417
+Q15869, Q193023	+	+Oxford Dictionary of National Biography ID	+P1415
+Q15869, Q193023	+	+languages spoken, written or signed	+P1412
+Q15869, Q193023	+	+nominated for	+P1411
+Q15869, Q193023	+	+NSK ID	+P1375
+Q15869, Q193023	+	+LNB ID	+P1368
+Q15869, Q193023	+	+participant in	+P1344
+Q15869, Q193023	+	+described by source	+P1343
+Q15869, Q193023	+	+NLA Trove ID	+P1315
+Q15869, Q193023	+	+instrument	+P1303
+Q15869, Q193023	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q15869, Q193023	+	+CONOR.SI ID	+P1280
+Q15869, Q193023	+	+NNDB people ID	+P1263
+Q15869, Q193023	+	+Rotten Tomatoes ID	+P1258
+Q15869, Q193023	+	+Internet Broadway Database person ID	+P1220
+Q15869, Q193023	+	+NUKAT ID	+P1207
+Q15869, Q193023	+	+manner of death	+P1196
+Q15869, Q193023	+	+medical condition	+P1050
+Q15869, Q193023	+	+BIBSYS ID	+P1015
+Q15869, Q193023	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q15869, Q193023	+	+sexual orientation	+P91
+Q15869, Q193023	+	+educated at	+P69
+Q15869, Q193023	+	+instance of	+P31
+Q15869, Q193023	+	+country of citizenship	+P27
+Q15869, Q193023	+	+mother	+P25
+Q15869, Q193023	+	+Library of Congress authority ID	+P244
+Q15869, Q193023	+	+GND ID	+P227
+Q15869, Q193023	+	+father	+P22
+Q15869, Q193023	+	+VIAF ID	+P214
+Q15869, Q193023	+	+ISNI	+P213
+Q15869, Q193023	+	+sex or gender	+P21
+Q15869, Q193023	+	+place of death	+P20
+Q15869, Q193023	+	+place of birth	+P19
+Q15869, Q193023	+	+image	+P18
+Q15869, Q193023	+	+ethnic group	+P172
+Q15869, Q193023	+	+award received	+P166
+Q15869, Q193023	+	+religion	+P140
+Q15869, Q193023	+	+genre	+P136
+Q15869, Q193023	+	+place of burial	+P119
+Q15869, Q193023	+	+signature	+P109
+Q15869, Q193023	+	+occupation	+P106
+Q15869, Q193023	+	+native language	+P103
+Q15869, Q193023	-	-category combines topics	-P971
+Q15869, Q193023	-	-inspired by	-P941
+Q15869, Q193023	-	-dedicated to	-P825
+Q15869, Q193023	-	-contributor to the creative work or subject	-P767
+Q15869, Q193023	-	-influenced by	-P737
+Q15869, Q193023	-	-participant	-P710
+Q15869, Q193023	-	-lyrics by	-P676
+Q15869, Q193023	-	-commemorates	-P547
+Q15869, Q193023	-	-has part	-P527
+Q15869, Q193023	-	-unmarried partner	-P451
+Q15869, Q193023	-	-sibling	-P3373
+Q15869, Q193023	-	-category's main topic	-P301
+Q15869, Q193023	-	-template has topic	-P1423
+Q15869, Q193023	-	-composer	-P86
+Q15869, Q193023	-	-child	-P40
+Q15869, Q193023	-	-depicts	-P180
+Q15869, Q193023	-	-performer	-P175
+Q15869, Q193023	-	-creator	-P170
+Q15869, Q193023	-	-producer	-P162
+Q15869, Q193023	-	-cast member	-P161
+Q15869, Q193023	-	-named after	-P138
+Q15869, Q193023	-	-owned by	-P127
+Q8777, Q73	+	+topic's main category	+P910
+Q8777, Q73	+	+Freebase ID	+P646
+Q8777, Q73	+	+publication date	+P577
+Q8777, Q73	+	+inception	+P571
+Q8777, Q73	+	+TDKIV term ID	+P5398
+Q8777, Q73	+	+has part	+P527
+Q8777, Q73	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q8777, Q73	+	+Uniform Resource Identifier Scheme	+P4742
+Q8777, Q73	+	+Store norske leksikon ID	+P4342
+Q8777, Q73	+	+JSTOR topic ID	+P3827
+Q8777, Q73	+	+Commons category	+P373
+Q8777, Q73	+	+part of	+P361
+Q8777, Q73	+	+software version identifier	+P348
+Q8777, Q73	+	+Quora topic ID	+P3417
+Q8777, Q73	+	+File Format Wiki page ID	+P3381
+Q8777, Q73	+	+NE.se ID	+P3222
+Q8777, Q73	+	+Bibliothèque nationale de France ID	+P268
+Q8777, Q73	+	+uses	+P2283
+Q8777, Q73	+	+different from	+P1889
+Q8777, Q73	+	+port	+P1641
+Q8777, Q73	+	+manifestation of	+P1557
+Q8777, Q73	+	+Stack Exchange tag	+P1482
+Q8777, Q73	+	+standards body	+P1462
+Q8777, Q73	+	+topic's main template	+P1424
+Q8777, Q73	+	+Encyclopædia Britannica Online ID	+P1417
+Q8777, Q73	+	+media type	+P1163
+Q8777, Q73	+	+main regulatory text	+P92
+Q8777, Q73	+	+discoverer or inventor	+P61
+Q8777, Q73	+	+instance of	+P31
+Q8777, Q73	+	+Library of Congress authority ID	+P244
+Q8777, Q73	+	+GND ID	+P227
+Q8777, Q73	+	+logo image	+P154
+Q8777, Q73	-	-notable work	-P800
+Q8777, Q73	-	-influenced by	-P737
+Q8777, Q73	-	-implementation of	-P4428
+Q8777, Q73	-	-use	-P366
+Q8777, Q73	-	-part of	-P361
+Q8777, Q73	-	-category's main topic	-P301
+Q8777, Q73	-	-subclass of	-P279
+Q8777, Q73	-	-protocol	-P2700
+Q8777, Q73	-	-interested in	-P2650
+Q8777, Q73	-	-uses	-P2283
+Q8777, Q73	-	-different from	-P1889
+Q8777, Q73	-	-Wikidata property example	-P1855
+Q8777, Q73	-	-manifestation of	-P1557
+Q8777, Q73	-	-depends on software	-P1547
+Q8777, Q73	-	-template has topic	-P1423
+Q8777, Q73	-	-facet of	-P1269
+Q8777, Q73	-	-part of the series	-P179
+Q8777, Q73	-	-based on	-P144
+Q8777, Q73	-	-named after	-P138
+Q365144, Q2312659	+	+Biblioteca Nacional de España ID	+P950
+Q365144, Q2312659	+	+official website	+P856
+Q365144, Q2312659	+	+significant event	+P793
+Q365144, Q2312659	+	+given name	+P735
+Q365144, Q2312659	+	+family name	+P734
+Q365144, Q2312659	+	+Open Library ID	+P648
+Q365144, Q2312659	+	+Freebase ID	+P646
+Q365144, Q2312659	+	+sport	+P641
+Q365144, Q2312659	+	+date of birth	+P569
+Q365144, Q2312659	+	+Open Media Database person ID	+P5534
+Q365144, Q2312659	+	+residence	+P551
+Q365144, Q2312659	+	+Trading Card Database person ID	+P5421
+Q365144, Q2312659	+	+American Film Institute person ID	+P5340
+Q365144, Q2312659	+	+Douban movie celebrity ID	+P5284
+Q365144, Q2312659	+	+FilmTv.it person ID	+P5254
+Q365144, Q2312659	+	+Giant Bomb ID	+P5247
+Q365144, Q2312659	+	+Filmweb.pl person ID	+P5033
+Q365144, Q2312659	+	+Behind The Voice Actors person ID	+P5007
+Q365144, Q2312659	+	+TMDb person ID	+P4985
+Q365144, Q2312659	+	+Movieplayer person ID	+P4782
+Q365144, Q2312659	+	+MYmovies actor ID	+P4779
+Q365144, Q2312659	+	+cinematografo.it name or company ID	+P4768
+Q365144, Q2312659	+	+Eldoblaje original actor ID	+P4682
+Q365144, Q2312659	+	+CineMagia person ID	+P4666
+Q365144, Q2312659	+	+Iowa Sports Hall of Fame ID	+P4631
+Q365144, Q2312659	+	+Prisma ID	+P4515
+Q365144, Q2312659	+	+BFI Films, TV and people ID	+P4438
+Q365144, Q2312659	+	+MusicBrainz artist ID	+P434
+Q365144, Q2312659	+	+Deutsche Synchronkartei actor ID	+P4332
+Q365144, Q2312659	+	+BFI Filmography person ID	+P4326
+Q365144, Q2312659	+	+RealGM basketball player ID	+P3957
+Q365144, Q2312659	+	+Cinema.de ID	+P3933
+Q365144, Q2312659	+	+Track and Field Statistics male athlete ID	+P3925
+Q365144, Q2312659	+	+National Track & Field Hall of Fame athlete ID	+P3881
+Q365144, Q2312659	+	+TV Guide person ID (former scheme)	+P3845
+Q365144, Q2312659	+	+BoF person ID	+P3814
+Q365144, Q2312659	+	+Commons category	+P373
+Q365144, Q2312659	+	+IMDb ID	+P345
+Q365144, Q2312659	+	+SNAC Ark ID	+P3430
+Q365144, Q2312659	+	+Quora topic ID	+P3417
+Q365144, Q2312659	+	+LittleSis people ID	+P3388
+Q365144, Q2312659	+	+KINENOTE person ID	+P3305
+Q365144, Q2312659	+	+elCinema person ID	+P3136
+Q365144, Q2312659	+	+ISzDb person ID	+P3114
+Q365144, Q2312659	+	+TCM Movie Database person ID	+P3056
+Q365144, Q2312659	+	+WikiTree person ID	+P2949
+Q365144, Q2312659	+	+Unz Review author ID	+P2734
+Q365144, Q2312659	+	+Bibliothèque nationale de France ID	+P268
+Q365144, Q2312659	+	+TV.com ID	+P2638
+Q365144, Q2312659	+	+ČSFD person ID	+P2605
+Q365144, Q2312659	+	+Kinopoisk person ID	+P2604
+Q365144, Q2312659	+	+Geni.com profile ID	+P2600
+Q365144, Q2312659	+	+PORT person ID	+P2435
+Q365144, Q2312659	+	+sports discipline competed in	+P2416
+Q365144, Q2312659	+	+personal best	+P2415
+Q365144, Q2312659	+	+Elonet person ID	+P2387
+Q365144, Q2312659	+	+PolitiFact people and groups ID	+P2267
+Q365144, Q2312659	+	+net worth	+P2218
+Q365144, Q2312659	+	+Swedish Film Database person ID	+P2168
+Q365144, Q2312659	+	+FAST ID	+P2163
+Q365144, Q2312659	+	+height	+P2048
+Q365144, Q2312659	+	+AllMovie person ID	+P2019
+Q365144, Q2312659	+	+Facebook ID	+P2013
+Q365144, Q2312659	+	+Instagram username	+P2003
+Q365144, Q2312659	+	+Twitter username	+P2002
+Q365144, Q2312659	+	+number of children	+P1971
+Q365144, Q2312659	+	+Discogs artist ID	+P1953
+Q365144, Q2312659	+	+GTAA ID	+P1741
+Q365144, Q2312659	+	+AllMusic artist ID	+P1728
+Q365144, Q2312659	+	+Metacritic ID	+P1712
+Q365144, Q2312659	+	+name in native language	+P1559
+Q365144, Q2312659	+	+country for sport	+P1532
+Q365144, Q2312659	+	+birth name	+P1477
+Q365144, Q2312659	+	+Sports-Reference.com Olympic athlete ID	+P1447
+Q365144, Q2312659	+	+Encyclopædia Britannica Online ID	+P1417
+Q365144, Q2312659	+	+languages spoken, written or signed	+P1412
+Q365144, Q2312659	+	+nominated for	+P1411
+Q365144, Q2312659	+	+participant in	+P1344
+Q365144, Q2312659	+	+Munzinger Sport number	+P1285
+Q365144, Q2312659	+	+AlloCiné person ID	+P1266
+Q365144, Q2312659	+	+NNDB people ID	+P1263
+Q365144, Q2312659	+	+Rotten Tomatoes ID	+P1258
+Q365144, Q2312659	+	+World Athletics athlete ID	+P1146
+Q365144, Q2312659	+	+medical condition	+P1050
+Q365144, Q2312659	+	+relative	+P1038
+Q365144, Q2312659	+	+BIBSYS ID	+P1015
+Q365144, Q2312659	+	+educated at	+P69
+Q365144, Q2312659	+	+member of sports team	+P54
+Q365144, Q2312659	+	+child	+P40
+Q365144, Q2312659	+	+instance of	+P31
+Q365144, Q2312659	+	+country of citizenship	+P27
+Q365144, Q2312659	+	+spouse	+P26
+Q365144, Q2312659	+	+Library of Congress authority ID	+P244
+Q365144, Q2312659	+	+GND ID	+P227
+Q365144, Q2312659	+	+VIAF ID	+P214
+Q365144, Q2312659	+	+ISNI	+P213
+Q365144, Q2312659	+	+sex or gender	+P21
+Q365144, Q2312659	+	+place of birth	+P19
+Q365144, Q2312659	+	+image	+P18
+Q365144, Q2312659	+	+ethnic group	+P172
+Q365144, Q2312659	+	+award received	+P166
+Q365144, Q2312659	+	+occupation	+P106
+Q365144, Q2312659	+	+member of political party	+P102
+Q365144, Q2312659	-	-main subject	-P921
+Q365144, Q2312659	-	-stepparent	-P3448
+Q365144, Q2312659	-	-Wikidata property example	-P1855
+Q365144, Q2312659	-	-winner	-P1346
+Q365144, Q2312659	-	-spouse	-P26
+Q365144, Q2312659	-	-father	-P22
+Q365144, Q2312659	-	-cast member	-P161
+Q36669, Q6313217	+	+spoken text audio	+P989
+Q36669, Q6313217	+	+topic's main category	+P910
+Q36669, Q6313217	+	+Freebase ID	+P646
+Q36669, Q6313217	+	+Google News topics ID	+P5337
+Q36669, Q6313217	+	+BNCF Thesaurus ID	+P508
+Q36669, Q6313217	+	+opposite of	+P461
+Q36669, Q6313217	+	+Store norske leksikon ID	+P4342
+Q36669, Q6313217	+	+Commons category	+P373
+Q36669, Q6313217	+	+National Diet Library ID	+P349
+Q36669, Q6313217	+	+Quora topic ID	+P3417
+Q36669, Q6313217	+	+New York Times topic ID	+P3221
+Q36669, Q6313217	+	+subclass of	+P279
+Q36669, Q6313217	+	+distribution map	+P1846
+Q36669, Q6313217	+	+Encyclopædia Britannica Online ID	+P1417
+Q36669, Q6313217	+	+OmegaWiki Defined Meaning	+P1245
+Q36669, Q6313217	+	+U.S. National Archives Identifier	+P1225
+Q36669, Q6313217	+	+PSH ID	+P1051
+Q36669, Q6313217	+	+Library of Congress authority ID	+P244
+Q36669, Q6313217	+	+GND ID	+P227
+Q36669, Q6313217	-	-main subject	-P921
+Q36669, Q6313217	-	-opposite of	-P461
+Q36669, Q6313217	-	-located in time zone	-P421
+Q36669, Q6313217	-	-category's main topic	-P301
+Q36669, Q6313217	-	-subclass of	-P279
+Q36669, Q6313217	-	-instance of	-P31
+Q36669, Q6313217	-	-field of work	-P101
+Q44301, Q244976	+	+Curlie ID	+P998
+Q44301, Q244976	+	+Biblioteca Nacional de España ID	+P950
+Q44301, Q244976	+	+topic's main category	+P910
+Q44301, Q244976	+	+significant event	+P793
+Q44301, Q244976	+	+influenced by	+P737
+Q44301, Q244976	+	+given name	+P735
+Q44301, Q244976	+	+family name	+P734
+Q44301, Q244976	+	+Digitale Bibliotheek voor de Nederlandse Letteren author ID	+P723
+Q44301, Q244976	+	+NKCR AUT ID	+P691
+Q44301, Q244976	+	+Open Library ID	+P648
+Q44301, Q244976	+	+Freebase ID	+P646
+Q44301, Q244976	+	+date of death	+P570
+Q44301, Q244976	+	+date of birth	+P569
+Q44301, Q244976	+	+Find A Grave memorial ID	+P535
+Q44301, Q244976	+	+cause of death	+P509
+Q44301, Q244976	+	+Interlingual Index ID	+P5063
+Q44301, Q244976	+	+National Library of Korea ID	+P5034
+Q44301, Q244976	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q44301, Q244976	+	+American National Biography ID	+P4823
+Q44301, Q244976	+	+member of	+P463
+Q44301, Q244976	+	+Online Books Page author ID	+P4629
+Q44301, Q244976	+	+unmarried partner	+P451
+Q44301, Q244976	+	+gravsted.dk ID	+P4359
+Q44301, Q244976	+	+Store norske leksikon ID	+P4342
+Q44301, Q244976	+	+MusicBrainz artist ID	+P434
+Q44301, Q244976	+	+voice type	+P412
+Q44301, Q244976	+	+Carnegie Hall agent ID	+P4104
+Q44301, Q244976	+	+Libraries Australia ID	+P409
+Q44301, Q244976	+	+SHARE Catalogue author ID	+P3987
+Q44301, Q244976	+	+Artnet artist ID	+P3782
+Q44301, Q244976	+	+openMLOL author ID	+P3762
+Q44301, Q244976	+	+MOOMA artist ID	+P3733
+Q44301, Q244976	+	+Commons category	+P373
+Q44301, Q244976	+	+Babelio author ID	+P3630
+Q44301, Q244976	+	+National Diet Library ID	+P349
+Q44301, Q244976	+	+IMDb ID	+P345
+Q44301, Q244976	+	+SNAC Ark ID	+P3430
+Q44301, Q244976	+	+Quora topic ID	+P3417
+Q44301, Q244976	+	+National Library of Greece ID	+P3348
+Q44301, Q244976	+	+NE.se ID	+P3222
+Q44301, Q244976	+	+Runeberg author ID	+P3154
+Q44301, Q244976	+	+Rolling Stone artist ID	+P3017
+Q44301, Q244976	+	+Goodreads author ID	+P2963
+Q44301, Q244976	+	+WikiTree person ID	+P2949
+Q44301, Q244976	+	+FamilySearch person ID	+P2889
+Q44301, Q244976	+	+Unz Review author ID	+P2734
+Q44301, Q244976	+	+Deezer artist ID	+P2722
+Q44301, Q244976	+	+IdRef ID	+P269
+Q44301, Q244976	+	+Bibliothèque nationale de France ID	+P268
+Q44301, Q244976	+	+record label	+P264
+Q44301, Q244976	+	+TV.com ID	+P2638
+Q44301, Q244976	+	+ČSFD person ID	+P2605
+Q44301, Q244976	+	+Geni.com profile ID	+P2600
+Q44301, Q244976	+	+PORT person ID	+P2435
+Q44301, Q244976	+	+Academic Tree ID	+P2381
+Q44301, Q244976	+	+Genius artist ID	+P2373
+Q44301, Q244976	+	+FAST ID	+P2163
+Q44301, Q244976	+	+work period (end)	+P2032
+Q44301, Q244976	+	+work period (start)	+P2031
+Q44301, Q244976	+	+AllMovie person ID	+P2019
+Q44301, Q244976	+	+Les Archives du Spectacle Person ID	+P1977
+Q44301, Q244976	+	+Discogs artist ID	+P1953
+Q44301, Q244976	+	+IPI name number	+P1828
+Q44301, Q244976	+	+GTAA ID	+P1741
+Q44301, Q244976	+	+AllMusic artist ID	+P1728
+Q44301, Q244976	+	+name in native language	+P1559
+Q44301, Q244976	+	+birth name	+P1477
+Q44301, Q244976	+	+image of grave	+P1442
+Q44301, Q244976	+	+Encyclopædia Britannica Online ID	+P1417
+Q44301, Q244976	+	+languages spoken, written or signed	+P1412
+Q44301, Q244976	+	+LNB ID	+P1368
+Q44301, Q244976	+	+described by source	+P1343
+Q44301, Q244976	+	+NLA Trove ID	+P1315
+Q44301, Q244976	+	+instrument	+P1303
+Q44301, Q244976	+	+Munzinger Pop ID	+P1286
+Q44301, Q244976	+	+CONOR.SI ID	+P1280
+Q44301, Q244976	+	+AlloCiné person ID	+P1266
+Q44301, Q244976	+	+NNDB people ID	+P1263
+Q44301, Q244976	+	+Internet Speculative Fiction Database author ID	+P1233
+Q44301, Q244976	+	+NUKAT ID	+P1207
+Q44301, Q244976	+	+manner of death	+P1196
+Q44301, Q244976	+	+topic's main Wikimedia portal	+P1151
+Q44301, Q244976	+	+BIBSYS ID	+P1015
+Q44301, Q244976	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q44301, Q244976	+	+Portuguese National Library ID	+P1005
+Q44301, Q244976	+	+educated at	+P69
+Q44301, Q244976	+	+instance of	+P31
+Q44301, Q244976	+	+country of citizenship	+P27
+Q44301, Q244976	+	+Library of Congress authority ID	+P244
+Q44301, Q244976	+	+GND ID	+P227
+Q44301, Q244976	+	+father	+P22
+Q44301, Q244976	+	+VIAF ID	+P214
+Q44301, Q244976	+	+ISNI	+P213
+Q44301, Q244976	+	+sex or gender	+P21
+Q44301, Q244976	+	+place of death	+P20
+Q44301, Q244976	+	+place of birth	+P19
+Q44301, Q244976	+	+image	+P18
+Q44301, Q244976	+	+religion	+P140
+Q44301, Q244976	+	+genre	+P136
+Q44301, Q244976	+	+movement	+P135
+Q44301, Q244976	+	+place of burial	+P119
+Q44301, Q244976	+	+occupation	+P106
+Q44301, Q244976	+	+native language	+P103
+Q44301, Q244976	-	-category combines topics	-P971
+Q44301, Q244976	-	-main subject	-P921
+Q44301, Q244976	-	-dedicated to	-P825
+Q44301, Q244976	-	-influenced by	-P737
+Q44301, Q244976	-	-lyrics by	-P676
+Q44301, Q244976	-	-has part	-P527
+Q44301, Q244976	-	-unmarried partner	-P451
+Q44301, Q244976	-	-category's main topic	-P301
+Q44301, Q244976	-	-Wikidata property example	-P1855
+Q44301, Q244976	-	-Wikimedia portal's main topic	-P1204
+Q44301, Q244976	-	-composer	-P86
+Q44301, Q244976	-	-screenwriter	-P58
+Q44301, Q244976	-	-author	-P50
+Q44301, Q244976	-	-child	-P40
+Q44301, Q244976	-	-performer	-P175
+Q44301, Q244976	-	-producer	-P162
+Q44301, Q244976	-	-cast member	-P161
+Q44301, Q244976	-	-named after	-P138
+Q3626950, Q217025	+	+official website	+P856
+Q3626950, Q217025	+	+pseudonym	+P742
+Q3626950, Q217025	+	+given name	+P735
+Q3626950, Q217025	+	+family name	+P734
+Q3626950, Q217025	+	+Freebase ID	+P646
+Q3626950, Q217025	+	+date of birth	+P569
+Q3626950, Q217025	+	+setlist.fm artist ID	+P5431
+Q3626950, Q217025	+	+BNB person ID	+P5361
+Q3626950, Q217025	+	+Companies House officer ID	+P5297
+Q3626950, Q217025	+	+member of	+P463
+Q3626950, Q217025	+	+unmarried partner	+P451
+Q3626950, Q217025	+	+MusicBrainz artist ID	+P434
+Q3626950, Q217025	+	+Google Play Music artist ID (former scheme)	+P4198
+Q3626950, Q217025	+	+voice type	+P412
+Q3626950, Q217025	+	+Giphy username	+P4013
+Q3626950, Q217025	+	+BoF person ID	+P3814
+Q3626950, Q217025	+	+Commons category	+P373
+Q3626950, Q217025	+	+discography	+P358
+Q3626950, Q217025	+	+Dagens Nyheter topic ID	+P3509
+Q3626950, Q217025	+	+Songkick artist ID	+P3478
+Q3626950, Q217025	+	+IMDb ID	+P345
+Q3626950, Q217025	+	+Quora topic ID	+P3417
+Q3626950, Q217025	+	+Last.fm ID	+P3192
+Q3626950, Q217025	+	+SoundCloud ID	+P3040
+Q3626950, Q217025	+	+Snapchat username	+P2984
+Q3626950, Q217025	+	+iTunes artist ID	+P2850
+Q3626950, Q217025	+	+Deezer artist ID	+P2722
+Q3626950, Q217025	+	+Bibliothèque nationale de France ID	+P268
+Q3626950, Q217025	+	+record label	+P264
+Q3626950, Q217025	+	+TV.com ID	+P2638
+Q3626950, Q217025	+	+ČSFD person ID	+P2605
+Q3626950, Q217025	+	+YouTube channel ID	+P2397
+Q3626950, Q217025	+	+Genius artist ID	+P2373
+Q3626950, Q217025	+	+net worth	+P2218
+Q3626950, Q217025	+	+FAST ID	+P2163
+Q3626950, Q217025	+	+height	+P2048
+Q3626950, Q217025	+	+work period (start)	+P2031
+Q3626950, Q217025	+	+Facebook ID	+P2013
+Q3626950, Q217025	+	+Instagram username	+P2003
+Q3626950, Q217025	+	+Twitter username	+P2002
+Q3626950, Q217025	+	+Discogs artist ID	+P1953
+Q3626950, Q217025	+	+Spotify artist ID	+P1902
+Q3626950, Q217025	+	+GTAA ID	+P1741
+Q3626950, Q217025	+	+AllMusic artist ID	+P1728
+Q3626950, Q217025	+	+name in native language	+P1559
+Q3626950, Q217025	+	+birth name	+P1477
+Q3626950, Q217025	+	+Encyclopædia Britannica Online ID	+P1417
+Q3626950, Q217025	+	+languages spoken, written or signed	+P1412
+Q3626950, Q217025	+	+instrument	+P1303
+Q3626950, Q217025	+	+CONOR.SI ID	+P1280
+Q3626950, Q217025	+	+CANTIC ID	+P1273
+Q3626950, Q217025	+	+NNDB people ID	+P1263
+Q3626950, Q217025	+	+NUKAT ID	+P1207
+Q3626950, Q217025	+	+educated at	+P69
+Q3626950, Q217025	+	+instance of	+P31
+Q3626950, Q217025	+	+country of citizenship	+P27
+Q3626950, Q217025	+	+Library of Congress authority ID	+P244
+Q3626950, Q217025	+	+GND ID	+P227
+Q3626950, Q217025	+	+VIAF ID	+P214
+Q3626950, Q217025	+	+ISNI	+P213
+Q3626950, Q217025	+	+sex or gender	+P21
+Q3626950, Q217025	+	+place of birth	+P19
+Q3626950, Q217025	+	+image	+P18
+Q3626950, Q217025	+	+award received	+P166
+Q3626950, Q217025	+	+religion	+P140
+Q3626950, Q217025	+	+genre	+P136
+Q3626950, Q217025	+	+occupation	+P106
+Q3626950, Q217025	+	+native language	+P103
+Q3626950, Q217025	-	-category combines topics	-P971
+Q3626950, Q217025	-	-main subject	-P921
+Q3626950, Q217025	-	-lyrics by	-P676
+Q3626950, Q217025	-	-characters	-P674
+Q3626950, Q217025	-	-has part	-P527
+Q3626950, Q217025	-	-unmarried partner	-P451
+Q3626950, Q217025	-	-composer	-P86
+Q3626950, Q217025	-	-performer	-P175
+Q186327, Q1164252	+	+Biblioteca Nacional de España ID	+P950
+Q186327, Q1164252	+	+Commons gallery	+P935
+Q186327, Q1164252	+	+Perlentaucher ID	+P866
+Q186327, Q1164252	+	+official website	+P856
+Q186327, Q1164252	+	+pseudonym	+P742
+Q186327, Q1164252	+	+given name	+P735
+Q186327, Q1164252	+	+family name	+P734
+Q186327, Q1164252	+	+NKCR AUT ID	+P691
+Q186327, Q1164252	+	+Freebase ID	+P646
+Q186327, Q1164252	+	+date of birth	+P569
+Q186327, Q1164252	+	+Open Media Database person ID	+P5534
+Q186327, Q1164252	+	+The Numbers person ID	+P4657
+Q186327, Q1164252	+	+member of	+P463
+Q186327, Q1164252	+	+unmarried partner	+P451
+Q186327, Q1164252	+	+MusicBrainz artist ID	+P434
+Q186327, Q1164252	+	+Billboard artist ID	+P4208
+Q186327, Q1164252	+	+voice type	+P412
+Q186327, Q1164252	+	+subreddit	+P3984
+Q186327, Q1164252	+	+Artnet artist ID	+P3782
+Q186327, Q1164252	+	+Commons category	+P373
+Q186327, Q1164252	+	+Babelio author ID	+P3630
+Q186327, Q1164252	+	+National Diet Library ID	+P349
+Q186327, Q1164252	+	+Songkick artist ID	+P3478
+Q186327, Q1164252	+	+IMDb ID	+P345
+Q186327, Q1164252	+	+Quora topic ID	+P3417
+Q186327, Q1164252	+	+Myspace ID	+P3265
+Q186327, Q1164252	+	+NE.se ID	+P3222
+Q186327, Q1164252	+	+Guardian topic ID	+P3106
+Q186327, Q1164252	+	+SoundCloud ID	+P3040
+Q186327, Q1164252	+	+Rolling Stone artist ID	+P3017
+Q186327, Q1164252	+	+iTunes artist ID	+P2850
+Q186327, Q1164252	+	+IdRef ID	+P269
+Q186327, Q1164252	+	+Bibliothèque nationale de France ID	+P268
+Q186327, Q1164252	+	+record label	+P264
+Q186327, Q1164252	+	+Filmportal ID	+P2639
+Q186327, Q1164252	+	+TV.com ID	+P2638
+Q186327, Q1164252	+	+Danish National Filmography person ID	+P2626
+Q186327, Q1164252	+	+ČSFD person ID	+P2605
+Q186327, Q1164252	+	+Kinopoisk person ID	+P2604
+Q186327, Q1164252	+	+Scope.dk person ID	+P2519
+Q186327, Q1164252	+	+PORT person ID	+P2435
+Q186327, Q1164252	+	+YouTube channel ID	+P2397
+Q186327, Q1164252	+	+Elonet person ID	+P2387
+Q186327, Q1164252	+	+Genius artist ID	+P2373
+Q186327, Q1164252	+	+Swedish Film Database person ID	+P2168
+Q186327, Q1164252	+	+FAST ID	+P2163
+Q186327, Q1164252	+	+Artsy artist ID	+P2042
+Q186327, Q1164252	+	+work period (start)	+P2031
+Q186327, Q1164252	+	+AllMovie person ID	+P2019
+Q186327, Q1164252	+	+Facebook ID	+P2013
+Q186327, Q1164252	+	+Instagram username	+P2003
+Q186327, Q1164252	+	+Twitter username	+P2002
+Q186327, Q1164252	+	+Les Archives du Spectacle Person ID	+P1977
+Q186327, Q1164252	+	+Discogs artist ID	+P1953
+Q186327, Q1164252	+	+different from	+P1889
+Q186327, Q1164252	+	+owner of	+P1830
+Q186327, Q1164252	+	+GTAA ID	+P1741
+Q186327, Q1164252	+	+AllMusic artist ID	+P1728
+Q186327, Q1164252	+	+NLP ID (unique)	+P1695
+Q186327, Q1164252	+	+name in native language	+P1559
+Q186327, Q1164252	+	+birth name	+P1477
+Q186327, Q1164252	+	+Encyclopædia Britannica Online ID	+P1417
+Q186327, Q1164252	+	+languages spoken, written or signed	+P1412
+Q186327, Q1164252	+	+instrument	+P1303
+Q186327, Q1164252	+	+Munzinger Pop ID	+P1286
+Q186327, Q1164252	+	+AlloCiné person ID	+P1266
+Q186327, Q1164252	+	+NNDB people ID	+P1263
+Q186327, Q1164252	+	+NUKAT ID	+P1207
+Q186327, Q1164252	+	+BIBSYS ID	+P1015
+Q186327, Q1164252	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q186327, Q1164252	+	+educated at	+P69
+Q186327, Q1164252	+	+instance of	+P31
+Q186327, Q1164252	+	+country of citizenship	+P27
+Q186327, Q1164252	+	+spouse	+P26
+Q186327, Q1164252	+	+Library of Congress authority ID	+P244
+Q186327, Q1164252	+	+GND ID	+P227
+Q186327, Q1164252	+	+VIAF ID	+P214
+Q186327, Q1164252	+	+ISNI	+P213
+Q186327, Q1164252	+	+sex or gender	+P21
+Q186327, Q1164252	+	+place of birth	+P19
+Q186327, Q1164252	+	+image	+P18
+Q186327, Q1164252	+	+named after	+P138
+Q186327, Q1164252	+	+genre	+P136
+Q186327, Q1164252	+	+occupation	+P106
+Q186327, Q1164252	-	-category combines topics	-P971
+Q186327, Q1164252	-	-influenced by	-P737
+Q186327, Q1164252	-	-lyrics by	-P676
+Q186327, Q1164252	-	-has part	-P527
+Q186327, Q1164252	-	-chairperson	-P488
+Q186327, Q1164252	-	-unmarried partner	-P451
+Q186327, Q1164252	-	-sitter	-P2634
+Q186327, Q1164252	-	-different from	-P1889
+Q186327, Q1164252	-	-director	-P57
+Q186327, Q1164252	-	-author	-P50
+Q186327, Q1164252	-	-spouse	-P26
+Q186327, Q1164252	-	-performer	-P175
+Q186327, Q1164252	-	-producer	-P162
+Q186327, Q1164252	-	-cast member	-P161
+Q186327, Q1164252	-	-named after	-P138
+Q186327, Q1164252	-	-owned by	-P127
+Q127912, Q1345	+	+full work available at URL	+P953
+Q127912, Q1345	+	+National Library of Israel ID	+P949
+Q127912, Q1345	+	+topic's main category	+P910
+Q127912, Q1345	+	+has cause	+P828
+Q127912, Q1345	+	+authority	+P797
+Q127912, Q1345	+	+significant event	+P793
+Q127912, Q1345	+	+has edition or translation	+P747
+Q127912, Q1345	+	+participant	+P710
+Q127912, Q1345	+	+Freebase ID	+P646
+Q127912, Q1345	+	+point in time	+P585
+Q127912, Q1345	+	+publication date	+P577
+Q127912, Q1345	+	+inception	+P571
+Q127912, Q1345	+	+Interlingual Index ID	+P5063
+Q127912, Q1345	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q127912, Q1345	+	+on focus list of Wikimedia project	+P5008
+Q127912, Q1345	+	+country of origin	+P495
+Q127912, Q1345	+	+legislated by	+P467
+Q127912, Q1345	+	+MusicBrainz work ID	+P435
+Q127912, Q1345	+	+Libraries Australia ID	+P409
+Q127912, Q1345	+	+language of work or name	+P407
+Q127912, Q1345	+	+Commons category	+P373
+Q127912, Q1345	+	+Quora topic ID	+P3417
+Q127912, Q1345	+	+NE.se ID	+P3222
+Q127912, Q1345	+	+New York Times topic ID	+P3221
+Q127912, Q1345	+	+Encyclopædia Universalis ID	+P3219
+Q127912, Q1345	+	+last line	+P3132
+Q127912, Q1345	+	+place of publication	+P291
+Q127912, Q1345	+	+location	+P276
+Q127912, Q1345	+	+IdRef ID	+P269
+Q127912, Q1345	+	+Bibliothèque nationale de France ID	+P268
+Q127912, Q1345	+	+FAST ID	+P2163
+Q127912, Q1345	+	+first line	+P1922
+Q127912, Q1345	+	+signatory	+P1891
+Q127912, Q1345	+	+native label	+P1705
+Q127912, Q1345	+	+Canadiana Authorities ID	+P1670
+Q127912, Q1345	+	+title	+P1476
+Q127912, Q1345	+	+Encyclopædia Britannica Online ID	+P1417
+Q127912, Q1345	+	+described by source	+P1343
+Q127912, Q1345	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q127912, Q1345	+	+U.S. National Archives Identifier	+P1225
+Q127912, Q1345	+	+applies to jurisdiction	+P1001
+Q127912, Q1345	+	+author	+P50
+Q127912, Q1345	+	+instance of	+P31
+Q127912, Q1345	+	+Library of Congress authority ID	+P244
+Q127912, Q1345	+	+GND ID	+P227
+Q127912, Q1345	+	+VIAF ID	+P214
+Q127912, Q1345	+	+image	+P18
+Q127912, Q1345	+	+country	+P17
+Q127912, Q1345	+	+followed by	+P156
+Q127912, Q1345	-	-category combines topics	-P971
+Q127912, Q1345	-	-main subject	-P921
+Q127912, Q1345	-	-significant event	-P793
+Q127912, Q1345	-	-edition or translation of	-P629
+Q127912, Q1345	-	-commemorates	-P547
+Q127912, Q1345	-	-has part	-P527
+Q127912, Q1345	-	-foundational text	-P457
+Q127912, Q1345	-	-category's main topic	-P301
+Q127912, Q1345	-	-Wikidata property example	-P1855
+Q127912, Q1345	-	-participant in	-P1344
+Q127912, Q1345	-	-facet of	-P1269
+Q127912, Q1345	-	-depicts	-P180
+Q127912, Q1345	-	-follows	-P155
+Q127912, Q1345	-	-named after	-P138
+Q9488, Q1651597	+	+topic's main category	+P910
+Q9488, Q1651597	+	+playing hand	+P741
+Q9488, Q1651597	+	+given name	+P735
+Q9488, Q1651597	+	+family name	+P734
+Q9488, Q1651597	+	+Freebase ID	+P646
+Q9488, Q1651597	+	+sport	+P641
+Q9488, Q1651597	+	+date of birth	+P569
+Q9488, Q1651597	+	+handedness	+P552
+Q9488, Q1651597	+	+PRS Legislative Research MP ID	+P4978
+Q9488, Q1651597	+	+Who's Who UK ID	+P4789
+Q9488, Q1651597	+	+CineMagia person ID	+P4666
+Q9488, Q1651597	+	+UK Parliament thesaurus ID	+P4527
+Q9488, Q1651597	+	+Store norske leksikon ID	+P4342
+Q9488, Q1651597	+	+position played on team / speciality	+P413
+Q9488, Q1651597	+	+Commons category	+P373
+Q9488, Q1651597	+	+wisden.com ID	+P3526
+Q9488, Q1651597	+	+IMDb ID	+P345
+Q9488, Q1651597	+	+Quora topic ID	+P3417
+Q9488, Q1651597	+	+permanent duplicated item	+P2959
+Q9488, Q1651597	+	+CricketArchive player ID	+P2698
+Q9488, Q1651597	+	+ESPNcricinfo.com player ID	+P2697
+Q9488, Q1651597	+	+BabelNet ID	+P2581
+Q9488, Q1651597	+	+YouTube channel ID	+P2397
+Q9488, Q1651597	+	+FAST ID	+P2163
+Q9488, Q1651597	+	+height	+P2048
+Q9488, Q1651597	+	+work period (start)	+P2031
+Q9488, Q1651597	+	+Facebook ID	+P2013
+Q9488, Q1651597	+	+Instagram username	+P2003
+Q9488, Q1651597	+	+Twitter username	+P2002
+Q9488, Q1651597	+	+number of children	+P1971
+Q9488, Q1651597	+	+owner of	+P1830
+Q9488, Q1651597	+	+name in native language	+P1559
+Q9488, Q1651597	+	+country for sport	+P1532
+Q9488, Q1651597	+	+Encyclopædia Britannica Online ID	+P1417
+Q9488, Q1651597	+	+languages spoken, written or signed	+P1412
+Q9488, Q1651597	+	+participant in	+P1344
+Q9488, Q1651597	+	+NNDB people ID	+P1263
+Q9488, Q1651597	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q9488, Q1651597	+	+member of sports team	+P54
+Q9488, Q1651597	+	+child	+P40
+Q9488, Q1651597	+	+position held	+P39
+Q9488, Q1651597	+	+instance of	+P31
+Q9488, Q1651597	+	+country of citizenship	+P27
+Q9488, Q1651597	+	+spouse	+P26
+Q9488, Q1651597	+	+Library of Congress authority ID	+P244
+Q9488, Q1651597	+	+GND ID	+P227
+Q9488, Q1651597	+	+father	+P22
+Q9488, Q1651597	+	+VIAF ID	+P214
+Q9488, Q1651597	+	+ISNI	+P213
+Q9488, Q1651597	+	+sex or gender	+P21
+Q9488, Q1651597	+	+place of birth	+P19
+Q9488, Q1651597	+	+image	+P18
+Q9488, Q1651597	+	+award received	+P166
+Q9488, Q1651597	+	+religion	+P140
+Q9488, Q1651597	+	+occupation	+P106
+Q9488, Q1651597	-	-category's main topic	-P301
+Q9488, Q1651597	-	-permanent duplicated item	-P2959
+Q9488, Q1651597	-	-author	-P50
+Q9488, Q1651597	-	-child	-P40
+Q9488, Q1651597	-	-spouse	-P26
+Q9488, Q1651597	-	-father	-P22
+Q9488, Q1651597	-	-owned by	-P127
+Q37150, Q294	+	+topic's main category	+P910
+Q37150, Q294	+	+official website	+P856
+Q37150, Q294	+	+pseudonym	+P742
+Q37150, Q294	+	+given name	+P735
+Q37150, Q294	+	+family name	+P734
+Q37150, Q294	+	+NKCR AUT ID	+P691
+Q37150, Q294	+	+Freebase ID	+P646
+Q37150, Q294	+	+date of birth	+P569
+Q37150, Q294	+	+residence	+P551
+Q37150, Q294	+	+setlist.fm artist ID	+P5431
+Q37150, Q294	+	+Rate Your Music artist ID	+P5404
+Q37150, Q294	+	+BNB person ID	+P5361
+Q37150, Q294	+	+Google News topics ID	+P5337
+Q37150, Q294	+	+NRJ artist ID	+P5292
+Q37150, Q294	+	+Taratata artist ID	+P5291
+Q37150, Q294	+	+Daum Encyclopedia ID	+P5184
+Q37150, Q294	+	+Bugs! artist ID	+P5145
+Q37150, Q294	+	+Amazon author ID	+P4862
+Q37150, Q294	+	+Store norske leksikon ID	+P4342
+Q37150, Q294	+	+MusicBrainz artist ID	+P434
+Q37150, Q294	+	+Billboard artist ID	+P4208
+Q37150, Q294	+	+Google Play Music artist ID (former scheme)	+P4198
+Q37150, Q294	+	+voice type	+P412
+Q37150, Q294	+	+Fandom wiki ID	+P4073
+Q37150, Q294	+	+Giphy username	+P4013
+Q37150, Q294	+	+subreddit	+P3984
+Q37150, Q294	+	+Tumblr username	+P3943
+Q37150, Q294	+	+Commons category	+P373
+Q37150, Q294	+	+discography	+P358
+Q37150, Q294	+	+Cultureel Woordenboek ID	+P3569
+Q37150, Q294	+	+Songkick artist ID	+P3478
+Q37150, Q294	+	+IMDb ID	+P345
+Q37150, Q294	+	+Quora topic ID	+P3417
+Q37150, Q294	+	+Myspace ID	+P3265
+Q37150, Q294	+	+NE.se ID	+P3222
+Q37150, Q294	+	+Last.fm ID	+P3192
+Q37150, Q294	+	+Guardian topic ID	+P3106
+Q37150, Q294	+	+SoundCloud ID	+P3040
+Q37150, Q294	+	+Rolling Stone artist ID	+P3017
+Q37150, Q294	+	+WikiTree person ID	+P2949
+Q37150, Q294	+	+Dailymotion channel ID	+P2942
+Q37150, Q294	+	+iTunes artist ID	+P2850
+Q37150, Q294	+	+Google+ ID	+P2847
+Q37150, Q294	+	+Deezer artist ID	+P2722
+Q37150, Q294	+	+IdRef ID	+P269
+Q37150, Q294	+	+Bibliothèque nationale de France ID	+P268
+Q37150, Q294	+	+record label	+P264
+Q37150, Q294	+	+TV.com ID	+P2638
+Q37150, Q294	+	+ČSFD person ID	+P2605
+Q37150, Q294	+	+Kinopoisk person ID	+P2604
+Q37150, Q294	+	+BabelNet ID	+P2581
+Q37150, Q294	+	+YouTube channel ID	+P2397
+Q37150, Q294	+	+Genius artist ID	+P2373
+Q37150, Q294	+	+FAST ID	+P2163
+Q37150, Q294	+	+height	+P2048
+Q37150, Q294	+	+work period (start)	+P2031
+Q37150, Q294	+	+Facebook ID	+P2013
+Q37150, Q294	+	+Instagram username	+P2003
+Q37150, Q294	+	+Twitter username	+P2002
+Q37150, Q294	+	+Discogs artist ID	+P1953
+Q37150, Q294	+	+Spotify artist ID	+P1902
+Q37150, Q294	+	+IPI name number	+P1828
+Q37150, Q294	+	+GTAA ID	+P1741
+Q37150, Q294	+	+AllMusic artist ID	+P1728
+Q37150, Q294	+	+BBC Things ID	+P1617
+Q37150, Q294	+	+name in native language	+P1559
+Q37150, Q294	+	+Yandex Music artist ID	+P1553
+Q37150, Q294	+	+birth name	+P1477
+Q37150, Q294	+	+Commons Creator page	+P1472
+Q37150, Q294	+	+topic's main template	+P1424
+Q37150, Q294	+	+languages spoken, written or signed	+P1412
+Q37150, Q294	+	+described by source	+P1343
+Q37150, Q294	+	+instrument	+P1303
+Q37150, Q294	+	+Munzinger Pop ID	+P1286
+Q37150, Q294	+	+CONOR.SI ID	+P1280
+Q37150, Q294	+	+NNDB people ID	+P1263
+Q37150, Q294	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q37150, Q294	+	+educated at	+P69
+Q37150, Q294	+	+instance of	+P31
+Q37150, Q294	+	+country of citizenship	+P27
+Q37150, Q294	+	+Library of Congress authority ID	+P244
+Q37150, Q294	+	+GND ID	+P227
+Q37150, Q294	+	+VIAF ID	+P214
+Q37150, Q294	+	+ISNI	+P213
+Q37150, Q294	+	+sex or gender	+P21
+Q37150, Q294	+	+place of birth	+P19
+Q37150, Q294	+	+image	+P18
+Q37150, Q294	+	+genre	+P136
+Q37150, Q294	+	+signature	+P109
+Q37150, Q294	+	+occupation	+P106
+Q37150, Q294	+	+field of work	+P101
+Q37150, Q294	-	-category combines topics	-P971
+Q37150, Q294	-	-participant	-P710
+Q37150, Q294	-	-lyrics by	-P676
+Q37150, Q294	-	-characters	-P674
+Q37150, Q294	-	-category's main topic	-P301
+Q37150, Q294	-	-Wikidata property example	-P1855
+Q37150, Q294	-	-template has topic	-P1423
+Q37150, Q294	-	-winner	-P1346
+Q37150, Q294	-	-composer	-P86
+Q37150, Q294	-	-screenwriter	-P58
+Q37150, Q294	-	-author	-P50
+Q37150, Q294	-	-performer	-P175
+Q37150, Q294	-	-producer	-P162
+Q37150, Q294	-	-cast member	-P161
+Q47131, Q698752	+	+spoken text audio	+P989
+Q47131, Q698752	+	+topic's main category	+P910
+Q47131, Q698752	+	+location of formation	+P740
+Q47131, Q698752	+	+Freebase ID	+P646
+Q47131, Q698752	+	+inception	+P571
+Q47131, Q698752	+	+Canadian Encyclopedia article ID	+P5395
+Q47131, Q698752	+	+Google News topics ID	+P5337
+Q47131, Q698752	+	+has part	+P527
+Q47131, Q698752	+	+Interlingual Index ID	+P5063
+Q47131, Q698752	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q47131, Q698752	+	+on focus list of Wikimedia project	+P5008
+Q47131, Q698752	+	+archives at	+P485
+Q47131, Q698752	+	+UK Parliament thesaurus ID	+P4527
+Q47131, Q698752	+	+Store norske leksikon ID	+P4342
+Q47131, Q698752	+	+Commons category	+P373
+Q47131, Q698752	+	+Quora topic ID	+P3417
+Q47131, Q698752	+	+NE.se ID	+P3222
+Q47131, Q698752	+	+New York Times topic ID	+P3221
+Q47131, Q698752	+	+Encyclopædia Universalis ID	+P3219
+Q47131, Q698752	+	+Great Russian Encyclopedia Online ID	+P2924
+Q47131, Q698752	+	+different from	+P1889
+Q47131, Q698752	+	+British Museum person or institution ID	+P1711
+Q47131, Q698752	+	+Encyclopædia Britannica Online ID	+P1417
+Q47131, Q698752	+	+described by source	+P1343
+Q47131, Q698752	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q47131, Q698752	+	+political ideology	+P1142
+Q47131, Q698752	+	+instance of	+P31
+Q47131, Q698752	+	+Library of Congress authority ID	+P244
+Q47131, Q698752	+	+VIAF ID	+P214
+Q47131, Q698752	+	+ISNI	+P213
+Q47131, Q698752	+	+image	+P18
+Q47131, Q698752	+	+country	+P17
+Q47131, Q698752	+	+logo image	+P154
+Q47131, Q698752	+	+founded by	+P112
+Q47131, Q698752	-	-main subject	-P921
+Q47131, Q698752	-	-has cause	-P828
+Q47131, Q698752	-	-organizer	-P664
+Q47131, Q698752	-	-member of	-P463
+Q47131, Q698752	-	-part of	-P361
+Q47131, Q698752	-	-category's main topic	-P301
+Q47131, Q698752	-	-subclass of	-P279
+Q47131, Q698752	-	-affiliation	-P1416
+Q47131, Q698752	-	-languages spoken, written or signed	-P1412
+Q47131, Q698752	-	-instance of	-P31
+Q47131, Q698752	-	-depicts	-P180
+Q47131, Q698752	-	-employer	-P108
+Q47131, Q698752	-	-member of political party	-P102
+Q29250, Q102427	+	+Biblioteca Nacional de España ID	+P950
+Q29250, Q102427	+	+National Library of Israel ID	+P949
+Q29250, Q102427	+	+notable work	+P800
+Q29250, Q102427	+	+given name	+P735
+Q29250, Q102427	+	+family name	+P734
+Q29250, Q102427	+	+NKCR AUT ID	+P691
+Q29250, Q102427	+	+Freebase ID	+P646
+Q29250, Q102427	+	+date of birth	+P569
+Q29250, Q102427	+	+Open Media Database person ID	+P5534
+Q29250, Q102427	+	+Trading Card Database person ID	+P5421
+Q29250, Q102427	+	+Douban movie celebrity ID	+P5284
+Q29250, Q102427	+	+Giant Bomb ID	+P5247
+Q29250, Q102427	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q29250, Q102427	+	+TMDb person ID	+P4985
+Q29250, Q102427	+	+CineMagia person ID	+P4666
+Q29250, Q102427	+	+The Numbers person ID	+P4657
+Q29250, Q102427	+	+Internet Off-Broadway Database creditable entity ID	+P4456
+Q29250, Q102427	+	+Store norske leksikon ID	+P4342
+Q29250, Q102427	+	+MusicBrainz artist ID	+P434
+Q29250, Q102427	+	+Deutsche Synchronkartei actor ID	+P4332
+Q29250, Q102427	+	+Libraries Australia ID	+P409
+Q29250, Q102427	+	+DBC author ID	+P3846
+Q29250, Q102427	+	+Commons category	+P373
+Q29250, Q102427	+	+IMDb ID	+P345
+Q29250, Q102427	+	+Quora topic ID	+P3417
+Q29250, Q102427	+	+sibling	+P3373
+Q29250, Q102427	+	+KINENOTE person ID	+P3305
+Q29250, Q102427	+	+NE.se ID	+P3222
+Q29250, Q102427	+	+New York Times topic ID	+P3221
+Q29250, Q102427	+	+Encyclopædia Universalis ID	+P3219
+Q29250, Q102427	+	+Last.fm ID	+P3192
+Q29250, Q102427	+	+elFilm person ID	+P3144
+Q29250, Q102427	+	+EDb person ID	+P3142
+Q29250, Q102427	+	+elCinema person ID	+P3136
+Q29250, Q102427	+	+Guardian topic ID	+P3106
+Q29250, Q102427	+	+TCM Movie Database person ID	+P3056
+Q29250, Q102427	+	+WikiTree person ID	+P2949
+Q29250, Q102427	+	+IdRef ID	+P269
+Q29250, Q102427	+	+Box Office Mojo person ID	+P2688
+Q29250, Q102427	+	+Bibliothèque nationale de France ID	+P268
+Q29250, Q102427	+	+Filmportal ID	+P2639
+Q29250, Q102427	+	+TV.com ID	+P2638
+Q29250, Q102427	+	+Danish National Filmography person ID	+P2626
+Q29250, Q102427	+	+ČSFD person ID	+P2605
+Q29250, Q102427	+	+Kinopoisk person ID	+P2604
+Q29250, Q102427	+	+Scope.dk person ID	+P2519
+Q29250, Q102427	+	+PORT person ID	+P2435
+Q29250, Q102427	+	+Elonet person ID	+P2387
+Q29250, Q102427	+	+Swedish Film Database person ID	+P2168
+Q29250, Q102427	+	+FAST ID	+P2163
+Q29250, Q102427	+	+work period (start)	+P2031
+Q29250, Q102427	+	+AllMovie person ID	+P2019
+Q29250, Q102427	+	+number of children	+P1971
+Q29250, Q102427	+	+MovieMeter director ID	+P1969
+Q29250, Q102427	+	+Discogs artist ID	+P1953
+Q29250, Q102427	+	+Baseball-Reference.com minor & foreign league player ID	+P1826
+Q29250, Q102427	+	+GTAA ID	+P1741
+Q29250, Q102427	+	+AllMusic artist ID	+P1728
+Q29250, Q102427	+	+KMDb person ID	+P1649
+Q29250, Q102427	+	+University of Barcelona authority ID	+P1580
+Q29250, Q102427	+	+OpenPlaques subject ID	+P1430
+Q29250, Q102427	+	+Encyclopædia Britannica Online ID	+P1417
+Q29250, Q102427	+	+languages spoken, written or signed	+P1412
+Q29250, Q102427	+	+nominated for	+P1411
+Q29250, Q102427	+	+LNB ID	+P1368
+Q29250, Q102427	+	+described by source	+P1343
+Q29250, Q102427	+	+NLA Trove ID	+P1315
+Q29250, Q102427	+	+Munzinger person ID	+P1284
+Q29250, Q102427	+	+filmography	+P1283
+Q29250, Q102427	+	+CANTIC ID	+P1273
+Q29250, Q102427	+	+AlloCiné person ID	+P1266
+Q29250, Q102427	+	+NNDB people ID	+P1263
+Q29250, Q102427	+	+U.S. National Archives Identifier	+P1225
+Q29250, Q102427	+	+Internet Broadway Database person ID	+P1220
+Q29250, Q102427	+	+NUKAT ID	+P1207
+Q29250, Q102427	+	+BIBSYS ID	+P1015
+Q29250, Q102427	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q29250, Q102427	+	+educated at	+P69
+Q29250, Q102427	+	+child	+P40
+Q29250, Q102427	+	+instance of	+P31
+Q29250, Q102427	+	+country of citizenship	+P27
+Q29250, Q102427	+	+Library of Congress authority ID	+P244
+Q29250, Q102427	+	+GND ID	+P227
+Q29250, Q102427	+	+VIAF ID	+P214
+Q29250, Q102427	+	+ISNI	+P213
+Q29250, Q102427	+	+sex or gender	+P21
+Q29250, Q102427	+	+place of birth	+P19
+Q29250, Q102427	+	+image	+P18
+Q29250, Q102427	+	+award received	+P166
+Q29250, Q102427	+	+occupation	+P106
+Q29250, Q102427	-	-category combines topics	-P971
+Q29250, Q102427	-	-main subject	-P921
+Q29250, Q102427	-	-influenced by	-P737
+Q29250, Q102427	-	-voice actor	-P725
+Q29250, Q102427	-	-participant	-P710
+Q29250, Q102427	-	-sibling	-P3373
+Q29250, Q102427	-	-winner	-P1346
+Q29250, Q102427	-	-facet of	-P1269
+Q29250, Q102427	-	-screenwriter	-P58
+Q29250, Q102427	-	-director	-P57
+Q29250, Q102427	-	-father	-P22
+Q29250, Q102427	-	-performer	-P175
+Q29250, Q102427	-	-producer	-P162
+Q29250, Q102427	-	-cast member	-P161
+Q1924847, Q5110500	+	+Biblioteca Nacional de España ID	+P950
+Q1924847, Q5110500	+	+topic's main category	+P910
+Q1924847, Q5110500	+	+IPA transcription	+P898
+Q1924847, Q5110500	+	+given name	+P735
+Q1924847, Q5110500	+	+family name	+P734
+Q1924847, Q5110500	+	+NKCR AUT ID	+P691
+Q1924847, Q5110500	+	+Freebase ID	+P646
+Q1924847, Q5110500	+	+date of birth	+P569
+Q1924847, Q5110500	+	+Open Media Database person ID	+P5534
+Q1924847, Q5110500	+	+residence	+P551
+Q1924847, Q5110500	+	+American Film Institute person ID	+P5340
+Q1924847, Q5110500	+	+Douban movie celebrity ID	+P5284
+Q1924847, Q5110500	+	+FilmTv.it person ID	+P5254
+Q1924847, Q5110500	+	+Filmweb.pl person ID	+P5033
+Q1924847, Q5110500	+	+on focus list of Wikimedia project	+P5008
+Q1924847, Q5110500	+	+Behind The Voice Actors person ID	+P5007
+Q1924847, Q5110500	+	+TMDb person ID	+P4985
+Q1924847, Q5110500	+	+Movieplayer person ID	+P4782
+Q1924847, Q5110500	+	+MYmovies actor ID	+P4779
+Q1924847, Q5110500	+	+cinematografo.it name or company ID	+P4768
+Q1924847, Q5110500	+	+Eldoblaje original actor ID	+P4682
+Q1924847, Q5110500	+	+CineMagia person ID	+P4666
+Q1924847, Q5110500	+	+The Numbers person ID	+P4657
+Q1924847, Q5110500	+	+member of	+P463
+Q1924847, Q5110500	+	+Prisma ID	+P4515
+Q1924847, Q5110500	+	+BFI Films, TV and people ID	+P4438
+Q1924847, Q5110500	+	+Deutsche Synchronkartei actor ID	+P4332
+Q1924847, Q5110500	+	+BFI Filmography person ID	+P4326
+Q1924847, Q5110500	+	+Cinema.de ID	+P3933
+Q1924847, Q5110500	+	+TV Guide person ID (former scheme)	+P3845
+Q1924847, Q5110500	+	+Commons category	+P373
+Q1924847, Q5110500	+	+Sina Weibo user ID	+P3579
+Q1924847, Q5110500	+	+IMDb ID	+P345
+Q1924847, Q5110500	+	+Quora topic ID	+P3417
+Q1924847, Q5110500	+	+LittleSis people ID	+P3388
+Q1924847, Q5110500	+	+sibling	+P3373
+Q1924847, Q5110500	+	+Kvikmyndir person ID	+P3341
+Q1924847, Q5110500	+	+KINENOTE person ID	+P3305
+Q1924847, Q5110500	+	+Ciné-Ressources person ID	+P3204
+Q1924847, Q5110500	+	+EDb person ID	+P3142
+Q1924847, Q5110500	+	+elCinema person ID	+P3136
+Q1924847, Q5110500	+	+ISzDb person ID	+P3114
+Q1924847, Q5110500	+	+TCM Movie Database person ID	+P3056
+Q1924847, Q5110500	+	+WikiTree person ID	+P2949
+Q1924847, Q5110500	+	+IdRef ID	+P269
+Q1924847, Q5110500	+	+Box Office Mojo person ID	+P2688
+Q1924847, Q5110500	+	+Bibliothèque nationale de France ID	+P268
+Q1924847, Q5110500	+	+TV.com ID	+P2638
+Q1924847, Q5110500	+	+Danish National Filmography person ID	+P2626
+Q1924847, Q5110500	+	+ČSFD person ID	+P2605
+Q1924847, Q5110500	+	+Kinopoisk person ID	+P2604
+Q1924847, Q5110500	+	+Geni.com profile ID	+P2600
+Q1924847, Q5110500	+	+Scope.dk person ID	+P2519
+Q1924847, Q5110500	+	+Models.com person ID	+P2471
+Q1924847, Q5110500	+	+PORT person ID	+P2435
+Q1924847, Q5110500	+	+Elonet person ID	+P2387
+Q1924847, Q5110500	+	+has list	+P2354
+Q1924847, Q5110500	+	+Swedish Film Database person ID	+P2168
+Q1924847, Q5110500	+	+Crunchbase person ID	+P2087
+Q1924847, Q5110500	+	+height	+P2048
+Q1924847, Q5110500	+	+work period (start)	+P2031
+Q1924847, Q5110500	+	+AllMovie person ID	+P2019
+Q1924847, Q5110500	+	+Facebook ID	+P2013
+Q1924847, Q5110500	+	+Instagram username	+P2003
+Q1924847, Q5110500	+	+Twitter username	+P2002
+Q1924847, Q5110500	+	+hair color	+P1884
+Q1924847, Q5110500	+	+Metacritic ID	+P1712
+Q1924847, Q5110500	+	+NLP ID (unique)	+P1695
+Q1924847, Q5110500	+	+name in native language	+P1559
+Q1924847, Q5110500	+	+languages spoken, written or signed	+P1412
+Q1924847, Q5110500	+	+nominated for	+P1411
+Q1924847, Q5110500	+	+described by source	+P1343
+Q1924847, Q5110500	+	+Munzinger person ID	+P1284
+Q1924847, Q5110500	+	+filmography	+P1283
+Q1924847, Q5110500	+	+CONOR.SI ID	+P1280
+Q1924847, Q5110500	+	+AlloCiné person ID	+P1266
+Q1924847, Q5110500	+	+Rotten Tomatoes ID	+P1258
+Q1924847, Q5110500	+	+NUKAT ID	+P1207
+Q1924847, Q5110500	+	+Nationale Thesaurus voor Auteurs ID	+P1006
+Q1924847, Q5110500	+	+educated at	+P69
+Q1924847, Q5110500	+	+instance of	+P31
+Q1924847, Q5110500	+	+country of citizenship	+P27
+Q1924847, Q5110500	+	+spouse	+P26
+Q1924847, Q5110500	+	+Library of Congress authority ID	+P244
+Q1924847, Q5110500	+	+GND ID	+P227
+Q1924847, Q5110500	+	+VIAF ID	+P214
+Q1924847, Q5110500	+	+ISNI	+P213
+Q1924847, Q5110500	+	+sex or gender	+P21
+Q1924847, Q5110500	+	+place of birth	+P19
+Q1924847, Q5110500	+	+image	+P18
+Q1924847, Q5110500	+	+ethnic group	+P172
+Q1924847, Q5110500	+	+award received	+P166
+Q1924847, Q5110500	+	+occupation	+P106
+Q1924847, Q5110500	-	-main subject	-P921
+Q1924847, Q5110500	-	-influenced by	-P737
+Q1924847, Q5110500	-	-voice actor	-P725
+Q1924847, Q5110500	-	-sibling	-P3373
+Q1924847, Q5110500	-	-category's main topic	-P301
+Q1924847, Q5110500	-	-spouse	-P26
+Q1924847, Q5110500	-	-performer	-P175
+Q1924847, Q5110500	-	-producer	-P162
+Q1924847, Q5110500	-	-cast member	-P161
+Q283, Q218091	+	+Commons gallery	+P935
+Q283, Q218091	+	+topic's main category	+P910
+Q283, Q218091	+	+phase point	+P873
+Q283, Q218091	+	+DrugBank ID	+P715
+Q283, Q218091	+	+found in taxon	+P703
+Q283, Q218091	+	+ChEBI ID	+P683
+Q283, Q218091	+	+ZVG number	+P679
+Q283, Q218091	+	+MeSH tree code	+P672
+Q283, Q218091	+	+KEGG ID	+P665
+Q283, Q218091	+	+PubChem CID	+P662
+Q283, Q218091	+	+ChemSpider ID	+P661
+Q283, Q218091	+	+RTECS number	+P657
+Q283, Q218091	+	+UNII	+P652
+Q283, Q218091	+	+Freebase ID	+P646
+Q283, Q218091	+	+ChEMBL ID	+P592
+Q283, Q218091	+	+IPTC NewsCode	+P5429
+Q283, Q218091	+	+has part	+P527
+Q283, Q218091	+	+ASC Leiden Thesaurus ID	+P5198
+Q283, Q218091	+	+Wikimedia outline	+P5125
+Q283, Q218091	+	+Store medisinske leksikon ID	+P5082
+Q283, Q218091	+	+BNCF Thesaurus ID	+P508
+Q283, Q218091	+	+Römpp online ID	+P5076
+Q283, Q218091	+	+Brockhaus Enzyklopädie online ID	+P5019
+Q283, Q218091	+	+on focus list of Wikimedia project	+P5008
+Q283, Q218091	+	+SPLASH	+P4964
+Q283, Q218091	+	+safety classification and labelling	+P4952
+Q283, Q218091	+	+Unicode character	+P487
+Q283, Q218091	+	+MeSH descriptor ID	+P486
+Q283, Q218091	+	+ASHRAE refrigerant number	+P4842
+Q283, Q218091	+	+color	+P462
+Q283, Q218091	+	+pronunciation audio	+P443
+Q283, Q218091	+	+Store norske leksikon ID	+P4342
+Q283, Q218091	+	+PACTOLS thesaurus ID	+P4212
+Q283, Q218091	+	+conjugate base	+P4149
+Q283, Q218091	+	+conjugate acid	+P4147
+Q283, Q218091	+	+Open Library subject ID	+P3847
+Q283, Q218091	+	+JSTOR topic ID	+P3827
+Q283, Q218091	+	+Commons category	+P373
+Q283, Q218091	+	+use	+P366
+Q283, Q218091	+	+PDB ligand ID	+P3636
+Q283, Q218091	+	+Le Monde diplomatique subject ID	+P3612
+Q283, Q218091	+	+part of	+P361
+Q283, Q218091	+	+Cultureel Woordenboek ID	+P3569
+Q283, Q218091	+	+National Diet Library ID	+P349
+Q283, Q218091	+	+Quora topic ID	+P3417
+Q283, Q218091	+	+Treccani ID	+P3365
+Q283, Q218091	+	+RxNorm ID	+P3345
+Q283, Q218091	+	+NE.se ID	+P3222
+Q283, Q218091	+	+Encyclopædia Universalis ID	+P3219
+Q283, Q218091	+	+DSSTox substance ID	+P3117
+Q283, Q218091	+	+standard enthalpy of formation	+P3078
+Q283, Q218091	+	+CosIng number	+P3073
+Q283, Q218091	+	+standard molar entropy	+P3071
+Q283, Q218091	+	+dynamic viscosity	+P3070
+Q283, Q218091	+	+permanent duplicated item	+P2959
+Q283, Q218091	+	+Great Russian Encyclopedia Online ID	+P2924
+Q283, Q218091	+	+UMLS CUI	+P2892
+Q283, Q218091	+	+subclass of	+P279
+Q283, Q218091	+	+chemical formula	+P274
+Q283, Q218091	+	+Bibliothèque nationale de France ID	+P268
+Q283, Q218091	+	+TED topic ID	+P2612
+Q283, Q218091	+	+BabelNet ID	+P2581
+Q283, Q218091	+	+ECHA InfoCard ID	+P2566
+Q283, Q218091	+	+YSO ID	+P2347
+Q283, Q218091	+	+median lethal dose (LD50)	+P2240
+Q283, Q218091	+	+kinematic viscosity	+P2118
+Q283, Q218091	+	+enthalpy of vaporization	+P2116
+Q283, Q218091	+	+NDF-RT ID	+P2115
+Q283, Q218091	+	+decomposition point	+P2107
+Q283, Q218091	+	+boiling point	+P2102
+Q283, Q218091	+	+melting point	+P2101
+Q283, Q218091	+	+Nikkaji ID	+P2085
+Q283, Q218091	+	+speed of sound	+P2075
+Q283, Q218091	+	+thermal conductivity	+P2068
+Q283, Q218091	+	+mass	+P2067
+Q283, Q218091	+	+Human Metabolome Database ID	+P2057
+Q283, Q218091	+	+heat capacity	+P2056
+Q283, Q218091	+	+density	+P2054
+Q283, Q218091	+	+different from	+P1889
+Q283, Q218091	+	+Open Food Facts food category ID	+P1821
+Q283, Q218091	+	+Great Aragonese Encyclopedia ID	+P1807
+Q283, Q218091	+	+Reaxys registry number	+P1579
+Q283, Q218091	+	+Gmelin number	+P1578
+Q283, Q218091	+	+has quality	+P1552
+Q283, Q218091	+	+has effect	+P1542
+Q283, Q218091	+	+Encyclopædia Britannica Online ID	+P1417
+Q283, Q218091	+	+described by source	+P1343
+Q283, Q218091	+	+Gran Enciclopèdia Catalana ID	+P1296
+Q283, Q218091	+	+OpenStreetMap tag or key	+P1282
+Q283, Q218091	+	+OmegaWiki Defined Meaning	+P1245
+Q283, Q218091	+	+U.S. National Archives Identifier	+P1225
+Q283, Q218091	+	+refractive index	+P1109
+Q283, Q218091	+	+Mohs' hardness	+P1088
+Q283, Q218091	+	+PSH ID	+P1051
+Q283, Q218091	+	+Dewey Decimal Classification	+P1036
+Q283, Q218091	+	+Art & Architecture Thesaurus ID	+P1014
+Q283, Q218091	+	+instance of	+P31
+Q283, Q218091	+	+Library of Congress authority ID	+P244
+Q283, Q218091	+	+InChIKey	+P235
+Q283, Q218091	+	+InChI	+P234
+Q283, Q218091	+	+canonical SMILES	+P233
+Q283, Q218091	+	+EC number	+P232
+Q283, Q218091	+	+CAS Registry Number	+P231
+Q283, Q218091	+	+GND ID	+P227
+Q283, Q218091	+	+image	+P18
+Q283, Q218091	+	+chemical structure	+P117
+Q283, Q218091	-	-category combines topics	-P971
+Q283, Q218091	-	-inspired by	-P941
+Q283, Q218091	-	-main subject	-P921
+Q283, Q218091	-	-has cause	-P828
+Q283, Q218091	-	-dedicated to	-P825
+Q283, Q218091	-	-source of energy	-P618
+Q283, Q218091	-	-has part	-P527
+Q283, Q218091	-	-has listed ingredient	-P4543
+Q283, Q218091	-	-industry	-P452
+Q283, Q218091	-	-contains	-P4330
+Q283, Q218091	-	-category contains	-P4224
+Q283, Q218091	-	-conjugate base	-P4149
+Q283, Q218091	-	-conjugate acid	-P4147
+Q283, Q218091	-	-people or cargo transported	-P3437
+Q283, Q218091	-	-designed to carry	-P3349
+Q283, Q218091	-	-category's main topic	-P301
+Q283, Q218091	-	-habitat	-P2974
+Q283, Q218091	-	-permanent duplicated item	-P2959
+Q283, Q218091	-	-domain of saint or deity	-P2925
+Q283, Q218091	-	-subclass of	-P279
+Q283, Q218091	-	-has parts of the class	-P2670
+Q283, Q218091	-	-interested in	-P2650
+Q283, Q218091	-	-carries	-P2505
+Q283, Q218091	-	-uses	-P2283
+Q283, Q218091	-	-first aid measures	-P2239
+Q283, Q218091	-	-different from	-P1889
+Q283, Q218091	-	-Wikidata property example	-P1855
+Q283, Q218091	-	-has natural reservoir	-P1605
+Q283, Q218091	-	-manifestation of	-P1557
+Q283, Q218091	-	-has contributing factor	-P1479
+Q283, Q218091	-	-depicted by	-P1299
+Q283, Q218091	-	-facet of	-P1269
+Q283, Q218091	-	-Wikimedia portal's main topic	-P1204
+Q283, Q218091	-	-product or material produced	-P1056
+Q283, Q218091	-	-instance of	-P31
+Q283, Q218091	-	-made from material	-P186
+Q283, Q218091	-	-depicts	-P180
+Q283, Q218091	-	-named after	-P138
+Q283, Q218091	-	-physically interacts with	-P129
+Q283, Q218091	-	-item operated	-P121
+Q283, Q218091	-	-field of work	-P101
+Q40949, Q16931712	+	+National Library of Israel ID	+P949
+Q40949, Q16931712	+	+Commons gallery	+P935
+Q40949, Q16931712	+	+topic's main category	+P910
+Q40949, Q16931712	+	+participant	+P710
+Q40949, Q16931712	+	+NKCR AUT ID	+P691
+Q40949, Q16931712	+	+Freebase ID	+P646
+Q40949, Q16931712	+	+end time	+P582
+Q40949, Q16931712	+	+start time	+P580
+Q40949, Q16931712	+	+has part	+P527
+Q40949, Q16931712	+	+BNCF Thesaurus ID	+P508
+Q40949, Q16931712	+	+Interlingual Index ID	+P5063
+Q40949, Q16931712	+	+Wolfram Language entity code	+P4839
+Q40949, Q16931712	+	+Commons category	+P373
+Q40949, Q16931712	+	+part of	+P361
+Q40949, Q16931712	+	+Quora topic ID	+P3417
+Q40949, Q16931712	+	+Great Russian Encyclopedia Online ID	+P2924
+Q40949, Q16931712	+	+location	+P276
+Q40949, Q16931712	+	+collage image	+P2716
+Q40949, Q16931712	+	+Bibliothèque nationale de France ID	+P268
+Q40949, Q16931712	+	+BabelNet ID	+P2581
+Q40949, Q16931712	+	+YSO ID	+P2347
+Q40949, Q16931712	+	+FAST ID	+P2163
+Q40949, Q16931712	+	+described by source	+P1343
+Q40949, Q16931712	+	+U.S. National Archives Identifier	+P1225
+Q40949, Q16931712	+	+topic's main Wikimedia portal	+P1151
+Q40949, Q16931712	+	+instance of	+P31
+Q40949, Q16931712	+	+Library of Congress authority ID	+P244
+Q40949, Q16931712	+	+GND ID	+P227
+Q40949, Q16931712	+	+image	+P18
+Q40949, Q16931712	-	-category combines topics	-P971
+Q40949, Q16931712	-	-main subject	-P921
+Q40949, Q16931712	-	-has cause	-P828
+Q40949, Q16931712	-	-significant event	-P793
+Q40949, Q16931712	-	-conflict	-P607
+Q40949, Q16931712	-	-has part	-P527
+Q40949, Q16931712	-	-part of	-P361
+Q40949, Q16931712	-	-category's main topic	-P301
+Q40949, Q16931712	-	-set in period	-P2408
+Q40949, Q16931712	-	-time period	-P2348
+Q40949, Q16931712	-	-different from	-P1889
+Q40949, Q16931712	-	-participant in	-P1344
+Q40949, Q16931712	-	-facet of	-P1269
+Q40949, Q16931712	-	-Wikimedia portal's main topic	-P1204
+Q40949, Q16931712	-	-depicts	-P180
+Q40949, Q16931712	-	-field of work	-P101
+Q41576, Q411188	+	+spoken text audio	+P989
+Q41576, Q411188	+	+Biblioteca Nacional de España ID	+P950
+Q41576, Q411188	+	+Commons gallery	+P935
+Q41576, Q411188	+	+topic's main category	+P910
+Q41576, Q411188	+	+significant drug interaction	+P769
+Q41576, Q411188	+	+DrugBank ID	+P715
+Q41576, Q411188	+	+found in taxon	+P703
+Q41576, Q411188	+	+ChEBI ID	+P683
+Q41576, Q411188	+	+MeSH tree code	+P672
+Q41576, Q411188	+	+KEGG ID	+P665
+Q41576, Q411188	+	+PubChem CID	+P662
+Q41576, Q411188	+	+ChemSpider ID	+P661
+Q41576, Q411188	+	+RTECS number	+P657
+Q41576, Q411188	+	+UNII	+P652
+Q41576, Q411188	+	+Freebase ID	+P646
+Q41576, Q411188	+	+PDB structure ID	+P638
+Q41576, Q411188	+	+route of administration	+P636
+Q41576, Q411188	+	+Guide to Pharmacology Ligand ID	+P595
+Q41576, Q411188	+	+ChEMBL ID	+P592
+Q41576, Q411188	+	+has part	+P527
+Q41576, Q411188	+	+Giant Bomb ID	+P5247
+Q41576, Q411188	+	+BNCF Thesaurus ID	+P508
+Q41576, Q411188	+	+SPLASH	+P4964
+Q41576, Q411188	+	+safety classification and labelling	+P4952
+Q41576, Q411188	+	+MeSH descriptor ID	+P486
+Q41576, Q411188	+	+UK Parliament thesaurus ID	+P4527
+Q41576, Q411188	+	+PACTOLS thesaurus ID	+P4212
+Q41576, Q411188	+	+IEDB Epitope ID	+P4168
+Q41576, Q411188	+	+JSTOR topic ID	+P3827
+Q41576, Q411188	+	+active ingredient in	+P3780
+Q41576, Q411188	+	+Commons category	+P373
+Q41576, Q411188	+	+PDB ligand ID	+P3636
+Q41576, Q411188	+	+part of	+P361
+Q41576, Q411188	+	+Cultureel Woordenboek ID	+P3569
+Q41576, Q411188	+	+National Diet Library ID	+P349
+Q41576, Q411188	+	+pregnancy category	+P3489
+Q41576, Q411188	+	+WikiSkripta ID	+P3471
+Q41576, Q411188	+	+Quora topic ID	+P3417
+Q41576, Q411188	+	+Treccani ID	+P3365
+Q41576, Q411188	+	+RxNorm ID	+P3345
+Q41576, Q411188	+	+New York Times topic ID	+P3221
+Q41576, Q411188	+	+Encyclopædia Universalis ID	+P3219
+Q41576, Q411188	+	+DSSTox substance ID	+P3117
+Q41576, Q411188	+	+Great Russian Encyclopedia Online ID	+P2924
+Q41576, Q411188	+	+UMLS CUI	+P2892
+Q41576, Q411188	+	+subject has role	+P2868
+Q41576, Q411188	+	+chemical formula	+P274
+Q41576, Q411188	+	+Bibliothèque nationale de France ID	+P268
+Q41576, Q411188	+	+ATC code	+P267
+Q41576, Q411188	+	+ECHA InfoCard ID	+P2566
+Q41576, Q411188	+	+YSO ID	+P2347
+Q41576, Q411188	+	+medical condition treated	+P2175
+Q41576, Q411188	+	+NDF-RT ID	+P2115
+Q41576, Q411188	+	+sublimation temperature	+P2113
+Q41576, Q411188	+	+boiling point	+P2102
+Q41576, Q411188	+	+melting point	+P2101
+Q41576, Q411188	+	+mass	+P2067
+Q41576, Q411188	+	+KNApSAcK ID	+P2064
+Q41576, Q411188	+	+Human Metabolome Database ID	+P2057
+Q41576, Q411188	+	+density	+P2054
+Q41576, Q411188	+	+isomeric SMILES	+P2017
+Q41576, Q411188	+	+natural product of taxon	+P1582
+Q41576, Q411188	+	+Reaxys registry number	+P1579
+Q41576, Q411188	+	+Gmelin number	+P1578
+Q41576, Q411188	+	+Encyclopædia Britannica Online ID	+P1417
+Q41576, Q411188	+	+described by source	+P1343
+Q41576, Q411188	+	+OmegaWiki Defined Meaning	+P1245
+Q41576, Q411188	+	+U.S. National Archives Identifier	+P1225
+Q41576, Q411188	+	+pKa	+P1117
+Q41576, Q411188	+	+refractive index	+P1109
+Q41576, Q411188	+	+instance of	+P31
+Q41576, Q411188	+	+Library of Congress authority ID	+P244
+Q41576, Q411188	+	+InChIKey	+P235
+Q41576, Q411188	+	+InChI	+P234
+Q41576, Q411188	+	+canonical SMILES	+P233
+Q41576, Q411188	+	+EC number	+P232
+Q41576, Q411188	+	+CAS Registry Number	+P231
+Q41576, Q411188	+	+GND ID	+P227
+Q41576, Q411188	+	+physically interacts with	+P129
+Q41576, Q411188	+	+chemical structure	+P117
+Q41576, Q411188	-	-category combines topics	-P971
+Q41576, Q411188	-	-main subject	-P921
+Q41576, Q411188	-	-has cause	-P828
+Q41576, Q411188	-	-statement is subject of	-P805
+Q41576, Q411188	-	-significant drug interaction	-P769
+Q41576, Q411188	-	-has part	-P527
+Q41576, Q411188	-	-research intervention	-P4844
+Q41576, Q411188	-	-describes a project that uses	-P4510
+Q41576, Q411188	-	-has active ingredient	-P3781
+Q41576, Q411188	-	-use	-P366
+Q41576, Q411188	-	-people or cargo transported	-P3437
+Q41576, Q411188	-	-category's main topic	-P301
+Q41576, Q411188	-	-subclass of	-P279
+Q41576, Q411188	-	-drug used for treatment	-P2176
+Q41576, Q411188	-	-Wikidata property example	-P1855
+Q41576, Q411188	-	-this taxon is source of	-P1672
+Q41576, Q411188	-	-product or material produced	-P1056
+Q41576, Q411188	-	-made from material	-P186
+Q41576, Q411188	-	-named after	-P138
+Q41576, Q411188	-	-physically interacts with	-P129
+Q212976, Q46825	+	+topic's main category	+P910
+Q212976, Q46825	+	+Freebase ID	+P646
+Q212976, Q46825	+	+end time	+P582
+Q212976, Q46825	+	+start time	+P580
+Q212976, Q46825	+	+FOIH periods ID	+P4306
+Q212976, Q46825	+	+PACTOLS thesaurus ID	+P4212
+Q212976, Q46825	+	+JSTOR topic ID	+P3827
+Q212976, Q46825	+	+Commons category	+P373
+Q212976, Q46825	+	+part of	+P361
+Q212976, Q46825	+	+Quora topic ID	+P3417
+Q212976, Q46825	+	+location	+P276
+Q212976, Q46825	+	+BabelNet ID	+P2581
+Q212976, Q46825	+	+YSO ID	+P2347
+Q212976, Q46825	+	+OmegaWiki Defined Meaning	+P1245
+Q212976, Q46825	+	+PSH ID	+P1051
+Q212976, Q46825	+	+instance of	+P31
+Q212976, Q46825	+	+GND ID	+P227
+Q212976, Q46825	+	+image	+P18
+Q212976, Q46825	+	+followed by	+P156
+Q212976, Q46825	+	+follows	+P155
+Q212976, Q46825	-	-main subject	-P921
+Q212976, Q46825	-	-has part	-P527
+Q212976, Q46825	-	-part of	-P361
+Q212976, Q46825	-	-category's main topic	-P301
+Q212976, Q46825	-	-set in period	-P2408
+Q212976, Q46825	-	-time period	-P2348
+Q212976, Q46825	-	-followed by	-P156
+Q212976, Q46825	-	-follows	-P155
+Q212976, Q46825	-	-movement	-P135
+Q212976, Q46825	-	-field of work	-P101
+Q324867, Q5849	+	+topic's main category	+P910
+Q324867, Q5849	+	+official website	+P856
+Q324867, Q5849	+	+organizer	+P664
+Q324867, Q5849	+	+Freebase ID	+P646
+Q324867, Q5849	+	+sport	+P641
+Q324867, Q5849	+	+inception	+P571
+Q324867, Q5849	+	+season starts	+P4794
+Q324867, Q5849	+	+Store norske leksikon ID	+P4342
+Q324867, Q5849	+	+sports league level	+P3983
+Q324867, Q5849	+	+Commons category	+P373
+Q324867, Q5849	+	+part of	+P361
+Q324867, Q5849	+	+Quora topic ID	+P3417
+Q324867, Q5849	+	+Yle Areena item ID	+P3414
+Q324867, Q5849	+	+Great Russian Encyclopedia Online ID	+P2924
+Q324867, Q5849	+	+subclass of	+P279
+Q324867, Q5849	+	+BabelNet ID	+P2581
+Q324867, Q5849	+	+league level below	+P2500
+Q324867, Q5849	+	+event interval	+P2257
+Q324867, Q5849	+	+competition class	+P2094
+Q324867, Q5849	+	+Facebook ID	+P2013
+Q324867, Q5849	+	+Instagram username	+P2003
+Q324867, Q5849	+	+Twitter username	+P2002
+Q324867, Q5849	+	+winner	+P1346
+Q324867, Q5849	+	+number of participants	+P1132
+Q324867, Q5849	+	+instance of	+P31
+Q324867, Q5849	+	+country	+P17
+Q324867, Q5849	+	+logo image	+P154
+Q324867, Q5849	-	-category combines topics	-P971
+Q324867, Q5849	-	-main subject	-P921
+Q324867, Q5849	-	-organizer	-P664
+Q324867, Q5849	-	-has part	-P527
+Q324867, Q5849	-	-part of	-P361
+Q324867, Q5849	-	-sports season of league or competition	-P3450
+Q324867, Q5849	-	-category's main topic	-P301
+Q324867, Q5849	-	-league level above	-P2499
+Q324867, Q5849	-	-participant in	-P1344
+Q324867, Q5849	-	-league	-P118

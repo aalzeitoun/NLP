@@ -1,0 +1,1330 @@
+25097	2	Q11514315, Q334845	Tell me the historical period which is part of the time period of Muromachi period and whose name contains the word period?	-instance of +time period	-instance of	Top 5
+27852	22	Q93343	What is in the category of Percy Bysshe Shelley?	+Poetry In Voice poet ID	+Union List of Artist Names ID	Not top 5
+26109	22	Q30849	What is the TDKIV ID for the blog?	+TDKIV term ID	+BabelNet ID	Top 5
+15324	23	Q51993	Which spot came from the Ebola virus?	+location of discovery +member of	+location of discovery	Not top 5
+25044	2	Q1194951, Q408	What is a Australian sports team that has the word "team" in their title?	-instance of +country	-instance of +represents	Top 5
+14805	18	Q2304936	What is the significance of artists of The Beatles' Story?	+performer +notable work	+MusicBrainz release group ID	Not top 5
+15468	23	Q27394	What are the borders of Southern Africa?	+located on terrain feature +shares border with	+shares border with +instance of	Top 5
+10463	8	Q150735, Q22923081	Who was the King of the Franks after Lothair I?	+noble title *followed by, *follows	+noble title *follows, *followed by	Top 5
+15689	23	Q216786	What is the native language of Champa	+official language +follows	+Getty Thesaurus of Geographic Names ID	Not top 5
+621	17	Q16975, Q220, Q1726	Did Pope Paul VI work in both Rome and Munich?	+work location, +work location	+occupation, +occupation	Top 5
+16358	23	Q960994	What is Aleksandar Šapić's second language and what is their gender?	+languages spoken, written or signed +has grammatical gender	+Sports-Reference.com Olympic athlete ID	Not top 5
+11781	21	Q83309	Which is the birth city of Johann Strauss II which is sized 1.61?	+place of birth +area	+sibling +instance of	Top 5
+16022	23	Q242474	Who introduced the prize received of Semyon Budyonny?	+award received +inception	+Nationale Thesaurus voor Auteurs ID	Not top 5
+21577	10	Q13590412, Q5	Who is Prince George of Cambridge's parents?	-child +instance of	-relative +instance of	Top 5
+26945	22	Q189172	What is Andrey Korotayev's researcher's ID?	+ResearcherID	+Bibliothèque nationale de France ID	Not top 5
+29430	22	Q297750	Which euroleague.net ID belongs to Arvydas Sabonis?	+euroleague.net ID	+Eurobasket.com player ID	Top 5
+29612	22	Q142472	Which is Städel Museum artist ID for Käthe Kollwitz?	+Städel Museum artist ID	+National Gallery of Canada artist ID	Top 5
+26759	22	Q553279	What is Deutsche Olympiamannschaft athlete ID for Ralf Schumann ?	+German Olympic Sports Confederation athlete ID	+International Olympic Committee athlete ID	Top 5
+5004	7	Q1439	Who was the head of government in Texas in 2015-1-20?	+head of government *end time	+head of government *start time	Top 5
+10317	8	Q11806, Q4667661	When did John Adams' child Abigail Adams Smith born and who is the mother?	+child *date of birth, *mother	+child *date of birth	Top 5
+1578	19	Q58767	How many connects with the Trans-Siberian railway are there?	+connects with	-connecting line	Top 5
+20582	10	Q11015, Q17299750	What is tournament for snooker called	-sport +instance of	-sports discipline competed in +instance of	Top 5
+16540	18	Q273461	What is the  divisions of member of École Centrale de Lille ?	+member of +business division	+Bibliothèque nationale de France ID	Not top 5
+12106	21	Q7352	O que é o continente asiatico de Jin dinastia, que tem barulho é Fr-Asie.ogg	+continent +pronunciation audio	+GND ID	Not top 5
+1382	19	Q104884	Who were the students of Caspar David Friedrich?	+student of	+Bibliothèque nationale de France ID	Not top 5
+17490	23	Q44068	What is first language of Dirk Nowitzki ?	+native language +has grammatical case	-statistical leader	Top 5
+9557	24	Q1450	What is the country of citizenship and occupation of Bruno Mars?	+country of citizenship, +occupation	+Bibliothèque nationale de France ID	Not top 5
+17656	18	Q7140388	What is the drug interaction of the prescribed drug for focal epilepsy?	+drug used for treatment +significant drug interaction	+Disease Ontology ID	Not top 5
+15124	23	Q1133029	WHO STUDIED THE SUBITEM OF ENGINEERING ETHICS?	+facet of +practiced by	+facet of +studies	Not top 5
+26937	22	Q5218	What is Quecha's Wikimedia language code?	+Wikimedia language code	+Ethnologue.com language code	Not top 5
+23000	10	Q585, Q41614	Who is the leading member of the Governing party party for the  country in which Oslo is located.	-contains administrative territorial entity +instance of	-capital +instance of	Top 5
+16422	23	Q47783	Who founded postmodernism?	+founded by +member of	+founded by	Top 5
+9220	7	Q465470	Sébastien Chabal was a member of which sports team in the year 2014?	+member of sports team *end time	+member of sports team *start time	Not top 5
+16160	18	Q51164988	Who is the seiyu of part of a series of Max Jets?	+part of the series +voice actor	+part of the series +Deutsche Synchronkartei series ID	Not top 5
+16040	18	Q43325468	Who is bestowed by the award won from Karmen Jelincic?	+award received +conferred by	+award received +instance of	Not top 5
+28963	22	Q230	Which is the public holiday of Georgia?	+public holiday	-public holiday	Top 5
+21480	5	Q178528, Q8192	What is the writing system using traditional Chinese characters?	+different from +instance of	+used by +instance of	Top 5
+5659	7	Q12536	In 1258, what is Abbasid Caliphate?	+instance of *start time	+Getty Thesaurus of Geographic Names ID	Not top 5
+12296	21	Q310229	What governing text regarding perjury has the shortened name StGB?	+main regulatory text +short name	+Gran Enciclopèdia Catalana ID	Not top 5
+8634	7	Q619	Where was Nicolaus Copernicus educated in 1503?	+educated at *end time	+educated at *start time	Not top 5
+14772	23	Q8753	Which is award received by pupil of Enrico Fermi ?	+student +award received	+award received +winner	Not top 5
+10690	8	Q274606, Q271148	Who followed Berengar I of Italy as monarch?	+noble title *followed by, *follows	+noble title *follows, *followed by	Top 5
+7584	6	Q283	What state of matter is water in when it's density is .9857?	+density *phase of matter	+density	Not top 5
+16678	23	Q62633	What are the official languages of Grand Duchy of Finland?	+official language +has grammatical case	+VIAF ID	Not top 5
+16235	18	Q11274043	What type of artwork does Jane Pauley's husband do?	+spouse +notable work	+Library of Congress authority ID	Not top 5
+9589	24	Q17515	Who is Diego Maradona's spouse and his position/specialty on the team?	+position played on team / speciality, +spouse	+Bibliothèque nationale de France ID	Not top 5
+15604	18	Q6675710	who work  of actor of looney tunes Super Stars' Pepe Le Pew: Zee Best of Zee Best ?	+cast member +present in work	+Freebase ID	Not top 5
+9780	24	Q133823	What are the genetic association and the health specialty of a Migraine?	+genetic association, +health specialty	+symptoms +drug used for treatment	Not top 5
+17846	18	Q465360	Who compiled and published A Portrait of the Artist as a Young Man?	+publisher +editor	+Bibliothèque nationale de France ID	Not top 5
+14950	23	Q31	What do you call a citizen of Belgium?	+diplomatic relation +member of	+CIVICUS Monitor country entry	Not top 5
+16757	23	Q107130	Which is the HQ location of the party of the member Rajesh Khanna?	+member of political party +headquarters location	+Bibliothèque nationale de France ID	Not top 5
+20813	5	Q458, Q6256	What countries are within the European Union?	+contains administrative territorial entity +instance of	+diplomatic relation +instance of	Top 5
+28153	22	Q44032	Which is the Art Museum of Estonia artist ID for Egon Schiele?	+Art Museum of Estonia artist ID	+Musée d'Orsay artist ID	Top 5
+1358	19	Q30547	Name the religions names of the  Mother Teresa ?	+religious name	+religion *affiliation	Not top 5
+15442	18	Q312096	What is the portrait of Thomas Lawrence's major works?	+notable work +depicts	+Union List of Artist Names ID	Not top 5
+27617	22	Q488655	What is Allcinema film ID for Groundhog Day ?	+Allcinema film ID	+AlloCiné film ID	Top 5
+28219	22	Q207877	At what temperature is phosphine flammable?	+lower flammable limit	+ChemSpider ID	Not top 5
+17679	23	Q19860	Who was first discoverer of Indo-European languages ?	+discoverer or inventor +native language	+discoverer or inventor +instance of	Not top 5
+14880	23	Q2331	what is the place of origin of the executive power headed by Led Zappelin?	+country of origin +head of government	+Bibliothèque nationale de France ID	Not top 5
+9574	24	Q154430	What is the drug treatment for Anxiety and how is it measured?	+drug used for treatment, +measurement scale	+Bibliothèque nationale de France ID	Not top 5
+1891	20	Q27306	Kingdom of Prussia is followed by how many?	-followed by	+followed by	Top 5
+27068	22	Q23810	What is the Swedish Gravestone ID of Alfred Nobel?	+Swedish Gravestone ID	+Find A Grave memorial ID	Not top 5
+9959	24	Q83164	Who is the owner of the East India Company and where is the headquarters located?	+owner of, +headquarters location	+Bibliothèque nationale de France ID	Not top 5
+27342	22	Q248775	What is the Open Media Database ID of Mad Max?	+Open Media Database film ID	+Douban film ID	Not top 5
+15297	18	Q50818549	What is depicted in the Garden of Guangzhou?	+depicts +contains administrative territorial entity	+depicts +instance of	Not top 5
+17752	23	Q215983	Which are the papers of the narrative set in The Grapes of Wrath?	+narrative location +archives at	+number of pages	Not top 5
+17905	18	Q7133388	What is on the tracklist of the art collection of Papryus Oxyrchynchus 223?	+published in +collection	+Freebase ID	Not top 5
+16200	23	Q49650	What is the Q48460 of basin countries of Loch Ness ?	+basin country +Dewey Decimal Classification	+GND ID	Not top 5
+2319	20	Q10859	How many participants were part of the Spanish Civil War?	-participant in	+participant	Top 5
+16880	23	Q1033016	What is PIN Code for lives  of Halle Berry ?	+residence +postal code	+Wolfram Language entity code	Not top 5
+16274	18	Q15631322	Who is the seiyu of the successful film Planes: Fire & Rescue?	+follows +voice actor	+DNF film ID	Not top 5
+2417	20	Q902	What is the number of Bangladeshi diplomatic partners?	-diplomatic relation	+electrical plug type	Not top 5
+9612	24	Q41513	What was William Blake a student of and who was his student?	+student, +student of	+Bibliothèque nationale de France ID	Not top 5
+10322	8	Q182314, Q50602	Tell me the number of points Peter Schmeichel has received as a member of the Manchester City F.C.	+member of sports team *start time, *number of points/goals/set scored	+member of sports team *number of points/goals/set scored	Top 5
+27446	22	Q152293	What is Armenian Cinema ID for Aram Khachaturian ?	+Armenian Cinema ID	+Filmportal ID	Not top 5
+803	17	Q15978631, Q34956, Q11083	Was Homo sapiens source of energy vitamin and large intestine ?	+source of energy, +source of energy	+source of energy, +this taxon is source of	Top 5
+25552	4	Q875538, Q1860	Tell me the public univbersity that used English language and which starts with the letter u	-instance of +language used	-instance of +languages spoken, written or signed	Top 5
+17213	23	Q245249	Who is  connected with makes use of  butterfly stroke?	+uses +connects with	+Gran Enciclopèdia Catalana ID	Not top 5
+6302	7	Q312569, Q312596	What was Robert Jenkinson, 2nd Earl of Liverpool's position when he was replaced by William Wyndham Grenville, 1st Baron of Grenville?	+position held, *replaces	+position held, *replaced by	Top 5
+19757	10	Q44015, Q5	Who was a student of John the Apostle?	-student +instance of	-student of +instance of	Top 5
+1486	19	Q39473	How many countries are in Translyvania?	+country	-country of origin	Top 5
+9717	24	Q9141	What is the country and the World Heritage criteria of Taj_Mahal ?	+World Heritage criteria, +country	+Bibliothèque nationale de France ID	Not top 5
+15072	18	Q914969	What are the different sports that make up the Women's Triathlon at the 2008 Summer Olympics?	+follows +sport	+winner +sport	Top 5
+15222	18	Q1884921	Who is the writer of the remake of Lake in the Lake?	+based on +author	+screenwriter +instance of	Top 5
+17633	18	Q5315094	What is crafted from asssembly process of dungaree ?	+fabrication method +made from material	+fabrication method	Top 5
+10378	8	Q9576, Q41582603	When was James Callaghan elected as a Member of the 40th Parliament of the United Kingdom?	+position held *elected in, *end cause	+position held *elected in	Top 5
+4030	6	Q49484, Q649	Was Constantin Stanislavski born in Moscow?	+place of birth *country	+place of birth	Top 5
+16724	23	Q164983	Who gave the on harbour of player of Gallipoli campaign ?	+participant +located in or next to body of water	+Encyclopædia Britannica Online ID	Not top 5
+5822	7	Q207191	What position did John C. Calhoun hold in Series Ordinal when he was 16?	+position held *series ordinal	+position held *start time	Top 5
+13266	21	Q3699686	What is the biological sex of Curtis Warren, also known as 男?	+sex or gender +short name	+sex or gender +Unicode character	Not top 5
+17894	23	Q33609	What is the main color of a polar bear?	+color +sRGB color hex triplet	+color	Not top 5
+5672	6	Q675493, Q18810062	How long was Henry VII king of England?	+position held *start time	+position held *end time, *start time	Not top 5
+14971	23	Q1358214	Which are the peculiar feature of Internal structure of the Moon?	+facet of +orbital eccentricity	+facet of +apparent magnitude	Top 5
+14546	23	Q528415	Who is buried next to Hasdai Crescas?	+place of death +shares border with	+Bibliothèque nationale de France ID	Not top 5
+7317	7	Q1458	Who was the president of Calabria on 4/29/2014?	+head of government *end time	+head of government *start time	Top 5
+15397	23	Q390216	What is the place of origin of the central bank of Sydney Morning Herald?	+country of origin +central bank	+country of origin +instance of	Not top 5
+15566	23	Q718415	What is the first minister of the place of the activity of Richard Russell ?	+work location +head of government	+Geni.com profile ID	Not top 5
+20977	5	Q13477, Q4830453	Enlist the business domain of AI Jazeera	+parent organization +instance of	+owned by +instance of	Top 5
+20930	10	Q215506, Q526877	What web series did Jerry Seinfeld create?	-presenter +instance of	-creator +instance of	Top 5
+25764	11	Q811	What is located in the administrative territorial entity of Nicaragua?	-located in the administrative territorial entity	+contains administrative territorial entity +instance of	Not top 5
+11572	9	Q939	Who is Pedro I's child and when were they born?	+child *date of death	+child *date of birth	Not top 5
+16929	23	Q42	Which continent did Douglas Adams live in?	+residence +continent	+residence +instance of	Top 5
+12044	21	Q129429	What is the native language of Vivien Leigh?	+native language +label in sign language	+Bibliothèque nationale de France ID	Not top 5
+1698	20	Q887	How many residents are in Yekaterinburg?	-residence	+GND ID	Not top 5
+17136	18	Q27861585	WHAT IS THE DIE FROM THE PAINTERS OF SUPREMATISM	+creator +cause of death	+creator +place of death	Top 5
+14651	23	Q603812	What is the topic of History of British Columbia?	+facet of +coordinates of southernmost point	+facet of +history of topic	Not top 5
+174	16	Q1065, Q1624231	Is Hokkien the official language of United Nations?	+official language	-approved by	Not top 5
+28352	22	Q271712	Which is the BAV ID for Ida Tarbell?	+Vatican Library ID (former scheme)	+BIBSYS ID	Not top 5
+10191	24	Q186471	Who is Ultimate Fighting Championship's owner and founder?	+owned by, +founded by	+Quora topic ID	Not top 5
+14776	23	Q108297	How did the actress of Spartacus die?	+cast member +manner of death	+Scope.dk film ID	Not top 5
+26644	22	Q345360	Which is the Swedish Olympic Committee athelete ID for Jan-Ove Waldner?	+Swedish Olympic Committee athlete ID	+International Olympic Committee athlete ID	Top 5
+26434	22	Q311037	Väinö Linna received what prize?	+award received	+award received *statement is subject of	Not top 5
+10545	8	Q1125903, Q3008298	Tell me what is followed by The Myth of Sisyphus which has a series as Absurd cycle.	+part of the series *followed by, *follows	+part of the series *followed by	Not top 5
+11598	9	Q209118	What is the noble title of Chlothar II?	+noble title *followed by	+noble title	Not top 5
+28878	22	Q157798	watchmaker esco id?	+ESCO Occupation ID	+Freebase ID	Top 5
+10011	24	Q130881	When is Hanukkah and which traditional food is offered?	+foods traditionally associated, +day in year for periodic occurrence	+foods traditionally associated	Not top 5
+15259	23	Q1476	What category of associated people are in Le Mans' twin town?	+twinned administrative body +category of associated people	+OpenStreetMap relation ID	Not top 5
+10044	24	Q222071	Who is the mother and child of Courtney Love?	+child, +mother	+Bibliothèque nationale de France ID	Not top 5
+28552	22	Q8018	What is Galiciana Author ID for Augustine of Hippo?	+Galiciana author ID	+CiNii author ID (books)	Not top 5
+15767	18	Q4920825	Who is the favorite player of the writer of Black Girl/White Girl?	+author +influenced by	+Freebase ID	Not top 5
+6739	6	Q79762, Q607354	when did the silmarillion received the locus award for best fantasy novel?	+award received *winner	+award received *point in time	Not top 5
+25750	22	Q183221	Which is the Smithsonian American Art Museum: person/institution thesaurus ID for Antoine Watteau?	+Smithsonian American Art Museum person/institution ID	+British Museum person or institution ID	Top 5
+9776	24	Q51993	which is the medical treatment and health specialty of Ebola_virus_disease?	+possible treatment, +health specialty	+health specialty, +health specialty	Not top 5
+6540	6	Q356411, Q6865868	Whom was replaced as minister of home affairs?	+position held *replaces	+position held *replaced by	Top 5
+14160	21	Q192232	"Where is county seat of Jerusalem District, which has human population is 60000.0 ?"	+capital +population	+contains administrative territorial entity +population	Top 5
+10315	8	Q185027, Q6319	Where and with what height did Yelena Isinbayeva break the record for pole vault?	+record held *location, *height	+record held *height, *location	Top 5
+3982	7	Q14112	What is the administrative entity of Corsica since January first 2018?	+contains administrative territorial entity *end time	+Bibliothèque nationale de France ID	Not top 5
+29381	22	Q408050	What is dimethyl ether's UN number?	+UN number	+ICSC ID	Not top 5
+17169	23	Q128799	Which is the postcode of the hometown of Ricky Martin?	+residence +postal code	+Munzinger Pop ID	Not top 5
+9741	24	Q19546	Where is the official residence and the office from which Pope directs the organisation?	+official residence, +organization directed by the office or position	+organization directed by the office or position	Not top 5
+9753	24	Q729	Which is the taxon rank and the temporal range start of Animal ?	+temporal range start, +taxon rank	+Bibliothèque nationale de France ID	Not top 5
+10289	8	Q939, Q4765121	When is the Prince of Beira's birthdate and who is his mother?	+child *date of birth, *mother	+child *date of birth	Top 5
+27755	11	Q128468	What is in the category of Wembley Stadium?	-home venue	+Structurae structure ID	Not top 5
+9511	24	Q160341	Who are the parents of Edward IV of England?	+mother, +father	+Union List of Artist Names ID	Not top 5
+15180	18	Q47508083	Who owns the paintings of Paula Hoegh-Guldberg?	+owner of +depicts	+instance of +Gran Enciclopèdia Catalana ID	Not top 5
+7913	7	Q134549	Who is the spouse of Ted Kennedy at the time of 2009-1-1?	+spouse *end time	+spouse *start time	Top 5
+29797	10	Q174979, Q752783	Which spaceflight was Alan Shepard part of?	-crew member +instance of	+astronaut mission +instance of	Top 5
+16124	23	Q8736	The Treaty of Versailles was signed by which diplomats?	+signatory +diplomatic relation	+signatory +instance of	Top 5
+16248	23	Q169577	Who gave theestablished by of member of of Ernest Lawrence ?	+member of +founded by	+National Academy of Sciences member ID	Not top 5
+3131	13	Q3624078, Q8475	What is the compulsory education and the maximum age of the interpol member?	-instance of +member of, +compulsory education (maximum age)	-instance of +member of, +CONOR.SI ID	Not top 5
+26271	11	Q5137	What is language is spoken by the Gujarati people?	-language used	+writing system +instance of	Not top 5
+26621	22	Q152415	What is image of function for sine ?	+image of function	+Commons gallery	Top 5
+1359	19	Q179399	How many  e Medicines are needed for the infertility ?	+eMedicine ID	+DiseasesDB	Top 5
+1952	20	Q542101	Who is the performer Boris Grebenshcikov?	-performer	+Nationale Thesaurus voor Auteurs ID	Not top 5
+13882	21	Q1200	What point divides into the Rhineland-Palatinate, and has the wgs-84 position of 7.59778?	+contains administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+17629	18	Q27525240	What chess title does did Alexander Gelman earn?	+title of chess person +conferred by	+title of chess person	Not top 5
+16852	23	Q132537	WHICH IS THE TYPOLOGY OF WROTE LANGUAGE OF ROBERT OPPENHEIMER	+languages spoken, written or signed +linguistic typology	+native language +linguistic typology	Top 5
+14590	18	Q50805	When will Triple H return to Wrestle Mania?	+followed by +cast member	+cast member +work period (end)	Not top 5
+14810	23	Q125772	Where is the medals of the artist who inspired this of Solaris?	+after a work by +award received	+Bibliothèque nationale de France ID	Not top 5
+10800	8	Q14540, Q213439	What academic degree does Tina Fey hold from the University of Virginia?	+educated at *academic major, *academic degree	+educated at *academic degree	Top 5
+17738	18	Q14860489	Who is working on science that works on molecular functioning?	+studied by +studies	-molecular function	Top 5
+14401	23	Q1677001	Tell me the national floral emblem of Jack Cole.	+country of citizenship +official symbol	+ISNI	Not top 5
+9576	24	Q273080	What is the manner of death and the place of birth of Patsy_Cline ?	+manner of death, +place of birth	+Bibliothèque nationale de France ID	Not top 5
+15103	23	Q42751	Who is member of of county seat of of Palikir ?	+capital of +member of	+Encyclopædia Universalis ID	Not top 5
+15060	18	Q1587222	Which is in the endemism of Reunion Stonechat	+endemic to +located on terrain feature	+taxon rank +has cause	Not top 5
+16244	18	Q6798492	Who are the lineal descendants of Mazhar Ali Khan?	+relative +genre	+relative +instance of	Not top 5
+7948	6	Q1124, Q11696	Who replaced the position held by Bill Clinton as President of the United States?	+position held *replaces	+position held *replaced by	Top 5
+16751	18	Q20429051	Who is made by  part of series  Homage to the Square--Insert?	+part of the series +creator	+Smithsonian American Art Museum artwork ID	Not top 5
+22530	10	Q11103, Q290378	What is the internet standard for Internet Protocol version 4?	-uses +instance of	-edition +instance of	Top 5
+714	17	Q12554, Q212685, Q5308718	Were the Middle Ages followed by the High Middle Ages and the early modern period?	+followed by, +followed by	+studied by, +followed by	Top 5
+7917	7	Q23086, Q894094	What is located in the administrative territorial entity of North Yorkshire that is part of Stockton-on-Tees?	+located in the administrative territorial entity, *applies to part	+contains administrative territorial entity	Top 5
+16070	23	Q1070606	Who was formed as the leader of Momoiro Clover Z?	+location of formation +capital of	+VIAF ID	Not top 5
+21883	10	Q11768, Q32489	What is the name of the knife commonly used in Ancient Egypt	-country +instance of	-country of origin +instance of	Top 5
+17236	23	Q716308	What was Alistair Brownlee accused of?	+participant in +participant	-flag bearer	Not top 5
+9889	24	Q62408	Who is the architect responsible for the architectural style of the Palace of Westminster?	+architect, +architectural style	+architectural style	Top 5
+17862	18	Q205282	Who is incumbent of the position of William Jennings Bryan ?	+position held +officeholder	+Geni.com profile ID	Not top 5
+11940	21	Q472824	What is the birth location of Harlow Curtice, which has MASL of 229.0?	+place of birth +elevation above sea level	+GND ID	Not top 5
+10053	24	Q172	Who is in charge of Toronto's  government and what is the title of the office he/she holds?	+office held by head of government, +head of government	+Bibliothèque nationale de France ID	Not top 5
+15603	18	Q4801703	Which literary works are from sculptor Arturo Belano?	+creator +notable work	+creator +instance of	Top 5
+27437	22	Q163297	The Stranger OCLC work ID is?	+OCLC work ID	+LibraryThing work ID	Top 5
+14413	23	Q335189	What country is Colin Renfrew a citizen of?	+country of citizenship +shares border with	+country of citizenship +contains administrative territorial entity	Not top 5
+10391	8	Q151414, Q35637	When did George Marshall win the Nobel Peace Prize and how much was his prize money?	+award received *prize money, *point in time	+award received *point in time, *prize money	Top 5
+27806	22	Q32055	What is the BFMTV.com ID for Bernard Arnault?	+BFMTV.com director ID	+Encyclopædia Britannica Online ID	Top 5
+15610	18	Q19353457	Which scientific area holds the portrait of the statue of the Sacred Heart of Jesus Christ?	+depicts +field of work	+depicts +Art & Architecture Thesaurus ID	Not top 5
+16635	18	Q1052646	who translated shareholder of warface	+translator +owned by	+Fandom wiki ID	Not top 5
+16940	23	Q796583	Which is heritage designation of administrative centre Kingdom of Kongo ?	+capital +heritage designation	+continent +Getty Thesaurus of Geographic Names ID	Top 5
+16565	18	Q7744600	who were the grand children  of king  on main street?	+producer +relative	+SilentEra.com film ID	Not top 5
+7142	6	Q193570, Q22253133	Who received the Academy Award for Best Art Direction, Black and White for directing Sunset Boulevard?	+award received *statement is subject of	+award received *winner	Top 5
+16686	18	Q2689743	Which was established, before there was Mission San Carlos Borromeo de Carmelo?	+follows +founded by	+GeoNames ID	Not top 5
+14758	18	Q94033	Who is the academic supervisor of the actor of The Twilight Samurai ?	+cast member +student of	+Scope.dk film ID	Not top 5
+15923	18	Q1187698	Who is Denis William Brogan's spouse?	+spouse +student of	+spouse +instance of	Not top 5
+9764	24	Q16640	What is the Rugby World Cup's sport and when does the season start?	+sport, +season starts	+season starts, +season starts	Not top 5
+16311	23	Q23430	Who are the inhabitants of the the county seat of Ulaanbaatar?	+capital of +population	+located in the administrative territorial entity +population	Top 5
+2327	20	Q43399	How many people have the given name Andrew?	-given name	+given name	Top 5
+14434	23	Q12860	Who is married to the daughters of Ferdinand II of Aragon?	+child +spouse	+spouse *start time	Top 5
+13104	21	Q43948	What killed Joseph von Fraunhafer, that has a death toll of 12000?	+cause of death +number of cases	+medical condition +disease burden	Not top 5
+12811	21	Q6538	Who is the participant on the event of 1945-9-2?	+conflict +end time	+Kritisches Lexikon der Gegenwartsliteratur ID	Not top 5
+7280	6	Q60113, Q7618907	Who is the replacement as Imperial chancellor for Bernhard von Bülow?	+position held *replaced by	+position held *replaces	Top 5
+13009	21	Q41070	What partner city of South CHungcheong Province has wgs84 of 34.5667?	+twinned administrative body +coordinate location	+GeoNames ID	Not top 5
+8596	6	Q102296, Q466603	When is deuterium the isotope of hydrogen?	+instance of *follows	+instance of *followed by	Not top 5
+3053	13	Q3901935, Q7879772	Mars has an orbit with a semi major axis of 1.524 astronomical units (228 million kilometers), and an eccentricity of 0.0934. The planet orbits the Sun in 687 days and travels 9.55 AU in doing so, making the average orbital speed 24 km/s.	-instance of +part of, +orbital eccentricity	-instance of +location, +orbital eccentricity	Top 5
+2033	20	Q965	How many countries have diplomatic relations with Burkina Faso?	-diplomatic relation	+diplomatic relation	Top 5
+29178	22	Q17293	What is the Lotsawa house tibetan author ID of Tenzin Gyatso?	+Lotsawa House Tibetan author ID	+Who's Who UK ID	Not top 5
+3470	14	Q24529780, Q155	What is the minimum elevation above sea level of the country Brazil?	-instance of +country, +elevation above sea level	-instance of +country, +Gran Enciclopèdia Catalana ID	Not top 5
+3945	6	Q660751, Q21253457	Which part of Guangzhou Metro runs on 1500 V DC railway electrification?	+type of electrification *applies to part	+type of electrification	Top 5
+10134	24	Q170304	What does Dopamine treat and what is the physical interactions?	+medical condition treated, +physically interacts with	+Guide to Pharmacology Ligand ID	Not top 5
+10684	8	Q37064, Q80061	What is Alexander Fleming's award-winning, time-honored prize for the Nobel Prize in Physiology and Medicine?	+award received *point in time, *prize money	+award received *point in time, *together with	Top 5
+4692	7	Q37156	What is the supplement of IBM that equals 100?	+subsidiary *proportion	+Twitter username *number of subscribers	Top 5
+15758	23	Q340108	What is James Collinson's job?	+occupation +field of this occupation	+Bibliothèque nationale de France ID	Not top 5
+16428	18	Q21903339	What is shareholders W. Chump & Sons Ltd's artwork?	+owned by +notable work	+Google Knowledge Graph ID	Not top 5
+12175	21	Q12919	What is the country seat of Majuro with human population of 31895.0?	+capital of +population	+located in the administrative territorial entity +population	Top 5
+14689	23	Q106418	What is located near the birthplace of Catherine Deneuve?	+place of birth +shares border with	+Who's Who in France biography ID	Not top 5
+28329	22	Q42365	Which is the ISO 639-6 code for Old English?	+ISO 639-6 code	+ISO 639-3 code	Top 5
+7245	7	Q182849	What is the density of Calcium Hydroxide at 20.0 degrees Celsius?	+density *temperature	+density	Not top 5
+9974	24	Q164815	What is another name for Woodstock?	+participant, +named after	+YSO ID	Not top 5
+9578	24	Q567	What is the member of political party of Angela_Merkel ?	+member of, +member of political party	+member of political party *start time	Top 5
+13084	21	Q244	What member of Barbados was formed on November 16, 1945?	+member of +inception	+member of *start time	Not top 5
+17791	18	Q275512	What did Drmitri Kombarov fund?	+participant in +sponsor	+member of sports team +sponsor	Top 5
+13228	21	Q41571	Which prescribed drug for epilepsy has a weight of 221.988?	+drug used for treatment +mass	+Art & Architecture Thesaurus ID	Not top 5
+10102	24	Q41470	What is Kurdistan's continent and the official language?	+official language, +continent	+Bibliothèque nationale de France ID	Not top 5
+10047	24	Q187715	who is founded by and where is the country of Assassins?	+country, +founded by	+Gran Enciclopèdia Catalana ID	Not top 5
+10089	24	Q150820	Who is the publisher and editor of Playboy?	+editor, +publisher	+Bibliothèque nationale de France ID	Not top 5
+25839	22	Q4548	What is the loyalty program for Turkish Airlines?	+reward program	+Twitter username	Not top 5
+25836	22	Q40909	What is WomenWriters ID for Virginia Woolf ?	+WomenWriters ID	+Last.fm ID	Not top 5
+27786	22	Q2513	What kind of vessel is the Hubble Space Telescope?	+vehicle	+space launch vehicle	Top 5
+40	16	Q229313, Q102427	Was Jessica Chastain nominated for Academy Award for Best Picture?	+nominated for	+filmography	Top 5
+16395	23	Q219420	What work shows the role model of Edward Albee?	+influenced by +work location	+VIAF ID	Not top 5
+27911	22	Q41490	Which is the Sefaria ID for Leviticus?	+Sefaria ID	+Freebase ID	Top 5
+2263	20	Q44258	How many are dedicated to Basil of Caesarea?	-dedicated to	-consecrator	Top 5
+12467	21	Q378420	What is the location of birth of Jose Maria Mrelos y Pavon, with coordinates of 19.7683?	+place of birth +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+26731	22	Q1073	What is the brain's Spider Ontology ID?	+Spider Ontology ID	+Cultureel Woordenboek ID	Not top 5
+20431	5	Q51636, Q178885	What deity is depicted in the crucifixion of Jesus	+significant person +instance of	+characters +instance of	Top 5
+10974	8	Q11806, Q7787805	When did John Adams have child Thomas Boylston Adams, and who is the mother?	+child *date of birth, *mother	+child *mother	Top 5
+9905	24	Q40807	who is the  performer  and the compser of god_save _the_queen?	+composer, +performer	+Bibliothèque nationale de France ID	Not top 5
+16052	23	Q4419809	What dates was Margarita Simonyan married to her husbands?	+spouse +work period (start)	+LiveJournal ID	Not top 5
+15867	18	Q7741873	In The Indian War of Independence, what is the favorite player of the writer?	+author +influenced by	+Freebase ID	Not top 5
+9923	24	Q483412	Who is the illustrator and the author of The_Chronicles_of_Narnia ?	+author, +illustrator	+Bibliothèque nationale de France ID	Not top 5
+5674	7	Q179090, Q1115886	What position did Aaron Burr hold in which he was later replaced by Philip John Schuyler?	+position held, *replaces	+position held, *replaced by	Top 5
+1406	19	Q15763	What is the native language of the Circassians?	+native language	+Bibliothèque nationale de France ID	Not top 5
+16007	18	Q2312801	Where did Jacqueline Fernandez go to university?	+educated at +grants	+Kinopoisk person ID	Not top 5
+29245	11	Q175449	The trachea is of what anatomical branch?	-anatomical branch of	+has anatomical branch +instance of	Top 5
+16396	18	Q5887360	Which character was a musician in Guardians of the Galaxy?	+characters +performer	+characters +instance of	Top 5
+12802	21	Q159646, Q667450	Who is the child of Albert I, Prince of Monaco?	+father +place of burial	+child +place of burial	Top 5
+1334	19	Q1040	Karlsruhe has how many areas?	+area	+twinned administrative body +area	Top 5
+16753	18	Q53679620	What is participant in conflict of 4th Fighter Group United States army air Forces?	+item operated +conflict	+VIAF ID	Not top 5
+14268	18	Q17465858	What is the partner town of the place from Tomas Cruz Martinez?	+work location +twinned administrative body	+place of birth +twinned administrative body	Top 5
+15624	23	Q239693	Who established label of Super Junior ?	+record label +founded by	+setlist.fm artist ID	Not top 5
+17624	23	Q296	What are the signs of the method of murder of Claude Monet?	+cause of death +symptoms	+PORT person ID	Not top 5
+26038	22	Q178266	What is the subclass of herbicide?	+subclass of	+Banglapedia (English version) ID	Not top 5
+3235	14	Q10509145, Q1071986	During which regular season did the Chicago Red Stars score the least points?	-instance of +participant, +points for	-instance of +participant, +number of points/goals/set scored	Top 5
+6531	6	Q708	What temperature does lead with a density of 11.34 have?	+density *temperature	+Bibliothèque nationale de France ID	Not top 5
+10419	8	Q152832, Q51974	When did Kevin Keegan start playing for Hamburger SV and how many goals did he score?	+member of sports team *start time, *number of points/goals/set scored	+member of sports team *number of points/goals/set scored	Not top 5
+12230	21	Q320609	Who is born in Yevgeny Mravinsky whose legal name is Petrográd?	+place of birth +official name	+given name +instance of	Not top 5
+4992	6	Q94992, Q106291	for which of his  work Karl Malden received Academy Award for best supporting actor?	+award received *for work	+award received *statement is subject of	Top 5
+17540	23	Q698547	What is the official name of the star Arp 220?	+constellation +native label	+SIMBAD ID	Not top 5
+17975	23	Q8093	Which is the trunk prefix from Nintendo?	+location of formation +trunk prefix	+Corporate Number (Japan)	Not top 5
+17040	18	Q24517056	who is inspiration to son of ben?	+mother +inspired by	+performer +ČSFD person ID	Not top 5
+14190	21	Q360069	Bengbu has shires with the gps coordinates of 117.344, is this correct?	+contains administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+3777	6	Q180445	what caused the review of this park to be 41.456?	+review score *instance of	+review score	Top 5
+15792	18	Q6759466	If Margaret Grubb's daughter has a child, what is it called?	+child +father	+child +instance of	Not top 5
+13297	21	Q1065092	Which Charles Johnson woman has a nickname of чол?	+sex or gender +short name	+Bibliothèque nationale de France ID	Not top 5
+16308	23	Q181185	What is the profit for stockholders of Disney?	+owned by +total revenue	+VIAF ID	Not top 5
+9590	24	Q168698	What is Exponential function opposite of and what is its image function?	+opposite of, +image of function	+Freebase ID	Not top 5
+10715	8	Q17427, Q99829	What is follows and followed by Communist Party of China chairperson as Zhao Ziyang	+chairperson *followed by, *follows	+chairperson *follows, *followed by	Top 5
+14533	23	Q376903	What voltage do the outlets in Valledupar put out?	+country +mains voltage	+Library of Congress authority ID	Not top 5
+29085	22	Q599672	What is the Teirstimmenarchiv ID for Bornean orangutan?	+Tierstimmenarchiv ID	+Encyclopædia Britannica Online ID	Top 5
+17562	23	Q192649	WHO PRECEDED THE SET IN LOCATION OF THE RED AND THE BLACK	+narrative location +replaces	+Bibliothèque nationale de France ID	Not top 5
+13989	21	Q217825	What stout is based on the establishment date of 1800-0-0?	+based on +inception	+Encyclopædia Britannica Online ID	Not top 5
+16171	23	Q794	What is the official language of a member of Iran?	+member of +official language	+EMLO location ID	Not top 5
+17491	18	Q11734432	What is  geographical feature continent of Kamenný vrch?	+continent +located on terrain feature	+continent +instance of	Top 5
+4457	6	Q151114, Q2454009	What number is "Goodbye Blue Sky" in the tracklist for the album The Wall?	+tracklist *series ordinal	+tracklist	Top 5
+9480	24	Q94002	Where was Barbara Stanwyck born and how did she die?	+cause of death, +place of birth	+Scope.dk person ID	Not top 5
+17803	23	Q321303	What is the number of objects in the museum collection of The Garden of Earthly Delights?	+collection +collection or exhibition size	+inventory number	Not top 5
+17400	18	Q18265631	What is the subcellular localization code for Cdc42se2?	+encodes +cell component	+RefSeq RNA ID	Not top 5
+14998	23	Q47034	What is the geographical region of the continent of Espoo?	+continent +located on terrain feature	+located in the administrative territorial entity +instance of	Not top 5
+9987	24	Q1541	Which was the student of Cicero?	+student, +student of	+student, +student	Top 5
+9400	6	Q778, Q1860	What has been the benefit for Bahamas to use English as one of its languages?	+language used *has quality	+subreddit, *language of work or name	Top 5
+26519	22	Q6882	What is Ricorso author ID for James Joyce ?	+Ricorso author ID	+CiNii author ID (books)	Not top 5
+4440	7	Q214867	Where is the National Gallery of Art headquartered at at the coordinates 38.89147 -77.02001?	+headquarters location *coordinate location	+GeoNames ID	Not top 5
+14843	18	Q16205446	Who are the daughters that were written by The Meaning of Matthew?	+author +child	+Freebase ID	Not top 5
+29698	22	Q356487	Which is the Google Play Music artist ID for Tim McGraw?	+Google Play Music artist ID (former scheme)	+Spotify artist ID	Top 5
+10261	8	Q178903, Q5363475	Where were Alexander Hamilton and Elizabeth Schuyler Hamilton married?	+spouse *place of marriage, *end cause	+spouse *place of marriage	Top 5
+11715	9	Q186042	Where and when did John Kenneth Galbraith study?	+educated at *academic degree	+Google News topics ID	Not top 5
+223	16	Q1203, Q211573	Did John Lennon play garage rock?	+genre	+instrument	Top 5
+15619	18	Q281901	who sidekick  of has kids of talia al ghul ?	+child +sidekick of	+Quora topic ID	Not top 5
+11038	9	Q22686	what and where did Donald Trump study?	+academic degree *educated at	+educated at *academic major	Not top 5
+17396	18	Q4330844	What is the party and ideology of Vladimir Ovsyannikov?	+member of political party +political ideology	+Declarator.org ID	Not top 5
+15599	23	Q273138	What is the county seat where the principal office of the International Council on Monuments and Sites is located?	+headquarters location +capital of	+headquarters location +instance of	Not top 5
+6930	6	Q11911, Q435583	When did Canton of Bern join the Old Swiss Confederacy?	+country *start time	+located in the administrative territorial entity *start time	Top 5
+21900	5	Q9141, Q5	Which person is know for Taj Mahal?	+named after +instance of	+founded by +instance of	Top 5
+9042	6	Q869340, Q531471	Who replaced William Murray, first Earl of Mansfield, as Chancellor of the Exchequer?	+position held *replaced by	+position held *replaces	Top 5
+22623	10	Q5287, Q134550	Name the transliteration used in the facet of the Japanese language?	-facet of +instance of	-language of work or name +instance of	Top 5
+9796	24	Q154869	What are the symptoms of Hepatitis C and what drug is used to treat it?	+symptoms, +drug used for treatment	+symptoms +drug used for treatment	Top 5
+15083	18	Q17449805	who sons of portrait of antinous Osiris?	+depicts +child	+made from material +Gran Enciclopèdia Catalana ID	Not top 5
+28387	22	Q453577	Which is the British Museum person-institution for Henry Lawson?	+British Museum person or institution ID	+ISNI	Top 5
+2196	20	Q65	how many records are done in Los Angeles?	-recorded at studio or venue	-record label	Top 5
+26242	11	Q2246489	Who owns The Storm on the Sea of Galilee?	-owner of	+Google Arts & Culture asset ID	Top 5
+27872	11	Q869847	who is published of Physical Review ?	-published in	+editor	Top 5
+7349	6	Q126599, Q602866	What followed after Kristen Steward received the Golden Raspberry Award for Worst Actress?	+award received *follows	+award received *followed by	Top 5
+17224	23	Q190167	Which exchange is developed by File Allocation Table ?	+developer +stock exchange	+Stack Exchange tag	Top 5
+2067	20	Q186969	what are the drugs used for the ibuprofen ?	-drug used for treatment	+drug used for treatment, +drug used for treatment	Not top 5
+25181	2	Q875538, Q1860	Tell me me a public university whose name consist of the word "university" and whoselanguage used English	-instance of +language used	-instance of +languages spoken, written or signed	Top 5
+106	16	Q34851, Q294	Does Elizabeth Taylor speak Icelandic?	+languages spoken, written or signed	-voice actor	Top 5
+16152	18	Q3642092	Who is the singer in the series of Bone Palace Ballet?	+followed by +performer	+AllMusic album ID	Not top 5
+15480	18	Q27883241	Where did the painters of Takaka: night and day reside?	+creator +employer	+creator +Bibliothèque nationale de France ID	Not top 5
+27576	22	Q926001	What is Victor A. McKusick's Munk's Roll ID?	+Munk's Roll ID	+Encyclopædia Britannica Online ID	Top 5
+9563	24	Q11934	Who is the creator and voice actor of Mickey Mouse ?	+voice actor, +creator	+Behind The Voice Actors character ID	Not top 5
+15529	18	Q41635	Who is the partner and child of Constantine V?	+mother +spouse	+Bibliothèque nationale de France ID	Not top 5
+17677	18	Q5699926	Which timeline of topic is place of activity of Antonio Sánchez Díaz de Rivera ?	+work location +history of topic	+Freebase ID	Not top 5
+4097	7	Q25287	In what area was Gothenburg during the end of 2010?	+area *point in time	+located in the administrative territorial entity *end time	Not top 5
+17951	18	Q534785	What is the team that created the screenplay Senna?	+screenwriter +member of sports team	+Cinémathèque québécoise work identifier	Not top 5
+27633	11	Q30	What is  in the territory claimed by of United States of America ?	-territory claimed by	+significant event *gained territory from	Top 5
+12685	21	Q158957	What is the birth palace of Priyanka Chopra,that has 657 as telephone code?	+place of birth +local dialing code	+residence +local dialing code	Top 5
+29030	11	Q11813	What is the address of James Madison?	-addressee	+University of Barcelona authority ID	Not top 5
+29106	11	Q222695	In the Grand Teton National Park, what is located in the protected area?	-located in protected area	+IUCN protected areas category	Top 5
+14618	23	Q253476	What did Christie Brinkley's husband say	+spouse +influenced by	+Filmweb.pl person ID	Not top 5
+17335	23	Q6577515	What did Samuel's students study?	+student +present in work	+Gran Enciclopèdia Catalana ID	Not top 5
+12988	21	Q769	What is the diplomatic relation ship of Grenada that has size 3860.0?	+diplomatic relation +length	+contains administrative territorial entity +area	Not top 5
+29602	22	Q441870	Which is the Latvian Olympic Committee athlete ID for Māris Štrombergs?	+Latvian Olympic Committee athlete ID	+International Olympic Committee athlete ID	Top 5
+3413	14	Q11436	What aircraft type had the minimum total produced?	-instance of +total produced	-destroyed	Top 5
+3694	7	Q7487	What degree did acquire Dorothy Hodgkin that had doctoral degree at the United Kingdom library?	+educated at *EThOS thesis ID	+educated at *academic degree	Not top 5
+9714	24	Q222071	What are the names of Courtney Love's husband and child?	+child, +spouse	+Bibliothèque nationale de France ID	Not top 5
+17437	23	Q201843	How do you address the head or the supreme authority of Khanka Lake?	+basin country +head of state	+width	Top 5
+15183	18	Q6010192	Who is musician of predecessor In My Quiet Room ?	+follows +performer	+AllMusic album ID	Not top 5
+17847	18	Q149106	What file format is the environment of Grand Theft Auto III?	+platform +readable file format	-fictional universe described in	Not top 5
+16854	23	Q131175	What edition's translation of Vulgate?	+edition or translation of +edition	+edition or translation of +instance of	Not top 5
+16233	23	Q3352	What is the child body of the parent body of the Miranda Rights?	+parent astronomical body +child astronomical body	+Getty Thesaurus of Geographic Names ID	Not top 5
+17665	18	Q131842	Which is source of inspiration of characters of The Legend of the 7 Golden Vampires ?	+characters +inspired by	+Deutsche Synchronkartei film ID	Not top 5
+10124	24	Q172822	What is the Lake inflows and the reservoir created of Hoover_Dam ?	+reservoir created, +inflows	+Recreation.gov gateway ID	Not top 5
+15984	23	Q403	Who is the diplomat of Serbia?	+diplomatic relation +member of	+diplomatic relation +instance of	Not top 5
+8944	6	Q12206942, Q203960	What is the role of Darth Vader who is performed by James Earl Jones ?	+performer *of	+performer *applies to part	Top 5
+10668	8	Q150712, Q24004130	Mention the title followed after the king of germany related to the Charles the Fat	+noble title *followed by, *follows	+noble title *followed by	Top 5
+1289	19	Q766677	How many people worshipped Yahweh?	+worshipped by	+worshipped by +instance of	Top 5
+29342	22	Q81066	Who is nominated by the United Nations Secretary-General?	+nominated by	-office contested	Not top 5
+14720	18	Q20676955	Who is the county seat for Kendel Herrarte's birthplace?	+place of birth +capital of	+National-Football-Teams.com player ID	Not top 5
+1462	19	Q20800404	What other entities are owned by Alphabet Inc?	+owned by	+owned by *proportion	Not top 5
+27854	22	Q884	What is in the category of South Korea ??	+age of consent	+GOST 7.67 cyrillic	Not top 5
+26885	11	Q8454	What is the benefit of capital punishment?	-use	+has effect	Not top 5
+17298	23	Q44578	Name the religious incorporation of the Titanic record producer	+producer +religion	+cast member *name of the character role	Top 5
+11999	21	Q2263654	Where was Philip II, Metropolitan of Moscow interred that has co-ordinate location 37.6169?	+place of burial +coordinate location	+Nationale Thesaurus voor Auteurs ID	Not top 5
+16518	23	Q133220	What started in or split from Sonar?	+follows +start time	+Gran Enciclopèdia Catalana ID	Not top 5
+1340	19	Q43332	How many excavation directors are in the Pompeii ?	+director of archaeological fieldwork	-director of archaeological fieldwork	Top 5
+11140	9	Q892	What is the award winning book of J.R.R. Tolkien and book.	+award received *point in time	+award received *winner	Not top 5
+17268	23	Q7001368	What is LaTeX string for inverse of flat ?	+opposite of +TeX string	+opposite of +instance of	Top 5
+15161	23	Q240933	When was Joan Rivers born and what was she nominated for?	+nominated for +inception	+GND ID	Not top 5
+15314	18	Q3339863	What child star appeared in Nico Icon?	+cast member +mother	+TV.com ID	Not top 5
+9656	24	Q15615	Who is Lil Wayne's partner and what is his spouse's name?	+unmarried partner, +spouse	+Bibliothèque nationale de France ID	Not top 5
+9984	24	Q160456	What is the sexual orientation and the sex or gender of Angela_Davis ?	+sexual orientation, +sex or gender	+Bibliothèque nationale de France ID	Not top 5
+15921	18	Q51407220	Who has children by the writers of A Monograph of the British Palaeozoic Phyllopoda (Phyllocarida, Packard)?	+author +child	+Open Library ID	Not top 5
+15798	18	Q3390937	In which type, the War of Honor film is written by?	+author +genre	+part of the series +author	Top 5
+13554	21	Q296054	"What is death place of Klement Gottwald, that has Wikivoyage banner in Prague WV banner.jpg ?"	+place of death +page banner	+PM20 folder ID	Not top 5
+17138	18	Q1357615	What was the biological location and cause of death of Ernst Bollden?	+cause of death +anatomical location	+Freebase ID	Not top 5
+9952	24	Q265538	Who is the organizer for the sport of World Series?	+organizer, +sport	+organizer, +organizer	Not top 5
+9722	24	Q106807	Which is the country for sport and the sport of Magnus_Carlsen ?	+country for sport, +sport	+country for sport	Top 5
+3408	14	Q15142894, Q200106	What weapon with the least field of view is used by People's Liberation	-instance of +used by, +field of view	-instance of +operator, +field of view	Top 5
+27076	22	Q288656	What is FIS ID for Shaun White?	+FIS snowboarder ID	+IMDb ID	Top 5
+15029	23	Q214456	What country is the candidate from the Philippine-American War from?	+participant +mobile country code	+Encyclopædia Britannica Online ID	Not top 5
+17365	18	Q41030995	What is quoted on the tracklist of How to Recover from a Brain Disease: Is Addiction a Disease, or Is there a Disease-like Stage in Addiction?	+cites work +published in	+cites work +issue	Top 5
+24996	2	Q778575	Tell me the conglomerate of the industry conglomerate which contains the word ling in it's name?	-instance of, -industry	-instance of	Not top 5
+16359	23	Q62558	When was Cyd Charisse's nephew born?	+relative +date of birth	+VIAF ID	Not top 5
+11727	9	Q3327092	What country does Ethel Turner belong to as a citizen and what is the cause of their termination of citizenship?	+country of citizenship *end cause	+Bibliothèque nationale de France ID	Not top 5
+17910	18	Q19614711	Who gave thenext crossing upstream of shooting location of Independence Day: Resurgence ?	+filming location +next crossing upstream	+Scope.dk film ID	Not top 5
+26058	22	Q949416	Who performs "Unchained Melody"?	+performer	+MusicBrainz work ID	Top 5
+15155	18	Q392677	who starring of preceeds of agent cody banks ?	+followed by +cast member	+Il mondo dei doppiatori ID	Not top 5
+16109	23	Q211097	which is the literary works of doctoral supervisor of finn e kydland	+doctoral advisor +notable work	+MR Author ID	Not top 5
+9560	24	Q74287	Where is the country of origin and the language of work or name of The_Hobbit ?	+country of origin, +language of work or name	+Bibliothèque nationale de France ID	Not top 5
+2218	20	Q7547	How many location does astronomical bodies in  Phobos ?	-located on astronomical body	+site of astronomical discovery	Top 5
+14653	23	Q161491	What is the rate of literacy in Washington state?	+country +population	+WOEID	Not top 5
+25763	22	Q49112	Which is the authority for Yale University?	+authority	+authority +instance of	Top 5
+16130	18	Q2557146	What Genre of music of the Author of In The Flesh?	+lyrics by +genre	+MusicBrainz work ID	Not top 5
+11031	9	Q41749	Where did Joseph Goebbels study?	+educated at *academic degree	+Bibliothèque nationale de France ID	Not top 5
+15058	18	Q17528852	What method of murder is mentioned in the dedication of Church of St Peter and St Paul, in the Church of England?	+dedicated to +cause of death	+dedicated to +instance of	Top 5
+10762	8	Q312561, Q21578	When did James Heckman receive his doctorate at Princeton University?	+educated at *academic degree, *doctoral advisor	+educated at *end time	Top 5
+11574	9	Q939	Who is Pedro I's child and when were they born?	+child *date of death	+child *date of birth	Not top 5
+11916	21	Q47561	Who is married to Ivo Andric that was born on 02-09-1909?	+spouse +date of birth	+CANTIC ID	Not top 5
+14604	23	Q167821	Which is sporting event of child of Gore Vidal ?	+father +sports discipline competed in	+LittleSis people ID	Not top 5
+27973	22	Q1391	Maryland is coordinates of southernmost point ?	+coordinates of southernmost point	+GeoNames ID	Not top 5
+10095	24	Q6428	Who is the manufacturer and operator of the Boeing 787 Dreamliner?	+manufacturer, +operator	+Encyclopædia Britannica Online ID	Not top 5
+29181	11	Q93592	Who is Leo Kanner's Patient?	-patient of	+VIAF ID	Not top 5
+10170	24	Q10686	What is the capital and the place of the administrative territorial entity of Belfast?	+capital of, +located in the administrative territorial entity	+Gran Enciclopèdia Catalana ID	Not top 5
+28260	11	Q566905	What is the Annie Award for?	-nominated for	+conferred by	Not top 5
+10117	24	Q128444	What is the editor and award received from Watchmen, respectively?	+award received, +publisher	+The Encyclopedia of Science Fiction ID	Not top 5
+1097	19	Q48475	How many destinations does Voyager 2 have?	+destination point	+destination point +instance of	Not top 5
+17276	23	Q180266	What is outcome  signs of scarlet fever ?	+symptoms +has cause	+symptoms +drug used for treatment	Top 5
+14783	18	Q19107731	Who is life stance of Executive Order 6022 written by?	+author +religion	+author +genealogics.org person ID	Not top 5
+14576	23	Q8084905	The consequence of this autoimmune disease is?	+has effect +genetic association	+has effect +instance of	Top 5
+20083	10	Q42976, Q5	Name someone involved in the October Revolution	-conflict +instance of	-participant in +instance of	Top 5
+9932	24	Q150839	Who is the taxon rank and the parent taxon of Salmonella ?	+parent taxon, +taxon rank	+WikiSkripta ID	Not top 5
+25986	22	Q2984429	We can do it replica is what?	+sitter	+inventory number	Top 5
+28940	22	Q71910	What is Tetris's KLOV ID?	+Killer List of Videogames ID	+Kinopoisk film ID	Not top 5
+14558	23	Q173144	Which is the citizenship of Agnetha Fältskog?	+country of citizenship +public holiday	+country of citizenship +instance of	Not top 5
+2948	13	Q21009055, Q21074597	What is the Class IB flammable liquid with the highest upper flammable limit whose instance of is occupational carcinogen?	-instance of +instance of, +upper flammable limit	-instance of +upper flammable limit, +instance of	Top 5
+27851	22	Q157155	What is in the category of Ernest Renan?	+Académie des Inscriptions et Belles-Lettres member ID	+PM20 folder ID	Top 5
+9308	7	Q8605	Simón Bolívar succeeded himself as the holder of what position?	+position held *replaced by	+Bibliothèque nationale de France ID	Not top 5
+27164	11	Q294599	Which is the partnership with of Antipope John XXIII?	-partnership with	+NLP ID (unique)	Top 5
+28743	22	Q57514	What is Albert Günther's RA Collections ID?	+RA Collections ID	+Te Papa agent ID	Top 5
+11942	21	Q151480	Who was the woman in Sphinx with an abbreviation of женский?	+sex or gender +short name	+Encyclopædia Britannica Online ID	Not top 5
+836	17	Q95030, Q102642, Q106383	Was Warren_Beatty partner Diane Keaton and Isabelle Adjani?	+unmarried partner, +unmarried partner	+unmarried partner, +spouse	Top 5
+29367	22	Q687182	What is the Musee d'Orsay ID for Whistler's Mother?	+Musée d'Orsay artwork ID	+Encyclopædia Britannica Online ID	Top 5
+15130	18	Q21403222	What is the domain of Lucien Maxant's daughter?	+father +field of work	+instance of +Gran Enciclopèdia Catalana ID	Not top 5
+12367	21	Q311189	Who is the child of Nurhaci that was born on 2/16/1612?	+child +date of birth	+Encyclopædia Britannica Online ID	Not top 5
+14360	23	Q79031	When is diplomatic relation and citizenship of Mike Tyson ?	+country of citizenship +diplomatic relation	+Bibliothèque nationale de France ID	Not top 5
+14418	23	Q2398459	Which is the diplomatic relation of the nationality of Buck O'Neil?	+country of citizenship +diplomatic relation	+country for sport +diplomatic relation	Top 5
+14811	18	Q16333797	Who is the painter of pendant to of Vertumnus?	+pendant of +creator	+creator +instance of	Not top 5
+17480	18	Q7945541	What coast is the resting place of W. Fox McKeithen?	+place of burial +located in or next to body of water	+Library of Congress authority ID	Not top 5
+28394	22	Q551439	Which is the Unifrance person ID for Patrick Dewaere?	+Unifrance person ID	+AllMovie person ID	Top 5
+7685	7	Q214622	What position did Nikos Kazantzakis hold on January 11, 1946?	+position held *end time	+position held *start time	Top 5
+29728	11	Q46913	Which is replaced by Shanxi?	-replaced by	+Encyclopædia Britannica Online ID	Not top 5
+5562	7	Q44071	Who was the spose of Yuri Andropov in 1984?	+spouse *end time	+Bibliothèque nationale de France ID	Not top 5
+28714	11	Q43067	Who is the manager/director of Heinrich Himmler?	-director / manager	+University of Barcelona authority ID	Not top 5
+17404	18	Q3221012	What are the lyrics of the track Le chant des sirènes	+tracklist +lyrics by	+lyrics by +instance of	Top 5
+15993	18	Q378306	Who are the crew member of Gemini 6A	+followed by +crew member	+crew member	Not top 5
+17049	23	Q1666824	WHO IS INTRODUCED FROM INTERNATIONAL PRACTICAL SHOOTING CONFEDERATION	+location of formation +inception	+Facebook ID	Not top 5
+13923	21	Q6821213	Since 1830-8-28, what has caused their wage?	+has effect +start time	+Art & Architecture Thesaurus ID	Not top 5
+26804	11	Q11412	What is interaction of gravity ?	-interaction	+MeSH descriptor ID	Not top 5
+27450	11	Q51330	which  candidate of John Howard?	-candidate	+candidacy in election	Top 5
+25803	22	Q214723	Which is the distributor for The Gold Rush?	+distributed by	+distribution format	Not top 5
+17373	18	Q459898	Who is disciple and professional partner of Radka Kovaříková ?	+partner in business or sport +student of	+Sports-Reference.com Olympic athlete ID	Not top 5
+17166	18	Q23548	What manufacturer is a subsidiary of the National Aeronautics and Space Administration?	+subsidiary +product or material produced	+subsidiary +instance of	Top 5
+17215	18	Q30714323	What is manufactured by the superior formation of Mitsui Chemicals (Germany)?	+parent organization +product or material produced	+GRID ID	Not top 5
+26099	11	Q122453	Which is educated at the University of Stuttgart?	-educated at	+students count	Not top 5
+16544	23	Q187019	WHO IS THE MEMBER OF THE PARTY THAT PHILIP ROTH INFORMED?	+influenced by +member of political party	+Digitale Bibliotheek voor de Nederlandse Letteren author ID	Not top 5
+1703	20	Q233309	how many medical conditions lead to a brain tumor?	-medical condition	+DiseasesDB	Top 5
+29019	22	Q228559	What is the Tennis Australia ID for Evonne Goolagong Cawley?	+Tennis Australia player ID	+Encyclopædia Britannica Online ID	Top 5
+10211	8	Q17427, Q99850	Who are the followers of Hu Yaobang the chairperson of the Communist Party of China?	+chairperson *followed by, *follows	+chairperson *follows, *followed by	Top 5
+7205	6	Q2114	Where did Tarapacá have 167793 males as part of its population?	+male population *point in time	+male population	Top 5
+25125	2	Q403523, Q188654	What period follows the Ediacaran and includes the word "Cambrian"?	-instance of +follows	-instance of +replaced by	Top 5
+29204	22	Q34460	Which is the Bloomberg person ID for Gwyneth Paltrow?	+Bloomberg person ID	+Douban movie celebrity ID	Not top 5
+28098	22	Q1829	What is the OKATO id for Kaliningrad?	+OKATO ID	+OKTMO ID	Top 5
+14312	23	Q142549	What governments operated the II-76?	+operator +diplomatic relation	-item operated	Top 5
+10736	8	Q410, Q131252	What was Carl Sagan's doctoral thesis at the University of Chicago? Who was his  doctoral advisor?	+educated at *academic thesis, *doctoral advisor	+educated at *academic major, *academic thesis	Top 5
+10192	24	Q13677	Where was the New York Stock Exchange formed and where is it presently?	+location of formation, +present in work	+location +instance of	Not top 5
+107	16	Q131723, Q33976	Did Bitcoin come from Sardinia?	+language of work or name	+named after	Not top 5
+8650	6	Q208663, Q14211	Who replaced William Pitt, 1st Earl of Chatham as the Prime Minister of the United Kingdom?	+position held *replaced by	+position held *replaces	Top 5
+8038	7	Q5588	Who did Frida Kahlo marry on November 11, 1939?	+spouse *end time	+spouse *start time	Not top 5
+16777	18	Q1973871	WHO IS THE FILM GENRE OF SONWRITER OF TU VUO FA L AMERICANO	+composer +genre	+performer +genre	Top 5
+28409	22	Q272912	Which is the French diocesan architects ID for Eugène Viollet-le-Duc?	+French diocesan architects ID	+Musée d'Orsay artist ID	Not top 5
+28442	22	Q189509	Which is the scanned file on WIkimedia Commons for The Jungle Book?	+document file on Wikimedia Commons	+genre, +genre	Top 5
+16949	18	Q2090157	Who gave the child body of companion of of Alpha Centauri A ?	+companion of +child astronomical body	+Google Knowledge Graph ID	Not top 5
+16581	23	Q1576091	When is the endtime of trend of Miserere?	+movement +end time	+composer +date of death	Top 5
+25890	22	Q131258	Which is the Flora of Australia ID for Banksia?	+Flora of Australia ID (old)	+Tropicos ID	Not top 5
+27003	22	Q434909	Which is the SRCBB coach ID of Mike Krzyzewski?	+Sports-Reference.com college basketball coach ID	+Sports-Reference.com college basketball player ID	Not top 5
+16746	23	Q61627	What is the motto of Uwe Johnson's alma mater?	+educated at +motto text	+Kritisches Lexikon der Gegenwartsliteratur ID	Not top 5
+17651	23	Q151860	What is the introduction period of Siege of Leningrad?	+time period +start time	+time period +FOIH periods ID	Not top 5
+28898	22	Q663365	When was the Sierpinski Triangle discovered?	+time of discovery or invention	+Encyclopædia Britannica Online ID	Not top 5
+15279	18	Q2001742	What happened to Sverdlov-class cruiser?	+operator +conflict	+Freebase ID	Not top 5
+4125	7	Q101081	Provence was part of what country in the year 1790?	+country *end time	+country *start time	Not top 5
+15160	18	Q3434678	Who is the author of No Creo and what else have they created?	+lyrics by +employer	+MetroLyrics ID	Not top 5
+10713	8	Q184697, Q738258	Tell me the degree Gloria Estefan received from the University of Miami.	+educated at *academic major, *academic degree	+educated at *academic degree	Top 5
+17093	18	Q20643977	What is the manufacturing of the field of action of Ekstra M?	+industry +product or material produced	+product or material produced +Encyclopædia Britannica Online ID	Not top 5
+14934	18	Q1506824	Who is the marriage partner starring The Girl Can't Help It?	+cast member +spouse	+cast member +unmarried partner	Not top 5
+17616	23	Q942187	Where does the founder of NGC 4151 live?	+discoverer or inventor +residence	+SIMBAD ID	Not top 5
+10436	8	Q939, Q261802	When did Pedro I's child Princess Januária of Brazil die, and who was her mother?	+child *date of death, *mother	+child *date of death	Top 5
+16740	18	Q19513763	which sports has teams played  of Süreyya Özkefe ?	+member of sports team +sport	+EU-Football.info player ID	Not top 5
+7362	6	Q248837, Q6185913	What is the  award  from  Mario Puzo , which is the subject of the  47th Academy Awards ?	+spouse *end time	-spouse *end time, *start time	Not top 5
+15122	18	Q511974	What genre film was the prequel to Zork II?	+followed by +genre	+Gaming-History ID	Not top 5
+16139	23	Q8690	who work of painter of cultural revolution ?	+creator +occupation	+Gran Enciclopèdia Catalana ID	Not top 5
+17450	18	Q152384	Which player competes in Joan Miro?	+participant in +participant	+Nationale Thesaurus voor Auteurs ID	Not top 5
+26514	22	Q475693	What is in the category of Oldboy?	+HanCinema film ID	+Bechdel Test Movie List ID	Not top 5
+12404	21	Q36380	What is the etymology of Society of Jesus (known as) Gesu Cristo?	+named after +name	+named after +Dharma Drum Buddhist College person ID	Not top 5
+6371	6	Q2846645, Q3339101	When did Andrew Johns play for the Newcastle Knights?	+member of sports team *end time	+member of sports team *start time	Top 5
+4914	6	Q2038, Q3044918	What was the name of the position held by François Mitterrand as member of the French National Assembly?	+position held *parliamentary term	+position held *parliamentary group	Not top 5
+1453	19	Q9673	How many nominations did Lewis Hamilton receive?	+nominated for	-pole position	Top 5
+25708	22	Q270683	What is Sheryl Swoopes's Basketball-Reference.com WNBA ID?	+Basketball Reference WNBA player ID	+Eurobasket.com player ID	Not top 5
+25777	11	Q152864	What is the employer of ASUS?	-employer	+MAC Address Block Large ID	Not top 5
+10139	24	Q1357	Who is the parent taxon and the taxon source of Spider?	+this taxon is source of, +parent taxon	+Bibliothèque nationale de France ID	Not top 5
+10311	8	Q470416, Q149136	When was the end of the partnership between Geeta Dutt and Guru Dutt?	+spouse *end time, *start time	+spouse *end time	Not top 5
+27177	22	Q41690	Which is Cultureel Woordenboek identifier for golden ratio?	+Cultureel Woordenboek ID	+MathWorld identifier	Not top 5
+17834	18	Q54803542	What is the high tax of Monopylidium austrailense?	+host +parent taxon	+parent taxon +taxon rank	Top 5
+17676	18	Q1550453	What is to support participant of event of Kenneth Bainbridge ?	+participant in +objective of project or action	+VIAF ID	Not top 5
+418	16	Q6425, Q9325	Was Boeing 777 operated by Lufthansa?	+operator	-item operated	Top 5
+3039	13	Q1210334	What is the tallest bridge that is also a railroad bridge?	-instance of +clearance	-architect +instance of	Top 5
+13702	21	Q864407, Q637555	Where is the Home Depot in Montego Bay located?	+location of formation +twinned administrative body	+headquarters location +twinned administrative body	Top 5
+1845	20	Q1205	How many are located in Thuringia territory?	-located in the administrative territorial entity	-located on terrain feature	Not top 5
+63	16	Q6096, Q42365	Does Snoop Dogg speaks, writes  or signs in Old English?	+languages spoken, written or signed	-screenwriter	Top 5
+27435	22	Q76420	What is the Catalogus PRofessorum Halensis of Georg Cantor?	+Catalogus Professorum Halensis ID	+SHARE Catalogue author ID	Top 5
+7837	7	Q266808	Did Gilda Radner  married to his wife in 1982-1-1?	+spouse *end time	+spouse *start time	Not top 5
+16456	18	Q986561	What is the sister of the player of Sun Ce's conquests in Jiangdong ?	+participant +sibling	+Freebase ID	Top 5
+14338	18	Q5041198	What is sequel of Carleton B. Swift Jr ?	+employer +followed by	+Freebase ID	Not top 5
+19092	15	Q315869	IS THE POPULATION OF LIEBITZ IS EQUAL TO 0	+population	+width	Top 5
+177	16	Q6294, Q7891832	Did Hillary Clinton participate in 2006 United States Senate election in New York?	+significant event	-successful candidate	Top 5
+17442	23	Q191985	Which type of business entity of user is Orient Express ?	+operator +legal form	+operator +instance of	Not top 5
+15816	18	Q639942	Who are the winners of the 1928 World Snooker Championship?	+followed by +winner	+winner +instance of	Not top 5
+28279	11	Q200539	Which is the category that contains the dress?	-category contains	-instance of	Not top 5
+17472	18	Q911972	Which is the battle party of Dunkirk evacuation?	+participant +conflict	+participant +military casualty classification	Top 5
+22	16	Q313013, Q3968108	Is Brian Wilson relative to Stan Love	+relative	+relative *kinship to subject	Top 5
+2229	20	Q2178	How many administrative territorial entities are located by Los Lagos Region?	-located in the administrative territorial entity	+contains administrative territorial entity	Top 5
+20815	5	Q150820, Q5	Name the publisher of Playboy	+editor +instance of	+creator +instance of	Top 5
+27780	11	Q1056901	what is casualty of  cause of death	-cause of death	+BabelNet ID	Top 5
+29603	22	Q52679	Which is the FISA rower ID for Steve Redgrave?	+World Rowing ID (numeric format)	+International Olympic Committee athlete ID	Not top 5
+26813	11	Q191258	What is the research intervation of crop rotation?	-research intervention	+JSTOR topic ID	Not top 5
+8895	7	Q83410	Who is the spouse of Cary Grant?	+spouse *end time	+spouse *start time	Top 5
+26968	22	Q931481	What's the SecondHandSongs song ID of the song Johnny B. Goode?	+SecondHandSongs work ID	+Encyclopædia Britannica Online ID	Top 5
+14229	21	Q187033	With an abbreviation of Аял, what is the biological sex of Sally Field?	+sex or gender +short name	+Twitter username	Not top 5
+15938	18	Q1166728	Who married the daughters of Mahaut, Countess of Artois?	+child +spouse	+Collective Biographies of Women ID	Not top 5
+14699	23	Q208491	What colours are of the head office location of BBC World News?	+headquarters location +color	+VIAF ID	Not top 5
+13867	21	Q76699	What is Bernhard Schlink's place of birth, area code 05209?	+place of birth +local dialing code	+The Numbers person ID	Not top 5
+13925	21	Q39918	What higher taxon name of Prunus dulcis also has the common name of plum?	+taxon common name, +parent taxon	+parent taxon +taxon common name	Not top 5
+1092	19	Q1615	How many space experts support Neil Armstrong?	+member of	+astronaut mission	Not top 5
+21381	10	Q8692, Q22996476	Where is Bilbao located?	-applies to jurisdiction +instance of	-located in the administrative territorial entity +instance of	Top 5
+2391	20	Q11418	How many interactions constitute a weak interaction ?	-interaction	-instance of +interaction	Top 5
+10232	8	Q42101, Q130965	Which academy did Denzel Washington choose at Fordham University and which academic degree did he get?	+educated at *academic major, *academic degree	+educated at *academic degree	Top 5
+13844	21	Q189937	What city in Scotland is John Knox's place of death and is in the postcode area EH1-EH13?	+place of death +postal code	+VIAF ID	Not top 5
+3312	14	Q2039348, Q1085	Name the city in Netherlands twinned with Prague	-instance of +twinned administrative body, +employment by economic sector	-instance of +twinned administrative body, +twinned administrative body	Not top 5
+28982	22	Q183816	Which is the prerequisite of a master's degree?	+prerequisite	-prerequisite	Top 5
+14706	18	Q510532	What is the key event of the sovereign state of Câlnic?	+country +significant event	+GeoNames ID	Not top 5
+17672	18	Q18385210	Which is the common-law wife of dedicatee of Temple of Isthmia?	+dedicated to +unmarried partner	+dedicated to +spouse	Top 5
+26404	22	Q352159	What is Stephen Curry's FIBA ID?	+FIBA player ID	+Eurobasket.com player ID	Top 5
+13209	21	Q8440	"Which second language from Hugo Chavez, has the shortened name іспанська?"	+languages spoken, written or signed +short name	+Geni.com profile ID	Not top 5
+15544	18	Q5331945	What plays did the co-husband of Adéla Pollertová write?	+relative +sport	+VIAF ID	Not top 5
+16390	23	Q169962	Who is the governor of the basin countries by Lake Tahoe?	+basin country +head of government	+located in the administrative territorial entity +head of government	Not top 5
+16496	18	Q6925686	WHO INFORMED THE PAINTER OF MOUNTAINS AND CLOUDS?	+creator +influenced by	+Freebase ID	Not top 5
+15746	18	Q15286320	Who was the previous top dog of 1991 Mr. Olympia?	+follows +winner	+winner +instance of	Top 5
+12846	21	Q15028	Which garrison of the International Organization for Standardization has the Geneva panorama banner.jpg as their Wikivoyage banner?	+headquarters location +page banner	+PM20 folder ID	Not top 5
+14827	23	Q32885	What is the child body of the star of Sagittarius Dwarf Elliptical Galaxy?	+parent astronomical body +child astronomical body	+Unified Astronomy Thesaurus ID	Top 5
+13459	21	Q24766	What is the gender of John Mandeville, whose shortened name is 男?	+sex or gender +short name	+given name +instance of	Not top 5
+10163	24	Q40415	Impressionism is followed by and named after what?	+followed by, +named after	+Cultureel Woordenboek ID	Not top 5
+28147	22	Q184277	What is Yaya Toure's ESPNFC.com player ID?	+ESPNFC.com player ID	+WorldFootball.net player ID	Top 5
+26182	22	Q132524	What is Ayn Rand's Ban Q author ID?	+BAnQ author ID	+LibriVox author ID	Not top 5
+10130	24	Q51636	Who is the most important character and who are the other characters of Crucifixion of Jesus?	+characters, +significant person	+Encyclopædia Britannica Online ID	Not top 5
+21631	5	Q367825, Q5737899	What is Salman of Saudi Arabia's hereditary title?	+noble title +instance of	+position held +instance of	Top 5
+14356	23	Q297357	Dragon Dzajic is set under what government?	+sport +authority	+member of sports team +chairperson	Not top 5
+27582	22	Q106255	What is Jean-Paul Belmondo id for sudoc authorites?	+IdRef ID	+Brockhaus Enzyklopädie online ID	Not top 5
+10889	8	Q283, Q106410	What are the phase and temperature of water at its triple point?	+phase point *phase of matter, *temperature	+phase point *temperature	Not top 5
+9846	24	Q3017223	What is the manner and place of death of Dave Mirra?	+manner of death, +place of death	+Bibliothèque nationale de France ID	Not top 5
+2984	13	Q500834, Q1034556	What is the tournament with the highest number of matches played whose participant is Hawthorn Football Club?	-instance of +participant, +number of matches played/races/starts	-instance of +participating team, +number of matches played/races/starts	Not top 5
+27037	11	Q186474	Which is the encoding for L-Cysteine?	-encodes	+encoded by	Top 5
+26390	22	Q48413	Who is on the committee of the Free Software Foundation?	+board member	-approved by	Top 5
+6428	7	Q333718	What is did Johnson & Johnson get on January 25, 2017?	+owned by *point in time	+Twitter username *start time	Not top 5
+14792	18	Q7310836	Who is favorite player of writer Relativity: The Special and the General Theory ?	+author +influenced by	+VIAF ID	Not top 5
+17046	18	Q28147005	Who studied under Christ?	+creator +student of	+Florentine musea Inventario 1890 ID	Not top 5
+2154	20	Q15180	How many were founded by the Soviet Union?	-founded by	+foundational text	Top 5
+8235	7	Q7747	did vladimir putin perticipate in 1999-12-31?	+participant in *point in time	+educated at *start time	Not top 5
+9652	24	Q42581	What are the names of Keira Knightley's sibling and father?	+sibling, +father	+Deutsche Synchronkartei actor ID	Not top 5
+25813	22	Q160223	Which is the AllMovie artist ID for Claudio Arrau?	+AllMovie person ID	+DAHR artist ID	Top 5
+15542	23	Q57103	What did Karl Weierstraß's pupil do for a job?	+student +occupation	+student	Top 5
+14478	23	Q310464	What is the timezone of the citizen of Erskine Caldwell?	+country of citizenship +located in time zone	+Bibliothèque nationale de France ID	Not top 5
+191	16	Q158957, Q210172	was Priyanka chopra's relative kevin Jonas?	+relative	+relative *kinship to subject	Top 5
+10457	8	Q155794, Q849697	Who is the doctoral advisor and what is the location of Hans Bethe's academic and doctoral degree?	+academic degree *location, *doctoral advisor	+academic degree *location	Top 5
+10869	8	Q2494, Q41463697	Who appointed Benedict XVI as a priest, and where did it happen?	+significant event *appointed by, *location	+significant event *location	Top 5
+11070	9	Q8581	What is Saladin's official noble title?	+noble title *follows	+noble title	Top 5
+10698	8	Q1392178, Q2725667	When was Glen McGrath a member of the Worcestershire County Cricket Club?	+member of sports team *end time, *start time	+member of sports team *start time	Not top 5
+15822	23	Q1339	What is the brother of the sons of Johann Sebastian Bach?	+child +sibling	+Bibliothèque nationale de France ID	Not top 5
+10220	8	Q283, Q106410	Tell me the matter phase and pressure where water has a phase point as triple.	+phase point *phase of matter, *pressure	+phase point *pressure	Not top 5
+71	16	Q43044, Q42365	Is it true that Demi Moore knows Old English?	+languages spoken, written or signed	-voice actor	Top 5
+17057	18	Q16145612	What is the life stance of alumni Bonnie L Oscarson?	+educated at +religion	+Freebase ID	Not top 5
+16008	18	Q328603	Who fought for formation of Ted Lyons?	+military branch +conflict	+Baseball-Reference.com minor & foreign league player ID	Not top 5
+9704	24	Q36133	What is being studied which is opposite of of Soil ?	+opposite of, +studied by	+Gran Enciclopèdia Catalana ID	Not top 5
+13831	21	Q160819	What is the tributary of Gambia River that has coordinates of 13.5092?	+tributary +coordinate location	+GeoNames ID	Not top 5
+15220	23	Q12738	Which counties are inside the Canton of Neuchatel Indian reservation?	+located in the administrative territorial entity +contains administrative territorial entity	+located in the administrative territorial entity +instance of	Top 5
+28858	22	Q874	What is RERO's ID of Trukmenistan?	+RERO ID	+Encyclopædia Britannica Online ID	Not top 5
+12875	21	Q352465	What is the workplace of Félix Guattari, where the gps coordinate is 48.8486 2.34333?	+employer +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+11638	9	Q76	What did is the job role of Barack Obama and constituency?	+position held *electoral district	+Twitter username *subject has role	Not top 5
+17319	23	Q201054	WHERE IS THE HEADQUARTERS OF INTERNATIONAL MARITIME ORGANIZATION CATEGORIZED AND ASSOCIATED BY THE PEOPLE?	+headquarters location +category of associated people	+Bibliothèque nationale de France ID	Not top 5
+11152	9	Q131549	What is the award and prize money received by Claude Simon?	+award received *prize money	+Bibliothèque nationale de France ID	Not top 5
+1465	19	Q18407	How many original language of work was done by La Dolce Vita?	+original language of film or TV show	+film editor	Top 5
+11156	9	Q41351	where and what did Jodie Foster studied	+educated at *academic major	+Bibliothèque nationale de France ID	Not top 5
+25915	22	Q3930	What are the uses of table tennis?	+uses	+OmegaWiki Defined Meaning	Not top 5
+17678	23	Q2596569	Which Q48460 field of this profession is housekeeper ?	+field of this occupation +Dewey Decimal Classification	+GND ID	Not top 5
+4910	6	Q36812, Q836810	When did Prince William become a Duke of Cambridge?	+noble title *start time	+position held *start time	Top 5
+16744	23	Q410193	What is the translation of the safety classification and labelling of boron nitride?	+safety classification and labelling +edition	+Gran Enciclopèdia Catalana ID	Not top 5
+10088	24	Q8795	Who is the developer of Internet Protocol and what is the edition?	+has edition or translation, +developer	+Gran Enciclopèdia Catalana ID	Not top 5
+14644	23	Q1443	Who are the inhabitants of the land of Molise?	+country +population	+located in the administrative territorial entity +population	Not top 5
+2100	20	Q7850	How many languages are spoken by the Chinese?	-language used	+number of speakers	Not top 5
+9917	24	Q158462	What is the location of the formation that is named after Lynyrd Skynyrd?	+location of formation, +named after	+named after	Top 5
+17506	18	Q1223435	What is Dietmar Kansy's title?	+participant in +participant	+GND ID	Not top 5
+13406	21	Q177477	What is located in the shire of Baikonur Cosmodrome with a full title of  _______________?	+located in the administrative territorial entity +official name	+Gran Enciclopèdia Catalana ID	Not top 5
+15986	18	Q4344596	who has kid of inspiration of papa carlo	+inspired by +child	+IMDb ID	Not top 5
+9669	24	Q8463	What is the equivalent and opposite of Slavery?	+opposite of, +said to be the same as	+Cultureel Woordenboek ID	Not top 5
+16662	18	Q849328	Who gave theformat of prequel of of Contra ?	+followed by +distribution format	+World of Spectrum ID	Not top 5
+14354	18	Q1662745	What type of film is significant for William McDonough?	+notable work +genre	+employer +significant event	Top 5
+13221	21	Q212712	"Which seat in the Liberal International, has GPS coordinates of 51.063 -0.1237 ?"	+headquarters location +coordinate location	+Gran Enciclopèdia Catalana ID	Not top 5
+9090	6	Q633, Q5593754	What was the name of Neil Young's album that won him a Grammy Award for Best Boxed or Special Limited Edition Package?	+award received *for work	+award received *winner	Top 5
+27938	22	Q249544	What languages do Arthur Hailey speak?	+languages spoken, written or signed	+Scope.dk person ID	Not top 5
+17597	18	Q29652827	What is the shape and effect of the hyperbolic motion?	+has effect +shape	+has effect +Encyclopædia Britannica Online ID	Not top 5
+28323	22	Q180274	Which is the Inventory of French sanctuaries ID for Notre-Dame de Chartres?	+Inventory of French sanctuaries ID	+Encyclopædia Britannica Online ID	Not top 5
+14976	18	Q4971583	Who is the father of Kristina Oxenstierna's sister?	+sibling +father	+genealogics.org person ID	Not top 5
+1721	20	Q180278	How many students are taught by Charles Gounod?	-student of	+student	Not top 5
+16454	18	Q269880	Who are the founders of of FERRARI?	+designed by +founded by	+manufacturer +founded by	Top 5
+14946	18	Q49502848	What is the tax on Cucurbita pepo va?	+parent taxon +this taxon is source of	+parent taxon +TAXREF ID	Not top 5
+10705	8	Q199894, Q125375	What is location and point in time of Thomas Cranmer that has the significant event consecration?	+significant event *point in time, *location	+significant event *point in time	Top 5
+16789	23	Q79015	What language was the Superman from work created on?	+present in work +original language of film or TV show	+Behind The Voice Actors character ID	Not top 5
+15545	23	Q44987	Who competed in Doc Holliday?	+participant in +participant	+Geni.com profile ID	Not top 5
+11550	9	Q23760	where and what did rowan atkinson studied?	+educated at *academic degree	+Bibliothèque nationale de France ID	Not top 5
+1468	19	Q693944	How many ingredients are in the grain ?	+part of	+conversion to SI unit	Not top 5
+15237	18	Q4976047	who significant works of illustrated by of Brown Bear, Brown Bear ?	+illustrator +notable work	+author +notable work	Top 5
+2431	12	Q2302080	Give the name of gravitational-wave detector with lowest wavelength of sensitivity?	-instance of +minimum wavelength of sensitivity	-instance of +maximum wavelength of sensitivity	Not top 5
+14458	23	Q355888	Who is the mayor of the city Johannes Eugenius Bulow Warming was born in?	+country of citizenship +head of government	+Bibliothèque nationale de France ID	Not top 5
+15692	18	Q7199764	He has three kids; Orghana,Ariq Böka, and Toqoqan.	+father +child	+child +instance of	Top 5
+11739	9	Q458	What follows the European Union and when was its inception?	+follows *inception	+inception *start time	Top 5
+28248	22	Q12837	Which is connected with the Iberian Peninsula?	+connects with	+connects with +instance of	Top 5
+28422	22	Q22687	WHAT IS THE USE OF BANK	+use	-use +instance of	Not top 5
+26528	22	Q298025	What is the Open Media Database ID for Joss Whedon?	+Open Media Database person ID	+Encyclopædia Britannica Online ID	Not top 5
+26366	22	Q202342	What is the Sport Australia Hall of Fame ID for Margaret Court?	+Sport Australia Hall of Fame inductee ID	+Tennis Hall of Fame player ID	Not top 5
+6489	6	Q102272	Where is the birth of Jan van Eyck in the year 1390 documented ?	+date of birth *sourcing circumstances	+date of birth *instance of	Top 5
+15386	18	Q746774	What are the protests of the war  that uses the M-84	+conflict +participant	+conflict +instance of	Not top 5
+10605	8	Q151414, Q35637	How much money did George Marshall receive with his Nobel Peace Prize?	+award received *point in time, *prize money	+award received *prize money	Top 5
+6319	7	Q36036	What country did Lviv live in in 1348-0-0?	+country *end time	+Bibliothèque nationale de France ID	Not top 5
+16125	18	Q3566632	What school was created by Gregor Samsa?	+creator +movement	+Encyclopædia Britannica Online ID	Not top 5
+25614	4	Q17524420, Q668	What period of India's history starts with the letter N.	-instance of +facet of	-instance of +country	Top 5
+10122	24	Q243439	Who is the producer and executive producer of Full Metal Jacket?	+executive producer, +producer	+Il mondo dei doppiatori ID	Not top 5
+10515	8	Q283, Q111059	Mention the temperature and the state of the matter of water upon achieving the critical point	+phase point *phase of matter, *temperature	+phase point *temperature, *phase of matter	Not top 5
+13673	21	Q1426327	What items made from linen have "lin" as the vernacular name?	+natural product of taxon +taxon common name	-instance of	Top 5
+9562	24	Q183532	What was the cause and manner of death of Anne Bancroft?	+cause of death, +manner of death	+Deutsche Synchronkartei actor ID	Not top 5
+13532	21	Q75790	Which city with 131429.0 inhabitants was also the death location of Karl Löwith?	+place of death +population	+place of birth +population	Top 5
+29544	22	Q43421	What is the FIPS 6-4 code in the city of Richmond?	+FIPS 6-4 (US counties)	+Wolfram Language entity code	Top 5
+1421	19	Q183816	How many degrees are equaling the master's degree ?	+said to be the same as	+educated at, *academic degree	Not top 5
+17712	18	Q30338738	Who is the parent agency of the maker of Novo Nordisk (United States)?	+parent organization +product or material produced	+parent organization +instance of	Not top 5
+17820	18	Q2139991	Who lives in this area?	+location of formation +owned by	+Bibliothèque nationale de France ID	Not top 5
+14642	23	Q181943	who used money of comes from of I Love lwhoucy ?	+country of origin +currency	+fernsehserien.de ID	Not top 5
+12046	21	Q1052	Which colour of the rainbow is associated with the sRGB colour hex triplet code #FF0000?	+color +sRGB color hex triplet	+color +Gran Enciclopèdia Catalana ID	Not top 5
+1736	20	Q642878	How many movies in the fictional universe are from the Marvel Cinematic Universe?	-takes place in fictional universe	-from narrative universe	Top 5
+12700	21	Q672	What continent that includes Tuvalu has 36,659,000 inhabitants?	+continent +population	+highest point +population	Top 5
+27951	22	Q152043	What was the manner of death of Mstislav Rostropovich?	+manner of death	+Who's Who in France biography ID	Not top 5
+15142	23	Q484195	What is the time of the continent of the Timurid Empire?	+continent +located in time zone	+Getty Thesaurus of Geographic Names ID	Top 5
+16587	18	Q24068213	What is the derived from of the from work of Detective Lemieux?	+present in work +based on	+present in work +Il mondo dei doppiatori ID	Not top 5
+1203	19	Q37147	How many studies are for atomic nucleus?	+studied by	-studies	Top 5
+15872	18	Q4652	Who gave the has son of has son of of Mary Stewart ?	+father +child	+genealogics.org person ID	Not top 5
+2206	20	Q33	How many citizens are in Finland?	-country of citizenship	+contains administrative territorial entity +population	Not top 5
+2041	20	Q42952	Thor, how many brothers?	-sibling	+sibling	Top 5
+14626	23	Q182228	For what reason is the brain stem in the anatomical location that it is?	+anatomical location +has cause	+anatomical location +instance of	Top 5
+27837	22	Q186606	What is relative of Manisha Koirala ?	+relative	+Instagram username	Not top 5
+14220	21	Q169794	What noble family of Ranavalona I was destroyed in 1897?	+family +dissolved, abolished or demolished date	+CERL Thesaurus ID	Not top 5
+26729	22	Q14088	Which is the location of the final assembly of mozzarella?	+location of creation	+USDA NDB number	Not top 5
+10003	24	Q179452	Which is the active ingredient in the significant drug interaction of Amphetamine ?	+significant drug interaction, +active ingredient in	+active ingredient in	Not top 5
+5464	7	Q11758	What's the name of the cemetary L.L. Zamenhof is burried in, on the coordenates 52.24525 20.976080555556?	+place of burial *coordinate location	+Digitale Bibliotheek voor de Nederlandse Letteren author ID	Not top 5
+9858	24	Q218636	Who is the operator and powerplant of Rockwell B-1 Lancer?	+powered by, +operator	+Encyclopædia Britannica Online ID	Not top 5
+15832	18	Q1354544	Who is the child of Svatopluk II's sister?	+sibling +father	+Freebase ID	Not top 5
+235	16	Q8683, Q170314	Is Second Sino-Japanese War significant to the Cold War?	+significant event	-Wikimedia portal's main topic	Top 5
+15890	23	Q470466	Who gave thehas wards of died in of Faina Ranevskaya ?	+place of death +contains administrative territorial entity	+Bibliothèque nationale de France ID	Not top 5
+1291	19	Q208647	Who was the distributor for Married...with Children?	+distributed by	+distribution format	Top 5
+1801	20	Q7737	How many dialects are there in the Russian language?	-dialect of	+number of speakers	Top 5
+15502	18	Q887310	What house has a child in Sri Indraditya?	+child +family	+Encyclopædia Britannica Online ID	Not top 5
+17503	23	Q748	Where did Buddhism first originate?	+location of formation +postal code	+Bibliothèque nationale de France ID	Not top 5
+29972	10	Q9730, Q20202269	Which is the music term for partially coincident with classical music?	-partially coincident with +instance of	+partially coincident with +instance of	Top 5
+13133	21	Q59798	"Which is taxon parent of Ficus, whose vernacular name is Zīdkoku dzimta ?"	+parent taxon +taxon common name	+taxonomic type +taxon common name	Top 5
+11210	9	Q283	What is the phase point of water and the phase of matter?	+phase point *phase of matter	+phase point	Not top 5
+13028	21	Q131594, Q2589157	Who is named after the Pauli exclusion principle whose middle name if Wolfgang?	+named after +given name	+discoverer or inventor +given name	Top 5
+10156	24	Q40984	What is the language of work or name and the programming language of Skype ?	+language of work or name, +programming language	+programming language +instance of	Not top 5
+17252	23	Q157575	What date were the subsidiary entities of the University of Strasbourg created?	+subsidiary +inception	+Bibliothèque nationale de France ID	Not top 5
+26192	22	Q186424	What is the main subject of the detective fiction?	+main subject	+JSTOR topic ID	Not top 5
+12991	21	Q82445	Where is the place of activity of Henri de Toulouse-Lautrec, that has the point of earth at 2.35183?	+work location +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+7945	6	Q205545, Q4377230	When was Eleftheros Venizelos replaced as Prime Minister of Greece?	+position held *replaced by	+position held *start time	Top 5
+2185	20	Q5146	What's the dialect of the Portuguese?	-dialect of	+number of speakers	Top 5
+29414	11	Q170737	What sports includes the long jump?	-field of work	+sport	Not top 5
+4284	6	Q230099, Q103618	When was Irene Dunne nominated for Academy Award for Best Actress?	+nominated for *statement is subject of	+nominated for *point in time	Top 5
+28845	22	Q132734	What is the FloraBase ID of Fagopyrum esculentum?	+FloraBase ID	+Encyclopædia Britannica Online ID	Not top 5
+10387	8	Q171421, Q41582573	In which electoral district was Henry Morton Stanley elected and when was it?	+position held *electoral district, *elected in	+position held *electoral district	Top 5
+13902	21	Q5864963	What is an aspect of the history of Iowa, which was formed on December 28, 1846?	+facet of +inception	+Library of Congress authority ID	Not top 5
+11780	21	Q41819, Q95088	What is the name of the "sister city" tied to Kansas City, which is located in the county of Seville Province?	+twinned administrative body +capital of	+twinned administrative body +located in the administrative territorial entity	Top 5
+15714	18	Q1689712	who county seat of of birth location of Jivaka kumar bhaccha ?	+place of birth +capital of	+Bibliothèque nationale de France ID	Not top 5
+2308	20	Q11148	The Guardian was described by what source?	-described by source	+Quora topic ID	Not top 5
+17124	23	Q48244	Who gave the location of work of proprietor of Mein Kampf ?	+copyright holder +work location	+OCLC work ID	Not top 5
+15706	23	Q44892	What was founded next to Krafwerk?	+location of formation +shares border with	+Bibliothèque nationale de France ID	Not top 5
+27697	11	Q1001	Who is the relative of Mahatma Gandhi?	-relative	+Geni.com profile ID	Not top 5
+15440	18	Q600458	Who won the 1971 Wimbledon Women's Singles Championship?	+follows +winner	+winner +instance of	Top 5
+29018	11	Q690256	What is interesting in the history of America?	-interested in	+JSTOR topic ID	Top 5
+6329	7	Q81581	Where is the Szeged is located as an admin office at the time of 2013-1-1?	+located in the administrative territorial entity *start time	+twinned administrative body *start time	Not top 5
+10312	8	Q208665, Q41582587	When did Arther Henderson's position end as the 34th member of the UK's parliament?	+position held *elected in, *end cause	+position held *end time	Top 5
+15747	18	Q12285139	From which historic era does Lucius Aurelius Priscus come?	+gens +time period	+time period +contains administrative territorial entity	Not top 5
+13007	21	Q271956, Q83172	who is the teacher of nikolay yegorovich Zhukovshy, the member of Russian Academy of sciences?	+student +member of	+doctoral student +member of	Top 5
+6875	6	Q41852, Q18577504	Who preceded Heraclius as the Byzantine emperor?	+position held *replaced by	+position held *replaces	Top 5
+17537	23	Q588695	The Art of Painting is located in which museum collection?	+collection +location	+collection +instance of	Not top 5
+27135	22	Q809097	Which is the Pro Football Hall of Fame ID of Barry Sanders?	+Pro Football Hall of Fame ID (old)	+Kansas Sports Hall of Fame ID	Not top 5
+27268	22	Q157208	Which is the Kindred Britain ID of William Cavendish-Bentinck, 3rd Duke of Portland?	+Kindred Britain ID	+Encyclopædia Britannica Online ID	Not top 5
+16962	23	Q169759	WHO IS PRECEDED BY THE PUBLIC LOCATION OF DECLARATION OF THE RIGHTS OF MAN AND OF THE CITIZEN	+place of publication +replaces	+Cultureel Woordenboek ID	Not top 5
+16186	23	Q658096	Mention the year of establishment of Chiropractic	+founded by +date of birth	+founded by +instance of	Not top 5
+10804	8	Q12057690, Q2302311	When and with which degree did Guy Fieri completed his education at the University of Nevada, Las Vegas	+educated at *point in time, *academic degree	+educated at *academic major, *academic degree	Top 5
+3300	14	Q559026, Q14493958	Name the ship class with the slow speed which is named after Mærsk Mc-Kinney Møller?	-instance of +named after, +cruise speed	-instance of +named after, +speed	Top 5
+5884	6	Q37066	Where in Bismarck has a population of 61272?	+population *determination method	+population *point in time	Top 5
+14310	23	Q220015	Where does the diplomat of Weekly Shonen Jump come from?	+country of origin +diplomatic relation	+Freebase ID	Not top 5
+28692	11	Q167	What is the symbol for pi?	-symbolizes	+notation	Top 5
+8611	6	Q230299, Q1682564	Was Jane the given, or middle name of Nellie Bly?	+given name *series ordinal	+given name	Top 5
+17575	23	Q127060	Which disease is cured by Folic acid?	+medical condition treated +health specialty	+medical condition treated +drug used for treatment	Not top 5
+14942	23	Q774967	Who are the children in the painting of Venus de' Medici?	+depicts +child	+BabelNet ID	Top 5
+15473	23	Q59095	Which category of associated people of sister city of Zhuhai ?	+twinned administrative body +category of associated people	+category of associated people +instance of	Not top 5
+12733	21	Q547301	"Who is died in of Joachim Raff, where human population is 736414 ?"	+place of death +population	+place of birth +population	Top 5
+6832	7	Q568553, Q735613	Who was Link in The Legend of Zelda: Twilight Princess?	+performer, *of	+narrative age, *present in work	Top 5
+17098	23	Q3244512	What is representative of those active in Harry Potter?	+work location +depicts	+creator +represented by	Not top 5
+28964	11	Q194474	Cathedral of Christ the Saviour was replaced by what structure?	-structure replaces	+structure replaced by	Top 5
+14826	23	Q23681	What is the municipal council of diplomatic relations for the Turkish Republic of Northern Cyprus?	+diplomatic relation +legislative body	+diplomatic relation +instance of	Not top 5
+14384	23	Q18754	What nation was made by WWE Raw?	+creator +country of citizenship	+country of origin +contains administrative territorial entity	Not top 5
+16916	18	Q5446176	Who curated the museum collection of Fez?	+collection +creator	+collection +instance of	Not top 5
+13600	21	Q12225	"What country is adjacent to Murcia that has 20402.0 inhabitants?"	+shares border with +population	+located in the administrative territorial entity +population	Top 5
+15174	23	Q7309503	who member  of graduated from of regna darnell?	+educated at +member of	+member of +instance of	Not top 5
+10345	8	Q219731, Q161885	When did George Canning's British citizenship end and what was the cause?	+country of citizenship *end time, *end cause	+country of citizenship *end cause	Not top 5
+6055	7	Q16571	Where was Justus von Liebig buried that is at the coordinates 48.12491667 11.56336111?	+place of burial *coordinate location	+National Portrait Gallery (London) person ID	Not top 5
+21967	10	Q7192, Q162875	Where is the Mausoleum of the First Qin Emperor?	-named after +instance of	-commissioned by +instance of	Top 5
+15846	18	Q5266514	Who is partners of contestant Devar ?	+cast member +spouse	+Kinopoisk film ID	Not top 5
+14544	18	Q28814471	What university did the children of Paul Ernest attend?	+child +educated at	+VIAF ID	Not top 5
+17147	18	Q21197527	What   is agent in   action of James C. Marshall ?	+conflict +participant	+VIAF ID	Not top 5
+10993	8	Q182408, Q35921591	When was Glenda Jackson a member of the 53rd Parliament of the UK, and why did her term end?	+position held *elected in, *end cause	+position held *end time, *start time	Top 5
+26243	22	Q295803	I need to know Tom Hiddleston's Elonet ID.	+Elonet person ID	+TV.com ID	Top 5
+11955	21	Q218023	What continent is Orange Free State with Women in Red banner in Kenya Central?	+continent +page banner	+flag +instance of	Not top 5
+28600	22	Q283221	What is the Deezer ID for the album "Kind of Blue"?	+Deezer album ID	+Encyclopædia Britannica Online ID	Top 5
+12935	21	Q373808	What is the partner city of Khujand, that has a human population of 223934.0?	+twinned administrative body +population	+located in the administrative territorial entity +population	Top 5
+16924	23	Q220665	Who developed Space Invaders?	+developer +inception	+derivative work +developer	Not top 5
+14484	23	Q15429497	What is the nationality of Katharine Hayhoe?	+country of citizenship +population	+Library of Congress authority ID	Not top 5
+14467	23	Q2743544	What country was Erin Andrews a citizen of?	+country of citizenship +population	+country of citizenship +contains administrative territorial entity	Not top 5
+1013	19	Q28	Hungary has what number of time zones contained within it?	+located in time zone	+located in time zone *valid in period	Top 5
+27860	22	Q678	What is in the category of Tonga?	+mobile country code	+Getty Thesaurus of Geographic Names ID	Not top 5
+14679	18	Q7730630	Who is the grandfather of the film director of The Don Knotts Show?	+director +relative	+TV.com ID	Not top 5
+17848	18	Q1501882	What is played by the the extended form of the generalized linear model?	+based on +used by	+Bibliothèque nationale de France ID	Not top 5
+22192	10	Q397, Q11514315	Which period in time did people speak Latin?	-official language +instance of	-language used +instance of	Top 5
+19721	10	Q82778, Q5	Who is the person that was a student of Pliny the Elder?	-student +instance of	-student of +instance of	Top 5
+16801	18	Q5237953	What genre is the score of Inazuma Eleven GO vs. Danbōru Senki W in?	+composer +genre	+Filmweb.pl film ID	Not top 5
+10128	24	Q483802	What is the label and type of music that Nickelback plays?	+record label, +genre	+Quora topic ID	Not top 5
+16014	23	Q128085	What are the feminine/masculine forms in the expressive language of Georg Solti?	+languages spoken, written or signed +has grammatical gender	+Oxford Dictionary of National Biography ID	Not top 5
+9922	24	Q1617	What is the language regulatory body and country of Urdu?	+language regulatory body, +country	+LoC and MARC vocabularies ID	Not top 5
+26824	22	Q739887	What Amphibian classification is the Goliath frog?	+Amphibian Species of the World ID	+IUCN conservation status	Top 5
+29434	22	Q108206	What is John Bunyan's Surman ID?	+Surman ID	+Brockhaus Enzyklopädie online ID	Top 5
+27184	22	Q55800	Which is the Amazon author page for Oprah Winfrey?	+Amazon author ID	+Collective Biographies of Women ID	Not top 5
+16984	18	Q2345548	In what fictional universe does the entity Stone Table exist?	+from narrative universe +fictional universe described in	+from narrative universe +instance of	Top 5
+16580	18	Q6656654	Who played the predecessor of Live at the Copa?	+follows +performer	+Freebase ID	Not top 5
+10201	24	Q525	Which is notation and the child astronomical body of Sun ?	+notation, +child astronomical body	-instance of +parent astronomical body, +Gran Enciclopèdia Catalana ID	Not top 5
+9835	24	Q5	Which is the product or material produced and the uses of Human ?	+uses, +product or material produced	-doctoral advisor +instance of	Not top 5
+25569	4	Q537127, Q261174	Name a road bridge designed by Joseph Strauss that starts with letter B	-instance of +designed by	-instance of +architect	Top 5
+6915	7	Q1520	What started in Astana on the 26th of August 1920?	+located in the administrative territorial entity *start time	+instance of *start time	Top 5
+16035	18	Q36508917	WHEN DID STRETCH ARMSTRONG & THE FLEX FIGHTERS DISTRIBUTED BY SECTOR?	+distributed by +industry	+distribution format	Not top 5
+17383	23	Q380038	What is endtime for battle of Harvey Williams Cushing ?	+conflict +end time	+doctoral student +date of death	Top 5
+26538	11	Q255506	Which is next crossing upstream of Banpo Bridge?	-next crossing upstream	+next crossing upstream	Top 5
+29721	22	Q165647	What is the Banglapedia ID for organic agriculture?	+Banglapedia (English version) ID	+Encyclopædia Britannica Online ID	Not top 5
+2284	20	Q319	How many parent astronomical bodies are there by Jupiter?	-parent astronomical body	+parent astronomical body	Top 5
+2297	20	Q1227	How many states are near Nevada?	-narrative location	+shares border with	Not top 5
+14275	23	Q450675	What land are alumni of Francis from?	+educated at +country	+educated at, +educated at	Not top 5
+27978	22	Q207932	what is in the Unified Astronomy Thesaurus ID of winter solstice ?	+Unified Astronomy Thesaurus ID	+Encyclopædia Britannica Online ID	Top 5
+27269	22	Q325138	Which is the Panthéon des sports du Québec ID of Maurice Richard?	+Panthéon des sports du Québec ID	+Encyclopædia Britannica Online ID	Top 5
+19984	10	Q8093, Q7889	What is the name of a video game published by Nintendo?	-publisher +instance of	-editor +instance of	Top 5
+13864	21	Q669430, Q5287	Who are the founders of Onyanko Club that speak native Japanese?	+founded by +native language	+founded by +languages spoken, written or signed	Top 5
+16265	18	Q3376485	Which ideology is followed by the political party of Christian Emil Stoud Platou?	+member of political party +political ideology	+PolSys ID	Not top 5
+16167	18	Q311916	Which battle is for the son of Uday Hussein?	+father +conflict	+Nationale Thesaurus voor Auteurs ID	Not top 5
+2036	20	Q624482	Which player positions on the sports team sprint?	-position played on team / speciality	+sport +record or record progression	Not top 5
+5059	6	Q630446, Q971363	What was John Green nominated for the Guardian Children's Fiction Prize?	+nominated for *point in time	+nominated for *for work	Top 5
+6328	6	Q876, Q11344	Which chemical element is following selenium?	+instance of *followed by	+instance of *follows	Top 5
+10498	8	Q82339, Q22923081	WHO FOLLOWS AND FOLLOWED BY CLOVISAS NOBLE TITLE AS KING OF FRANKS	+noble title *followed by, *follows	+noble title *follows, *followed by	Top 5
+15267	18	Q6826657	What is the fate of starring in Mezi námi zloději?	+cast member +significant event	+ČSFD film ID	Not top 5
+27301	11	Q2179	Which is the boundary of the asteroid belt?	-has boundary	+parent astronomical body +has boundary	Top 5
+3361	14	Q327110, Q1748406	When was the first Roller Hockey World Cup?	-instance of +sport, +number of matches played/races/starts	-instance of +sport, +start time	Not top 5
+28109	22	Q1332346	Which is the FEI ID of Mark Todd?	+FEI person ID	+Freebase ID	Top 5
+10316	8	Q164782, Q43044	When did Ashton Kutcher divorce Demi Moore?	+spouse *end time, *start time	+spouse *end time	Top 5
+10667	8	Q994, Q12864947	Mention the year span in which Tbilisi  became capital of the Tiflis County	+capital of *end time, *start time	+capital of *start time	Top 5
+13307	21	Q25434	"What's made from Saffron, that's common name is Szafran Uprawny?"	+natural product of taxon +taxon common name	+natural product of taxon +taxon name	Top 5
+17366	18	Q32301	Who is candidate took part for Yuri Trofimov ?	+participant in +participant	+ProCyclingStats cyclist ID	Not top 5
+17329	23	Q23556	What is the county seat of Atlanta called?	+capital of +native label	+located in the administrative territorial entity +capital	Not top 5
+13689	21	Q127588	What is the measurement of introversion and extroversion that was established in 1943-0-0?	+measurement scale +inception	+Gran Enciclopèdia Catalana ID	Not top 5
+2338	20	Q46491	How many depictions are there of Osiris?	-depicts	+Iconclass notation	Not top 5
+28096	22	Q309388	Which  is Biodiversity Repository ID of Natural History Museum of London ?	+Biodiversity Repository ID	+Foursquare venue ID	Not top 5
+17303	18	Q2767140	What is the official language of the Government of India?	+subsidiary +official language	+VIAF ID	Not top 5
+28390	22	Q243312	Which is the category which is related to the list of Kassite dynasty?	+category related to list	-list related to category	Top 5
+9743	24	Q819016	Who are the members of and the participants in Carlos Santana?	+member of, +participant in	+Bibliothèque nationale de France ID	Not top 5
+10719	8	Q283, Q111059	What is water temperature and pressure when it is at a phase point as a critical point?	+phase point *pressure, *temperature	+phase point *temperature, *pressure	Top 5
+15067	23	Q3708094	What is the STD code of the chief lieutenant of the Great Seljuq Empire?	+capital +local dialing code	+NKCR AUT ID	Not top 5
+17823	23	Q845945	What are the rules of Shinto Shrine?	+religion +foundational text	+Art & Architecture Thesaurus ID	Not top 5
+17356	23	Q194226	Where did the Battle of Yarmouk take place ? What continent and neighbor did this take place?	+location +continent	+Encyclopædia Britannica Online ID	Not top 5
+14970	18	Q3644051	Who is the singer who performs Break it to Me Gently?	+performer +influenced by	+Freebase ID	Not top 5
+7191	6	Q8493	What part of Amu Darya has location coordinates of 37.106.68.3063?	+coordinate location *applies to part	+GeoNames ID	Not top 5
+28678	22	Q1200	Which follows Rhineland-Palatinate?	+follows	+follows +instance of	Not top 5
+26649	22	Q9141	What is World Heritage Site ID for Taj Mahal?	+World Heritage Site ID	+TripAdvisor ID	Top 5
+16226	23	Q140028	When is Q48460 going to land?	+has cause +Dewey Decimal Classification	+Store norske leksikon ID	Not top 5
+9063	6	Q131248, Q866756	Who replaced Lee Kuan Yew as the Prime Minister of Singapore?	+position held *replaced by	+position held *replaces	Top 5
+9529	24	Q106193	What is the native language and the languages spoken, written or signed of Lars_Ulrich ?	+languages spoken, written or signed, +native language	+Bibliothèque nationale de France ID	Not top 5
+26727	22	Q9199	What is ISO 639-2 cod for vietnamese	+ISO 639-2 code	+ISO 639-3 code	Not top 5
+10688	8	Q7546, Q438786	When did Ingmar Bergman marry Kabi Laretei?	+spouse *end time, *start time	+spouse *start time	Not top 5
+3896	6	Q36303	What was the source of Thales' death on 1-1-546?	+date of death *sourcing circumstances	+date of death *instance of	Top 5
+9634	24	Q156103	What are the symptoms and causes of Gastroenteritis?	+has cause, +symptoms	+Gran Enciclopèdia Catalana ID	Not top 5
+15305	18	Q44291408	What is split from of historic period of Sword handle-MA 1748 ?	+time period +follows	+made from material +MeSH descriptor ID	Not top 5
+12398	21	Q1015146	What; in the administrative unit of Poipet, has a longitude of 102.567?	+located in the administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+10756	8	Q939, Q156774	Whey did Pedro I die, and when was his son Pedro II of Brazil born?	+child *date of death, *date of birth	+child *date of death	Top 5
+28191	22	Q1355840	What is SRCFB ID for Mike Ditka?	+Sports-Reference.com college football player ID	+Pro-Football-Reference.com player ID	Top 5
+10503	8	Q4934, Q41506	Tell me the major of Larry Page who studied at Stanford University.	+educated at *academic major, *academic degree	+educated at *academic major	Top 5
+9816	24	Q7156	What did FC Barcelona receive an award and nomination for?	+nominated for, +award received	+Bibliothèque nationale de France ID	Not top 5
+26220	22	Q212476	Which is CESAR person ID for Pierre Choderlos de Laclos?	+CESAR person ID	+British Museum person or institution ID	Not top 5
+28822	11	Q273030	Where does Haridwar reside?	-residence	+Gran Enciclopèdia Catalana ID	Not top 5
+9568	24	Q32096	What are the country and the organizer of the Super Bowl?	+organizer, +country	+Gran Enciclopèdia Catalana ID	Not top 5
+3022	13	Q10416961, Q12725	What museum powered by electricity has the highest ceilings?	-instance of +source of energy, +focal height	-instance of +source of energy, +lighthouse range	Top 5
+1543	19	Q20	There are several administrative territorial entities for Norway.	+contains administrative territorial entity	+contains administrative territorial entity +instance of	Not top 5
+1377	19	Q702	How many languages used are for the Federated States of Micronesia?	+language used	+pronunciation audio *language of work or name	Not top 5
+15837	23	Q3394486	Which is sequel of topic of of history of Baghdad ?	+facet of +follows	+facet of +Bibliothèque nationale de France ID	Not top 5
+6170	6	Q366213, Q38998920	Who replaced Aga Khan III as the Islmaili imam?	+position held *replaced by	+position held *replaces	Top 5
+2965	13	Q4830453, Q100	What Boston based business has the highest assets?	-instance of +headquarters location, +assets under management	-instance of +headquarters location, +total assets	Top 5
+6992	6	Q130585	How many episodes are in Supernatural season 12.0?	+number of seasons *criterion used	+number of episodes	Not top 5
+5919	6	Q128995, Q41582597	Why did Anthony Eden resign from his position as a member of the 38th Parliament of the United Kingdom?	+position held *end cause	+position held *elected in, *end cause	Top 5
+9797	24	Q863259	Where is the National Rifle Association's headquarters located and who is the chief executive?	+chief executive officer, +headquarters location	+chief executive officer	Not top 5
+600	17	Q43252, Q327436, Q1042396	Are Edoardo and Carlo Ponti the parents of Sophia Loren?	+child, +child	+genre, +genre	Top 5
+10474	8	Q515632, Q6952076	When did Ossie Davis receive his award for the NAACP Image Award – Hall of Fame Award.	+award received *point in time, *winner	+award received *point in time	Top 5
+29164	22	Q170351	Where is the location of Bombing of Guernica?	+location	+Library of Congress authority ID	Top 5
+11220	9	Q5528217	What is Gavin McInne's academic degree and field of work?	+academic degree *field of work	+Bibliothèque nationale de France ID	Not top 5
+15296	18	Q55024836	What body of water borders B-29 Serial No. 45-21847?	+located in or next to body of water +dam	+serial number	Not top 5
+4731	6	Q37776, Q5119	What is the capital of Besancon?	+instance of *of	+instance of *of, *of	Top 5
+25595	4	Q6973377, Q30	What is a National Historic Trail in the United States that begins with the letter "t" ?	-instance of +country	-instance of +located in the administrative territorial entity	Top 5
+3589	6	Q93343, Q161885	Was Percy Bysshe Shelley a citizen of Great Britain?	+country of citizenship *end cause	+country of citizenship	Top 5
+16994	23	Q230865	who accused of took part of Homare Sawa ?	+participant in +participant	+Sports-Reference.com Olympic athlete ID	Not top 5
+7137	6	Q214232	Where Final Fantasy VII was publicated at 1998-6-25?	+publication date *place of publication	+Redump.org ID *platform	Not top 5
+16826	18	Q16266699	What is faith of musician of Shatter Me ?	+performer +religion	+BabelNet ID	Top 5
+15210	18	Q16934424	The Quality of Mercy is a work written by who?	+author +notable work	+published in +author	Top 5
+17602	23	Q145700	Which is the surface of the headquarters of the South Asian Association for Regional Cooperation?	+headquarters location +area	+ISNI	Not top 5
+16425	23	Q2105	What position does Jacques Chirac hold?	+position held +applies to jurisdiction	+position held +instance of	Not top 5
+13452	21	Q160232	Since Q48460 is 177.7, what is the antonym of hatred?	+opposite of +Dewey Decimal Classification	+PSH ID	Not top 5
+9533	24	Q32884	who were the  memberr  and creater of   green _lantern?	+member of, +creator	+Encyclopædia Britannica Online ID	Not top 5
+4109	7	Q128956	On February 8, 1974, what position did Harold Wilson hold?	+position held *end time	+position held *start time	Top 5
+10197	24	Q4636	Barbara Streisand what nominated and received what award?	+nominated for, +award received	+Deutsche Synchronkartei actor ID	Not top 5
+11469	9	Q196560	When did Kelsey Grammer get divorced, and who was he married to?	+spouse *end time	+Twitter username *point in time	Not top 5
+16201	18	Q5536881	What is the field of this employment of employment of George Bellew-Bryan, 4th Baron Bellew ?	+occupation +field of this occupation	+position held +field of this occupation	Top 5
+29514	22	Q1014	Which is the diplomatic relation for Liberia?	+diplomatic relation	+diplomatic relation *statement is subject of	Top 5
+15696	23	Q214723	Who has kid of songwriter of The Gold Rush ?	+composer +child	+Bibliothèque nationale de France ID	Not top 5
+5740	7	Q16473	Who did Steve Martin mary in the year 1986?	+spouse *start time	+Goodreads author ID *point in time	Not top 5
+26520	22	Q380075	The name for a female advocate?	+female form of label	+ISCO-88 occupation code	Top 5
+17375	23	Q295073	What language does Tite Kubo speak?	+languages spoken, written or signed +native label	+Nationale Thesaurus voor Auteurs ID	Not top 5
+10014	24	Q210059	Who is the employer and spouse of Neil Gaiman?	+spouse, +employer	+Bibliothèque nationale de France ID	Not top 5
+13105	21	Q318604	What school was attended by Irving Penn, created in 1985-0-0?	+educated at +inception	+Bibliothèque nationale de France ID	Not top 5
+14697	18	Q677290	who film producer of predecessor of stormbringer ?	+follows +producer	+producer +instance of	Top 5
+4355	6	Q160554, Q42562461	When did Muhammed Ali Jinnah hold the position of President of the Constituent Assembly of Pakistan?	+position held *end time	+position held *start time	Top 5
+17981	18	Q549616	What instrument does the record producer play in Get your Gunn	+producer +instrument	+AllMusic album ID	Not top 5
+299	16	Q11256, Q796897	Was the dictator, Fidel Castro, the Prime Minister of Italy?	+position held	-chairperson	Top 5
+10408	8	Q202056, Q170574	When did Hank Azaria marry Helen Hunt?	+spouse *start time, *place of marriage	+spouse *start time	Top 5
+21387	5	Q263725, Q5	Who was the doctoral advisor for Janet Yellen?	+doctoral advisor +instance of	-doctoral advisor +instance of	Top 5
+1093	19	Q345	How many people currently support Mary?	+said to be the same as	+Commons gallery	Not top 5
+1733	20	Q569057	How many have quality stiffness?	-has quality	-symptoms	Not top 5
+16482	18	Q92030	What university did Max Marcuse attend?	+educated at +rector	+Nationale Thesaurus voor Auteurs ID	Not top 5
+16219	18	Q16260511	Who is the child of Wanyan Ningji's sister?	+sibling +father	+instance of +Gran Enciclopèdia Catalana ID	Not top 5
+16304	18	Q3247886	Whose motion picture studio is a part of series of The Stolen Eagle?	+part of the series +production company	+part of the series +instance of	Not top 5
+13657	21	Q170258	"Which is streak color of feldspar, where label in sign language is Csc-blanc-spreadthesign.ogv ?"	+streak colour +label in sign language	+streak colour +Europeana Fashion Vocabulary ID	Not top 5
+10104	24	Q39918	What is the parent tax and the taxon of Almond?	+taxon synonym, +parent taxon	+TAXREF ID	Not top 5
+14919	23	Q1162700	What is the ISCO work code of Daniel Shays' work?	+occupation +ISCO-88 occupation code	+ISNI	Not top 5
+8495	6	Q3140024	What country has produced a total of 3.78504e+08 Honeycrisp?	+total produced *country	+total produced	Top 5
+11493	9	Q76	What position was held by Obama, and when was this position held?	+position held *elected in	+position held *start time	Not top 5
+19714	5	Q1035, Q3947	Where was Charles Darwin born?	+place of birth +instance of	-occupant +instance of	Top 5
+14482	23	Q1062	What is the diplomatic relation of the sovereign state of Lake Ontario?	+country +diplomatic relation	+basin country +diplomatic relation	Top 5
+17270	18	Q21500303	Which items are necessary to play Kilhoù Koz Bro Bagan ?	+uses +sport	+uses +Art & Architecture Thesaurus ID	Top 5
+8805	6	Q18994, Q103618	Luise Rainer was nominated for Best Actress for what?	+nominated for *statement is subject of	+nominated for *for work	Top 5
+12734	21	Q111739	human population is 31232bordered by of Puerto Princesa	+shares border with +population	+population *point in time	Not top 5
+9884	24	Q43203	who is the discography and filmography of Clint_Eastwood?	+discography, +filmography	+Union List of Artist Names ID	Not top 5
+17248	18	Q46231801	what is the higher taxon of motif of fantastic bird MG 17727	+depicts +parent taxon	+discoverer or inventor +Académie des Inscriptions et Belles-Lettres member ID	Not top 5
+13649	21	Q8216, Q146078	What is the main topic of  the Greek alphabet, that has the cases which is an accusative case?	+facet of +has grammatical case	+use +has grammatical case	Top 5
+17892	23	Q192993	Java Man is the taxon parent of what time?	+parent taxon +start time	+parent taxon +instance of	Not top 5
+2236	20	Q840660	How many times does carbon-14 decay?	-decays to	+decays to	Top 5
+13506	21	Q471240, Q1242555	Who is the (lyricist) of (Der Rosenkavalier), with the (Christian name) of (Hugo)?	+lyrics by +given name	+librettist +given name	Top 5
+6462	6	Q47780, Q20127495	What work is Zaha Hadid known for in addition to Capital Hill Residence?	+notable work *owned by	+notable work	Top 5
+26214	22	Q188096	What is the TGN ID for Penang?	+Getty Thesaurus of Geographic Names ID	+Freebase ID	Not top 5
+28671	11	Q177826	Wich meansoccupation of clergy ?	-occupation	+MeSH descriptor ID	Not top 5
+10007	24	Q1191	Who is Maharashtra's head of government and the head of state?	+head of government, +head of state	+Bibliothèque nationale de France ID	Not top 5
+13318	21	Q307312	"Who is born in of Abd al-Mu'min, which has coordinate location is 35.013057 -1.747534 ?"	+place of birth +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+14592	18	Q287542	What is informed by supervisor of Robert C. Merton ?	+doctoral advisor +influenced by	+Geni.com profile ID	Not top 5
+14911	18	Q48133142	What is in the department on street of convento de las Clarisas?	+located on street +located in the administrative territorial entity	+architect +archINFORM person or group ID	Not top 5
+1048	19	Q788	How many basin countries are in the Arctic Ocean?	+basin country	+drainage basin	Top 5
+10065	24	Q170208	What are the files founded by Quakers?	+archives at, +founded by	+founded by, +founded by	Not top 5
+17363	18	Q303064	Which TV presenter theme is international versions of Wheel of Fortune ?	+based on +presenter	+facet of +presenter	Top 5
+8229	7	Q172	What was located in the administrative territorial entity of Toranto during 1840?	+located in the administrative territorial entity *end time	+located in the administrative territorial entity *start time	Not top 5
+9758	24	Q79460	Which has cause and the subject has role of Antibody ?	+has cause, +subject has role	+Language Council of Norways termwiki ID	Not top 5
+17024	23	Q553279	I want to know at what took part of Ralf Schumann?	+participant in +point in time	+Sports-Reference.com Olympic athlete ID	Not top 5
+10709	8	Q274606, Q271148	Who followed Berengar I of Italy as monarch?	+noble title *followed by, *follows	+noble title *follows, *followed by	Top 5
+27378	11	Q208451	What is calcium chloride used to treat?	-drug used for treatment	+DSSTox substance ID	Not top 5
+11793	21	Q207332	What is the language of the name of All Quiet on the Western Front whose abbreviation is німецька?	+language of work or name +short name	+SELIBR ID	Not top 5
+13743	21	Q11758	What residence of L.L. Zamenhof has a surface area of 517.24?	+residence +area	+Bibliothèque nationale de France ID	Not top 5
+9976	24	Q525	What is the notation and parent astronomical body of the Sun?	+notation, +parent astronomical body	-instance of +parent astronomical body, +Gran Enciclopèdia Catalana ID	Not top 5
+26472	22	Q147096	Which is the FloraCatalana ID of Citrus ×aurantium?	+FloraCatalana ID	+Tropicos ID	Top 5
+1576	19	Q42591	How many developers are there for MP3?	+developer	+developer +instance of	Top 5
+29057	22	Q469550	Which is the signature for Andrei Mironov?	+signature	+ISNI	Not top 5
+2879	13	Q11303, Q595448	Name the postmodern skyscraper with the most floors below ground ?	-instance of +architectural style, +floors below ground	-instance of +movement, +floors below ground	Top 5
+26440	11	Q9471	What is the study of epistemology?	-studied by	+Library of Congress authority ID	Not top 5
+14177	21	Q43642	What subgroup of Apteryx populations has 4793700 members?	+endemic to +population	+endemic to +member of	Top 5
+14380	18	Q23844	What is George Clooney known for?	+member of +founded by	+Behind The Voice Actors person ID	Not top 5
+26801	22	Q273210	Is James Baldwin in the KLfG Critical Dictionary of foreign contemporary literature.	+Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID	+RERO ID	Not top 5
+16057	18	Q887237	What region did Maria Kryuchkova die from?	+cause of death +location	+place of death +contains administrative territorial entity	Not top 5
+9961	24	Q694790	What is said to be the same as the present in work of Lex_Luthor ?	+said to be the same as, +present in work	+said to be the same as, +said to be the same as	Not top 5
+16033	18	Q3612339	Who is the succesor of Allan in Wonderland?	+follows +performer	+Freebase ID	Not top 5
+12955	21	Q44042	What used language of Das Lied der Deutschen has the shortened name of німецька?	+language of work or name +short name	-anthem	Top 5
+15797	23	Q34428	Who are the children of the husbands of Philip II of France?	+spouse +child	+child *date of birth	Top 5
+16802	23	Q1128535	Who is the mayor of the Fred Ott's Sneeze?	+filming location +head of government	+FilmAffinity ID	Not top 5
+3156	13	Q355304, Q37	What is the watercourse with the highest length whose country is Lithuania ?	-instance of +country, +length	-instance of +located in the administrative territorial entity, +length	Not top 5
+22667	5	Q173139, Q6256	What is the country of origin of George Weah?	+country for sport +instance of	+country of citizenship +instance of	Top 5
+16378	18	Q3244192	What is the sports season of the Chirripo National Park mountain range?	+mountain range +time period	+mountain range	Not top 5
+10127	24	Q7785	What is the office of the head of the organization and the seat of the Commonwealth of Nations?	+office held by head of the organization, +headquarters location	+Gran Enciclopèdia Catalana ID	Not top 5
+17094	23	Q140124	Who gave the date of the end of mentor of Muslim ibn al-Hajjaj ?	+student of +date of death	+Bibliothèque nationale de France ID	Not top 5
+25742	22	Q47476	What is the Patrimonio Inmueble de Andalucía ID for Alhambra?	+Patrimonio Inmueble de Andalucía ID	+Gran Enciclopèdia Catalana ID	Top 5
+9838	24	Q131755	What is the genetic association of Bipolar disorder and what drug is used for treatment?	+genetic association, +drug used for treatment	+symptoms +drug used for treatment	Top 5
+26254	22	Q174546	Which is the Theaterlexikon der Schweiz online ID for Antichrist?	+Theaterlexikon der Schweiz ID	+Brockhaus Enzyklopädie online ID	Top 5
+28639	11	Q38926	Which is the genre for news?	-genre	-radio format	Top 5
+13260	21	Q125434	In the administrative unit of Port Elizabeth what has wgs 84 and is -33.95?	+located in the administrative territorial entity +coordinate location	+GND ID	Not top 5
+5970	7	Q34664	What happened in Hiroshima in year 1904?	+instance of *start time	+significant event +point in time	Not top 5
+14303	23	Q1304952	What country is next to Tim Conway?	+country of citizenship +shares border with	+Bibliothèque nationale de France ID	Not top 5
+17882	23	Q318471	What is the ideology of party member Nigel Farage?	+political ideology, +member of political party	+member of political party +political ideology	Not top 5
+15179	23	Q965825	Where did Governor Pedro Romero die?	+place of death +office held by head of government	+Bibliothèque nationale de France ID	Not top 5
+13237	21	Q746990	Brahman, with the Women in Red banner of WV banner Hinduism.jpg, had what as its main topic?	+facet of +page banner	+Encyclopædia Britannica Online ID	Not top 5
+26373	22	Q128896	What is Advanced Micro Devices ISIN?	+ISIN	+ISNI	Top 5
+9711	24	Q188044	What are the sex and the occupation of Merlin?	+sex or gender, +occupation	+Bibliothèque nationale de France ID	Not top 5
+21005	10	Q60995, Q2031836	Mention the Russian Orthodox Church's eastern orthodox church body.	-religion +instance of	-diocese +instance of	Top 5
+16548	18	Q460160	Does Iullus Antonius have a father and brother?	+sibling +father	+genealogics.org person ID	Not top 5
+3736	6	Q133575	When was the Cave of Altamira being used by humans?	+inception *latest date	+heritage designation *start time	Not top 5
+16790	23	Q151075	Who govern's Francis I, Holy Roman Emperor's workplace?	+work location +head of government	+Library of Congress authority ID	Not top 5
+15316	18	Q21192371	who mortally wounded by of motif of the awakening of Adonis ?	+depicts +killed by	+creator +Bibliothèque nationale de France ID	Not top 5
+9765	24	Q105158	Which is the native language and languages spoken, written or signed of Christopher_Lambert ?	+languages spoken, written or signed, +native language	+Bibliothèque nationale de France ID	Not top 5
+15256	18	Q1449452	In what town is the work location of Franz Wiedemann?	+work location +located in the administrative territorial entity	+work location +contains administrative territorial entity	Not top 5
+4480	6	Q1221	When did the  postal service start using ID for Idaho?	+short name *start time	+C-SPAN organization ID	Not top 5
+4616	7	Q15078152, Q48493	What is software version of Tinder that is operating system is iOS ?	+software version identifier, *operating system	+operating system	Top 5
+14327	23	Q969635	What work of made by of Hallelujah ?	+creator +occupation	+Carnegie Hall work ID	Not top 5
+14530	23	Q277365	What is the domain name for the nationality of Paulino Alcántara?	+country of citizenship +top-level Internet domain	+member of sports team +Twitter username	Not top 5
+15708	23	Q104085	What is the label in sign language of the streak of color asbestos?	+streak colour +label in sign language	+Europeana Fashion Vocabulary ID	Not top 5
+27445	22	Q1065	Which is Sina Weibo ID for United Nations?	+Sina Weibo user ID	+BabelNet ID	Not top 5
+21799	5	Q307, Q5	Which was the person as doctoral student of Galileo Galilei?	+doctoral student +instance of	-doctoral student +instance of	Top 5
+16317	23	Q373948	What was the key incident of the Adrian Piper trend?	+movement +significant event	+Library of Congress authority ID	Not top 5
+14317	18	Q17512776	Who gave the notable books of written by of Aria variata alla maniera italiana ?	+composer +notable work	+Library of Congress authority ID	Not top 5
+10175	24	Q213812	What position and team did Babe Ruth play for?	+position played on team / speciality, +member of sports team	+Bibliothèque nationale de France ID	Not top 5
+26394	22	Q448764	What's Stephen Spender's Julien ID?	+Julien ID	+Brockhaus Enzyklopädie online ID	Not top 5
+1767	20	Q1289	How many attractions are there in Grenoble?	-destination point	+SIREN number	Not top 5
+3213	14	Q30092776, Q28854976	What is the lake with the smallest surface area that has the highest relative chemical pollution?	-instance of +significant environmental impact, +area	-instance of +significant environmental impact, +lakes on river	Not top 5
+27991	22	Q132952	What is the elCinaema ID of Adam Sandler?	+elCinema person ID	+TV.com ID	Top 5
+12660	21	Q51882459	What is the gender of Anthony Fantano whose acronym is мужской?	+sex or gender +short name	+Reddit username	Not top 5
+1431	19	Q57124	How many names are there for Sigismund in native language?	+name in native language	+NNDB people ID	Not top 5
+17330	23	Q871279	What is the manifestation  of the causes of deposition?	+has effect +manifestation of	-manifestation of	Top 5
+16756	23	Q17427	Who is the parent of the leader of Communist Party of China?	+chairperson +mother	-parent organization	Top 5
+4845	7	Q30449	What was Avril Lavigne's original given name ?	+given name *series ordinal	+SoundCloud ID *named as	Not top 5
+13473	21	Q152306, Q15180	Who is the suspect in conflict with Carl Gustaf and Emil Mannerheim that has lived in the Soviet Union?	+conflict +participant	+conflict +country	Top 5
+14746	23	Q2814	How many people does Halle have?	+country +population	+located in the administrative territorial entity +population	Not top 5
+29441	11	Q389688	What is the country of origin of Achaemenid Empire?	-country of origin	+continent +instance of	Top 5
+11510	9	Q458	What follows the European Union and when was its inception?	+follows *inception	+inception *start time	Top 5
+26034	22	Q264619	Which is the immediate cause of grilling?	+immediate cause of	+immediate cause of +instance of	Not top 5
+16563	18	Q223239	Who is the sister of daddy Abaqa Khan?	+father +sibling	+Gran Enciclopèdia Catalana ID	Not top 5
+28251	22	Q1039	What is the UNDP country code of São Tomé and Príncipe?	+UNDP country code	+ISO 3166-1 numeric code	Not top 5
+12144	21	Q175821	How big is l micrometre?	+measured physical quantity +quantity symbol	+conversion to SI unit	Not top 5
+16470	23	Q430371	Whats the MASL of HQ location of the Fédération Internationale de Motocyclisme ?	+headquarters location +elevation above sea level	+GND ID	Not top 5
+15055	18	Q32430713	What is in the territory of Bakhtiarov?	+located in the administrative territorial entity +located on terrain feature	+GeoNames ID	Not top 5
+8675	6	Q57641, Q3315094	Who replaced Viktor Orbán as Prime Minister of Hungary?	+position held *replaced by	+position held *replaces	Top 5
+9660	24	Q290	What is another name for sex?	+partially coincident with, +said to be the same as	-instance of	Top 5
+17942	23	Q6766526	What is manufactured using prune?	+made from material +natural product of taxon	+made from material +instance of	Not top 5
+10026	24	Q3090378	Mike Trout plays which position and is what gender?	+position played on team / speciality, +sex or gender	+Baseball-Reference.com minor & foreign league player ID	Not top 5
+28908	22	Q1707	What is contains for kiel ?	+contains	+population *determination method	Not top 5
+26176	22	Q13369	What is the ISTAT ID of Rimini?	+ISTAT ID	+Ringgold ID	Top 5
+15255	18	Q3659862	Which team did Carlo Soldo play for?	+member of sports team +league	+member of sports team +instance of	Top 5
+6913	7	Q83333	What award did James D. Watson receive in 1985?	+award received *start time	+award received *point in time	Top 5
+16126	23	Q6294	What is the blood group of the person married to Hillary Clinton?	+spouse +blood type	+Collective Biographies of Women ID	Not top 5
+1030	19	Q30547	Name the religions names of the  Mother Teresa ?	+religious name	+religion *affiliation	Not top 5
+9853	24	Q204	What is said to be the same as and the opposite of of 0 ?	+opposite of, +said to be the same as	+Store norske leksikon ID	Not top 5
+9981	24	Q199369	Naomi Cambell has what eye color and hair color?	+hair color, +eye color	+Scope.dk person ID	Not top 5
+9904	24	Q13677	Where is NYSE headquarter located an when was it formed?	+headquarters location, +location of formation	+headquarters location +instance of	Not top 5
+26298	22	Q19185	Which is the National Library of Wales ID for George Bernard Shaw?	+National Library of Wales Authority ID	+At the Circulating Library ID	Not top 5
+14093	21	Q871513	Who was the composer of the Super Mario Bros. theme and was born August 13, 1961?	+composer +date of birth	+Freebase ID	Top 5
+9772	24	Q6276882	Where does Jordan Peterson reside, and what is his current profession?	+residence, +occupation	+Bibliothèque nationale de France ID	Not top 5
+8928	6	Q180852, Q4806630	Zhang Ziyi won the Best Actress award in Asian Film award for which film?	+award received *for work	+award received *statement is subject of	Top 5
+9654	24	Q85	What is the history of the people of Cairo?	+history of topic, +category of associated people	+Getty Thesaurus of Geographic Names ID	Not top 5
+27168	22	Q1759624	What is the Open Secrets Organization I.D. for the National Association of Broadcasters?	+OpenSecrets organization ID	+GND ID	Top 5
+14365	23	Q3711	When is diplomatic relation of county seat of of Belgrade ?	+capital of +diplomatic relation	+OpenStreetMap relation ID	Top 5
+12257	21	Q41876	What administrative unit of Reims, is located at coordinates 49.26666667 4.03333333?	+located in the administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+5635	7	Q170446	Sumy Oblast was a citizen of what country in 1991?	+country *end time	+country *start time	Not top 5
+29115	22	Q44687	Who is the manager/director of Schutzstaffel?	+director / manager	+GND ID	Not top 5
+17233	23	Q8777	What is the Hypertext Transfer Protocol for Garison?	+standards body +headquarters location	-depends on software	Not top 5
+2168	20	Q42177	How many beds are in the facility?	-has facility	+exact match	Top 5
+5010	7	Q312639	Who was Fred Perry's wife in 1940?	+spouse *end time	+spouse *start time	Not top 5
+15116	18	Q12609605	What happens in rural cities of Zhongshi Korean International School?	+located in the administrative territorial entity +contains administrative territorial entity	+Google Knowledge Graph ID	Not top 5
+14752	23	Q4448	Where has local government areas and location of work of Benedict XV ?	+work location +contains administrative territorial entity	+Bibliothèque nationale de France ID	Not top 5
+4493	7	Q2423	What territory was Yaroslavl a part of on 10 March 1936?	+located in the administrative territorial entity *end time	+located in the administrative territorial entity *start time	Not top 5
+26258	22	Q41621	How do you say Haifa?	+vocalized name	+OmegaWiki Defined Meaning	Not top 5
+26834	22	Q9726	What is Philadelphia Museum of Art ID for Gioachino Rossini ?	+Philadelphia Museum of Art work ID	+Encyclopædia Britannica Online ID	Not top 5
+25296	2	Q18142, Q1510450	Name a skyscraper designed by Atkins that contains the word "Al" in its name	-instance of +structural engineer	-instance of +architect	Top 5
+11673	9	Q56016	To whom did Katharine Hepburn get married and when did it end?	+unmarried partner *end time	+spouse *end time	Top 5
+13890	21	Q3916	"Which is county seat of Kalimantan Barat, whose surface is 107.8 ?"	+capital +area	+administrative code of Indonesia	Not top 5
+28490	11	Q43934	Which is the twinned administrative body for Liaoning?	-twinned administrative body	+twinned administrative body	Top 5
+13248	21	Q170400	Which is the moveable object location of the Battle of Kunersdorf whose coordinate moveable object location is 52.35095 14.63419 ?	+location +coordinate location	+Encyclopædia Britannica Online ID	Not top 5
+9712	24	Q1177	What are the executive body and the legislative body of Himachal Pradesh?	+executive body, +legislative body	+Gran Enciclopèdia Catalana ID	Not top 5
+14080	21	Q134635	What districts of Saitama have the gps coordinates of 35.95 139.7?	+contains administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+16923	23	Q12174	What is the genetic associations of obesity?	+genetic association +ortholog	+contributing factor of +genetic association	Not top 5
+26527	11	Q129429	What is  in the performer of Vivien Leigh ?	-performer	+Bibliothèque nationale de France ID	Not top 5
+29696	22	Q572924	Which is the KDG Komponisten der Gegenwart for Anthony Braxton?	+KDG Komponisten der Gegenwart ID	+GND ID	Top 5
+25984	22	Q678	Which is the maritime identification digits of Tonga?	+maritime identification digits	+ITU letter code	Not top 5
+15620	23	Q5664	What is bordered by Rome?	+place of death +shares border with	+place of birth +shares border with	Top 5
+17355	18	Q24039782	Who is the administrator of the hub airport of Pan Am Flight 841?	+operator +airline hub	+Google Knowledge Graph ID	Not top 5
+14521	23	Q369270	What is add up to richness rate of citizenship of Bruno Sammartino ?	+country of citizenship +total fertility rate	+Twitter username	Not top 5
+5514	6	Q1100	What is vapor pressure of tellurium of temperature in 0?	+vapor pressure *temperature	+vapor pressure	Top 5
+9750	24	Q103578	Who are Macaulay Culink's father and spouse?	+spouse, +father	+Deutsche Synchronkartei actor ID	Not top 5
+9781	24	Q309643	Where did Ed Gein die and where was he buried?	+place of death, +place of burial	+Bibliothèque nationale de France ID	Not top 5
+29317	22	Q590911	What is the B.R.A.H.M.S artist ID of Lou Harrison?	+BRAHMS artist ID	+KDG Komponisten der Gegenwart ID	Not top 5
+14629	23	Q17452	What medium is preceded by Grand Theft Auto V?	+distribution format +follows	+budget	Not top 5
+17398	23	Q1763315	What is lake of of Doordarshan?	+headquarters location +located in or next to body of water	+Encyclopædia Britannica Online ID	Top 5
+17336	18	Q8025665	What is the extended from of the inspiration of Winnie the Pooh?	+inspired by +based on	+Freebase ID	Not top 5
+8221	6	Q295593, Q103916	Which movie did Lionel Barrymore receive the Best Actor award?	+award received *for work	+award received *statement is subject of	Top 5
+28578	11	Q1318776	What is the active ingredient in testosterone?	-has active ingredient	+active ingredient in	Top 5
+1103	19	Q32500	How many names are there for Charles V?	+name in native language	+given name	Not top 5
+16210	23	Q785035	What is the postcode of the county seat of the Province of Georgia?	+capital +postal code	+GND ID	Not top 5
+13187	21	Q110181	According to the geolocation of -71.1247, where did Henrietta Swan Leavitt graduate from?	+educated at +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+25892	22	Q19809	What commemorates Christmas?	+commemorates	+Bibliothèque nationale de France ID	Not top 5
+15651	23	Q356639	Which is is proximately caused by of in conflict of Nevil Shute ?	+conflict +has immediate cause	+Geni.com profile ID	Not top 5
+28321	22	Q228808	Which is the FFA ID for Marie-José Pérec?	+French Athletics Federation athlete ID	+Freebase ID	Not top 5
+17911	18	Q4562689	Who gave theinstrument played of play of 1930 Speedway Northern League ?	+sport +uses	+Freebase ID	Top 5
+361	16	Q365144, Q2312659	Did Caitlyn Jenner received the Danish Sports Name of the Year award?	+award received	+personal best	Not top 5
+15483	18	Q42323	Where is the place of Death of Pope Pius XI?	+place of death +head of state	+consecrator +place of death	Not top 5
+15337	23	Q892	J. R. R. Tolkien is part of what trend?	+patient of +movement	+movement	Not top 5
+4166	6	Q484365, Q21578	when Bank of China has owned by as National Council for Social Security Fund ?	+educated at *end time	+educated at *end time, *end time	Top 5
+1875	20	Q93172	How many children does Gaia have?	-child	+child	Top 5
+1554	19	Q1588	How many nicknames does Louisiana have?	+nickname	+GeoNames ID	Not top 5
+9859	24	Q172822	What is the lake inflow and the drainage basin of the Hoover Dam?	+drainage basin, +inflows	+GeoNames ID	Not top 5
+20555	10	Q170583, Q47461344	Name the written work followed by Pride and Prejudice	-follows +instance of	-based on +instance of	Top 5
+8236	6	Q42037, Q18020453	is Gustave real name j. m.g. le clezio?	+given name *series ordinal	+given name	Top 5
+9524	24	Q173626	What type of game is Pac-Man, and what are its main characters?	+characters, +genre	+characters, +characters	Not top 5
+16234	23	Q53454	What is the sibling of John III Sobieski employed as?	+sibling +occupation	+sibling +instance of	Not top 5
+10196	24	Q1177	where is the office held by head of government and head of state of Himachal_Pradesh	+office held by head of government, +head of state	+Gran Enciclopèdia Catalana ID	Not top 5
+27114	11	Q1196129	Who is represented by the spouse?	-represented by	+MeSH descriptor ID	Not top 5
+27798	11	Q214173	Where is the place of publication of Trujillo?	-place of publication	+GeoNames ID	Not top 5
+12142	21	Q1186	What is the lowest point of Kerala that has a GPS location of 9.425, 76.463888888889?	+lowest point +coordinate location	+GeoNames ID	Not top 5
+13458	21	Q717819, Q5287	What is the surname of Keiko Matsuzaka, whose audio language is Japanese?	+family name +language of work or name	+given name +language of work or name	Top 5
+17685	23	Q219354	What is studied in the plays of Ian Rush?	+sport +practiced by	+Store norske leksikon ID	Not top 5
+20716	10	Q31113, Q5	Who is the member of Kuomintang ?	-member of political party +instance of	-member of +instance of	Top 5
+27513	11	Q2596569	What is practiced by the housekeeper?	-practiced by	+ESCO Occupation ID	Not top 5
+11525	9	Q42831	When did residence of Ivan Turgenev and earliest date?	+residence *earliest date	+educated at *earliest date	Top 5
+8208	7	Q107194	Where did George Grosz live in 1933?	+residence *end time	+residence *start time	Not top 5
+10155	24	Q4093	What is the category for films shot at this location and the category of associated people of Glasgow ?	+category of associated people, +category for films shot at this location	+category for films shot at this location	Not top 5
+5020	7	Q807, Q660628	What district is Lausanne in?	+instance of, *of	-contains administrative territorial entity	Top 5
+22671	10	Q9592, Q2061186	What religion do followers of the Catholic Church practice?	-parent organization +instance of	-religion +instance of	Top 5
+27052	22	Q5597	Who is the student of Raphael?	+student of	+VIAF ID	Not top 5
+1317	19	Q2095549	How many gentlemen label for the  aircraft pilot ?	+male form of label	+Iconclass notation	Top 5
+9526	24	Q122634	What is said in Robin Hood's work?	+said to be the same as, +present in work	+Bibliothèque nationale de France ID	Not top 5
+26431	22	Q4970	What is the Google Arts & Culture ID for Hangzhou?	+Google Arts & Culture partner ID	+Encyclopædia Britannica Online ID	Not top 5
+3379	14	Q5, Q10871364	Who is the lightest baseball player?	-instance of +occupation, +mass	-instance of +occupation, +shooting handedness	Top 5
+17647	23	Q392189	When was the subsidiaries of Universite de Montreal created?	+subsidiary +inception	+subsidiary +instance of	Not top 5
+2893	13	Q16986328, Q7233	Name the Lockheed-manufactured Constellation variant with the highest operating altitude ?	-instance of +manufacturer, +maximum operating altitude	-instance of +developer, +maximum operating altitude	Top 5
+14674	23	Q1516437	What is the historical language in Guyana?	+facet of +official language	+facet of +Getty Thesaurus of Geographic Names ID	Not top 5
+26014	22	Q234	Please tell me Flanders' NIS/INS code?	+NIS/INS code	+ISO 3166-2 code	Not top 5
+6247	7	Q233984	Where Tsai Ing-wen had her collegre degree on 1978?	+educated at *end time	+educated at *start time	Not top 5
+3657	6	Q202735, Q107258	What work is achieved by Billy Bob Thornton at Acadaemy Award for Best Writing ,Adapted Screenplay?	+award received *for work	+award received *statement is subject of	Top 5
+17780	18	Q20684666	Nathan Nandala Mafabi is a Ugandan accountant, lawyer, and politician. He represents ... Nandala Mafabi. From Wikipedia, the free encyclopedia. Jump to navigation Jump to search. Nandala Mafabi ... Residence, Kampala, Uganda. Nationality ...Missing: ocean ‎| ‎Must include: ‎ocean	+residence +located in or next to body of water	+country of citizenship +contains administrative territorial entity	Not top 5
+10403	8	Q939, Q235815	Name the mother and the date on which she gave birth to Princess Maria Amélia of Brazil	+child *date of birth, *mother	+child *date of birth	Top 5
+14939	23	Q467374	Who uses Pro Evolution Soccer?	+platform +GUI toolkit or framework	+sport +uses	Not top 5
+10475	8	Q34417, Q209715	When was Philip II of Spain coronated?	+significant event *location, *applies to jurisdiction	+significant event *point in time	Not top 5
+5590	6	Q134646, Q19546	Who replace Boniface VII that was a pope?	+position held *replaced by	+position held *replaces	Top 5
+17482	23	Q100828	What is the acreage of the work location of Christian Wihelm Braune?	+work location +area	+Nationale Thesaurus voor Auteurs ID	Not top 5
+15954	23	Q62414	Rudolf Augstein competed for what office that he holds?	+position held +participant in	+Digitale Bibliotheek voor de Nederlandse Letteren author ID	Not top 5
+16536	23	Q459732	WHICH IS THE CAPITAL TOWN OF ADJACENT TO SYTHET DIVISION	+shares border with +capital	+contains administrative territorial entity +capital	Not top 5
+16629	23	Q6484	What country is the Airbus A350 made in?	+location of creation +shares border with	+manufacturer +Legal Entity Identifier	Not top 5
+20983	10	Q302, Q1406161	What is the artistic theme for followers of Jesus Christ?	-significant person +instance of	-characters +instance of	Top 5
+21076	10	Q193701, Q431289	Which company created Space X	-developer +instance of	-manufacturer +instance of	Top 5
+14570	18	Q3305518	Which key incident of item operator of Memorial to the Engine Room Heroes of the Titanic ?	+operator +significant event	+IWM memorial ID	Not top 5
+10165	24	Q129104	What is the health specialty  drug used for treatment of Anthrax ?	+drug used for treatment, +health specialty	+drug used for treatment, +drug used for treatment	Top 5
+15335	23	Q243442	What is the title in the official language of an employee of Leo Baekeland?	+employer +native label	+Library of Congress authority ID	Not top 5
+10870	8	Q11578, Q6952077	When did Venus Williams receive the "NAACP Image Award – President's Award"?	+award received *point in time, *winner	+award received *point in time	Top 5
+17240	23	Q201674	What is the hight of  the studio where filmed of The Deer Hunte ?	+filming location +elevation above sea level	+VIAF ID	Not top 5
+16180	23	Q170379	Who is the son of Hydra?	+father +child	+VIAF ID	Not top 5
+15425	23	Q209282	Where was the actress from Frasier born?	+cast member +place of birth	+Il mondo dei doppiatori ID	Not top 5
+26204	11	Q204853	What is the transfer location for Tokyo International Airport?	-airline hub	+place served by transport hub	Top 5
+9509	24	Q8461	Which is the facet of that has effect of Racism ?	+has effect, +facet of	+has effect, +has effect	Not top 5
+17700	23	Q183144	What is the trend of Epictetus's students?	+student +movement	+RERO ID	Not top 5
+16328	18	Q1338188	Who is the husband of the child of Emmanuel Bourdieu?	+mother +spouse	+Bibliothèque nationale de France ID	Not top 5
+9224	7	Q174306	What is the instance of Republic of Genova since the year of 1005?	+instance of *start time	+Bibliothèque nationale de France ID	Top 5
+17833	18	Q40185	What battle did the characters of The Divine Comedy engage in?	+characters +conflict	+Bibliothèque nationale de France ID	Not top 5
+27334	22	Q70995	What is Ottomar Anschutz's Photographer's Identities Catalog ID?	+Photographers' Identities Catalog ID	+Musée d'Orsay artist ID	Top 5
+9530	24	Q49001	What is the place of birth and the country of citizenship of Whoopi_Goldberg ?	+country of citizenship, +place of birth	+Bibliothèque nationale de France ID	Not top 5
+10075	24	Q133823	What is the symptoms of the drug used for treatment of Migraine ?	+symptoms, +drug used for treatment	+symptoms	Not top 5
+16506	18	Q4763358	What label before was of Angle of Entry ?	+follows +record label	+Freebase ID	Not top 5
+25425	4	Q2178147, Q48204	Name a trade association that starts with letter A	-instance of +legal form	+subclass of	Top 5
+9891	24	Q49112	Who is the chairperson and the member of of Yale_University ?	+chairperson, +member of	+educated at *academic major, *academic degree	Not top 5
+10979	8	Q209118, Q22923081	Who preceded and followed Chlothar II, King of Franks?	+noble title *followed by, *follows	+noble title *follows, *followed by	Top 5
+13206	21	Q6500483	"Which county seat in Nguyen Dynasty, has the label in the original language Thành Phố Huế ?"	+capital +native label	+Union List of Artist Names ID	Not top 5
+17028	23	Q203384	Which is the run time of the play of Toronto Maple Leafs?	+sport +duration	-season of club or team	Top 5
+25335	4	Q22989102, Q34201	tell me greek deity that  sibling zeus starts letter with p	-instance of +sibling	-instance of	Top 5
+16998	18	Q6387229	why  the animal species are in location of  ken allen?	+location +species kept	+location +instance of	Top 5
+12628	21	Q13477	What is the working language of Al Jazeera, which has "арабский" as acronym?	+language used +short name	+Twitter username	Not top 5
+10267	8	Q128995, Q41582597	When was Anthony Eden a member of the 38th Parliament of the UK?	+position held *elected in, *end cause	+position held *start time	Not top 5
+14625	23	Q529207	Which is state of participated in by Ronaldo ?	+participant in +country	+participant in	Not top 5
+28543	11	Q41571	How is the medical condition epilepsy treated?	-medical condition treated	+drug used for treatment +instance of	Not top 5
+10491	8	Q172241, Q102427	When was The Shawshank Redemption nominated for the Academy Award for Best Picture?	+nominated for *point in time, *nominee	+nominated for *point in time	Top 5
+2889	13	Q902638, Q11173	Name the lethal excipient mad eof chemical compound ?	-instance of +instance of, +minimal lethal dose	-instance of +instance of, +E number	Not top 5
+15110	18	Q31865255	What is on of the is in the commune of 'Aio?	+located in the administrative territorial entity +located on terrain feature	+located in the administrative territorial entity +contains administrative territorial entity	Not top 5
+15843	18	Q35010324	Where is the academic assembly of Rüdiger Zarnekow ?	+field of work +fabrication method	+Library of Congress authority ID	Not top 5
+11124	9	Q128121	Which award did Mick Jagger receive?	+award received *point in time	+award received *winner	Top 5
+9618	24	Q11998	What is the filmography and discography of Kylie Minogue?	+discography, +filmography	+Deutsche Synchronkartei actor ID	Not top 5
+29242	22	Q524267	Which is Ready64 identifier for Frogger?	+Ready64 ID	+Lemon 64 identifier	Top 5
+12945	21	Q659745	What is based in the Italian front and has a total area of 130000.0	+location +area	+BabelNet ID	Top 5
+14320	18	Q667166	What was constructed out of or the systems of mountains to Septimer Pass?	+mountain range +made from material	+VIAF ID	Not top 5
+11618	9	Q82339	What us Clovis I's noble title and who follows?	+noble title *follows	+Bibliothèque nationale de France ID	Not top 5
+9751	24	Q8684	What areas are located in or next to a body of water and are located in the time zone of Seoul?	+located in time zone, +located in or next to body of water	+located in or next to body of water, +contains administrative territorial entity	Not top 5
+14412	23	Q44903	What is the motto of Lindsay Lohan's home country?	+country of citizenship +motto	+Prisma ID	Not top 5
+12753	21	Q5813	What is the name of the administrative centre of the Canary Islands, that has gps co-ordinates 8.1333-81.45?	+capital +coordinate location	+contains administrative territorial entity +coordinate location	Not top 5
+15559	23	Q46805	Where was Romanesque art founded?	+location +history of topic	+Biblioteca Nacional de España ID	Not top 5
+16883	18	Q255116	Who is the deity of the son of Ogun?	+mother +worshipped by	+GND ID	Not top 5
+14935	18	Q28714628	What principle place has the Grand Mosque of Kut in its village?	+located in the administrative territorial entity +capital	+located in the administrative territorial entity +instance of	Top 5
+28364	11	Q5865714	What is North Dakota's history?	-history of topic	+Library of Congress authority ID	Top 5
+25837	22	Q5582	What is Artsy artist ID for Vincent van Gogh ?	+Artsy artist ID	+National Gallery of Canada artist ID	Not top 5
+27832	22	Q134862	What is INAO product ID for Champagne ?	+INAO product ID	+BabelNet ID	Not top 5
+15339	18	Q73810	Where did the daughter of Stephen Uros I of Serbia die?	+mother +place of death	+Gran Enciclopèdia Catalana ID	Not top 5
+13482	21	Q959588	What is the death place of Kukrit Pramoj, of which the wgs 84 is 13.75?	+place of death +coordinate location	+GND ID	Not top 5
+17091	23	Q146165	Who is the county seat of the Nordic Council?	+headquarters location +capital of	+headquarters location +instance of	Top 5
+17357	18	Q24324524	What genre of music is played by Brynbella the Seat of G. Piozzi Esqr? What venue are they performing?	+published in +genre	+creator +Bibliothèque nationale de France ID	Not top 5
+3123	13	Q21009055, Q21074597	Which flammable liquid carcinogen has the highest exposure limit?	-instance of +instance of, +maximum peak exposure limit	-instance of +instance of, +ceiling exposure limit	Not top 5
+854	17	Q216160, Q3040066, Q21980653	Did Jeremy Clarkson work on Top Gear and The Grand Tour?	+notable work, +notable work	+employer, +employer	Top 5
+17428	23	Q12078	What is displacement treated by  cancer ?	+drug used for treatment +mass	+opposite of +Gran Enciclopèdia Catalana ID	Not top 5
+14666	23	Q365395	What is Michael Manley's son's title?	+father +award received	+Nationale Thesaurus voor Auteurs ID	Not top 5
+7637	7	Q163271	Was Kherson Oblast part of Ukraine on 3-10-1919?	+country *start time	+located in the administrative territorial entity *start time	Top 5
+9861	24	Q181795	Who is the director of photography and the director of The Empire Strikes Back?	+director of photography, +director	+Scope.dk film ID	Not top 5
+16539	18	Q1748253	What is the series that comes before the 37th Venice International Film Festival?	+followed by +part of the series	+Freebase ID	Not top 5
+14415	23	Q184409	What are the municipalities of the sovereign state of Guarulhos?	+country +contains administrative territorial entity	+located in the administrative territorial entity +twinned administrative body	Not top 5
+16819	23	Q282428	Which is AWLD status of  official language of Mamluk Sultanate.	+official language +UNESCO language status	+official language +instance of	Not top 5
+17294	18	Q15920560	who script of created on language of fire line hunting ?	+original language of film or TV show +writing system	+instance of +Quora topic ID	Not top 5
+10730	8	Q138048, Q374457	What was the year and the qualifying degree  obtained by Park Geun-hye in the Sogang University?	+educated at *end time, *academic degree	+educated at *academic major, *academic degree	Not top 5
+10111	24	Q6567	Which is the genre and the performer of Godzilla ?	+performer, +genre	+Bibliothèque nationale de France ID	Not top 5
+11304	9	Q181803	Which movie in the Star Wars series does Star Wars Episode VI: Return of the Jedi follow?	+part of the series *followed by	+part of the series *follows	Not top 5
+14479	18	Q5304139	Which label is preceded by Dr. Hee?	+follows +record label	+MusicBrainz release group ID	Not top 5
+284	16	Q127912, Q1345	Was United States Declaration of Independence signed in Philadelphia?	+location	+signatory	Not top 5
+27310	22	Q23870	What is KANTL member ID for Otto Jespersen ?	+KANTL member ID	+Royal Swedish Academy of Letters member ID	Top 5
+1785	20	Q2865	How many capital's does Kassel have?	-capital	+capital of	Top 5
+788	17	Q9188, Q109858, Q110049	Is the Empire State Building located on Fifth Avenue and 34th street?	+located on street, +located on street	+located in the administrative territorial entity, +located in the administrative territorial entity	Top 5
+4436	6	Q6131983	What position did Oleg of Novgorod, born in the year 900 AD hold?	+date of birth *instance of	+position held *start time	Top 5
+14396	23	Q2033236	In which state is Pamlico Sound located?	+country +diplomatic relation	+located in the administrative territorial entity +pronunciation audio	Not top 5
+14321	18	Q30060514	What was previously the employment of Molly Grue? Where is Molly Grue working now?	+occupation +field of this occupation	+performer +Bibliothèque nationale de France ID	Not top 5
+16828	23	Q144	Who died on at patron saint of dog ?	+patron saint +date of death	+patron saint	Top 5
+14912	18	Q4259064	Which administrative unit is adjacent to Clementi, Singapore?	+shares border with +located in the administrative territorial entity	+located in the administrative territorial entity +shares border with	Top 5
+9585	24	Q17140	What is the record label and genre of the Backstreet Boys?	+record label, +genre	+Bibliothèque nationale de France ID	Not top 5
+11306	9	Q4605	When was Sandra Bernhardt born?	+significant event *point in time	+spouse *start time	Not top 5
+13495	21	Q352906	What is the birth location of David Dudley Field II with an acreage of 14,357?	+place of birth +area	+Bibliothèque nationale de France ID	Not top 5
+1534	19	Q2516	How many positions are held by Helmut Schmidt?	+position held	-officeholder	Top 5
+10563	8	Q133747, Q38104	How much of a reward was William Henry Bragg awarded for achieving highly in his Physics studies?	+award received *prize money, *together with	+award received *together with	Top 5
+17724	18	Q26706865	What is the hometown of shareholder Paul Boyer de Bouillane?	+residence +owned by	+Bibliothèque nationale de France ID	Not top 5
+14352	23	Q1650142	What Mercosur code uses ironing?	+uses +MCN code	+Freebase ID	Not top 5
+9727	24	Q28754	What is the genre and who are the main characters of Paradise Lost?	+characters, +genre	+Bibliothèque nationale de France ID	Not top 5
+10181	24	Q1162	What is the office of the head of government and head of state in Arunachal Pradesh?	+office held by head of government, +head of state	+Gran Enciclopèdia Catalana ID	Not top 5
+17549	18	Q8057440	Which is the branch distributed by You Never Can Tell?	+distributed by +industry	+distributed by +instance of	Not top 5
+14774	18	Q6438498	What sport does Kristina Kabatova play?	+sports discipline competed in +sport	+ISU figure skater ID	Not top 5
+6866	6	Q13369	What is the population of Rimini?	+population *determination method	+population *point in time	Top 5
+22284	5	Q367825, Q5737899	What is the honorific title of Salman of Saudi Arabia?	+honorific prefix +instance of	+noble title +instance of	Top 5
+15040	23	Q40590	What is the hometown of the many-worlds interpretation?	+creator +residence	+Encyclopædia Britannica Online ID	Not top 5
+6686	6	Q162389, Q103916	Was Tony Curtis nominated for an Academy Award for Best Actor?	+nominated for *statement is subject of	+nominated for *for work	Top 5
+26628	22	Q25662	What is the FOIH ID of Juniperus?	+FOIH taxon ID	+Tropicos ID	Top 5
+16197	18	Q2081247	Who gave the  preceeds of game platform of Insector X ?	+platform +followed by	+MAME ROM name	Not top 5
+15170	23	Q204733	What is the population of the birthplace of Gerty Cori?	+place of birth +contains settlement	+place of birth +population	Not top 5
+1314	19	Q103204	How many languages does Flickr support?	+language of work or name	+depends on software	Not top 5
+16303	18	Q4234544	What is first described of subject for Fedor Yevgenyevich Korsh ?	+field of work +discoverer or inventor	+Nationale Thesaurus voor Auteurs ID	Not top 5
+15836	23	Q273508	Who active in of inventor of cosmic inflation ?	+discoverer or inventor +work location	+Gran Enciclopèdia Catalana ID	Not top 5
+4666	6	Q90238, Q24568958	Does  Leeds University Library website contain the archives of George Meredith??	+archives at *official website	+archives at *inventory number	Top 5
+6286	7	Q106345, Q3467704	What are the uses of Ciliophora for aquatic locomotion?	+uses, *statement is subject of	+means of locomotion	Top 5
+5745	6	Q941724, Q80019	What is the quantity of The Carnival of the Animals whose instrumentation is double bass?	+instrumentation *quantity	+instrumentation	Top 5
+16463	18	Q5419303	What is an example of a manufacturers label?	+record label +product or material produced	+performer +instance of	Not top 5
+9572	24	Q740308	What is the parent organization and owner of UNICEF?	+parent organization, +owner of	+Bibliothèque nationale de France ID	Not top 5
+15341	18	Q2708231	What genre of music does Complete Control produce?	+producer +genre	+performer +genre	Top 5
+17245	18	Q7596524	What is the process of construction material of Stadshusbron ?	+made from material +fabrication method	+made from material	Top 5
+2174	20	Q41044	How much is the Russian ruble?	-currency	+price	Top 5
+25565	4	Q15831576, Q29147941	Name a fundamental state of matter that starts with letter G	-instance of +manifestation of	+disjoint union of, *of	Top 5
+9782	24	Q206859	Who is the founder and namesake of Walt Disney World?	+named after, +founded by	+Gran Enciclopèdia Catalana ID	Not top 5
+17954	23	Q3492	who chronology of topic of on river of Sumatra ?	+located in or next to body of water +history of topic	+GeoNames ID	Not top 5
+28658	22	Q157	Which is the Cairn author ID of François Hollande?	+Cairn author ID	+CiNii author ID (books)	Not top 5
+4403	6	Q712548, Q2473303	Who replaced Albus Dumbledore as headmaster of Hogwarts?	+position held *replaced by	+position held *replaces	Top 5
+15455	23	Q223732	What is the award for signatories of the Declaration fo the Establishment of the State of Israel?	+signatory +award received	+signatory	Top 5
+10399	8	Q7341861, Q161885	what is the end time and end cause  of robert barculey  allardice  has country  of citizenship  as kingdom of  great britain?	+country of citizenship *end time, *end cause	+country of citizenship *end cause	Top 5
+5897	6	Q14294	What is the other half of the coordinates for the Tagus River whose one half in -1.6975?	+coordinate location *applies to part	+GeoNames ID	Top 5
+15406	18	Q50846	Who was the winner of WrestleMania III?	+follows +cast member	+Freebase ID	Not top 5
+15975	18	Q2626017	Which film genre is voiced by of Aesthetica of a Rogue Hero ?	+voice actor +genre	+voice actor +instance of	Top 5
+14986	18	Q54500336	what is the account on of the scriptwriter of voting system?	+screenwriter +website account on	+author +Bibliothèque nationale de France ID	Not top 5
+29103	11	Q36749	Who is the participant of Beer Hall Putsch?	-participant in	+Gran Enciclopèdia Catalana ID	Not top 5
+10537	8	Q4870843, Q41582559	When did James Matheson held a position as the Member of the 19th Parliament of the United Kingdom and why did it end?	+position held *end time, *end cause	+position held *end time, *start time	Not top 5
+10819	8	Q192556, Q41582627	When did David Trimble was elected as Member of the 51st Parliament of the United Kingdom and when did it end.	+position held *elected in, *end cause	+position held *end time, *start time	Top 5
+21272	10	Q892, Q5	Do you know what human incluenced JRR Tolkien?	-influenced by +instance of	-significant person +instance of	Not top 5
+27482	22	Q185906	What is teh chemical structure off DL-asparagine?	+chemical structure	+PDB structure ID	Top 5
+9966	24	Q1297	Which body of water is Chicago situated near, and what time zone does Chicago observe?	+located in time zone, +located in or next to body of water	+GeoNames ID	Not top 5
+9881	24	Q185118	What is the narrative location and the characters of Treasure_Island ?	+narrative location, +characters	+Bibliothèque nationale de France ID	Not top 5
+15070	23	Q189128	What is the local calling code of twin town of León ?	+twinned administrative body +local dialing code	+GeoNames ID	Top 5
+13552	21	Q879146	What is the life stance of the Christian denomination hat has the OSM key which is Tag:lifestance=christian?	+religion +OpenStreetMap tag or key	+Library of Congress authority ID	Not top 5
+16592	23	Q12306	Who gave the has case of first language of Millard Fillmore ?	+native language +has grammatical case	+Geni.com profile ID	Not top 5
+28730	11	Q170277	Which is the pendant of the intelligence quotient?	-pendant of	+pendant of	Top 5
+15063	18	Q1894786	In which city is Route nationale 16 located?	+located in the administrative territorial entity +capital	+terminus location +instance of	Not top 5
+14176	21	Q152350, Q2329480	The film Battleship Potemkin, that has been awarded the State Stalin Prize was directed by who?	+director +award received	+creator +award received	Top 5
+10555	8	Q294192, Q693614	What is Guy of Lisignan, the King of Jerusalem's, noble title	+noble title *together with, *followed by	+noble title *together with	Top 5
+22203	10	Q3052772, Q60589804	When was Emmanuel Macron campaigning for the presidency?	-participant +instance of	-candidate +instance of	Top 5
+161	16	Q37150, Q294	Is Icelandic a language Lana Del Rey can speak?	+languages spoken, written or signed	+voice type	Top 5
+2062	20	Q642878	How many fictional characters are there in the Marvel Cinematic Universe?	-from narrative universe	+list of characters	Top 5
+17735	23	Q313073	What was Jonathon Edwards cause of death?	+cause of death +genetic association	+cause of death +has cause	Not top 5
+16665	18	Q181530	Who is the daughter of Elena of Montenegro?	+sibling +father	+WomenWriters ID	Not top 5
+16113	23	Q216810	Who are the alumna of painters of King Kong?	+creator +educated at	+NKCR AUT ID	Not top 5
+27102	22	Q131324	What is Janet Jackson's genre?	+genre	+Line Music artist ID	Not top 5
+12444	21	Q62400	Where is the workplace of Heinrich von Treitschke, whose inhabitants are 8100.0.	+work location +population	+place of birth +population	Top 5
+17242	23	Q249769	When did the edition of Oresteia air?	+edition +publication date	+author +time period	Top 5
+12360	21	Q2599	What is Paul McCartney's language of expression which has англійська as an acronym?	+languages spoken, written or signed +short name	+net worth *point in time	Not top 5
+5649	6	Q52997, Q103360	For what movie was Otto Preminger nominated for Academy Award for Best Director?	+nominated for *statement is subject of	+nominated for *for work	Top 5
+20059	10	Q1747689, Q860861	When was this ancient Roman sculpture built	-time period +instance of	-culture +instance of	Top 5
+1181	19	Q132524	What was the birth name of Ayn Rand?	+birth name	+Bibliothèque nationale de France ID	Not top 5
+10456	8	Q179051, Q16918963	When did Kareem Abdul-Jabbar receive the NAACP Image Award for Outstanding Literary Work?	+award received *point in time, *winner	+award received *point in time	Top 5
+27788	22	Q201513	What is Mathematics Genealogy Project ID for Edward Witten ?	+Mathematics Genealogy Project ID	+Quora topic ID	Not top 5
+14633	23	Q232873	who president of member  of rené cassin ?	+member of +chairperson	+Nationale Thesaurus voor Auteurs ID	Not top 5
+14703	18	Q16733997	Who is the son of the brother of Queenie Padilla?	+sibling +father	+instance of +Gran Enciclopèdia Catalana ID	Not top 5
+14851	18	Q16977577	Where was the birthplace of Suphot Panich?	+place of birth +founded by	+Sports-Reference.com Olympic athlete ID	Not top 5
+16840	23	Q44258	What religion does the sister of Basil of Caesarea follow?	+sibling +religion	+Encyclopaedia Herder person ID	Not top 5
+253	16	Q29250, Q102427	Has Bill Murray ever been in a movie that was nominated for the Academy Award for Best Picture?	+nominated for	+filmography	Top 5
+5734	7	Q153080	What started to happen in East Francia in 843-1-1?	+instance of *start time	+Encyclopædia Britannica Online ID	Not top 5
+15939	23	Q815216	How many people were involved in the Siege of Sevastopol?	+location +population	+participant +population	Top 5
+17179	18	Q1771050	What is the source of claim of the house of Lê Thánh Tông?	+family +stated in	+Bibliothèque nationale de France ID	Not top 5
+17189	18	Q11069979	What is in the action of the family member of Peng Gang ?	+relative +conflict	+VIAF ID	Not top 5
+15331	23	Q937	Where did Albert Einstein live?	+residence +population	+residence	Top 5
+1186	19	Q41542	How many narrators are in Dracula?	+narrator	+narrator +instance of	Top 5
+9921	24	Q51636	Who are the characters and what is depicted by the Crucifixion of Jesus?	+characters, +depicted by	+Encyclopædia Britannica Online ID	Not top 5
+13131	21	Q185928	What is the birthplace of Henry Mancini that has an acreage of 213.587?	+place of birth +area	+Carnegie Hall agent ID	Not top 5
+17630	23	Q4538	What is not in cooperation with the branch of Jonathan Winters?	+military branch +conflict	+Nationale Thesaurus voor Auteurs ID	Not top 5
+9680	24	Q41127	Who was Poseidon mother and child?	+child, +mother	+Bibliothèque nationale de France ID	Not top 5
+21247	5	Q41532, Q5	Name the doctoral advisor of Carl Gustav Jung.	+doctoral advisor +instance of	-doctoral advisor +instance of	Top 5
+12231	21	Q7183	What is the prequel of the Qin dynasty, that has the co-ordinates 34.1558?	+followed by +coordinate location	+continent +coordinate location	Not top 5
+15007	18	Q21738185	Where are the signs of soman exposure found?	+symptoms +anatomical location	+symptoms +Biblioteca Nacional de España ID	Not top 5
+20064	10	Q8003, Q11424	What is Sergei Eisenstein's film	-film editor +instance of	-cast member +instance of	Top 5
+4772	7	Q543115, Q3057355	Who replaced Ernst Labin as chair of the International Skating Union?	+chairperson, *replaced by	+chairperson, *replaces	Top 5
+16140	18	Q487098	which sports is present atAnastasia Rodionova ?	+participant in +sport	+Sports-Reference.com Olympic athlete ID	Not top 5
+15429	23	Q309997	What town is the birthplace of Joseph Greenberg?	+place of birth +twinned administrative body	+Bibliothèque nationale de France ID	Not top 5
+11689	9	Q232062	Where and what did Oliver E. Williamson studied?	+educated at *academic degree	+LittleSis people ID	Not top 5
+17149	18	Q6176188	What is some of the weork of Jeffrey Nick?	+employer +parent organization	+Freebase ID	Not top 5
+16183	18	Q1054799	Mention the position which President of Poland held as a sequence.	+follows +officeholder	+officeholder +position held	Not top 5
+9515	24	Q39222	What are the effects and cause of Rabies?	+has cause, +has effect	+has effect +drug used for treatment	Top 5
+7477	6	Q291169, Q35647955	Why Jeremy Corbyn held a position as Member of the 54th Parliament of the United Kingdom?	+position held *end cause	+position held *elected in, *end cause	Top 5
+6908	7	Q318508	Andres Manuel Lopez Obrador held what  position in 0-0-2017?	+position held *end time	+position held *start time	Top 5
+10945	8	Q109612, Q81180	When was Thelonious Monk awarded the Grammy Hall of Fame?	+award received *point in time, *winner	+award received *point in time	Top 5
+28643	22	Q695255	Which is the Ciné-Ressources film ID of Persona?	+Ciné-Ressources film ID	+cinematografo film ID	Not top 5
+7311	6	Q134279, Q16746854	When did Luhansk start when he was in the Luhansk People's Republic?	+located in the administrative territorial entity *start time	+country *start time	Top 5
+14064	21	Q131662	What is the county seat of Polokwane, which was constructed in 1994?	+capital of +inception	+GeoNames ID	Not top 5
+28479	22	Q34436	Which is the ISzDb person ID for Scarlett Johansson?	+ISzDb person ID	+Trading Card Database person ID	Top 5
+16306	18	Q4656009	who  is favorite player of musical artist  A Collection 1984–1989 ?	+performer +influenced by	+MusicBrainz release group ID	Not top 5
+3533	14	Q79007, Q34	Name the shortest street in Sweden.	-instance of +country, +length	-instance of +named after, +Czech street ID	Not top 5
+2199	20	Q23337	How many people die in Salt Lake City?	-place of death	+category for people who died here	Top 5
+16677	23	Q38193	WHO IS THE ROLE MODEL RVK IDENTIFIER OF ARTHUR SCHOPENHAUER?	+influenced by +Regensburg Classification	+RSL ID (person)	Not top 5
+14662	23	Q106942	Where did Candice Bergen graduate from and what has she established?	+educated at +founded by	+Bibliothèque nationale de France ID	Not top 5
+27340	22	Q103569	What is date depicted of Alien ?	+date depicted	+Scope.dk film ID	Not top 5
+16268	18	Q16581845	WHO IS THE DIANE'S RECORD PRODUCER PARTNER?	+producer +spouse	+Google Knowledge Graph ID	Not top 5
+6053	6	Q48987, Q103360	For what was Jonathan Demme nominated for an Academy Award for Best Director?	+nominated for *statement is subject of	+nominated for *for work	Top 5
+29269	22	Q1615	Which is the audio for Neil Armstrong?	+audio	-voice actor	Top 5
+9903	24	Q824192	What is language for The Daily Show?	+language of work or name, +original language of film or TV show	+Encyclopædia Britannica Online ID	Not top 5
+29568	22	Q863	Which is the deepest point of Tajikistan?	+lowest point	+highest point	Top 5
+9852	24	Q111502	What language and edition is Pied Piper of Hamelin's Work?	+has edition or translation, +language of work or name	+Cultureel Woordenboek ID	Not top 5
+11155	9	Q318518	where and what did Milton Babbitt studied	+educated at *academic major	+LittleSis people ID	Not top 5
+28732	22	Q724095	What is the person is use researchgate of James Hanson	+ResearchGate profile ID	+Goodreads author ID *named as	Top 5
+9900	24	Q816459	What are the native and spoken/written languages of Ben Carson?	+languages spoken, written or signed, +native language	+Bibliothèque nationale de France ID	Not top 5
+10238	8	Q458, Q52847	What dissolved the European Union and when did it become called the European Economic Community?	+follows *dissolved, abolished or demolished date, *inception	+follows *dissolved, abolished or demolished date	Top 5
+9957	24	Q348603	Who is the partner and the spouse of Howard_Stern ?	+unmarried partner, +spouse	+Scope.dk person ID	Not top 5
+6550	6	Q2468, Q51139288	Which hydrogen fluoride s used as standard System for the Identification of the Hazards of Materials for Emergency Response	+safety classification and labelling *NFPA Instability	+safety classification and labelling *NFPA Fire	Top 5
+3524	14	Q12136, Q18553247	Name the primary bacterial infectious disease with the shortest incubation time in humans?	-instance of +subclass of, +minimal incubation period in humans	-instance of +subclass of, +maximal incubation period in humans	Top 5
+16644	23	Q41523	What is script of second language of Plutarch ?	+languages spoken, written or signed +writing system	+Wolfram Language entity code	Not top 5
+17395	23	Q160440	Which is alphabet of official language of Crimean Khanate ?	+official language +writing system	+Library of Congress authority ID	Not top 5
+11009	9	Q7085	where and what did Niels Bohr study?	+educated at *academic degree	+doctoral advisor *educated at	Not top 5
+6769	7	Q771541	What engine was Dota 2 based on at the start of September 2015?	+software engine *end time	+software engine	Top 5
+15422	23	Q39444	What is the language spoken in the city which Ronaldinho played sports?	+country for sport +pronunciation audio	+member of sports team *start time	Top 5
+17025	23	Q184650	At which party is Donald Rumsfeld a member and has what is his membership?	+member of political party +member count	+US Congress Bio ID	Not top 5
+20147	5	Q170583, Q7725634	What is the name of the book that came after Pride and Prejudice?	+follows +instance of	+followed by +instance of	Top 5
+15401	18	Q76688	Who is the mentor of Hans - Hermann Hoppe's doctorate supervisor?	+doctoral advisor +student of	+VIAF ID	Not top 5
+12337	21	Q574144	1880 was the year Henry Peach Robinson founded what trend?	+movement +inception	+Store norske leksikon ID	Not top 5
+6383	6	Q1071031, Q209344	What degree did Paolo Gentiloni obtain at Sapienza University of Rome?	+educated at *academic degree	+academic degree, *educated at	Top 5
+2627	12	Q179057	How many numbers of caualities?	-instance of +number of casualties	-instance of +number of perpetrators	Not top 5
+29340	11	Q202107	Which is the enclave within Oromia Region?	-enclave within	-contains administrative territorial entity	Top 5
+13810	21	Q169134	What is the sister town of Nara whose geocoordinates are 35.85 129.21666666667?	+twinned administrative body +coordinate location	+GeoNLP ID	Not top 5
+5056	7	Q6605	What was the abbreviation for the Sakha Republic on December 12, 1991?	+short name *start time	+Bibliothèque nationale de France ID	Not top 5
+29610	22	Q229556	Which is the LAC ID for Patty Hearst?	+Canadiana Authorities ID	+SELIBR ID	Not top 5
+17188	23	Q8081	What is the forefather of the measured by of tornado ?	+measurement scale +replaces	+GND ID	Not top 5
+16093	18	Q922567	What is made by Webby?	+present in work +creator	+present in work +production company	Top 5
+11059	9	Q168261	What is the noble title of Ptolemy I Soter and by whom are they followed?	+noble title *follows	+noble title *followed by	Not top 5
+9488	24	Q80405	Who are Julianne Moore's spouse and siblings?	+sibling, +spouse	+Deutsche Synchronkartei actor ID	Not top 5
+15214	18	Q28741396	What is the biological classification of the subject in the photograph Cypress, Point Lobos?	+depicts +parent taxon	+depicts +instance of	Not top 5
+429	16	Q283, Q218091	Is it true that water colored Seal?	+color	+conjugate acid	Not top 5
+26941	22	Q185372	Which is the title for Girl with a Pearl Earring?	+title	+Cultural Objects Names Authority ID	Not top 5
+1532	19	Q1069	How many students are studying in geology ?	+studies	+IPTC NewsCode	Not top 5
+14158	21	Q122960	What is the subject of rococo that has a Q48460 that is 780?	+field of work +Dewey Decimal Classification	+PSH ID	Not top 5
+9065	6	Q5765	Is the mains voltage frequency in the Balearic Islands 220.0?	+mains voltage *frequency	+mains voltage	Top 5
+1158	19	Q29303	How many countries are in Canterbury?	+country	+WOEID	Top 5
+8528	7	Q41532	who was the spouse of Carl Jung as at 1955-0-0?	+spouse *end time	+spouse *start time	Top 5
+9766	24	Q37621	Which is the notable work and the field of work of Thomas_Hobbes ?	+notable work, +field of work	+occupation +field of this occupation	Not top 5
+14579	23	Q37853	What are the ends that are informed by baroque?	+influenced by +end time	+Interlingual Index ID	Not top 5
+17733	18	Q27525575	Which is history of plays of Lenin Guerra Tulcan ?	+sport +history of topic	+OlimpBase Chess Olympiad player ID	Not top 5
+10992	8	Q283, Q106410	What are the phase and temperature of water at its triple point?	+phase point *phase of matter, *temperature	+phase point *temperature	Not top 5
+22990	10	Q283, Q25403900	What are the components of water?	-manifestation of +instance of	-made from material +instance of	Top 5
+7556	6	Q317026, Q106291	For what reason Thomas Mitchell was nominated as Academy Award for best supporting actor?	+nominated for *for work	+nominated for *statement is subject of	Top 5
+12134	21	Q189138	What town is closest to Hermosillo, within 25 1/2 miles?	+twinned administrative body +coordinate location	+located in the administrative territorial entity +shares border with	Not top 5
+19723	10	Q8646, Q30612	Where can I have a clinical trial in Hong Kong?	-country +instance of	-located in the administrative territorial entity +instance of	Top 5
+9517	24	Q34296	Where was Woodrow Wilson born, and where did he die?	+place of death, +place of birth	+Bibliothèque nationale de France ID	Not top 5
+25996	11	Q12802	Which is in opposition to nuclear weapon?	-in opposition to	-armament +instance of	Top 5
+17793	23	Q3894	Tell me the geographic data of the country of Kampala.	+capital of +geoshape	+GeoNames ID	Not top 5
+27667	22	Q9626	What is the political ideology of the Conservative Party?	+political ideology	-political ideology	Top 5
+10001	24	Q37836	What is the two-part administrative body of Milwaukee known as and where is the location of it's administrative territory.	+twinned administrative body, +located in the administrative territorial entity	+Getty Thesaurus of Geographic Names ID	Not top 5
+15299	18	Q267691	who designed for awarded of Joan didion ?	+award received +intended public	+PORT person ID	Not top 5
+12518	21	Q418873	What is the eponym of Cummingtonite, which has a size of 23.1?	+named after +area	+Gran Enciclopèdia Catalana ID	Not top 5
+14341	23	Q6509	What are the diplomatic relations of Burgas?	+country +diplomatic relation	+GeoNames ID	Not top 5
+16579	23	Q22679	WHO IS THE SISTER OR BROTHER OF THE BAHAI FAITH FOUNDER?	+founded by +sibling	+Library of Congress authority ID	Not top 5
+16938	18	Q7391649	Which is headquarter made by of SM UB-43 ?	+manufacturer +headquarters location	+Freebase ID	Top 5
+2198	20	Q44148	How many men are there?	-sex or gender	+Art & Architecture Thesaurus ID	Top 5
+15589	18	Q5540398	When and where did George Henderson die?	+place of death +history of topic	+Freebase ID	Not top 5
+10518	8	Q6373, Q26214163	What are the work timings of British museum on all weekdays?	+open days *open period to, *closed on	+open days *open period to	Not top 5
+11993	21	Q434669	What is the gender of Phyllis Schlafly whose shortened name is Аял?	+sex or gender +short name	+Bibliothèque nationale de France ID	Not top 5
+13693	21	Q83496	What is not the same as the Cerberus and has a surface that is 8.18	+different from +area	+said to be the same as +instance of	Not top 5
+13686	21	Q35500, Q3010239	Name the boyfriend of Aphrodite who has the child of Cephalus.	+unmarried partner +father	+unmarried partner +child	Top 5
+15032	18	Q153648	Who is the child of the sister or the brother of Meketaten?	+sibling +father	+genealogics.org person ID	Not top 5
+17567	23	Q2179	What planet orbits the star of an asteroid belt?	+parent astronomical body +child astronomical body	+parent astronomical body +instance of	Top 5
+16900	23	Q303508	Who died and wrote The Planets?	+composer +cause of death	+Bibliothèque nationale de France ID	Not top 5
+16503	18	Q14914693	What day of the week is preceded by Easter?	+follows +day of week	+day of week	Not top 5
+14824	23	Q484595	What diplomatic relations do the originates of Anal Cunt possess?	+country of origin +diplomatic relation	+VIAF ID	Not top 5
+10037	24	Q278208	What is the Catch-22 edition and cover?	+has edition or translation, +cover art by	+cover art by	Not top 5
+9667	24	Q3090378	What position does Mike Trout play, and where was he born?	+position played on team / speciality, +place of birth	+Baseball-Reference.com minor & foreign league player ID	Not top 5
+15280	23	Q7916220	In Varun Dhawan what is the second language?	+languages spoken, written or signed +linguistic typology	+place of birth +twinned administrative body	Not top 5
+11668	9	Q170581	Where and what did Nancy Pelosi study?	+educated at *academic degree	+LittleSis people ID	Not top 5
+27744	22	Q48469	Where was Voyager 1 travelling?	+destination point	+Quora topic ID	Not top 5
+1954	20	Q34640	How many depictions are there of the English Channel?	-depicts	-offers view on	Not top 5
+4594	6	Q71243, Q103916	For what film did Clark Gable receive the Academy Award for Best Actor?	+award received *for work	+award received *statement is subject of	Top 5
+11467	9	Q318518	Where and what did Milton Babbitt study?	+educated at *academic degree	+LittleSis people ID	Not top 5
+14500	23	Q16390	Who is mayor of birth location of Humphrey Bogart ?	+place of birth +head of government	+Scope.dk person ID	Not top 5
+9650	24	Q2811	What re the materials used to make a submarine and what is its source of energy?	+source of energy, +made from material	+Bibliothèque nationale de France ID	Not top 5
+11324	9	Q283	what is phrase point of water and temperature	+phase point *temperature	+density *temperature	Not top 5
+12618	21	Q41610	Who is the brother of Manuel I Komnenos that died on 1-1-1142?	+sibling +date of death	+Nomisma ID	Not top 5
+10486	8	Q283, Q106410	What are the phase and temperature of water at its triple point?	+phase point *phase of matter, *temperature	+phase point *temperature	Not top 5
+16	16	Q212976, Q46825	Was the Middle Ages following the Gothic art?	+follows	+followed by	Not top 5
+10372	8	Q939, Q242159	When did PedroI's child Princess Francisca of Brazil born, and who was her mother?	+child *date of death, *mother	+child *date of death, *date of birth	Top 5
+5201	7	Q41572	Where was Mykolaiv located in 1937-9-21?	+located in the administrative territorial entity *end time	+GeoNames ID	Not top 5
+14433	23	Q1057504	What's the unemployment rate in Ethiopia?	+country +unemployment rate	+Freebase ID	Top 5
+16838	18	Q41127	Who takes the form of brother of Poseidon?	+sibling +appears in the form of	+Bibliothèque nationale de France ID	Not top 5
+9811	24	Q47221	Who are the producer and screenwriter of Taxi Driver?	+screenwriter, +producer	+Il mondo dei doppiatori ID	Not top 5
+12925	21	Q3038345	Name the location of death in Dox where the co-ordinates is -18.938611111111 47.521388888889?	+place of death +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+6198	6	Q59215, Q102427	What was Robert Redford nominated for as Academy Award for Best Picture?	+nominated for *statement is subject of	+nominated for *for work	Top 5
+13729	21	Q12658, Q543804	Which parent of Wilhelm Ostwald is a member of the German Academy of Sciences Leopoldina?	+child +member of	+doctoral student +member of	Top 5
+15068	18	Q2508868	who location of narrative of comes after of Crazy Safari ?	+follows +narrative location	+FilmAffinity ID	Not top 5
+14550	23	Q241098	Who gave  the  pronunciation audio of national of of Maurice de Vlaminck ?	+country of citizenship +pronunciation audio	+instrument	Top 5
+16520	23	Q355472	What is the  meaning of Q48460 when discussing the history of photography?	+facet of +Dewey Decimal Classification	+Encyclopædia Universalis ID	Not top 5
+5743	7	Q43473	What is Angkor Wat's name translated to in Russian?	+native label *literal translation	+Encyclopædia Britannica Online ID	Not top 5
+16009	18	Q328891	who is the Minnie Marx children's sister?	+child +sibling	+sibling +instance of	Top 5
+14088	21	Q123209	What is the name of the member of the Latin Union that has a longitude of 48.85?	+member of +coordinate location	+Bibliothèque nationale de France ID	Not top 5
+14519	23	Q185582	Who lives in Knoxville?	+country +member of	-residence	Not top 5
+9246	7	Q342698	What sports team did Mircea Lucescu play for on 1-1-1977?	+member of sports team *end time	+member of sports team *start time	Not top 5
+17746	18	Q4983012	What area is managed by Buckenham Marshes RSPB reserve	+operator +interested in	+located in the administrative territorial entity +Gran Enciclopèdia Catalana ID	Not top 5
+26446	22	Q205379	Whom is participating in Battle of Breitenfeld 1631?	+participant	+Gran Enciclopèdia Catalana ID	Not top 5
+28058	22	Q364406	what is in the Encyclopedia of Surfing ID of Kelly Slater?	+Encyclopedia of Surfing ID	+Encyclopædia Britannica Online ID	Top 5
+7995	7	Q17478000	What position does Iván Duque Márquez hold at 2018-4-10?	+position held *end time	+position held *start time	Top 5
+10043	24	Q389735	What is the anatomical location and genetic association of Cardiovascular disease?	+anatomical location, +genetic association	+Encyclopædia Universalis ID	Not top 5
+5954	6	Q103646, Q20714679	Which work earned Ron Howard the Primetime Emmy Award for Outstanding Miniseries?	+award received *for work	+award received *winner	Top 5
+28299	11	Q579421	Which is the vessel of Soyuz?	-vehicle	-space launch vehicle	Top 5
+27609	11	Q185729	Which is immediate cause  of War on Terror ?	-immediate cause of	+Encyclopædia Britannica Online ID	Not top 5
+16748	18	Q2904220	who painters of has brother of antiope?	+sibling +creator	+Freebase ID	Not top 5
+27889	22	Q134773	Which is the Kinopolis film ID of Forrest Gump?	+Kinopolis film ID	+Kinopoisk film ID	Top 5
+1716	20	Q9610	how many language used are done by bengali	-language used	+number of speakers	Not top 5
+14658	23	Q2416269	What is the life stance of the interment of Pavel Tsitsianov?	+place of burial +religion	+VIAF ID	Not top 5
+29079	22	Q41611	Coriandrum sativum has what Flora of Israel plant ID?	+Flora of Israel Online plant ID	+FloraCatalana ID	Not top 5
+424	16	Q324867, Q5849	Was La Liga a member team of the rugby union?	+sport	-sports season of league or competition	Top 5
+9649	24	Q44696	Who is the composer of The Star Spangled Banner and what key is it in?	+tonality, +composer	+VIAF ID	Not top 5
+16993	23	Q177251	Who is antonym  user of associativity ?	+used by +opposite of	+Dictionary of Algorithms and Data Structures ID	Not top 5
+16978	23	Q81066	Which position occupied is incumbent of United Nations Secretary-General ?	+officeholder +position held	-depositor	Top 5
+7966	7	Q17714	Who is the doctoral student for Stephen Hawking with the EThOS thesis ID of uk.bl.ethos.625075?	+doctoral student *EThOS thesis ID	+gravsted.dk ID	Not top 5
+22985	5	Q48983, Q23002039	What school did Linus Pauling's employer attend?	+employer +instance of	+educated at +instance of	Top 5
+7722	7	Q37175	Who was Johnny Depp's partner until 1993?	+unmarried partner *end time	+spouse *end time	Top 5
+26859	22	Q889	Which are the coordinates for northernmost point of Afghanistan?	+coordinates of northernmost point	+GeoNames ID	Not top 5
+29423	22	Q6911	The Diary of Anne Frank has how many editions?	+has edition or translation	+has edition or translation *publication date	Not top 5
+17043	18	Q21535888	Who is the choir director employed by Joseph Bradley?	+employer +musical conductor	+Australian Dictionary of Biography ID	Not top 5
+15633	18	Q56016	Who is the titleholder of Katharine Hepburn's honours?	+award received +winner	+nominated for +winner	Not top 5
+15046	18	Q45975	Boötes III is located in what part of the constellation?	+parent astronomical body +constellation	+SIMBAD ID	Not top 5
+1320	19	Q403	How many diplomatic relations are for Serbia?	+diplomatic relation	+diplomatic relation +instance of	Not top 5
+12737	21	Q894	Located in the administrative territorial entity of Samara, what would be found at the geo-coordinates of 53.5167?	+located in the administrative territorial entity +coordinate location	+GeoNames ID	Not top 5
+9505	24	Q152518	Which is located in the administrative territorial entity and the founded by of Burning_Man ?	+located in the administrative territorial entity, +founded by	+GeoNames ID	Not top 5
+22914	10	Q35497, Q34770	What was the language of the ancient Greeks?	-follows +instance of	-replaced by +instance of	Top 5
+16763	18	Q62581	Who is scriptwriter of bibliography of Natja Brunckhorst ?	+list of works +screenwriter	-screenwriter	Top 5

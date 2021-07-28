@@ -1,0 +1,15 @@
+40	16	Q229313, Q102427	Was Jessica Chastain nominated for Academy Award for Best Picture?	+nominated for	+filmography	Top 5
+223	16	Q1203, Q211573	Did John Lennon play garage rock?	+genre	+religion	Top 5
+106	16	Q34851, Q294	Does Elizabeth Taylor speak Icelandic?	+languages spoken, written or signed	+given name	Top 5
+107	16	Q131723, Q33976	Did Bitcoin come from Sardinia?	+language of work or name	+named after	Top 5
+418	16	Q6425, Q9325	Was Boeing 777 operated by Lufthansa?	+operator	-item operated	Top 5
+71	16	Q43044, Q42365	Is it true that Demi Moore knows Old English?	+languages spoken, written or signed	+given name	Not top 5
+235	16	Q8683, Q170314	Is Second Sino-Japanese War significant to the Cold War?	+significant event	+topic's main Wikimedia portal	Not top 5
+324	16	Q10285, Q43338	Was the Colosseum built with basalt?	+made from material	-Wikidata property example	Not top 5
+299	16	Q11256, Q796897	Was the dictator, Fidel Castro, the Prime Minister of Italy?	+position held	+National Library of Greece ID	Not top 5
+479	16	Q36669, Q6313217	Was Daylight_saving_time opposite of time standard?	+opposite of	-located in time zone	Top 5
+270	16	Q44301, Q244976	Did Jim Morrison play bodhran?	+instrument	+member of	Not top 5
+284	16	Q127912, Q1345	Was United States Declaration of Independence signed in Philadelphia?	+location	-foundational text	Not top 5
+253	16	Q29250, Q102427	Has Bill Murray ever been in a movie that was nominated for the Academy Award for Best Picture?	+nominated for	+filmography	Top 5
+187	16	Q40949, Q16931712	Were Six Californias part of the American Revolutionary War?	+participant	+topic's main Wikimedia portal	Top 5
+424	16	Q324867, Q5849	Was La Liga a member team of the rugby union?	+sport	+organizer	Top 5

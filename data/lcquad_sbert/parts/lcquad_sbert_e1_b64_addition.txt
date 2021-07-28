@@ -1,0 +1,18 @@
+174	16	Q1065, Q1624231	Is Hokkien the official language of United Nations?	+official language	+Union List of Artist Names ID	Not top 5
+40	16	Q229313, Q102427	Was Jessica Chastain nominated for Academy Award for Best Picture?	+nominated for	+ISNI	Top 5
+223	16	Q1203, Q211573	Did John Lennon play garage rock?	+genre	+instrument	Not top 5
+106	16	Q34851, Q294	Does Elizabeth Taylor speak Icelandic?	+languages spoken, written or signed	-voice actor	Not top 5
+107	16	Q131723, Q33976	Did Bitcoin come from Sardinia?	+language of work or name	+Encyclopædia Britannica Online ID	Not top 5
+418	16	Q6425, Q9325	Was Boeing 777 operated by Lufthansa?	+operator	-item operated	Top 5
+63	16	Q6096, Q42365	Does Snoop Dogg speaks, writes  or signs in Old English?	+languages spoken, written or signed	+Encyclopædia Britannica Online ID	Not top 5
+71	16	Q43044, Q42365	Is it true that Demi Moore knows Old English?	+languages spoken, written or signed	+Wolfram Language entity code	Not top 5
+235	16	Q8683, Q170314	Is Second Sino-Japanese War significant to the Cold War?	+significant event	-has contributing factor	Top 5
+227	16	Q190679, Q181900	did Stan Lee create Captain America?	+creator	-template has topic	Top 5
+299	16	Q11256, Q796897	Was the dictator, Fidel Castro, the Prime Minister of Italy?	+position held	+DBC author ID	Not top 5
+361	16	Q365144, Q2312659	Did Caitlyn Jenner received the Danish Sports Name of the Year award?	+award received	+Iowa Sports Hall of Fame ID	Top 5
+284	16	Q127912, Q1345	Was United States Declaration of Independence signed in Philadelphia?	+location	+signatory	Not top 5
+161	16	Q37150, Q294	Is Icelandic a language Lana Del Rey can speak?	+languages spoken, written or signed	+voice type	Not top 5
+64	16	Q1924847, Q5110500	Is Margot Robbie Australian Christian?	+ethnic group	+ISNI	Not top 5
+429	16	Q283, Q218091	Is it true that water colored Seal?	+color	+InChIKey	Not top 5
+16	16	Q212976, Q46825	Was the Middle Ages following the Gothic art?	+follows	-movement	Not top 5
+424	16	Q324867, Q5849	Was La Liga a member team of the rugby union?	+sport	+number of participants	Not top 5

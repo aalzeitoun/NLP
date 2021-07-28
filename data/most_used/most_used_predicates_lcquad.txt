@@ -1,0 +1,3658 @@
+P31	instance of	6423
+P166	award received	2103
+P39	position held	1396
+P585	point in time	1299
+P580	start time	997
+P26	spouse	953
+P1411	nominated for	929
+P1082	population	770
+P54	member of sports team	749
+P582	end time	723
+P69	educated at	686
+P40	child	541
+P190	twinned administrative body	478
+P131	located in the administrative territorial entity	443
+P19	place of birth	368
+P17	country	355
+P20	place of death	312
+P463	member of	280
+P6	head of government	278
+P106	occupation	275
+P150	contains administrative territorial entity	261
+P159	headquarters location	237
+P156	followed by	235
+P569	date of birth	233
+P108	employer	223
+P155	follows	223
+P276	location	206
+P793	significant event	206
+P47	shares border with	202
+P735	given name	202
+P27	country of citizenship	201
+P1686	for work	198
+P570	date of death	197
+P625	coordinate location	197
+P1346	winner	194
+P97	noble title	193
+P512	academic degree	188
+P530	diplomatic relation	188
+P161	cast member	187
+P138	named after	185
+P805	statement is subject of	181
+P800	notable work	171
+P1269	facet of	163
+P179	part of the series	161
+P551	residence	161
+P61	discoverer or inventor	158
+P3373	sibling	157
+P1350	number of matches played/races/starts	156
+P119	place of burial	149
+P1344	participant in	146
+P710	participant	146
+P1365	replaces	144
+P421	located in time zone	143
+P50	author	140
+P674	characters	137
+P1412	languages spoken, written or signed	136
+P407	language of work or name	136
+P488	chairperson	136
+P737	influenced by	133
+P136	genre	132
+P1441	present in work	131
+P459	determination method	131
+P1366	replaced by	130
+P36	capital	130
+P1376	capital of	127
+P175	performer	125
+P937	work location	125
+P101	field of work	124
+P127	owned by	124
+P2176	drug used for treatment	124
+P812	academic major	123
+P22	father	122
+P112	founded by	121
+P140	religion	120
+P2715	elected in	117
+P355	subsidiary	115
+P1542	has effect	114
+P1889	different from	114
+P25	mother	113
+P102	member of political party	112
+P2293	genetic association	112
+P264	record label	112
+P451	unmarried partner	112
+P1351	number of points/goals/set scored	110
+P180	depicts	107
+P571	inception	107
+P1038	relative	106
+P137	operator	106
+P443	pronunciation audio	106
+P86	composer	106
+P495	country of origin	105
+P460	said to be the same as	102
+P1000	record held	100
+P641	sport	100
+P170	creator	99
+P186	made from material	98
+P171	parent taxon	97
+P974	tributary	94
+P461	opposite of	93
+P178	developer	91
+P206	located in or next to body of water	90
+P1545	series ordinal	89
+P1056	product or material produced	87
+P1279	inflation rate	87
+P1534	end cause	86
+P607	conflict	85
+P509	cause of death	84
+P176	manufacturer	83
+P2283	uses	83
+P398	child astronomical body	83
+P1066	student of	81
+P123	publisher	80
+P518	applies to part	80
+P21	sex or gender	78
+P1001	applies to jurisdiction	77
+P1830	owner of	77
+P4841	total fertility rate	77
+P144	based on	76
+P37	official language	75
+P577	publication date	75
+P30	continent	72
+P397	parent astronomical body	72
+P747	edition	71
+P2579	studied by	70
+P2121	prize money	68
+P2175	medical condition treated	68
+P802	student	68
+P172	ethnic group	65
+P2184	history of topic	65
+P282	writing system	65
+P184	doctoral advisor	64
+P121	item operated	63
+P2573	number of out-of-school children	63
+P35	head of state	63
+P1706	together with	62
+P840	narrative location	59
+P169	chief executive officer	58
+P425	field of this occupation	57
+P706	located on terrain feature	57
+P725	voice actor	57
+P828	has cause	56
+P1813	short name	55
+P749	parent organization	54
+P241	military branch	53
+P281	postal code	53
+P400	platform	53
+P111	measured physical quantity	52
+P740	location of formation	52
+P780	symptoms	52
+P2578	studies	51
+P1037	manager/director	50
+P105	taxon rank	50
+P3095	practiced by	49
+P485	archives at	49
+P4952	safety classification and labelling	49
+P57	director	49
+P1036	Dewey Decimal Classification	48
+P1264	valid in period	48
+P1433	published in	48
+P1705	native label	48
+P768	electoral district	48
+P162	producer	47
+P287	designed by	46
+P1582	natural product of taxon	44
+P1995	health specialty	44
+P84	architect	44
+P2868	subject has role	43
+P417	patron saint	43
+P2936	language used	42
+P371	presenter	42
+P59	constellation	42
+P103	native language	41
+P1039	kinship to subject	41
+P414	stock exchange	41
+P1535	used by	39
+P1672	this taxon is source of	39
+P2046	area	39
+P38	currency	39
+P453	character role	39
+P642	of	39
+P2048	height	38
+P2348	time period	38
+P1792	category of associated people	37
+P3025	open days	37
+P129	physically interacts with	36
+P1880	measurement scale	36
+P4132	linguistic typology	36
+P58	screenwriter	36
+P135	movement	35
+P286	head coach	35
+P413	position played on team / speciality	35
+P734	family name	35
+P85	anthem	35
+P1480	sourcing circumstances	34
+P2453	nominee	34
+P348	software version identifier	34
+P462	color	34
+P53	family	34
+P873	phase point	34
+P2388	office held by head of the organization	33
+P2842	place of marriage	33
+P1196	manner of death	32
+P1303	instrument	32
+P1416	affiliation	32
+P452	industry	32
+P676	lyrics by	32
+P1308	officeholder	31
+P199	business division	31
+P2076	temperature	31
+P629	edition or translation of	31
+P1532	country for sport	30
+P194	legislative body	30
+P2596	culture	30
+P610	highest point	30
+P1313	office held by head of government	29
+P1843	taxon common name	29
+P185	doctoral student	29
+P291	place of publication	29
+P527	has part	29
+P703	found in taxon	29
+P837	day in year for periodic occurrence	29
+P969		29
+P115	home venue	28
+P157	killed by	28
+P2044	elevation above sea level	28
+P2054	density	28
+P2860	cites work	28
+P1013	criterion used	27
+P1027	conferred by	27
+P1399	convicted of	27
+P2789	connects with	27
+P279	subclass of	27
+P403	mouth of the watercourse	27
+P1299	depicted by	26
+P1557	manifestation of	26
+P2079	fabrication method	26
+P277	programming language	26
+P473	local dialing code	26
+P1049	worshipped by	25
+P1142	political ideology	25
+P122	basic form of government	25
+P1431	executive producer	25
+P1435	heritage designation	25
+P189	location of discovery	25
+P208	executive body	25
+P769	significant drug interaction	25
+P1050	medical condition	24
+P1081	Human Development Index	24
+P149	architectural style	24
+P195	collection	24
+P2119	vapor pressure	24
+P2295	net profit	24
+P88	commissioned by	24
+P941	inspired by	24
+P98	editor	24
+P1098	number of speakers	23
+P1740	category for films shot at this location	23
+P1906	office held by head of state	23
+P2341	indigenous to	23
+P3342	significant person	23
+P3362	operating income	23
+P410	military rank	23
+P658	tracklist	23
+P948	page banner	23
+P1018	language regulatory body	22
+P2077	pressure	22
+P2196	students count	22
+P689	afflicts	22
+P1029	crew member	21
+P1382	partially coincident with	21
+P2633	geography of topic	21
+P915	filming location	21
+P1026	academic thesis	20
+P1128	employees	20
+P1891	signatory	20
+P2047	duration	20
+P2102	boiling point	20
+P2139	total revenue	20
+P361	part of	20
+P4147	conjugate acid	20
+P449	original broadcaster	20
+P547	commemorates	20
+P832	public holiday	20
+P92	main regulatory text	20
+P927	anatomical location	20
+P1075	rector	19
+P1174	visitors per year	19
+P118	league	19
+P1352	ranking	19
+P205	basin country	19
+P2152	antiparticle	19
+P237	coat of arms	19
+P3831	object has role	19
+P450	astronaut mission	19
+P576	dissolved, abolished or demolished date	19
+P797	authority	19
+P945	allegiance	19
+P1343	described by source	18
+P1427	start point	18
+P2240	median lethal dose (LD50)	18
+P2989	has grammatical case	18
+P306	operating system	18
+P416	quantity symbol	18
+P5110	has grammatical person	18
+P517	interaction	18
+P636	route of administration	18
+P126	maintained by	17
+P1268	represents	17
+P1327	partner in business or sport	17
+P2416	sports discipline competed in	17
+P4149	conjugate base	17
+P466	occupant	17
+P664	organizer	17
+P1080	from narrative universe	16
+P1198	unemployment rate	16
+P1538	number of households	16
+P1539	female population	16
+P2067	mass	16
+P2075	speed of sound	16
+P2218	net worth	16
+P2389	organization directed by the office or position	16
+P272	production company	16
+P3092	film crew member	16
+P364	original language of film or TV show	16
+P4195	category for employees of the organization	16
+P515	phase of matter	16
+P618	source of energy	16
+P923	medical examinations	16
+P1114	quantity	15
+P1193	prevalence	15
+P1419	shape	15
+P183	endemic to	15
+P1990	species kept	15
+P2124	member count	15
+P2403	total assets	15
+P358	discography	15
+P4552	mountain range	15
+P457	foundational text	15
+P825	dedicated to	15
+P1040	film editor	14
+P1215	apparent magnitude	14
+P1451	motto text	14
+P1559	name in native language	14
+P1884	hair color	14
+P2094	competition class	14
+P2177	solubility	14
+P2260	ionization energy	14
+P2522	victory	14
+P263	official residence	14
+P344	director of photography	14
+P479	input method	14
+P520	armament	14
+P608	exhibition history	14
+P816	decays to	14
+P87	librettist	14
+P110	illustrator	13
+P1477	birth name	13
+P1591	defendant	13
+P2107	decomposition point	13
+P2386	diameter	13
+P2541	operating area	13
+P2854	disease burden	13
+P3403	coextensive with	13
+P360	is a list of	13
+P3828	wears	13
+P4913	dialect of	13
+P5109	has grammatical gender	13
+P534	streak colour	13
+P575	time of discovery or invention	13
+P598	commander of	13
+P655	translator	13
+P750	distributed by	13
+P822	mascot	13
+P913	notation	13
+P1107	proportion	12
+P1109	refractive index	12
+P1340	eye color	12
+P1383	contains settlement	12
+P1448	official name	12
+P1603	number of cases	12
+P1971	number of children	12
+P2031	work period (start)	12
+P2032	work period (end)	12
+P209	highest judicial authority	12
+P2128	flash point	12
+P2546	sidekick of	12
+P2738	disjoint union of	12
+P2919	label in sign language	12
+P2974	habitat	12
+P3026	closed on	12
+P3448	stepparent	12
+P366	use	12
+P3975	secretary general	12
+P427	taxonomic type	12
+P4794	season starts	12
+P556	crystal system	12
+P609	terminus location	12
+P702	encoded by	12
+P708	diocese	12
+P81	connecting line	12
+P885	origin of the watercourse	12
+P1071	location of creation	11
+P1434	takes place in fictional universe	11
+P1456	list of monuments	11
+P1478	has immediate cause	11
+P1831	electorate	11
+P2043	length	11
+P2131	nominal GDP	11
+P2134	total reserves	11
+P2226	market capitalization	11
+P2238	official symbol	11
+P2284	price	11
+P2407	short-term exposure limit	11
+P2869	record or record progression	11
+P3000	marriageable age	11
+P3086	speed limit	11
+P3780	active ingredient in	11
+P3966	programming paradigm	11
+P412	voice type	11
+P437	distribution format	11
+P516	power source	11
+P559	terminus	11
+P681	cell component	11
+P688	encodes	11
+P742	pseudonym	11
+P748	appointed by	11
+P767	contributor to the creative work or subject	11
+P841	feast day	11
+P859	sponsor	11
+P965	burial plot reference	11
+P1191	date of first performance	10
+P128	regulates (molecular biology)	10
+P1283	filmography	10
+P1319	earliest date	10
+P1436	collection or exhibition size	10
+P1454	legal form	10
+P1476	title	10
+P1552	has quality	10
+P1629	subject item of this property	10
+P1875	represented by	10
+P1877	after a work by	10
+P1881	list of characters	10
+P2049	width	10
+P2219	real GDP growth rate	10
+P2243	apoapsis	10
+P2286	arterial supply	10
+P2438	narrator	10
+P2442	conversion to standard unit	10
+P2632	place of detention	10
+P2643	Carnegie Classification of Institutions of Higher Education	10
+P275	copyright license	10
+P2813	house publication	10
+P3781	has active ingredient	10
+P3938	named by	10
+P411	canonization status	10
+P4791	commanded by	10
+P631	structural engineer	10
+P770	cause of destruction	10
+P91	sexual orientation	10
+P931	place served by transport hub	10
+P94	coat of arms image	10
+P1113	number of episodes	9
+P1120	number of deaths	9
+P1121	oxidation state	9
+P113	airline hub	9
+P1312	has facet polytope	9
+P1326	latest date	9
+P1333	coordinates of southernmost point	9
+P1334	coordinates of easternmost point	9
+P1342	number of seats	9
+P1445	fictional universe described in	9
+P1458	color index	9
+P1536	immediate cause of	9
+P154	logo image	9
+P1540	male population	9
+P1546	motto	9
+P1547	depends on software	9
+P1589	lowest point	9
+P1999	UNESCO language status	9
+P2069	magnetic moment	9
+P2073	vehicle range	9
+P2160	mass excess	9
+P2299	PPP GDP per capita	9
+P2300	minimal lethal dose	9
+P2440	transliteration	9
+P248	stated in	9
+P249	ticker symbol	9
+P2515	costume designer	9
+P2614	World Heritage criteria	9
+P2645	mean lifetime	9
+P2650	interested in	9
+P2673	next crossing upstream	9
+P2959	permanent duplicated item	9
+P3013	surface tension	9
+P3075	official religion	9
+P3087	fiscal/tax revenue	9
+P3091	mount	9
+P3387	minimum frequency of audible sound	9
+P3712	objective of project or action	9
+P4345	director of archaeological fieldwork	9
+P4442	mean age	9
+P5130		9
+P529	runway	9
+P611	religious order	9
+P654	direction relative to location	9
+P803	professorship	9
+P910	topic's main category	9
+P1086	atomic number	8
+P1090	redshift	8
+P1102	flattening	8
+P1123	parity quantum number	8
+P1125	Gini coefficient	8
+P1141	number of processor cores	8
+P1181	numeric value	8
+P1227	astronomical filter	8
+P1336	territory claimed by	8
+P1561	number of survivors	8
+P1641	port	8
+P1873	maximum number of players	8
+P1924	vaccine for	8
+P2045	orbital inclination	8
+P2052	speed	8
+P2053	watershed area	8
+P2056	heat capacity	8
+P2114	half-life	8
+P2118	kinematic viscosity	8
+P2120	radius	8
+P2132	nominal GDP per capita	8
+P2138	total liabilities	8
+P2142	box office	8
+P2146	orbital period	8
+P2197	production rate	8
+P2199	autoignition temperature	8
+P2200	electric charge	8
+P2201	electric dipole moment	8
+P2211	position angle	8
+P2213	longitude of ascending node	8
+P2225	discharge	8
+P2239	first aid measures	8
+P2325	mean anomaly	8
+P2370	conversion to SI unit	8
+P2405	ceiling exposure limit	8
+P2527	earthquake magnitude on the moment magnitude scale	8
+P2547	perimeter	8
+P2561	name	8
+P2583	distance from Earth	8
+P2661	target interest rate	8
+P2665	alcohol by volume	8
+P2787	longest span	8
+P2791	power consumed	8
+P2849	produced by	8
+P2855	VAT-rate	8
+P2922	month of the year	8
+P2925	domain of saint or deity	8
+P2927	water as percent of area	8
+P2997	age of majority	8
+P3001	retirement age	8
+P3157	event distance	8
+P3263	base	8
+P3320	board member	8
+P3465	maximum frequency of audible sound	8
+P3529	median income	8
+P373	Commons category	8
+P3737	maximum wavelength of sensitivity	8
+P376	located on astronomical body	8
+P3891	observing time available	8
+P3919	contributed to creative work	8
+P3931	copyright holder	8
+P4000	has fruit type	8
+P4080	number of houses	8
+P4341	synodic period	8
+P4647	location of first performance	8
+P501	enclave within	8
+P5096	member of the crew of	8
+P553	website account on	8
+P65	site of astronomical discovery	8
+P669	located on street	8
+P684	ortholog	8
+P790	approved by	8
+P924	possible treatment	8
+P1083	maximum capacity	7
+P1087	Elo rating	7
+P1088	Mohs' hardness	7
+P1096	orbital eccentricity	7
+P1100	number of cylinders	7
+P1101	floors above ground	7
+P1110	attendance	7
+P1127	isospin z-component	7
+P1136	solved by	7
+P1148	neutron number	7
+P1190	Universal Decimal Classification	7
+P1301	number of elevators	7
+P1339	number of injured	7
+P1345	number of victims of killer	7
+P1355	number of wins	7
+P1356	number of losses	7
+P1357	number of draws/ties	7
+P1373	daily patronage	7
+P1410	number of representatives in an organisation/legislature	7
+P1418	orbits completed	7
+P1455	list of works	7
+P1462	standards body	7
+P1470	maximum glide ratio	7
+P1479	has contributing factor	7
+P1576	lifestyle	7
+P1590	number of casualties	7
+P1621	detail map	7
+P1661	Alexa rank	7
+P1716	brand	7
+P1846	distribution map	7
+P1872	minimum number of players	7
+P201	lake outflow	7
+P2012	cuisine	7
+P2055	electrical conductivity	7
+P2068	thermal conductivity	7
+P2101	melting point	7
+P2113	sublimation temperature	7
+P2130	cost	7
+P2137	total equity	7
+P2147	rotation period	7
+P2151	focal length	7
+P2154	binding energy	7
+P2202	lower flammable limit	7
+P2214	parallax	7
+P2227	metallicity	7
+P2231	explosive velocity	7
+P2250	life expectancy	7
+P2254	maximum operating altitude	7
+P2374	natural abundance	7
+P2402	total expenditure	7
+P2415	personal best	7
+P242	locator map image	7
+P2430	takeoff roll	7
+P2436	voltage	7
+P2528	earthquake magnitude on the Richter magnitude scale	7
+P2556	bore	7
+P2565	global warming potential	7
+P2595	maximum gradient	7
+P2610	thickness	7
+P2630	cost of damage	7
+P2635	number of parts of this work	7
+P2658	Scoville grade	7
+P2659	topographic isolation	7
+P2660	topographic prominence	7
+P2664	units sold	7
+P2670	has parts of the class	7
+P2695	type locality (geology)	7
+P2806	vibration	7
+P2844	incidence	7
+P2873	time in space	7
+P2884	mains voltage	7
+P2928	memory capacity	7
+P2935	connector	7
+P2999	age of consent	7
+P3020	residence time of water	7
+P3027	open period from	7
+P3028	open period to	7
+P3041	luminous intensity	7
+P3063	gestation period	7
+P3070	dynamic viscosity	7
+P3078	standard enthalpy of formation	7
+P3270	compulsory education (minimum age)	7
+P3271	compulsory education (maximum age)	7
+P3395	heart rate	7
+P3439	angular resolution	7
+P3485	bite force quotient	7
+P3488	minimal incubation period in humans	7
+P3618	base salary	7
+P3729	next lower rank	7
+P3792	rate of fire	7
+P3886	number of perpetrators	7
+P3893	public domain date	7
+P3934	face value	7
+P4020	ISQ dimension	7
+P41	flag image	7
+P4131	annual energy output	7
+P4176	effective firing range	7
+P4296	stellar rotational velocity	7
+P4350	salinity	7
+P4500	family relationship degree	7
+P4511	vertical depth	7
+P4545	sexually homologous with	7
+P4599	monomer of	7
+P4600	polymer of	7
+P4733	produced sound	7
+P5061	unit symbol	7
+P5066	operating temperature	7
+P5071	boiler pressure	7
+P522	type of orbit	7
+P5230	chromosome count	7
+P5483	hardness	7
+P5524	horizontal depth	7
+P634	captain	7
+P739	ammunition	7
+P78	top-level Internet domain	7
+P856	official website	7
+P1034	main food source	6
+P1046	discovery method	6
+P1092	total produced	6
+P1097	g-factor	6
+P1099	number of masts	6
+P1104	number of pages	6
+P1106	Sandbox-Quantity	6
+P1117	pKa	6
+P1122	spin quantum number	6
+P1129	national team caps	6
+P1132	number of participants	6
+P1139	floors below ground	6
+P1164	group cardinality	6
+P1247	compression ratio	6
+P1249	time of earliest written record	6
+P1314	number of spans	6
+P1335	coordinates of westernmost point	6
+P1358	points for	6
+P1387	political alignment	6
+P1442	image of grave	6
+P1446	number of missing	6
+P1449	nickname	6
+P1457	absolute magnitude	6
+P1596	penalty	6
+P1618	sport number	6
+P1684	inscription	6
+P177	crosses	6
+P1833	number of registered users/contributors	6
+P1867	eligible voters	6
+P200	inflows	6
+P2051	M sin i	6
+P2061	aspect ratio	6
+P2066	fusion enthalpy	6
+P2105	size of team at finish	6
+P2109	installed capacity	6
+P2112	wing area	6
+P2116	enthalpy of vaporization	6
+P2129	immediately dangerous to life or health	6
+P2133	total debt	6
+P2143	genome size	6
+P2144	frequency	6
+P2145	explosive energy equivalent	6
+P2149	clock speed	6
+P2198	average gradient	6
+P2203	upper flammable limit	6
+P2208	average shot length	6
+P2216	radial velocity	6
+P2217	cruise speed	6
+P2221	flux	6
+P2228	maximum thrust	6
+P2229	thermal design power	6
+P2244	periapsis	6
+P2257	period of event	6
+P2262	draft	6
+P2289	venous drainage	6
+P2320	aftershocks	6
+P2404	time-weighted average exposure limit	6
+P2408	set in period	6
+P2534	defining formula	6
+P2555	fee	6
+P2557	stroke	6
+P2599	block size	6
+P2712	median lethal concentration (LC50)	6
+P2781	race time	6
+P2803	Wikidata time precision	6
+P2808	wavelength	6
+P2834	individual tax rate	6
+P2895	maximum sustained winds	6
+P2899	minimum age	6
+P2907	UTC timezone offset	6
+P2929	lighthouse range	6
+P2937	parliamentary term	6
+P2957	throughput	6
+P2962	title of chess person	6
+P2993	partition coefficient water/octanol	6
+P2998	age of candidacy	6
+P3071	standard molar entropy	6
+P3253	optimum viable temperature	6
+P3260	points awarded	6
+P3438	vehicle normally used	6
+P3487	maximal incubation period in humans	6
+P3491	muscle insertion	6
+P3512	means of locomotion	6
+P3530	par	6
+P3575	data size	6
+P3629	age at event	6
+P3719	regulated by	6
+P3738	minimum wavelength of sensitivity	6
+P3740	number of works	6
+P3744	number of subscribers	6
+P3840	slope rating	6
+P3872	patronage	6
+P3917	IPA number order	6
+P3983	sports league level	6
+P4010	GDP (PPP)	6
+P408	software engine	6
+P4137	muzzle velocity	6
+P4250	defined daily dose	6
+P4253	number of constituencies	6
+P4441	hydraulic head	6
+P4501	albedo	6
+P4519	payload mass	6
+P4614	drainage basin	6
+P4675	appears in the form of	6
+P469	lakes on river	6
+P4876	number of records	6
+P4884	court	6
+P4909	number of players in region	6
+P4912	century breaks	6
+P5043	number of abstentions	6
+P5044	number of spoilt votes	6
+P511	honorific prefix	6
+P5141	coastline	6
+P533	target	6
+P5349	laps completed	6
+P5480	tensile modulus of elasticity	6
+P5520	toughness	6
+P5529	yield strength	6
+P562	central bank/issuer	6
+P644	genomic start	6
+P726	candidate	6
+P868	foods traditionally associated	6
+P1011	excluding	5
+P1068	instruction set	5
+P1074	fictional analog of	5
+P1108	electronegativity	5
+P1126	isospin quantum number	5
+P1158	location of landing	5
+P1325	external data available at	5
+P1332	coordinates of northernmost point	5
+P1429	has pet	5
+P1444	destination point	5
+P1594	judge	5
+P1595	charge	5
+P1598	consecrator	5
+P1639	pendant of	5
+P167	structure replaced by	5
+P1689	central government debt as a percent of GDP	5
+P1692	ICD-9-CM	5
+P1697	total valid votes	5
+P1789	chief operating officer	5
+P1814	name in kana	5
+P1868	ballots cast	5
+P2021	Erdős number	5
+P2060	luminosity	5
+P2103	size of team at start	5
+P2136	total imports	5
+P2204	minimum explosive concentration	5
+P2230	torque	5
+P2233	semi-major axis of an orbit	5
+P2248	argument of periapsis	5
+P2261	beam	5
+P2275	World Health Organisation International Nonproprietary Name	5
+P2351	number of graves	5
+P2362	time to altitude	5
+P2406	maximum peak exposure limit	5
+P2437	number of seasons	5
+P2512	series spin-off	5
+P2532	lowest atmospheric pressure	5
+P2554	production designer	5
+P2575	measures	5
+P2662	consumption rate per capita	5
+P2769	budget	5
+P2797	sound power level	5
+P2853	electrical plug type	5
+P2896	publication interval	5
+P2923	focal height	5
+P3039	wheelbase	5
+P3559	maximum size or capacity	5
+P3701	incarnation of	5
+P3761	IPv4 routing prefix	5
+P3912	newspaper format	5
+P395	licence plate code	5
+P404	game mode	5
+P4135	maximum age	5
+P4140	energy storage capacity	5
+P4183	angle from vertical	5
+P4218	shelf life	5
+P467	legislated by	5
+P483	recorded at studio or venue	5
+P4895	time index	5
+P4999	number of clubs	5
+P5008	on focus list of Wikimedia project	5
+P5045	number of blank votes	5
+P505	general manager	5
+P5206	has conjugation class	5
+P5447	lower limit	5
+P5460	grants	5
+P589	point group	5
+P736	cover art by	5
+P823	speaker	5
+P870	instrumentation	5
+P993	NFPA Health	5
+P1002	engine configuration	4
+P1035	honorific suffix	4
+P1072	readable file format	4
+P1111	votes received	4
+P1295	emissivity	4
+P1318	proved by	4
+P1322	dual to	4
+P1347	military casualty classification	4
+P1403	original combination	4
+P1408	licensed to broadcast to	4
+P141	IUCN conservation status	4
+P1414	GUI toolkit or framework	4
+P1420	taxon synonym	4
+P1548	maximum Strahler number	4
+P1574	exemplar of	4
+P1620	plaintiff	4
+P1654	wing configuration	4
+P1725	beats per minute	4
+P1752	scale	4
+P1766	place name sign	4
+P1787	art-name	4
+P18	image	4
+P1851	input set	4
+P1923	participating team	4
+P1932	stated as	4
+P196	minor planet group	4
+P1962		4
+P197	adjacent station	4
+P2050	wingspan	4
+P2096	media legend	4
+P2117	combustion enthalpy	4
+P2135	total exports	4
+P2148	distance from river mouth	4
+P2150	FSB speed	4
+P2159	computes solution to	4
+P217	inventory number	4
+P2223	decay width	4
+P2234	volume as quantity	4
+P2288	lymphatic drainage	4
+P2292	consumption rate	4
+P2297	employment by economic sector	4
+P2324	quantity buried	4
+P2360	intended public	4
+P2375	has superpartner	4
+P2505	carries	4
+P2652	partnership with	4
+P2663	common equity tier 1 capital ratio (CETI)	4
+P2737	union of	4
+P2746	production statistics	4
+P2790	net tonnage	4
+P2851	payment types accepted	4
+P3018	located in protected area	4
+P3036	precipitation height	4
+P3080	game artist	4
+P3082	destroyed	4
+P3094	develops from	4
+P3113	does not have part	4
+P3137	parent peak	4
+P3252	maximum viable temperature	4
+P3259	intangible cultural heritage status	4
+P3262	has anatomical branch	4
+P3275	storyboard artist	4
+P3300	musical conductor	4
+P3337	generation time	4
+P3437	people or cargo transported	4
+P3461	designated as terrorist by	4
+P3489	pregnancy category	4
+P3602	candidacy in election	4
+P3716	social classification	4
+P3969	signed form	4
+P3989	members have occupation	4
+P399	companion of	4
+P4036	field of view	4
+P4184	slope	4
+P4185	iconographic symbol	4
+P4403	caliber	4
+P4743	animal breed	4
+P500	exclave of	4
+P5027	number of representations	4
+P5069	service life	4
+P51	audio	4
+P5140	coordinates of geographic center	4
+P5167	vehicles per thousand people	4
+P523	temporal range start	4
+P524	temporal range end	4
+P541	office contested	4
+P5448	upper limit	4
+P5479	ultimate tensile strength	4
+P5594	moisture absorption	4
+P5630	prisoner count	4
+P5674	thermal diffusivity	4
+P5811	elongation at break	4
+P588	coolant	4
+P5982	annual number of weddings	4
+P5991	carbon footprint	4
+P6257	right ascension	4
+P6438	Euler characteristic	4
+P647	drafted by	4
+P6498	illiterate population	4
+P6545	total assists in career	4
+P6547	career plus-minus rating	4
+P6590	highest break	4
+P6591	maximum temperature record	4
+P807	separated from	4
+P813	retrieved	4
+P826	tonality	4
+P912	has facility	4
+P930	type of electrification	4
+P943	programmer	4
+P953	full work available at	4
+P989	spoken text audio	4
+P991	successful candidate	4
+P1019	web feed URL	3
+P1064	track gauge	3
+P1073	writable file format	3
+P1093	gross tonnage	3
+P1103	number of platform tracks	3
+P1150	Regensburg Classification	3
+P1184	Handle ID	3
+P1225	U.S. National Archives Identifier	3
+P1310	statement disputed by	3
+P1359	number of points/goals conceded	3
+P1537	contributing factor of	3
+P1549	demonym	3
+P1581	official blog	3
+P1604	biosafety level	3
+P1611	NATO code for grade	3
+P1612	Commons Institution page	3
+P1635	religious name	3
+P1636	date of baptism in early childhood	3
+P1683	quotation	3
+P1773		3
+P1775	follower of	3
+P1786	posthumous name	3
+P1809	choreographer	3
+P1963	properties for this type	3
+P2001	Revised Romanization	3
+P2058	depositor	3
+P2097	term length of office	3
+P210	party chief representative	3
+P2125	Revised Hepburn romanization	3
+P2140	foreign direct investment net outflow	3
+P2141	foreign direct investment net inflow	3
+P2155	solid solution series with	3
+P2157		3
+P2178	solvent	3
+P2210	relative to	3
+P2215	proper motion	3
+P2222	gyromagnetic ratio	3
+P2232	cash	3
+P2258	mobile country code	3
+P2357	Classification of Instructional Programs code	3
+P2358	Roman praenomen	3
+P2384	statement describes	3
+P2517	category for recipients of this award	3
+P2542	acceptable daily intake	3
+P2548	strand orientation	3
+P2598	serial number	3
+P2679	author of foreword	3
+P2680	author of afterword	3
+P2700	protocol	3
+P2701	file format	3
+P2717	no-observed-adverse-effect level	3
+P2770	source of income	3
+P2784	Mercalli intensity scale	3
+P2793	clearance	3
+P2820	cardinality of this set	3
+P2872	visitor centre	3
+P2975	host	3
+P3033	package management system	3
+P3103	has tense	3
+P3158	enclosure	3
+P3161	has grammatical mood	3
+P3174	art director	3
+P3205	patient of	3
+P3251	minimum viable temperature	3
+P3490	muscle origin	3
+P3492	basic reproduction number	3
+P3494	points classification	3
+P3680	statement supported by	3
+P3793	IPv6 routing prefix	3
+P3864	suicide rate	3
+P3896	geoshape	3
+P393	edition number	3
+P3985	supports programming language	3
+P4101	dissertation submitted to	3
+P4103	assets under management	3
+P4105	EGF rating	3
+P4163	magnification	3
+P4320	mountains classification	3
+P4510	describes a project that uses	3
+P4584	first appearance	3
+P465	sRGB color hex triplet	3
+P4792	dam	3
+P4896	3D model	3
+P4934	calculated from	3
+P504	home port	3
+P5102	nature of statement	3
+P5135	greater than	3
+P5136	less than	3
+P5138	season of club or team	3
+P5166	established from medical condition	3
+P5205	stroke count	3
+P5348	angular diameter	3
+P5389	permanent resident of	3
+P5471	Harmonized System Code	3
+P548	version type	3
+P5582	number of arrests	3
+P5595	number of platform faces	3
+P560	direction	3
+P5624	pitting resistance equivalent number	3
+P5669	compressive strength	3
+P5679	electrical resistivity	3
+P5681	flexural modulus	3
+P5822	admission rate	3
+P5894	tuition fee	3
+P5895	foreign transaction fee	3
+P5896	trading fee	3
+P5897	account charge / subscription fee	3
+P5993	compressive modulus of elasticity	3
+P6014	flexural strain at break	3
+P6075	embodied energy	3
+P6125	number of volunteers	3
+P624	guidance system	3
+P6258	declination	3
+P6260	galactic longitude	3
+P6261	galactic latitude	3
+P6343	urban population	3
+P6344	rural population	3
+P6499	literate population	3
+P6544	total points in career	3
+P659	genomic assembly	3
+P66	ancestral home	3
+P670	street number	3
+P690	space group	3
+P787	spore print colour	3
+P788	mushroom ecological type	3
+P795	located on linear feature	3
+P798	military designation	3
+P831	parent club	3
+P880	CPU	3
+P922	magnetic ordering	3
+P928	activating neurotransmitter	3
+P952	ISCO-88 occupation code	3
+P971	category combines topics	3
+P995	NFPA Instability	3
+P1012	including	2
+P1032	Digital Rights Management system	2
+P1057	chromosome	2
+P1060	pathogen transmission process	2
+P1112		2
+P114	airline alliance	2
+P1149	Library of Congress Classification	2
+P1165	home world	2
+P117	chemical structure	2
+P1170	transmitted signal type	2
+P1192	connecting service	2
+P1202	carries scientific instrument	2
+P1213	NLC authorities	2
+P1216	National Heritage List for England number	2
+P1246	patent number	2
+P1282	OpenStreetMap tag or key	2
+P1290	godparent	2
+P1304	central bank	2
+P134		2
+P1393	proxy	2
+P1396	Linguasphere code	2
+P1401	bug tracking system	2
+P1432		2
+P1531	parent of this hybrid, breed, or cultivar	2
+P1568	definition domain	2
+P1571	codomain	2
+P1593	defender	2
+P16	highway system	2
+P1605	has natural reservoir	2
+P1619	date of official opening	2
+P1625	has melody	2
+P163	flag	2
+P1642	acquisition transaction	2
+P1678	has vertex figure	2
+P1685	Pokédex / Pokémon browser number	2
+P1687	Wikidata property	2
+P1762	Hornbostel-Sachs classification	2
+P1780	school of	2
+P1782	courtesy name	2
+P1853	blood type	2
+P1876	vehicle	2
+P1950	second family name in Spanish name	2
+P1953	Discogs artist ID	2
+P1987	MCN code	2
+P2236	external subproperty	2
+P2308	class	2
+P2321	general classification of race participants	2
+P233	canonical SMILES	2
+P2352	applies to taxon	2
+P2354	has list	2
+P2378	issued by	2
+P2441	literal translation	2
+P2499	league level above	2
+P2521	female form of label	2
+P2563	superhuman feature or ability	2
+P2571	uncertainty corresponds to	2
+P2597	Gram staining	2
+P2674	next crossing downstream	2
+P2675	reply to	2
+P2699	URL	2
+P274	chemical formula	2
+P2743	this zoological name is coordinate with	2
+P2747	Filmiroda rating	2
+P2754	production date	2
+P2821	by-product	2
+P2822	by-product of	2
+P2825	via	2
+P2827	flower color	2
+P2979	maritime identification digits	2
+P3022	flag bearer	2
+P3032	adjacent building	2
+P3150	birthday	2
+P3173	offers view on	2
+P3179	territory overlaps	2
+P3238	trunk prefix	2
+P3261	anatomical branch of	2
+P3264	radix	2
+P3279	statistical leader	2
+P3321	male form of label	2
+P3364	stereoisomer of	2
+P3415	start period	2
+P3416	end period	2
+P3457	case fatality rate	2
+P3493	legal status (medicine)	2
+P369	Sandbox-Item	2
+P3721	public key fingerprint	2
+P375	space launch vehicle	2
+P3823	Ethnologue language status	2
+P3833	diaspora	2
+P3842	located in present-day administrative territorial entity	2
+P3871	tributary orientation	2
+P4006	overrules	2
+P4043	emulates	2
+P4044	therapeutic area	2
+P406	soundtrack release	2
+P4100	parliamentary group	2
+P4214	highest observed lifespan	2
+P4224	category contains	2
+P4295	readership	2
+P434	MusicBrainz artist ID	2
+P4387	update method	2
+P4447	minimum spend bonus	2
+P4448	cash back	2
+P474	country calling code	2
+P4774	biological phase	2
+P489	currency symbol description	2
+P4968	relevant qualification	2
+P5023	activity policy in this place	2
+P5053	fastest lap	2
+P5125	Wikimedia outline	2
+P528	catalog code	2
+P532	port of registry	2
+P542	officially opened by	2
+P5593	Poisson's ratio	2
+P565	crystal habit	2
+P566	basionym	2
+P5673	shear modulus	2
+P5899	interest rate	2
+P5900	JMA Magnitude	2
+P5929	limiting oxygen index	2
+P6000	water footprint	2
+P6089	beer color	2
+P6249	narrative age	2
+P645	genomic end	2
+P6497	drag coefficient	2
+P6509	total goals in career	2
+P6510	stall speed	2
+P6543	total shots in career	2
+P6546	penalty minutes in career	2
+P6589	endowment	2
+P673	eMedicine ID	2
+P680	molecular function	2
+P682	biological process	2
+P692	Gene Atlas Image	2
+P712	Nickel-Strunz 9th edition (updated 2009)	2
+P730	service retirement	2
+P746	date of disappearance	2
+P765	surface played on	2
+P789	edibility	2
+P817	decay mode	2
+P854	reference URL	2
+P872	printed by	2
+P881	type of variable star	2
+P898	IPA transcription	2
+P921	main subject	2
+P926	postsynaptic connection	2
+P942	theme music	2
+P972	catalog	2
+P973	described at URL	2
+P994	NFPA Fire	2
+P10	video	1
+P1003	National Library of Romania ID	1
+P1004	MusicBrainz place ID	1
+P1005	Portuguese National Library ID	1
+P1006	NTA identifier (Netherlands)	1
+P1014	Art & Architecture Thesaurus ID	1
+P1015	BIBSYS ID	1
+P1021	KldB-2010 occupation code	1
+P1023	SBC-2010 occupation code	1
+P1024	SBFI occupation code	1
+P1025	SUDOC editions	1
+P1031	legal citation of this text	1
+P1042	ZDB ID	1
+P1044	SWB editions	1
+P1045	Sycomore ID	1
+P1047	Catholic Hierarchy person ID	1
+P1048	NCL ID	1
+P1051	PSH ID	1
+P1052	Portuguese Job Code CPP-2010	1
+P1055	NLM Unique ID	1
+P1065	archive URL	1
+P1067	Thailand central administrative unit code	1
+P1069	Statistics Denmarks classification of occupation (DISCO-08)	1
+P1070	PlantList-ID	1
+P1076	ICTV virus ID	1
+P1077	KOATUU identifier	1
+P1079	launch contractor	1
+P1085	LibraryThing work ID	1
+P109	signature	1
+P1115	ATVK ID	1
+P1116	ELSTAT geographical code	1
+P1137	fossil found in this unit	1
+P1138	Kunstindeks Danmark Artist ID	1
+P1140	EHAK id	1
+P1144	Library of Congress Control Number (LCCN) (bibliographic)	1
+P1145	Lagrangian point	1
+P1146	World Athletics athlete ID	1
+P1151	topic's main Wikimedia portal	1
+P1153	Scopus Author ID	1
+P1155	Scopus affiliation ID	1
+P1156	Scopus Source ID	1
+P1157	US Congress Bio ID	1
+P1159	CODEN	1
+P1160	ISO 4 abbreviation	1
+P1161	Z39.5 abbreviation	1
+P1163	media type	1
+P1167	USB vendor ID	1
+P1171	approximation algorithm	1
+P1182	LIBRIS editions	1
+P1183	Gewässerkennzahl	1
+P1185	Rodovid ID	1
+P1186	MEP directory ID	1
+P1187	Dharma Drum Buddhist College person ID	1
+P1188	Dharma Drum Buddhist College place ID	1
+P1189	Chinese Library Classification	1
+P1194	received signal type	1
+P1195	file extension	1
+P1200	bodies of water basin category	1
+P1201	space tug	1
+P1203	Finnish municipality number	1
+P1204	Wikimedia portal's main topic	1
+P1207	NUKAT ID	1
+P1209	CN	1
+P1211	fuel system	1
+P1212	Atlas ID	1
+P1220	Internet Broadway Database person ID	1
+P1229	Openpolis ID	1
+P1230	JSTOR journal ID	1
+P1232	Linguist list code	1
+P1233	ISFDB author ID	1
+P1234	ISFDB publication ID	1
+P1235	ISFDB series ID	1
+P1237	Box Office Mojo film ID (former scheme)	1
+P1239	ISFDB publisher ID	1
+P1240	Danish Bibliometric Research Indicator level	1
+P1245	OmegaWiki Defined Meaning	1
+P1248	KulturNav-ID	1
+P1250	Danish Bibliometric Research Indicator (BFI) SNO/CNO	1
+P1251	ABS ASCL 2011 code	1
+P1253	BCU Ecrivainsvd ID	1
+P1254	Slovenska biografija ID	1
+P1255	HelveticArchives ID	1
+P1256	Iconclass notation	1
+P1257	depicts Iconclass notation	1
+P1258	Rotten Tomatoes ID	1
+P1259	coordinates of the point of view	1
+P1260	Swedish Open Cultural Heritage URI	1
+P1263	NNDB people ID	1
+P1265	AlloCiné film ID	1
+P1266	AlloCiné person ID	1
+P1267	AlloCiné series ID	1
+P1273	CANTIC ID	1
+P1274	ISFDB title ID	1
+P1277	JUFO ID	1
+P1278	Legal Entity Identifier	1
+P1280	CONOR.SI ID	1
+P1281	WOEID	1
+P1284	Munzinger person ID	1
+P1285	Munzinger Sport number	1
+P1288	Kritisches Lexikon der Gegenwartsliteratur ID	1
+P1292	DNB editions	1
+P1293	Royal Aero Club Aviator's Certificate ID	1
+P1294	WWF ecoregion code	1
+P1296	Gran Enciclopèdia Catalana ID	1
+P1297	IRS Employer Identification Number	1
+P1300	bibcode	1
+P1305	CTBUH Skyscraper Center building ID	1
+P1309	EGAXA ID	1
+P1315	NLA Trove ID	1
+P1317	floruit	1
+P1320	OpenCorporates ID	1
+P1321	place of origin (Switzerland)	1
+P1323	Terminologia Anatomica 98 ID	1
+P1329	phone number	1
+P1330	MusicBrainz instrument ID	1
+P1331	PACE member ID	1
+P1341	Italian Chamber of Deputies dati ID	1
+P1348	AlgaeBase URL	1
+P1349	ploidy	1
+P1354	shown with features	1
+P1360	Monte Carlo Particle Number	1
+P1363	points/goal scored by	1
+P1364	ITTF table tennis player ID	1
+P1367	Art UK artist ID	1
+P1369	Iranian National Heritage registration number	1
+P1370	IHSI ID	1
+P1371	ASI Monument ID	1
+P1372	binding of software library	1
+P1375	NSK ID	1
+P1380	BridgeReports.com ID	1
+P1381	bridgehunter.com ID	1
+P1388	German regional key	1
+P1389	product certification	1
+P1391	Index Fungorum ID	1
+P1392	ComicBookDB ID	1
+P1395	National Cancer Institute ID	1
+P1397	State Catalogue of Geographical Names (Russia) ID	1
+P1398	structure replaces	1
+P1402	Foundational Model of Anatomy ID	1
+P1406	script directionality	1
+P1407	MusicBrainz series ID	1
+P1409	Cycling Archives cyclist ID	1
+P1415	Oxford Dictionary of National Biography ID	1
+P1417	Encyclopædia Britannica Online ID	1
+P1424	topic's main template	1
+P1440	FIDE player ID	1
+P1447	Sports-Reference.com Olympic athlete ID	1
+P1453	catholic.ru ID	1
+P1459	Cadw Building ID	1
+P1461	Patientplus ID	1
+P1463	Post-Reformation Digital Library author ID	1
+P1464	category for people born here	1
+P1465	category for people who died here	1
+P1466	WALS lect code	1
+P1469	FIFA player ID	1
+P1472	Commons Creator page	1
+P1473	Nupill Literatura Digital - Author	1
+P1481	vici.org ID	1
+P1482	Stack Exchange tag	1
+P1483	kulturnoe-nasledie.ru ID	1
+P15	route map	1
+P1529	Gertrude identifier	1
+P1543	monogram	1
+P1550	Orphanet ID	1
+P1553	Yandex Music artist ID	1
+P1554	UBERON ID	1
+P1556	zbMATH author ID	1
+P1562	AllMovie movie ID	1
+P1563	MacTutor biography ID	1
+P1564	At the Circulating Library ID	1
+P1565	Enciclopedia de la Literatura en México ID	1
+P1566	GeoNames ID	1
+P1578	Gmelin number	1
+P1579	Reaxys registry number	1
+P158	seal image	1
+P1580	University of Barcelona authority ID	1
+P1584	Pleiades ID	1
+P1586	Catalan object of cultural interest ID	1
+P1592	prosecutor	1
+P1599	Cambridge Alumni Database ID	1
+P1600	Inventari del Patrimoni Arquitectònic de Catalunya code	1
+P1606	natural reservoir of	1
+P1607	Dialnet author ID	1
+P1609	Dialnet journal ID	1
+P1613	IRC channel	1
+P1614	History of Parliament ID	1
+P1615	CLARA-ID	1
+P1616	SIREN number	1
+P1617	BBC Things ID	1
+P1622	driving side	1
+P1626	Thai cultural heritage ID	1
+P1627	Ethnologue.com language code	1
+P1631	China Vitae ID	1
+P1637	undercarriage	1
+P1638	codename	1
+P1640	curator	1
+P1644	messes.info Catholic church ID	1
+P1645	NIST/CODATA ID	1
+P1648	Dictionary of Welsh Biography ID	1
+P1650	BBF ID	1
+P1652	referee	1
+P1653	TERC municipality code	1
+P1656	unveiled by	1
+P1657	MPAA film rating	1
+P1662	DOI prefix	1
+P1663	ProCyclingStats cyclist ID	1
+P1664	Cycling Database ID	1
+P1665	ChessGames.com player ID	1
+P1668	ATCvet	1
+P1669	Cultural Objects Names Authority ID	1
+P1674	number confirmed	1
+P1679	Art UK artwork ID	1
+P1688		1
+P1694	Terminologia Histologica	1
+P1695	NLP ID (unique)	1
+P1703	is pollinated by	1
+P1707	DAAO ID	1
+P1709	equivalent class	1
+P1710	Sächsische Biografie ID	1
+P1712	Metacritic ID	1
+P1713	biography at the Bundestag of Germany URL	1
+P1715	RKD/ESD (Slovenia) ID	1
+P1717	Sandre river ID	1
+P1721	pinyin transliteration	1
+P1726	Florentine musea Inventario 1890 ID	1
+P1727	Flora of North America taxon ID	1
+P1728	AllMusic artist ID	1
+P1729	AllMusic album ID	1
+P1731	Fach	1
+P1736	Information Center for Israeli Art artist ID	1
+P1739	CiNii book ID	1
+P1741	GTAA ID	1
+P1743	Bradley and Fletcher checklist number	1
+P1744	Agassiz checklist number	1
+P1745	VASCAN ID	1
+P1746	ZooBank ID for name or act	1
+P1747	Flora of China ID	1
+P1748	NCI Thesaurus ID	1
+P1749	Parlement & Politiek ID	1
+P1751	Art UK collection ID	1
+P1753	list related to category	1
+P1761	Watson & Dallwitz family ID	1
+P1770	Romania LMI code	1
+P1771	Integrated Postsecondary Education Data System ID	1
+P1772	USDA PLANTS ID	1
+P1776	circle of	1
+P1777	manner of	1
+P1785	temple name	1
+P1788	DVN ID	1
+P1791	category of people buried here	1
+P1793	format as a regular expression	1
+P1796	International Standard Industrial Classification code Rev.4	1
+P1798	ISO 639-5 code	1
+P1801	commemorative plaque image	1
+P1802	EMLO person ID	1
+P1804	DNF film ID	1
+P1807	Great Aragonese Encyclopedia ID	1
+P1808	senat.fr ID	1
+P181	taxon range map image	1
+P1810	named as	1
+P1811	list of episodes	1
+P1815	RSL scanned books identifier	1
+P1816	National Portrait Gallery (London) person ID	1
+P1818	Kaiserhof ID	1
+P1819	genealogics.org person ID	1
+P1821	Open Food Facts food category ID	1
+P1825	Baseball-Reference.com major league player ID	1
+P1826	Baseball-Reference.com minor & foreign league player ID	1
+P1827	ISWC	1
+P1828	IPI name number	1
+P1829	Roud Folk Song Index number	1
+P1832	GrassBase ID	1
+P1838	PSS-archi ID	1
+P1839	US Federal Election Commission ID	1
+P1840	investigated by	1
+P1842	Global Anabaptist Mennonite Encyclopedia Online ID	1
+P1844	HathiTrust ID	1
+P1847	Nasjonalbiblioteket photographer ID	1
+P1850	SSR place name number	1
+P1855	Wikidata property example	1
+P1866	Catholic Hierarchy diocese ID	1
+P1869	Hall of Valor ID	1
+P1874	Netflix ID	1
+P1879	income classification (Philippines)	1
+P1882	Web Gallery of Art ID	1
+P1883	Declarator.org ID	1
+P1886	Smithsonian volcano ID	1
+P1890	CCAB ID	1
+P1894	Danish urban area code	1
+P1895	Fauna Europaea ID	1
+P1896	source website for the property	1
+P1897	highest note	1
+P1898	lowest note	1
+P1899	LibriVox author ID	1
+P1900	EAGLE id	1
+P1901	BALaT person/organisation id	1
+P1902	Spotify artist ID	1
+P1907	Australian Dictionary of Biography ID	1
+P1908	CWGC person ID	1
+P1909	side effect	1
+P1910	decreased expression in	1
+P1922	first line	1
+P193	main building contractor	1
+P1930	DSM-5 classification	1
+P1931	NIOSH Pocket Guide ID	1
+P1933	MobyGames game ID	1
+P1935	Database of Classical Scholars ID	1
+P1936	Digital Atlas of the Roman Empire ID	1
+P1937	UN/LOCODE	1
+P1938	Project Gutenberg author ID	1
+P1939	Dyntaxa ID	1
+P1940	conifers.org ID	1
+P1942	McCune-Reischauer romanization	1
+P1943	location map	1
+P1946		1
+P1947	Mapillary ID	1
+P1949	CulturaItalia ID	1
+P1951	investor	1
+P1952	Encyclopaedia Metallum band ID	1
+P1955	Discogs label ID	1
+P1957	Wikisource index page	1
+P1960	Google Scholar ID	1
+P1961	CTHS society ID	1
+P1967	BoxRec boxer ID	1
+P1968	Foursquare venue ID	1
+P1969	MovieMeter director ID	1
+P1970	MovieMeter film ID	1
+P1972	Open Hub ID	1
+P1973	RSL editions	1
+P1976	INEGI locality ID	1
+P1977	Les Archives du Spectacle Person ID	1
+P1978	USDA NDB number	1
+P1979	Righteous Among The Nations ID	1
+P1980	PolSys ID	1
+P1981	FSK film rating	1
+P1982	Anime News Network person ID	1
+P1984	Anime News Network manga ID	1
+P1985	Anime News Network anime ID	1
+P1986	Treccani's Dizionario biografico degli italiani ID	1
+P1988	Le Delarge ID	1
+P1989	Encyclopaedia Metallum artist ID	1
+P1992	Plazi ID	1
+P1993	TeX string	1
+P1994	AllMusic composition ID	1
+P1996	parliament.uk biography pages	1
+P1997	Facebook Places ID	1
+P2000	CPDL ID	1
+P2003	Instagram username	1
+P2006	ZooBank author ID	1
+P2007	ZooBank publication ID	1
+P2008	IPNI publication ID	1
+P2011	Cooper-Hewitt Person ID	1
+P2013	Facebook ID	1
+P2014	Museum of Modern Art work ID	1
+P2015	Hansard (1803–2005) ID	1
+P2016	Catalogus Professorum Academiae Groninganae ID	1
+P2017	isomeric SMILES	1
+P2018	Teuchos ID	1
+P2024	German cattle breed ID	1
+P2025	Find A Grave cemetery ID	1
+P2028	United States Armed Forces service number	1
+P2029	Dictionary of Ulster Biography ID	1
+P2030	NASA biographical ID	1
+P2034	Project Gutenberg ebook ID	1
+P2035		1
+P2036	African Plant Database ID	1
+P2037	GitHub username	1
+P2040	CITES Species+ ID	1
+P2041	National Gallery of Victoria artist ID	1
+P2057	Human Metabolome Database ID	1
+P2062	HSDB ID	1
+P2063	LIPID MAPS ID	1
+P2064	KNApSAcK ID	1
+P2065	NIAID ChemDB ID	1
+P207	bathymetry image	1
+P2070	Fellow of the Royal Society ID	1
+P2072	CDB Chemical ID	1
+P2074	internetmedicin.se ID	1
+P2080	AcademiaNet ID	1
+P2082	M.49 code	1
+P2084	ZINC ID	1
+P2085	Nikkaji ID	1
+P2087	Crunchbase person ID	1
+P2088	Crunchbase organization ID	1
+P2090	Power of 10 athlete ID	1
+P2092	Bildindex der Kunst und Architektur ID	1
+P2095	co-driver	1
+P2099	BC Geographical Names ID	1
+P2100	Banque de noms de lieux du Québec ID	1
+P2106	RXNO Ontology	1
+P2115	NDF-RT ID	1
+P212	ISBN-13	1
+P2127	International Nuclear Event Scale	1
+P213	ISNI	1
+P214	VIAF ID	1
+P215	spectral class	1
+P2153	PubChem Substance ID (SID)	1
+P2162	Deutsche Ultramarathon-Vereinigung ID	1
+P2163	FAST ID	1
+P2167	UNSPSC Code	1
+P2168	Swedish Film Database person ID	1
+P2169	PublicWhip ID	1
+P2170	Hansard (2006–March 2016) ID	1
+P2171	TheyWorkForYou ID	1
+P2173	BBC News Democracy Live ID	1
+P218	ISO 639-1 code	1
+P2180	Kansallisbiografia ID	1
+P2181	Finnish MP ID	1
+P2182	Finnish Ministers database ID	1
+P2186	Wiki Loves Monuments ID	1
+P2187	BiblioNet publication ID	1
+P2188	BiblioNet author ID	1
+P2190	C-SPAN person ID	1
+P2191	Vegetti Catalog of Fantastic Literature NILF ID	1
+P2193	Soccerbase player ID	1
+P2194	PSS-archi architect ID	1
+P220	ISO 639-3 code	1
+P2205	Spotify album ID	1
+P2209	SourceForge project	1
+P223	galaxy morphological type	1
+P2242	Florentine musea catalogue ID	1
+P225	taxon name	1
+P2252	National Gallery of Art artist ID	1
+P2255	Debrett's People of Today ID	1
+P2266	FMD model ID	1
+P2267	PolitiFact people and groups ID	1
+P227	GND ID	1
+P2272	Hederich encyclopedia article ID	1
+P2273	Heidelberg Academy for Sciences and Humanities member ID	1
+P2276	UEFA player ID	1
+P2277	Magdeburger Biographisches Lexikon	1
+P2278	Member of the Hellenic Parliament ID	1
+P2279	ambitus	1
+P2280	Austrian Parliament ID	1
+P2285	periapsis date	1
+P2287	CRIStin ID	1
+P229	IATA airline designator	1
+P2290	Danish parish code	1
+P2291	charted in	1
+P2298	NSDAP membership number (1925–1945)	1
+P230	ICAO airline designator	1
+P231	CAS Registry Number	1
+P232	EC number	1
+P2326	GNS Unique Feature ID	1
+P2332	Dictionary of Art Historians ID	1
+P2333	Norwegian organisation number	1
+P2334	Swedish Film Database film ID	1
+P2337	Swedish Film Database group ID	1
+P2339	BoardGameGeek ID	1
+P2342	AGORHA person/institution ID	1
+P2343	playing range image	1
+P2346	Elonet movie ID	1
+P2347	YSO ID	1
+P2349	Stuttgart Database of Scientific Illustrators ID	1
+P235	InChIKey	1
+P2350	SpeedSkatingBase.eu ID	1
+P2355	UNESCO Atlas of the World's Languages in Danger ID	1
+P2359	Roman nomen gentilicium	1
+P2363	NMHH film rating	1
+P2365	Roman cognomen	1
+P2366	Roman agnomen	1
+P2369	Soccerway player ID	1
+P2371	FAO risk status	1
+P2373	Genius artist ID	1
+P2376	superpartner of	1
+P238	IATA airport code	1
+P2380	French Sculpture Census artist ID	1
+P2381	Academic Tree ID	1
+P2382	Chemins de mémoire ID	1
+P2383	CTHS person ID	1
+P239	ICAO airport code	1
+P2390	Ballotpedia ID	1
+P2397	YouTube channel ID	1
+P2398	MLS player ID	1
+P2399	British Council artist ID	1
+P240	FAA airport code	1
+P2400	JMDb film ID	1
+P2401	Six Degrees of Francis Bacon ID	1
+P2409	CiNii article ID	1
+P2411	Artsy gene	1
+P2412	FMD designer ID	1
+P2413	FMD magazine ID	1
+P2417	stage classification	1
+P2418	Structurae person ID	1
+P2421	Prosopographia Attica	1
+P2423	International Fencing Federation fencer ID	1
+P2424	Berlin cultural heritage ID	1
+P2425	service ribbon image	1
+P2426	Xeno-canto species ID	1
+P2427	GRID ID	1
+P2431	Thyssen-Bornemisza artist ID	1
+P2432	J. Paul Getty Museum artist id	1
+P2435	PORT person ID	1
+P2445	metasubclass of	1
+P2446	Transfermarkt player ID	1
+P2447	Transfermarkt manager ID	1
+P2448	Turkish Football Federation player ID	1
+P245	Union List of Artist Names	1
+P2451	MAME ROM name	1
+P2454	KNAW past member ID	1
+P2455	Species Profile and Threats Database ID	1
+P2456	DBLP author ID	1
+P2458	Mackolik.com player ID	1
+P2459	IBU biathlete ID	1
+P246	element symbol	1
+P2462	member of the deme	1
+P2463	elibrary.ru organisation ID	1
+P2464	BugGuide ID	1
+P2468	Theatricalia theatre ID	1
+P2469	Theatricalia person ID	1
+P247	COSPAR ID	1
+P2471	Models.com person ID	1
+P2474	CDLI ID	1
+P2476	HNI person/institution ID	1
+P2477	BDRC Resource ID	1
+P2480	IHO Hydrographic Dictionary (S-32) Number	1
+P2481	Elite Prospects player ID	1
+P2485	FMD photographer ID	1
+P2488	page at Belarus Globe website	1
+P2496	Latvian toponymic names database ID	1
+P2498	Catalan Biographical Dictionary of Women ID	1
+P2503	Historical Gazetteer (GOV) ID	1
+P2504	Norwegian municipality number	1
+P2508	KINENOTE film ID	1
+P2509	Movie Walker film ID	1
+P2510	National Discography of Italian Song artist/group ID	1
+P2518	Scope.dk film ID	1
+P2520	UNESCO Biosphere Reserve URL	1
+P2525	Ramsar Sites Information Service ID	1
+P2529	ČSFD film ID	1
+P2530	Box Office Mojo franchise ID (former scheme)	1
+P2531	Box Office Mojo studio ID	1
+P2537	Free Software Directory entry	1
+P2538	Nationalmuseum Sweden artist ID	1
+P2540	Aarne–Thompson–Uther Tale Type Index	1
+P2549	Italian Senate of the Republic ID	1
+P2550	recording or performance of	1
+P2551	used metre	1
+P2558	autores.uy ID	1
+P2562	married name	1
+P2564	Köppen climate classification	1
+P2566	ECHA InfoCard ID	1
+P2567	amended by	1
+P2572	hashtag	1
+P2574	National-Football-Teams.com player ID	1
+P2580	Baltisches Biographisches Lexikon digital ID (former scheme)	1
+P2581	BabelNet ID	1
+P2585	INSEE region code	1
+P2588	administrative code of Indonesia	1
+P2589	Statistics Indonesia ethnicity code	1
+P2590	BPS language code	1
+P2592	Québec cultural heritage directory people identifier	1
+P2600	Geni.com profile ID	1
+P2601	Eurohockey.com player ID	1
+P2602	HockeyDB.com player ID	1
+P2603	Kinopoisk film ID	1
+P2604	Kinopoisk person ID	1
+P2605	ČSFD person ID	1
+P2607	BookBrainz author ID	1
+P2611	TED speaker ID	1
+P2622	Companies House company ID	1
+P2624	MetroLyrics ID	1
+P2626	Danish National Filmography person ID	1
+P2627	ISO 9362 SWIFT/BIC code	1
+P2629	BBFC rating	1
+P2631	TCM Movie Database film ID	1
+P2634	sitter	1
+P2636	Minkultury film ID	1
+P2638	TV.com ID	1
+P2639	Filmportal ID	1
+P2640	Swimrankings.net swimmer ID	1
+P2641	Davis Cup player ID	1
+P2642	Fed Cup player ID	1
+P2657	EU Transparency Register ID	1
+P2666	Datahub page	1
+P2669	discontinued date	1
+P267	ATC code	1
+P2671	Google Knowledge Graph ID	1
+P2678	Russiancinema.ru film ID	1
+P268	Bibliothèque nationale de France ID	1
+P2685	Basketball Reference NBA player ID	1
+P2686	OpenSecrets people ID	1
+P2688	Box Office Mojo person ID	1
+P2689	BARTOC ID	1
+P2694	ISU figure skater ID	1
+P2696	FIG gymnast licence number	1
+P2697	ESPNcricinfo.com player ID	1
+P2698	CricketArchive player ID	1
+P2703	BFI National Archive work ID	1
+P2704	EIDR content ID	1
+P2709	CQ Ranking female cyclist ID	1
+P2710	minimal lethal concentration	1
+P2713	sectional view	1
+P2716	collage image	1
+P2722	Deezer artist ID	1
+P2725	GOG application ID	1
+P2727	United World Wrestling ID	1
+P2728	CageMatch worker ID	1
+P2729	BWF.tournamentsoftware.com player ID	1
+P2730	ISSF athlete ID	1
+P2732	Persée author ID	1
+P2733	Persée journal ID	1
+P2735	Unz Review journal ID	1
+P2741	Tate artist ID	1
+P2745	Dictionary of New Zealand Biography ID	1
+P2748	PRONOM file format identifier	1
+P2749	PRONOM software identifier	1
+P2751	Roller Coaster Database ID	1
+P2753	Dictionary of Canadian Biography ID	1
+P2756	EIRIN film rating	1
+P2760	NUTTAB food ID	1
+P2762	CTBUH Skyscraper Center building complex ID	1
+P2764	Wrestlingdata person ID	1
+P2767	JudoInside judoka ID	1
+P2771	D-U-N-S number	1
+P2772	FIS alpine skier ID	1
+P2773	FIS cross-country skier ID	1
+P2774	FIS freestyle skier ID	1
+P2775	FIS ski jumper ID	1
+P2778	IAT triathlete ID	1
+P2779	IAT weightlifter ID	1
+P2782	Models.com client ID	1
+P2786	aerodrome reference point	1
+P2795	directions	1
+P2796	3DMet ID	1
+P2798	Loop ID	1
+P2800	Beach Volleyball Database ID	1
+P2801	FIVB beach volleyball player ID	1
+P2810	LPGA Tour golf player ID	1
+P2812	MathWorld identifier	1
+P2824	Gazetteer of Planetary Nomenclature ID	1
+P2826	Megogo ID	1
+P2828	corporate officer	1
+P2829	Internet Wrestling Database ID	1
+P2830	Online World of Wrestling ID	1
+P2833	ARKive ID	1
+P2839	gait	1
+P2841	age of onset	1
+P2843	Benezit ID	1
+P2847	Google+ ID	1
+P2848	Wi-Fi access	1
+P2850	iTunes artist ID	1
+P2852	emergency phone number	1
+P2856	EU Surface Water Body Code	1
+P2861	Leidse Hoogleraren ID	1
+P2862	Catalogus Professorum Academiae Rheno-Traiectinae ID	1
+P2875	property usage tracking category	1
+P2877	SureChEMBL ID	1
+P2878	Minitel code	1
+P2883	HKMDB film ID	1
+P2886	Shakeosphere person ID	1
+P2888	exact match	1
+P2889	FamilySearch person ID	1
+P289	vessel class	1
+P2894	day of week	1
+P2909	SecondHandSongs artist ID	1
+P2910	icon	1
+P2914	MSBI person ID	1
+P2915	ECARTICO person ID	1
+P2917	COAM structure ID	1
+P2918	PO Box	1
+P2924	Great Russian Encyclopedia Online ID	1
+P2930	INSPIRE-HEP author ID	1
+P2938	Pleiades category identifier	1
+P2940	Catalogus Professorum Rostochiensium ID	1
+P2942	Dailymotion channel ID	1
+P2943	warheroes.ru ID	1
+P2944	Plarr ID	1
+P2945	British Book Trade Index ID	1
+P2946	BacDive ID	1
+P2949	WikiTree person ID	1
+P2963	Goodreads author ID	1
+P2968	QUDT unit ID	1
+P2969	Goodreads book ID	1
+P297	ISO 3166-1 alpha-2 code	1
+P2971	GCatholic church ID	1
+P2973	Spenserians person ID	1
+P2976	patronym or matronym for this name	1
+P2977	LBT person ID	1
+P2978	wheel arrangement	1
+P298	ISO 3166-1 alpha-3 code	1
+P2981	UIC alphabetical country code	1
+P2982	UIC numerical country code	1
+P2984	Snapchat username	1
+P2985	DBSE ID	1
+P2986	aircraft registration prefix	1
+P299	ISO 3166-1 numeric code	1
+P2990	FIL athlete ID	1
+P2991	IBSF athlete ID	1
+P2992	software quality assurance	1
+P300	ISO 3166-2	1
+P3006	Marine Regions Geographic ID	1
+P3008	Australian Heritage Database Place ID	1
+P301	category's main topic	1
+P3014	laws applied	1
+P3015	backup or reserve team or crew	1
+P3021	Iranica ID	1
+P3023	Legacies of British Slave-ownership person ID	1
+P3024	ITU letter code	1
+P3029	UK National Archives ID	1
+P3030	sheet music	1
+P3031	EPPO Code	1
+P3034	Indonesian ethnicity code	1
+P3035	ISBN publisher prefix	1
+P3038	IWM memorial ID	1
+P304	page	1
+P3040	SoundCloud ID	1
+P3043	Scoresway soccer person ID	1
+P3044	College Football HoF ID	1
+P3045	HanCinema person ID	1
+P3046	ForaDeJogo player ID	1
+P3047	thefinalball.com ID	1
+P3049	Scottish Football Association player ID	1
+P305	IETF language tag	1
+P3050	FACR player ID	1
+P3055	NAQ elected person ID	1
+P3056	TCM Movie Database person ID	1
+P3057	Charity Commission no.	1
+P3058	Architectuurgids architect ID	1
+P3059	Architectuurgids building ID	1
+P3064	LepIndex ID	1
+P3066	GLAM Identifier	1
+P3067	GS1 country code	1
+P3068	WIPO ST.3	1
+P3069	UN document symbol	1
+P3072	Storting person ID	1
+P3074	Grace's Guide ID	1
+P3076	Open Beauty Facts category ID	1
+P3077	Cineplex film ID	1
+P3085	qualifies for event	1
+P3088	Catalogue of Life in Taiwan ID	1
+P3089	Flags of the World ID	1
+P3096	KML file	1
+P3097	ISBN identifier group	1
+P3099	Internet Bird Collection species ID	1
+P3102	Plantarium ID	1
+P3105	Tela Botanica ID	1
+P3106	Guardian topic ID	1
+P3107	LdiF ID	1
+P3110	ISzDb film ID	1
+P3115	ISzDb company ID	1
+P3120	TOID	1
+P3121	Epguides ID	1
+P3123	Stanford Encyclopedia of Philosophy ID	1
+P3124	Polish scientist ID	1
+P3126	ALCUIN ID	1
+P3129	cine.gr film ID	1
+P3130	NSW Flora ID	1
+P3133	NSZL name authority ID	1
+P3134	TripAdvisor ID	1
+P3135	elCinema film ID	1
+P3138	OFDb ID	1
+P3140	SourehCinema person ID	1
+P3141	EDb film ID	1
+P3142	EDb person ID	1
+P3143	elFilm film ID	1
+P3145	Swedish National Library Arken ID	1
+P3147	United States Reports ID	1
+P3151	iNaturalist taxon ID	1
+P3153	Crossref funder ID	1
+P3154	Runeberg author ID	1
+P3156	Australian Classification	1
+P3159	UGentMemorialis ID	1
+P3162	Rock and Roll Hall of Fame ID	1
+P3166	Webpedigrees ID	1
+P3167	Allbreedpedigree ID	1
+P3168	Sporthorse data ID	1
+P3169	Infochevaux ID	1
+P3170	Cultural Heritage Armenia ID	1
+P3171	International Olympic Committee athlete ID	1
+P3178	Zaragoza monument ID	1
+P3180	Visual Novel Database ID	1
+P3181	OpenCitations bibliographic resource ID	1
+P3183	Wall Street Journal topic ID	1
+P3185	VK username	1
+P3186	TAXREF ID	1
+P3187	Marburger Professorenkatalog ID	1
+P3188	Nobel prize ID	1
+P3189	innervated by	1
+P3190	innervates	1
+P3191	IMIS person ID	1
+P3193	GS1 Manufacturer code	1
+P3198	JewishGen Locality ID	1
+P3204	Ciné-Ressources person ID	1
+P3206	data.gouv.fr organisation ID	1
+P3207	Vine user ID	1
+P3212	ISAN	1
+P3213	Indian census area code (2001)	1
+P3215	SIRET number	1
+P3216	ClassInd rating	1
+P3217	Dictionary of Swedish National Biography ID	1
+P3218	Auñamendi ID	1
+P3219	Encyclopædia Universalis ID	1
+P3221	New York Times topic ID	1
+P3225	Corporate Number (Japan)	1
+P3228	Schläfli symbol	1
+P3230	SCAR Composite Gazetteer place ID	1
+P3232	PhilPapers author ID	1
+P3234	Library of Congress Cultural Heritage Organizations	1
+P3235	PhilPapers topic	1
+P3236	PhilPapers publication ID	1
+P3240	NBN System Key	1
+P3241	Catholic Encyclopedia ID	1
+P3242	SIC code	1
+P3245	OKPD code of the good or service	1
+P3248	OKP ID of the good or service	1
+P3250	OKPD2 code of the good or service	1
+P3257	Queensland place ID	1
+P3265	MySpace ID	1
+P3266	Library of Congress Format Description Document ID	1
+P3267	Flickr user ID	1
+P3269	Fotografen.nl ID	1
+P3273	Actorenregister ID	1
+P3281	French National Assembly Lobbyist ID	1
+P3283	Bandcamp ID	1
+P3284	Yahoo! Japan Talent Database ID	1
+P3285	Mathematics Subject Classification ID	1
+P3286	Squash Info player ID	1
+P3288	World Spider Catalog ID	1
+P3292	DocCheck Flexikon De ID	1
+P3293	BALaT object ID	1
+P3305	KINENOTE person ID	1
+P3308	lib.reviews ID	1
+P3309	SummitPost mountain ID	1
+P3311	plan view image	1
+P3314	365chess player ID	1
+P3316	ICCF player ID	1
+P3322	Vlinderstichting-ID	1
+P3324	petit-patrimoine.com ID	1
+P3325	student register of the University of Helsinki ID (1853–1899)	1
+P3326	World Waterfall Database ID	1
+P3328	wurvoc.org measure ID	1
+P3330	Supermodels.nl ID	1
+P3335	associated hazard	1
+P3339	World Surf League ID	1
+P3340	Kvikmyndir film ID	1
+P3344	Vote Smart ID	1
+P3345	RxNorm ID	1
+P3346	HKMDB person ID	1
+P3347	PermID	1
+P3348	National Library of Greece ID	1
+P3349	designed to carry	1
+P3351	Adult Film Database actor ID	1
+P3352	musipedia tune ID	1
+P3360	Nobel Prize People Nomination ID	1
+P3361	PictoRight ID code	1
+P3363	Tennis Hall of Fame player ID	1
+P3365	Treccani ID	1
+P3368	Prabook ID	1
+P3371	Observatoire du Patrimoine Religieux ID	1
+P3372	Auckland Art Gallery artist ID	1
+P3374	endianness	1
+P3376	Enterprise number (Belgium)	1
+P3377	Bloomberg company ID	1
+P3379	Model Manual ID	1
+P3380	FAO 2007 genetic resource ID	1
+P3381	File Format Wiki page ID	1
+P3383	film poster	1
+P3385	Japan Sumo Association ID	1
+P3388	LittleSis people ID	1
+P3389	Royal Swedish Academy of Letters member ID	1
+P3390	Consolidated code of the electronic catalog of libraries of Belarus	1
+P3394	Finnish Lake ID	1
+P3398	Butterflies and Moths of North America ID	1
+P3404	The Vogue List ID	1
+P3405	Nederlands Soortenregister ID	1
+P3409	Catalogus Professorum Lipsiensis ID	1
+P3411	Saxon Academy of Sciences member ID	1
+P3413	Leopoldina member ID	1
+P3418	Google Play Store app ID	1
+P3420	Calflora ID	1
+P3421	Belvedere artist ID	1
+P3422	INSEE countries and foreign territories code	1
+P3427	AS.com athlete ID	1
+P3428	INCAA film rating	1
+P3429	Electronic Enlightenment ID	1
+P3434	ERIH PLUS ID	1
+P3435	VGMdb artist ID	1
+P3441	FIFA country code	1
+P3442	Debian stable package	1
+P3444	eBird taxon ID	1
+P3447	mirrors data from	1
+P3449	NSW Heritage database ID	1
+P345	IMDb ID	1
+P3450	sports season of league or competition	1
+P3451	nighttime view	1
+P3453	IPI base code	1
+P3454	Arch Linux package	1
+P3460	colonel-in-chief	1
+P3463	Fedora package	1
+P3466	Israeli CBS municipal ID	1
+P3467	Inventario Sculture - Polo Museale Fiorentino	1
+P3468	National Inventors Hall of Fame ID	1
+P347	Joconde work ID	1
+P3471	WikiSkripta ID	1
+P3472	VICNAMES Place ID	1
+P3473	Ubuntu package	1
+P3475	SANU member ID	1
+P3476	PSA World Tour player ID	1
+P3477	Nihon Tarento Meikan ID	1
+P3478	Songkick artist ID	1
+P3479	Omni topic ID	1
+P3481	Parks & Gardens UK Record ID	1
+P3482	Europeana Fashion creator ID	1
+P349	National Diet Library ID	1
+P3495	FilmPolski.pl ID	1
+P3499	Gentoo package	1
+P350	RKDimages ID	1
+P3500	Ringgold ID	1
+P3502	Ameblo username	1
+P3503	LombardiaBeniCulturali building ID	1
+P3507	Bivouac.com mountain ID	1
+P3509	Dagens Nyheter topic ID	1
+P351	Entrez Gene ID	1
+P3513	peakware mountain ID	1
+P3514	U.S. National Geodetic Survey ID	1
+P3515	NPCA ID	1
+P3516	National Park Foundation ID	1
+P3520	databaseOlympics.com athlete ID	1
+P3521	European Tour golf player ID	1
+P3522	NHL.com player ID	1
+P3523	Rfam ID	1
+P3525	ACB.com player ID	1
+P3526	wisden.com ID	1
+P3527	Eurobasket.com player ID	1
+P353	HGNC gene symbol	1
+P3532	databaseFootball.com ID	1
+P3533	DraftExpress ID	1
+P3534	Australian Government Organisations Register ID	1
+P3535	Japan Golf Tour player ID	1
+P3537	FootballDatabase.eu player ID	1
+P3538	Fussballdaten.de player ID	1
+P354	HGNC ID	1
+P3541	MLB.com player ID	1
+P3544	Te Papa agent ID	1
+P3546	AustralianFootball.com ID	1
+P3547	AFL Tables player ID	1
+P3553	Zhihu topic ID	1
+P3554	World Series of Poker ID	1
+P3560	College Football Data Warehouse ID	1
+P3561	Pro-Football-Reference.com player ID	1
+P3564	Global Poker Index ID	1
+P3565	J.League player ID	1
+P3568	Official World Golf Ranking player ID	1
+P3571	ESPN.com MLB player ID	1
+P3573	European Handball Federation player ID	1
+P3574	FanGraphs player ID	1
+P3576	TLG author ID	1
+P3577	Croatian Football Federation player ID	1
+P3582	Sunshine Tour golf player ID	1
+P3583	Surfline ID	1
+P3584	ITRA runner ID	1
+P3585	UltraSignup runner ID	1
+P3588	WNBA player ID	1
+P3589	GCD series ID	1
+P359	Rijksmonument ID	1
+P3593	AFI Catalog of Feature Films ID	1
+P3595	Biografiskt Lexikon för Finland ID	1
+P3597	F-Droid package	1
+P3598	Hockey-Reference.com player ID	1
+P3599	archival creator authority record at the Archives nationales	1
+P3600	protected heritage site in Brussels ID	1
+P3605	90minut player ID	1
+P3608	EU VAT number	1
+P3609	Recreation.gov gateway ID	1
+P3612	Le Monde diplomatique subject ID	1
+P3615	Vision of Britain unit ID	1
+P3616	Vision of Britain place ID	1
+P3619	Ski-DB skier ID	1
+P3620	BWFbadminton.com player ID	1
+P3621	Darts Database player ID	1
+P3626	Australian Antarctic Gazetteer ID	1
+P3628	British History Online VCH ID	1
+P3630	Babelio author ID	1
+P3631	Babelio work ID	1
+P3632	British Museum thesaurus ID	1
+P3633	British Museum place ID	1
+P3639	KEPN ID	1
+P3641	Uniform Type Identifier	1
+P3642	ARCHON code	1
+P3645	All Blacks player ID	1
+P3646	Naismith Memorial Basketball Hall of Fame ID	1
+P3647	NBA.com player ID	1
+P3650	JMK film rating	1
+P3652	Kontinental Hockey League player ID	1
+P3654	Chess.com player ID	1
+P3655	BDFutbol player ID	1
+P3660	FootballFacts.ru player ID	1
+P3662	Football Federation of Ukraine player ID	1
+P3665	L'Équipe football player ID	1
+P3666	EPCR player ID	1
+P3667	IWF athlete ID	1
+P3668	Sambafoot player ID	1
+P3670	Tennis Archives player ID	1
+P3671	USA Gymnastics athlete ID	1
+P3674	Mutopia composer ID	1
+P3675	Hans Christian Andersen Centre work ID	1
+P3676	National Bridge Inventory Number	1
+P3677	Wereld van Oranje player ID	1
+P3682	Australian Olympic Committee athlete ID	1
+P3683	LFP player ID	1
+P3684	Driver Database driver ID	1
+P3685	ESPN.com NBA player ID	1
+P3689	ICF canoer ID	1
+P3691	International Swimming Hall of Fame ID	1
+P3693	short-track speed skater ISU ID	1
+P3694	SpeedSkatingNews.info speed skater ID	1
+P3695	SpeedSkatingStats speed skater ID	1
+P3696	Sports-Reference.com college basketball player ID	1
+P3699	Transfermarkt referee ID	1
+P370	Sandbox-String	1
+P3703	JMDb person or company ID	1
+P3704	KMDb film ID	1
+P3706	RITVA Person ID	1
+P3710	Jewish Encyclopedia Daat ID	1
+P3711	Vanderkrogt.net Statues ID	1
+P3718	NCMEC person ID	1
+P3724	USHMM Holocaust Encyclopedia ID	1
+P3726	EU-Football.info player ID	1
+P3730	next higher rank	1
+P3733	MOOMA artist ID	1
+P3735	Yad Vashem Encyclopedia of the Ghettos ID	1
+P3736	Eurovision Song Contest song ID	1
+P3739	inflorescence	1
+P374	INSEE municipality code	1
+P3742	FIH player ID	1
+P3743	ITU/ISO/IEC object identifier	1
+P3746	Wildflowers of Israel ID	1
+P3747	SSRN author ID	1
+P3749	Google Maps Customer ID	1
+P3752	worst-case time complexity	1
+P3753	best-case time complexity	1
+P3754	average time complexity	1
+P3755	worst-case space complexity	1
+P3757	average space complexity	1
+P3759	SAHRA heritage site ID	1
+P3762	openMLOL author ID	1
+P3765	All-Athletics.com ID	1
+P3769	It's Rugby player ID	1
+P377	SCN	1
+P3776	inhibitor of	1
+P3782	Artnet artist ID	1
+P3786	Danskefilm person ID	1
+P3788	BNMM authority ID	1
+P3789	Telegram username	1
+P3790	AnimeCons.com guest ID	1
+P3791	Art Renewal Center artist ID	1
+P3794	Dictionary of Sydney ID	1
+P3797	autonomous system number	1
+P3798	Star Wars Databank ID	1
+P3801	INEGI municipality ID	1
+P3803	original film format	1
+P3804	TV Guide show ID (former scheme)	1
+P3808	The Numbers movie ID	1
+P381	PCP reference number	1
+P3812	Elle.fr person ID	1
+P3814	BoF person ID	1
+P3815	volcano observatory	1
+P3817	FI WarSampo person ID	1
+P3818	KMRB film rating	1
+P382	CBS municipality code	1
+P3827	JSTOR topic ID	1
+P3830	CueTracker player ID	1
+P3836	Pinterest username	1
+P3838	Tab4u song ID	1
+P3841	Human Phenotype Ontology ID	1
+P3845	TV Guide person ID (former scheme)	1
+P3846	DBC author ID	1
+P3847	Open Library subject ID	1
+P3854	Soundtrack Collector ID	1
+P3857	Cinenacional.com person ID	1
+P3858	route diagram	1
+P3859	Environment Ontology ID	1
+P3861	App Store app ID (global)	1
+P3862	MyDramaList name ID	1
+P3866	LAWA waterbody ID	1
+P3867	Israel Chess Federation player ID	1
+P3868	MyDramaList title ID	1
+P3869	IAFD female performer ID	1
+P3881	National Track & Field Hall of Fame athlete ID	1
+P3882	Tilastopaja female athlete ID	1
+P3883	Red Bull athlete ID	1
+P3884	Tilastopaja male athlete ID	1
+P3885	History of Modern Biomedicine ID	1
+P3887	KVAB member ID	1
+P3888	Boijmans artist ID	1
+P3890	MetaboLights Compound ID	1
+P3892	PictoRight ID-Droit de suite	1
+P3899	Medium username	1
+P3901	ADAGP artist ID	1
+P3902	had as last meal	1
+P3906	Ishim ID	1
+P3907	LoJ peak ID	1
+P3909	last words	1
+P3910	Bollywood Hungama person numeric ID	1
+P3911	STW Thesaurus for Economics ID	1
+P3913	MobyGames developer ID	1
+P3914	GuideStar Israel organisation ID	1
+P3915	Australian Athletics Historical Results athlete ID	1
+P3921	Wikidata SPARQL query equivalent	1
+P3923	Diamond League athlete ID	1
+P3924	Track and Field Statistics female athlete ID	1
+P3925	Track and Field Statistics male athlete ID	1
+P3926	USA Track & Field athlete ID	1
+P3927	eWRC-results.com racer ID	1
+P3928	MotoGP racer ID	1
+P3930	Rallye-info.com driver or co-driver ID	1
+P3932	Digital Valencian Library author ID	1
+P3933	Cinema.de ID	1
+P3935	Chamber of Deputies of Italy storia ID	1
+P3940	OlimpBase Chess Olympiad player ID	1
+P3941	Israel Antiquities Authority ID	1
+P3942	Bmx-results.com rider ID	1
+P3943	Tumblr username	1
+P3945	RANM member ID	1
+P3949	Juwra.com ID	1
+P3950	narrower external class	1
+P3953	ALPG Tour golf player ID	1
+P3954	Italian Senate ID	1
+P3956	National Academy of Medicine (France) Member ID	1
+P3957	RealGM basketball player ID	1
+P3959	NNL work ID	1
+P396	SBN author ID	1
+P3960	Base biographique AUTOR ID	1
+P3961	Unifrance film ID	1
+P3962	Global Trade Item Number	1
+P3963	Clochers de France ID	1
+P3964	BDCYL authority ID	1
+P3968	CETS number	1
+P3971	PASE Domesday person ID	1
+P3976	BVMC work ID	1
+P3982	TA98 Latin term	1
+P3984	subreddit	1
+P3987	SHARE Catalogue author ID	1
+P3988	National Library Board Singapore ID	1
+P3990	BG EKATTE place ID	1
+P3995	Filmweb.pl ID	1
+P3997	Bait La Zemer Ha-Ivri artist ID	1
+P4002	WFD Ecological status	1
+P4003	Facebook page ID	1
+P4004	escutcheon image	1
+P4005	Bavarikon ID	1
+P4008	Early Aviators people ID	1
+P4012	Semantic Scholar author ID	1
+P4013	Giphy username	1
+P4014	Australian Statistical Geography 2011 ID	1
+P4015	Vimeo identifier	1
+P4016	SlideShare username	1
+P4017	Ustream username	1
+P4023	German Football Association person ID	1
+P4024	ADW taxon ID	1
+P4025	Pinakothek artist ID	1
+P4030	PLU code	1
+P4034	Shironet artist ID	1
+P4035	Shironet song ID	1
+P4048	J.League manager ID	1
+P4050	French Olympic Committee athlete ID	1
+P4052	Academia.edu institutional ID	1
+P4054	Canadian Olympic Committee athlete ID	1
+P4057	Irish Sites and Monuments Record ID	1
+P4060	Brazilian Olympic Committee athlete ID	1
+P4062	Czech Olympic Committee athlete ID	1
+P4063	United States Olympic & Paralympic Committee athlete ID	1
+P4065	Argentine Olympic Committee athlete ID	1
+P4067	Romanian Olympic and Sports Committee athlete ID	1
+P4071	Zemereshet artist ID	1
+P4072	Zemereshet song ID	1
+P4073	Fandom wiki ID	1
+P4075	Czech Monument Catalogue Number	1
+P4076	WorldSBK.com racer identifier	1
+P4081	BHL creator ID	1
+P4083	Park Alpha Code	1
+P4084	MyAnimeList people ID	1
+P4086	MyAnimeList anime ID	1
+P4088	Irish National Inventory of Architectural Heritage ID	1
+P409	Libraries Australia ID	1
+P4093	Australian Statistical Geography 2016 ID	1
+P4094	Australian Standard Geographic Classification 2006 ID	1
+P4096	RePEc institute ID	1
+P4098	BVMC place ID	1
+P4107	Framalibre ID	1
+P4108	Gedbas genealogy person ID	1
+P4110	Crunchyroll ID	1
+P4112	danskfilmogtv person ID	1
+P4114	ADK member ID	1
+P4116	JewAge person ID	1
+P4122	PalDat plant ID	1
+P4123	French National Assembly ID	1
+P4124	Who's Who in France biography ID	1
+P4129	Cinema Treasures ID	1
+P4145	Athenaeum person ID	1
+P4146	Athenaeum museum ID	1
+P415	radio format	1
+P4150	weather history	1
+P4152	file format identification pattern	1
+P4156	Czech Registration ID	1
+P4159	WeRelate person ID	1
+P4161	Michelin Voyages ID	1
+P4164	National Baseball Hall of Fame and Museum ID	1
+P4167	Dagens Næringsliv topic ID	1
+P4168	IEDB Epitope ID	1
+P4169	YCBA agent ID	1
+P4171	World Heritage Tentative List ID	1
+P4173	Instagram location ID	1
+P4174	Wikimedia username	1
+P4177	Finnish National Gallery artist ID	1
+P4179	tabular population	1
+P418	seal description	1
+P4180	GujLit Person ID	1
+P4182	National Natural Landmarks site ID	1
+P4186	Australian Women's Register ID	1
+P4187	Wylie transliteration	1
+P4191	Alljudo judoka ID	1
+P4193	Familypedia person ID	1
+P4196	cytogenetic location	1
+P4201	PagesJaunes ID	1
+P4204	The Times of India topic ID	1
+P4206	FOIH person ID	1
+P4208	Billboard artist ID	1
+P4210	Bashkir encyclopedia (Bashkir version) ID	1
+P4211	Bashkir encyclopedia (Russian version) ID	1
+P4212	PACTOLS thesaurus ID	1
+P4213	Unicode hex codepoint	1
+P4215	nLab ID	1
+P4217	UK Electoral Commission ID	1
+P4220	order of battle	1
+P4223	Treccani's Enciclopedia Italiana ID	1
+P4226	Cyworld ID	1
+P4227	Indonesian Small Islands Directory ID	1
+P4228	Encyclopedia of Australian Science ID	1
+P4229	ICD-10-CM	1
+P423	shooting handedness	1
+P4238	webcam page URL	1
+P4244	Bavarian monument authority ID	1
+P4248	The Black Book ID	1
+P4254	Bengali Banglapedia ID	1
+P4260	NPB player ID	1
+P4262	Footoféminin.fr player ID	1
+P4265	Reddit username	1
+P4269	half maximal effective concentration (EC50)	1
+P4272	DPLA subject ID	1
+P4277	Daum movie ID	1
+P4279	hydrological order number	1
+P428	botanist author abbreviation	1
+P4282	LUMIERE film ID	1
+P4283	LUMIERE director ID	1
+P4286	Nominis saint ID	1
+P429	dantai code	1
+P4290	official app	1
+P4291	panoramic view	1
+P4292	possessed by spirit	1
+P4297	MIL-STD-2525 Symbol Identification Code	1
+P4299	ITF wheelchair player ID	1
+P4300	YouTube playlist ID	1
+P4301	PfaF ID	1
+P4303	Lega Pallavolo Serie A player ID	1
+P4305	FOIH styles and cultures ID	1
+P4306	FOIH periods ID	1
+P4307	FOIH heritage types ID	1
+P4312	camera setup	1
+P4314	SpeedskatingResults.com speed skater ID	1
+P4315	SwimSwam ID	1
+P4317	GARD rare disease ID	1
+P4319	Elite Prospects staff ID	1
+P432	callsign of airline	1
+P4324	combination classification	1
+P4326	BFI Filmography person ID	1
+P4327	BHL bibliography ID	1
+P4328	Brueckenweb ID	1
+P4329	template or module that populates category	1
+P433	issue	1
+P4330	contains	1
+P4332	Deutsche Synchronkartei actor ID	1
+P4335	IDESCAT territorial code in Catalonia	1
+P4342	Store norske leksikon ID	1
+P4347	Florida Sports Hall of Fame athlete ID	1
+P4349	Lotsawa House Indian author ID	1
+P435	MusicBrainz work ID	1
+P4351	Cravo Albin artist ID	1
+P4354	search formatter URL	1
+P4357	Musikverket person ID	1
+P4359	gravsted.dk ID	1
+P436	MusicBrainz release group ID	1
+P4362	Alabama Sports Hall of Fame athlete ID	1
+P4364	Georgia Sports Hall of Fame ID	1
+P4366	Kansas Sports Hall of Fame ID	1
+P4367	Louisiana Sports Hall of Fame ID	1
+P4368	Mississippi Sports Hall of Fame ID	1
+P4372	iPatrimônio ID	1
+P4377	Women's Sports Foundation ID	1
+P4379	youth wing	1
+P4380	Sandrart.net artwork ID	1
+P4381	Soccerdonna player ID	1
+P4383	Tennessee Sports Hall of Fame athlete ID	1
+P4388	Mappy place ID	1
+P439	German municipality key	1
+P4391	The-Sports.org athlete ID	1
+P4394	NeuroNames ID (plain mode)	1
+P4397	IPC.infostradasports.com athlete ID	1
+P4398	Canada's Sports Hall of Fame athlete ID	1
+P4399	Itaú Cultural ID	1
+P440	German district key	1
+P4401	ID Museus Brazil	1
+P4408	sports.ru athlete ID	1
+P4409	Baseball Almanac ID	1
+P4410	Women's Basketball Hall of Fame ID	1
+P4412	Ontario Sports Hall of Fame athlete ID	1
+P4413	Manitoba Sports Hall of Fame athlete ID	1
+P4418	New Zealand Sports Hall of Fame ID	1
+P4419	Videolectures ID	1
+P442	China administrative division code	1
+P4421	Sportbox.ru ID	1
+P4424	mandates	1
+P4425	mtDNA haplogroup	1
+P4427	GACS ID	1
+P4429	Pro14 player ID	1
+P4431	Google Doodle	1
+P4433	Indian Foundation for Butterflies ID	1
+P4434	LesBiographies.com ID	1
+P4435	snap package	1
+P4438	BFI Films, TV and people ID	1
+P4439	MNCARS artist ID	1
+P444	review score	1
+P4440	Biblioteca Nacional de México ID	1
+P4446	reward program	1
+P4449	Shirat Nashim person ID	1
+P4453	Argentine Senate member ID	1
+P4456	Internet Off-Broadway Database creditable entity ID	1
+P4457	DAHR artist ID	1
+P4459	Spanish Biographical Dictionary ID	1
+P4460	Kaitai Struct format gallery ID	1
+P4461	World Golf Hall of Fame player ID	1
+P4462	Canadian Baseball Hall of Fame inductee ID	1
+P4464	Rugby League Project player ID	1
+P4467	Twitch game ID	1
+P447	review score by	1
+P4470	British Bobsleigh & Skeleton Association ID	1
+P4471	Rush Parliamentary Archive ID	1
+P4473	Melon artist ID	1
+P4474	International Boxing Hall of Fame boxer ID	1
+P4475	European Fencing Confederation fencer ID	1
+P4479	INDUCKS character ID	1
+P4481	INDUCKS creator ID	1
+P4482	INDUCKS publisher ID	1
+P4483	INDUCKS story ID	1
+P4486	Google Play developer ID	1
+P4488	COAM architect ID	1
+P4489	Hellenic Olympic Committee athlete ID	1
+P4490	British Olympic Association athlete ID	1
+P4491	Isidore scholar ID	1
+P4493	Barbarian F.C. ID	1
+P4494	Barbarian R.C. ID	1
+P4498	World Snooker athlete ID	1
+P4502	Snooker.org player ID	1
+P4503	Wimbledon player ID	1
+P4504	IWRP athlete ID	1
+P4505	IAFD male performer ID	1
+P4507	California Sports Hall of Fame athlete ID	1
+P4508	CycleBase cyclist ID	1
+P4514	Africultures person ID	1
+P4515	Prisma ID	1
+P4516	Mémoire du cyclisme cyclist ID	1
+P4517	ctext work ID	1
+P4526	ABA bird ID	1
+P4527	UK Parliament thesaurus ID	1
+P4529	Douban film ID	1
+P4530	Bangladesh administrative division code (pre-2017)	1
+P4534	EUTA person ID	1
+P4535	EUTA theatre ID	1
+P4536	EThOS thesis ID	1
+P4538	Snooker Database player ID	1
+P4539	Collective Biographies of Women ID	1
+P454	Structurae structure ID	1
+P4541	Croatian Olympic Committee athlete ID	1
+P4543	has listed ingredient	1
+P4544	Tennis Temple player ID	1
+P4546	Gymn Forum athlete ID	1
+P4549	ARLIMA ID	1
+P4556	FAI ID	1
+P4557	Indiana Basketball Hall of Fame ID	1
+P4560	National Collegiate Basketball Hall of Fame ID	1
+P4562	Japanese Baseball Hall of Fame ID	1
+P4569	BPH journal ID	1
+P4570		1
+P4574	Norwegian historical register of persons ID	1
+P4575	HTML entity	1
+P4576	Tidal artist ID	1
+P4588	International World Games Association athlete ID	1
+P4589	Dreadnought Project page	1
+P4590	Atomic Heritage Foundation ID	1
+P4601	Lives of WWI ID	1
+P4602	date of burial or cremation	1
+P4607	Swedish Musical Heritage ID	1
+P4610	ARTIC artwork ID	1
+P4613	Encyclopedia of Modern Ukraine ID	1
+P4616	UniProt journal ID	1
+P4618	AUSNUT 2011–13 Food Group ID	1
+P4619	National Library of Brazil ID	1
+P4620	Merkelstiftung person ID	1
+P4622	trophy awarded	1
+P4625	Museum of Fine Arts, Boston object ID	1
+P4628	ICTV virus genome composition	1
+P4629	Online Books Page author ID	1
+P4630	DORIS ID	1
+P4631	Iowa Sports Hall of Fame ID	1
+P4632	Bechdel Test Movie List ID	1
+P4637	FoodEx2 code	1
+P4642	Colorado Sports Hall of Fame ID	1
+P4649	identity of subject in context	1
+P4650	BSD Portal athlete ID	1
+P4655	Flathub ID	1
+P4657	The Numbers person ID	1
+P4660	CPDOC ID	1
+P4661	reservoir created	1
+P4663	DACS ID	1
+P4665	CineMagia film ID	1
+P4666	CineMagia person ID	1
+P4668	USA Gymnastics Hall of Fame athlete ID	1
+P4672	EMLO location ID	1
+P4674	Indianapolis Museum of Art artwork ID	1
+P468	dan/kyu rank	1
+P4682	Eldoblaje original actor ID	1
+P4685	Nintendo of America Game Store ID (former scheme)	1
+P4687	Dictionnaire des peintres belges ID	1
+P4688	geomorphological unit	1
+P4689	Environmental Register code (Estonia)	1
+P4693	Argentine deputy votations ID	1
+P4699	Canal-U channel ID	1
+P470	Eight Banner register	1
+P4701	Google Arts & Culture asset ID	1
+P4703	HATVP person ID	1
+P4704	Smithsonian American Art Museum ID	1
+P4705	World of Spectrum ID	1
+P4708	VOGRIPA ID	1
+P4710	Guardiana ID	1
+P4711	CHGIS ID	1
+P4715	Guide to North American Birds ID	1
+P4717	Académie française member ID	1
+P4725	C-SPAN organisation ID	1
+P4729	INRAN Italian Food ID	1
+P4730	Mir@bel journal ID	1
+P4731	The Baseball Cube player ID	1
+P4732	IUPAC Gold Book ID	1
+P4740	Brooklyn Museum artwork ID	1
+P4742	Uniform Resource Identifier Scheme	1
+P4747	Line Music artist ID	1
+P4753	Ecocrop ID	1
+P4754	Harvard botanical journal ID	1
+P4757	Songwriters Hall of Fame ID	1
+P4760	LTI Korea Library ID	1
+P4761	Images d'Art artwork ID	1
+P4768	cinematografo.it name or company ID	1
+P4769	GameFAQs game ID	1
+P4770	hydrated form of	1
+P4771	compArt institution ID	1
+P4772	compArt person ID	1
+P4773	MobyGames company ID	1
+P4779	MYmovies actor ID	1
+P478	volume	1
+P4780	MYmovies movie ID	1
+P4781	MYmovies director ID	1
+P4782	Movieplayer person ID	1
+P4783	Movieplayer film ID	1
+P4784	Movieplayer TV-series ID	1
+P4785	MYmovies name ID	1
+P4786	cinematografo film ID	1
+P4787	CiNii author ID (articles)	1
+P4789	Who's Who UK ID	1
+P4793	identifiers.org prefix	1
+P4798	BTO Birds of Britain ID	1
+P480	FilmAffinity ID	1
+P4801	LoC and MARC vocabularies ID	1
+P4804	Compagnon de la Libération ID	1
+P4805	make-up artist	1
+P4806	Gaming-History ID	1
+P4807	Fauna Europaea New ID	1
+P4808	Royal Academy new identifier	1
+P4812	Statistical Service of Cyprus Geocode	1
+P4820	TORA ID	1
+P4828		1
+P4831	Bandysidan player ID	1
+P4834	Deutsche Synchronkartei series ID	1
+P4835	TheTVDB.com ID	1
+P4838	CATO ID	1
+P4839	Wolfram Language entity code	1
+P484	IMA Number, broad sense	1
+P4842	ASHRAE refrigerant number	1
+P4843	development of anatomical structure	1
+P4847	CPC-Power ID	1
+P4849	International Numbering System number	1
+P4850	permitted food additive	1
+P4854	Uppslagsverket Finland ID	1
+P4855	Phasmida Species File ID	1
+P4861	Charity Navigator ID	1
+P4869	Operabase ID	1
+P487	Unicode character	1
+P4871	GEPRIS organization ID	1
+P4877		1
+P4878	symbolizes	1
+P4883	FFF male player ID (former scheme)	1
+P4885	AFL Tables coach ID	1
+P4887	Web umenia creator ID	1
+P4889	MuIS person or group ID	1
+P4890	EPHE ID	1
+P4893	X Games athlete ID	1
+P4898	Chronicling America newspaper ID	1
+P490	provisional designation	1
+P4902	CONABIO ID	1
+P4903	New Georgia Encyclopedia ID	1
+P4906	Bargeton ID	1
+P4908	season	1
+P492	OMIM ID	1
+P4927	Invaluable.com person ID	1
+P4929	AINM ID	1
+P493	ICD-9	1
+P4936	SFMOMA artist ID	1
+P494	ICD-10	1
+P4942	Societe.com director ID	1
+P4946	Library of Congress Demographic Group Terms ID	1
+P4948	DDB ID	1
+P4953	Library of Congress Genre/Form Terms ID	1
+P4954	may prevent	1
+P4955	MR Author ID	1
+P4961	Sega8bit.com identifier	1
+P4963	Svenskt kvinnobiografiskt lexikon ID	1
+P4964	SPLASH	1
+P4966	Hungarian National Assembly identifier	1
+P4969	derivative work	1
+P497	CBDB ID	1
+P4970	alternate names	1
+P4973	Wikitribune category	1
+P4979	Thésaurus de la désignation des objets mobiliers ID	1
+P498	ISO 4217 code	1
+P4980	Thésaurus de la désignation des œuvres architecturales et des espaces aménagés ID	1
+P4983	TMDb TV series ID	1
+P4985	TMDb person ID	1
+P4986	Routard.com place ID	1
+P4988	test method	1
+P4991	Biographical Dictionary of Georgia ID	1
+P4992	DBA ID	1
+P4994	ruchess ID	1
+P5000		1
+P5002	Orthodox Encyclopedia ID	1
+P5007	Behind The Voice Actors person ID	1
+P5012	special rank	1
+P5019	Brockhaus Enzyklopädie online ID	1
+P5020	Code of Household Registration and Conscription Information System (Taiwan)	1
+P5025	gens	1
+P503	ISO standard	1
+P5030	talk show guest	1
+P5032	Filmweb.pl film ID	1
+P5033	Filmweb.pl person ID	1
+P5034	National Library of Korea ID	1
+P5035	Lambiek Comiclopedia artist ID	1
+P5036	AmphibiaWeb Species ID	1
+P5037	Plants of the World online ID	1
+P5041	GHS hazard statement	1
+P5049	Harvard designation	1
+P5055	IRMNG ID	1
+P5056	patronym or matronym for this person	1
+P5058	Encyklopedia Teatru Polskiego person ID	1
+P5059	modified version of	1
+P506	ISO 15924 alpha-4 code	1
+P5063	Interlingual Index ID	1
+P5064	World of Physics identifier	1
+P5068	Flanders Arts Institute person ID	1
+P5076	Römpp online ID	1
+P508	BNCF Thesaurus ID	1
+P5081	Norsk kunstnerleksikon ID	1
+P5082	Store medisinske leksikon ID	1
+P5084	Yahoo Answers category	1
+P5085	Pschyrembel Online ID	1
+P5086	FIPS 5-2 alpha code (US states)	1
+P5087	FIPS 5-2 numeric code (US states)	1
+P5088	Internet Encyclopedia of Philosophy ID	1
+P5089		1
+P5092	ISC event ID	1
+P5094	HPIP ID	1
+P5095	fault	1
+P5097	Logainm ID	1
+P5099	Il mondo dei doppiatori ID	1
+P5101	Swedish Literature Bank Author ID	1
+P5104	New Zealand Gazetteer place ID	1
+P5106	Dictionary of Algorithms and Data Structures ID	1
+P5107	Behind The Voice Actors character ID	1
+P5121	All About Jazz musician ID	1
+P5128	ICAA film catalogue ID	1
+P5131	possible medical findings	1
+P5132	suggests the existence of	1
+P5133	has evaluation	1
+P5134	evaluation of	1
+P5139	Möllendorff transliteration	1
+P5142	Chinese Political Elites Database ID	1
+P5145	Bugs! artist ID	1
+P5147	Dictionary of Swedish Translators ID	1
+P5148	e-MEC entry	1
+P5154	KKBox artist ID	1
+P5160	Thesaurus for Graphic Materials ID	1
+P5161	Trustpilot company ID	1
+P5164	Flanders Arts Institute organisation ID	1
+P5172	Rockipedia artist ID	1
+P5173	Rockipedia area ID	1
+P5180	CIVICUS Monitor country entry	1
+P5181	Relationship Science organisation ID	1
+P5182	JMA Seismic Intensity Database ID	1
+P5184	Daum Encyclopedia ID	1
+P5196	output method	1
+P5198	ASC Leiden Thesaurus ID	1
+P5200	eBird hotspot ID	1
+P5202	adapted by	1
+P521	scheduled service destination	1
+P5215	GONIAT place ID	1
+P5219	BMRB ID	1
+P5220	ICSC ID	1
+P5221	Tree of Life Web Project ID	1
+P5234	SpectraBase compound ID	1
+P5235	Cité de la Musique-Philharmonie de Paris work ID	1
+P5240	RollDaBeats artist ID	1
+P5242	ARWU university ID	1
+P5243	Canal-U person ID	1
+P5247	Giant Bomb ID	1
+P5249	sports competition competed at	1
+P525	Swedish municipality code	1
+P5250	IAB code	1
+P5251	Corago opera ID	1
+P5253	FilmTv.it movie ID	1
+P5255	FilmTv.it TV series ID	1
+P5257	BirdLife taxon ID	1
+P5260	Apple App Store developer ID	1
+P5261	Les Enfoirés participant ID	1
+P5263	Czech NDOP taxon ID	1
+P5277	grade of kanji	1
+P5284	Douban movie celebrity ID	1
+P5287	Songfacts artist ID	1
+P5291	Taratata artist ID	1
+P5292	NRJ artist ID	1
+P5295	Lafonoteca artist ID	1
+P5296	Party Number (Taiwan)	1
+P5297	Companies House officer ID	1
+P5298	Webb-site person ID	1
+P5300	Webb-site organisation ID	1
+P5305	SPARQL endpoint	1
+P5306	LONSEA ID	1
+P5309	Drouot artist ID	1
+P531	diplomatic mission sent	1
+P5312	Kino-teatr.ua person ID	1
+P5321	Museo del Prado artist ID	1
+P5324	Swedish National Archive ID	1
+P5327	fernsehserien.de ID	1
+P5329	ARMB member ID	1
+P5332	OpenDOAR ID	1
+P5333	Bérose ID	1
+P5339	Lega Serie A soccer player ID	1
+P5340	American Film Institute person ID	1
+P5341	Poetry Foundation ID	1
+P5343	Poets.org poet ID	1
+P5344	Printemps des poètes poet ID	1
+P5346	Playmates Playmate ID	1
+P535	Find A Grave memorial ID	1
+P5355	abgeordnetenwatch.de politician ID	1
+P5356	Laut.de artist ID	1
+P5357	The Encyclopedia of Science Fiction ID	1
+P5358	Operone opera ID	1
+P5359	Operone composer ID	1
+P536	ATP player ID	1
+P5360	MobyGames group ID	1
+P5361	BNB person ID	1
+P5362	ASMP member ID	1
+P5363	Académie des beaux-arts member ID	1
+P5364	British Council writer ID	1
+P5366	Operissimo artist ID	1
+P5367		1
+P5368	National Gallery of Canada artist ID	1
+P5370	Entomologists of the World ID	1
+P5371	GAMECIP media format ID	1
+P5372	Dictionnaire critique des historiens de l'art ID	1
+P5373	École normale alumnus ID	1
+P5374	Académie des sciences d'outre-mer member ID	1
+P5375	BIU Santé person ID	1
+P5377	Étonnants voyageurs participant ID	1
+P5379	GAMECIP platform ID	1
+P5380	National Academy of Sciences member ID	1
+P5381	EGROKN ID	1
+P5382	Behind The Voice Actors franchise ID	1
+P5383	archINFORM project ID	1
+P5384	Behind The Voice Actors film ID	1
+P5386	JMA Seismic Intensity Scale	1
+P5387	Behind The Voice Actors TV show ID	1
+P5390	Classiques des sciences sociales ID	1
+P5391	Norwegian Polar Institute place name ID	1
+P5392	Poetry Archive poet ID	1
+P5393	cipM poet ID	1
+P5395	Canadian Encyclopedia article ID	1
+P5396	Online Books Page publication ID	1
+P5400	GeoNLP ID	1
+P5404	Rate Your Music artist ID	1
+P5408	Fantastic Fiction author ID	1
+P5409	Île en île author ID	1
+P5410	Flanders Music Centre person ID	1
+P5413	Ricochet author ID	1
+P5418	Pasteur Institute person ID	1
+P5419	NYRB contributor ID	1
+P5420	GS1 Global Product Classification brick code	1
+P5421	Trading Card Database person ID	1
+P5424	Lega Serie A team ID	1
+P5429	IPTC NewsCode	1
+P543	oath made by	1
+P5430	Poetry International Web poet ID	1
+P5431	setlist.fm artist ID	1
+P5436	number of viewers/listeners	1
+P5437	EuroVoc ID	1
+P5440	Elysee.fr president ID	1
+P5441	Encyclopaedia Herder author ID	1
+P5442	Library of Congress of Chile person ID	1
+P5443	Collège de France professor ID	1
+P545	torch lit by	1
+P5450	Biographisches Archiv der Psychiatrie  ID	1
+P5454	USNPL ID	1
+P5456	TasteAtlas ID	1
+P5457	Conseil constitutionnel ID	1
+P5462	RHE professor ID	1
+P5463	AE member ID	1
+P5465	Australian Poetry Library poet ID	1
+P5468	Historia de la Medicina person ID	1
+P5469	Mormon Literature and Creative Arts Database artist ID	1
+P5470	Scottish Poetry Library poet ID	1
+P5473	The Reptile Database ID	1
+P5476	LegaBasket.it player ID	1
+P5477	Les Voix de la poésie poet ID	1
+P5478	RPO poet ID	1
+P5488	artist-info curator ID	1
+P5489	artist-info artist ID	1
+P5491	BD Gest' author ID	1
+P5492	EDIT16 catalogue author ID	1
+P5493	EDIT16 catalogue printer ID	1
+P5500	IPHAN ID	1
+P5502	LRB contributor ID	1
+P5503	Poetry Society of America poet ID	1
+P5505	WorldCat Registry ID	1
+P5508	archINFORM person or group ID	1
+P5509	MAPS poet ID	1
+P5514	accredited by	1
+P5516	Virtual Laboratory person ID	1
+P552	handedness	1
+P5526	valency	1
+P5527	Academia Brasileira de Letras ID	1
+P5531	Central Index Key	1
+P5532	L'île author ID	1
+P5542	Literature Ireland ID	1
+P5544	Paris Faculty of Letters professor ID (1909-1939)	1
+P5545	Paris Faculty of Letters professor ID (1809–1908)	1
+P5546	College de France professor ID (1909-1939)	1
+P555	doubles record	1
+P5550	La Vie des idées ID	1
+P5551	Courrier international topic ID	1
+P557	DiseasesDB	1
+P558		1
+P561	NATO reporting name	1
+P563	ICD-O	1
+P564	singles record	1
+P5675	relative permittivity	1
+P5676	relative permeability	1
+P5677	flexural strength	1
+P568	overlies	1
+P5706	shear strength	1
+P574	year of taxon name publication	1
+P586	IPNI author ID	1
+P5898	borrowing rate	1
+P590	GNIS ID	1
+P591	EC enzyme number	1
+P592	ChEMBL ID	1
+P593	HomoloGene ID	1
+P5947	Vicat softening point	1
+P597	WTA player ID	1
+P599	ITF player ID	1
+P600	Wine AppDB ID	1
+P604	MedlinePlus ID	1
+P605	NUTS code	1
+P606	first flight	1
+P6076	biobased content weight percentage	1
+P6088	beer bitterness	1
+P613	OS grid reference	1
+P619	UTC date of spacecraft launch	1
+P620	time of spacecraft landing	1
+P621	time of spacecraft orbit decay	1
+P627	IUCN taxon ID	1
+P6272	specific rotation	1
+P628	E number	1
+P630	Paris city digital code	1
+P638	PDB structure ID	1
+P639	RefSeq RNA ID	1
+P640	Léonore ID	1
+P646	Freebase ID	1
+P648	Open Library ID	1
+P650	RKDartists ID	1
+P651	Biografisch Portaal number	1
+P653	PubMed Health	1
+P6570	number of words	1
+P662	PubChem CID	1
+P667	ICPC 2 ID	1
+P668	GeneReviews ID	1
+P672	MeSH Code	1
+P675	Google Books ID	1
+P679	ZVG number	1
+P683	ChEBI ID	1
+P685	NCBI Taxonomy ID	1
+P686	Gene Ontology ID	1
+P687	BHL Page ID	1
+P691	NKCR AUT ID	1
+P693	cleavage	1
+P696	Interlex ID	1
+P698	PubMed ID	1
+P699	Disease Ontology ID	1
+P700	Kemler code	1
+P701	Dodis ID	1
+P704	Ensembl Transcript ID	1
+P709	Historic Scotland ID	1
+P714	Dana 8th edition	1
+P716	JPL Small-Body Database ID	1
+P717	Minor Planet Center observatory code	1
+P718	Canmore ID	1
+P720	asteroid spectral type	1
+P723	DBNL ID	1
+P724	Internet Archive ID	1
+P727		1
+P741	playing hand	1
+P744	asteroid family	1
+P751	introduced feature	1
+P756	removed feature	1
+P762	Czech cultural heritage ID	1
+P764	OKTMO ID	1
+P771	Swiss municipality code	1
+P772	INE municipality code	1
+P773	ISO 3166-3	1
+P774	FIPS 55-3 (locations in the US)	1
+P781	SIKART ID	1
+P782	LAU	1
+P783	hymenium type	1
+P785	hymenium attachment	1
+P786	stipe character	1
+P791	ISIL	1
+P804	GNIS Antarctica ID	1
+P806	Italian cadastre code	1
+P809	WDPA ID	1
+P811	academic minor	1
+P814	IUCN protected areas category	1
+P821	CGNDB Unique ID	1
+P827	BBC programme ID	1
+P829	OEIS ID	1
+P830	Encyclopedia of Life ID	1
+P835	author citation (zoology)	1
+P836	GSS code (2011)	1
+P838	BioLib taxon ID	1
+P839	IMSLP ID	1
+P842	Fossilworks taxon ID	1
+P843	SIRUTA code	1
+P846	GBIF taxon ID	1
+P849	Japanese military aircraft designation	1
+P850	WoRMS-ID for taxa	1
+P852	ESRB rating	1
+P853	CERO rating	1
+P858	ESPNscrum player ID	1
+P860	e-archiv.li ID	1
+P861	PremiershipRugby.com ID	1
+P864	ACM Digital Library author ID	1
+P866	Perlentaucher ID	1
+P874	UN class	1
+P876	UN packaging group	1
+P877	NFPA Special	1
+P878	avionics	1
+P884	State Water Register Code (Russia)	1
+P886	Lexicon istoric retic ID	1
+P887	based on heuristic	1
+P889	Mathematical Reviews ID	1
+P894	zbMATH work ID	1
+P902	HDS	1
+P906	SELIBR ID	1
+P908	PEGI rating	1
+P911	South African municipality code	1
+P914	USK rating	1
+P916	GSRR rating	1
+P919	SOC Code (2010)	1
+P920	LEM ID	1
+P925	presynaptic connection	1
+P935	Commons gallery	1
+P938	FishBase species ID	1
+P939	KSH code	1
+P944	Code of nomenclature	1
+P949	National Library of Israel ID	1
+P950	Biblioteca Nacional de España ID	1
+P951	NSZL identifier	1
+P957	ISBN-10	1
+P958	section, verse, paragraph, or clause	1
+P959	MSW ID	1
+P960	Tropicos ID	1
+P961	IPNI plant ID	1
+P963	streaming media URL	1
+P964	Austrian municipality key	1
+P966	MusicBrainz label ID	1
+P967	guest of honor	1
+P968	e-mail address	1
+P970	neurological function	1
+P982	MusicBrainz area ID	1
+P984	IOC country code	1
+P988	Philippine Standard Geographic Code	1
+P990	audio recording of the subject's spoken voice	1
+P998	dmoz	1
+P2078	user manual URL	3
+P2319	elector	2
+P2396	image of function	2
+P4151	game mechanics	2
+P4777	has boundary	2
+P550	chivalric order	2
+P1010	Iran statistics ID	1
+P1017	BAV (Vatican Library) identifier	1
+P1022	CNO-11 occupation code	1
+P1028	donated by	1
+P1043	IDEO Job ID	1
+P1053	ResearcherID	1
+P1058	ERA Journal ID	1
+P1059	CVR number	1
+P1219	Internet Broadway Database show ID	1
+P1236	Parsons code	1
+P1242	Theatricalia play ID	1
+P1286	Munzinger Pop ID	1
+P1287	KDG Komponisten der Gegenwart ID	1
+P1289	Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID	1
+P1302	primary destinations	1
+P1324	source code repository	1
+P1362	Theaterlexikon der Schweiz ID	1
+P1368	LNB ID	1
+P1394	Glottolog code	1
+P1421	GRIN URL	1
+P1422	Sandrart.net person ID	1
+P1423	template has topic	1
+P1430	OpenPlaques subject ID	1
+P1438	Jewish Encyclopedia ID (Russian)	1
+P1541	CQ Ranking male cyclist ID	1
+P1555	Executive Order number	1
+P1567	NIS/INS code	1
+P1585	Brazilian municipality code	1
+P1602	Art UK venue ID	1
+P1649	KMDb person ID	1
+P1651	YouTube video ID	1
+P1659	see also	1
+P1667	Getty Thesaurus of Geographic Names ID	1
+P1670	Canadiana Authorities ID	1
+P1680	subtitle	1
+P1693	Terminologia Embryologica	1
+P1699	SkyscraperPage building ID	1
+P1700	SIPA ID	1
+P1704	is pollinator of	1
+P1711	British Museum person or institution ID	1
+P1714	Journalisted ID	1
+P1730	AllMusic song ID	1
+P1733	Steam application ID	1
+P1754	category related to list	1
+P1795	Smithsonian American Art Museum person/institution ID	1
+P1817	addressee	1
+P1820	Open Food Facts food additive ID	1
+P1870	Name Assigning Authority Number	1
+P1871	CERL ID	1
+P1885	cathedral	1
+P1944	relief location map	1
+P1954	Discogs master ID	1
+P1956	takeoff and landing capability	1
+P1958	Trismegistos Geo ID	1
+P2002	Twitter username	1
+P2004	NALT ID	1
+P2005	Catalogus Professorum Halensis ID	1
+P2019	AllMovie person ID	1
+P2020	WorldFootball.net player ID	1
+P2026	Avibase ID	1
+P2027	Colour Index International constitution ID	1
+P2038	ResearchGate profile ID	1
+P2042	Artsy artist ID	1
+P2089	Library of Congress JukeBox ID (former scheme)	1
+P2091	World Rowing ID (numeric format)	1
+P2093	author name string	1
+P2172	Parliamentary record identifier	1
+P2174	Museum of Modern Art artist ID	1
+P2179	ACM Classification Code (2012)	1
+P219	ISO 639-2 code	1
+P2195	Soccerbase manager ID	1
+P2207	Spotify track ID	1
+P221	ISO 639-6 code	1
+P2253	DfE URN	1
+P2263	ISOCAT id	1
+P2268	Musée d'Orsay artist ID	1
+P2270	Emporis building complex ID	1
+P2318	debut participant	1
+P2323	Swedish Olympic Committee athlete ID	1
+P2338	Musopen composer ID	1
+P234	InChI	1
+P2340	CESAR person ID	1
+P2344	AGORHA work ID	1
+P236	ISSN	1
+P2372	ODIS ID	1
+P2385	French diocesan architects ID	1
+P2387	Elonet person ID	1
+P2392	teaching method	1
+P2414	substrate of	1
+P2428	RePEc Short-ID	1
+P243	OCLC	1
+P244	Library of Congress authority ID	1
+P2449	Turkish Football Federation coach  ID	1
+P2452	GeoNames feature code	1
+P2460	Persons of Ancient Athens	1
+P2465	Allcinema film ID	1
+P2472	ACMA Radiocommunications Client Number	1
+P2482	SABR person ID	1
+P2497	Latvian National Address Register ID	1
+P2500	league level below	1
+P2519	Scope.dk person ID	1
+P2526	National Historic Sites of Canada ID	1
+P2533	WomenWriters ID	1
+P2559	Wikidata usage instructions	1
+P2560	GPU	1
+P2586	INSEE department code	1
+P2593	Latvian Olympic Committee athlete ID	1
+P2612	TED topic ID	1
+P2620	ISO 15924 numeric code	1
+P2625	PASE ID	1
+P2647	source of material	1
+P2651	CRICOS Provider Code	1
+P2684	Kijkwijzer rating	1
+P269	IdRef ID	1
+P270	CALIS ID	1
+P271	CiNii author ID (books)	1
+P2723	Deezer album ID	1
+P2734	Unz Review author ID	1
+P2736	Biographical Directory of Federal Judges ID	1
+P2739	typeface/font used	1
+P2740	ResearchGate institute ID	1
+P2750	Photographers' Identities Catalog ID	1
+P2752	New Zealand Organisms Register ID	1
+P2755	exploitation visa number	1
+P2758	CNC film rating (France)	1
+P2759	AUSNUT food ID	1
+P2777	FIS snowboarder ID	1
+P278	GOST 7.75–97 code	1
+P2799	BVMC person ID	1
+P2802	fleet or registration number	1
+P2805	Goratings ID	1
+P2811	PGA Tour golf player ID	1
+P2818	Sherdog ID	1
+P2819	Yandex Music album ID	1
+P2831	totem	1
+P2846	wheelchair accessibility	1
+P2857	WWE.com superstar ID	1
+P2858	Killer List of Videogames ID	1
+P2876	type of unit for this property	1
+P2892	UMLS CUI	1
+P2900	fax number	1
+P2908	SecondHandSongs work ID	1
+P2913	date depicted	1
+P2941	Munk's Roll ID	1
+P2950	Nomisma ID	1
+P2951	Cultural heritage database in Austria ObjektID	1
+P2956	NAIF ID	1
+P2966	National Library of Wales Authority ID	1
+P2970	Kinopolis film ID	1
+P2983	UNDP country code	1
+P2988	GOST 7.67 cyrillic	1
+P3005	valid in place	1
+P3012	Statistics Canada Geographic code	1
+P3017	Rolling Stone artist ID	1
+P3048	racing-reference.info driver ID	1
+P3051	Kindred Britain ID	1
+P3052	Bloomberg person ID	1
+P3065	RERO ID	1
+P3073	CosIng number	1
+P3083	SIMBAD ID	1
+P3100	Flora of Australia ID (old)	1
+P3101	FloraBase ID	1
+P3108	Yelp ID	1
+P3109	Peakbagger mountain ID	1
+P3111	FEI person ID	1
+P3114	ISzDb person ID	1
+P3117	DSSTox substance ID	1
+P3118	OpenDomesday settlement ID	1
+P3132	last line	1
+P3136	elCinema person ID	1
+P3144	elFilm person ID	1
+P3163	Scottish Charity number	1
+P3165	Horsetelex ID	1
+P3172	World Bridge Federation ID	1
+P3192	Last.fm ID	1
+P3202	UAI code	1
+P3203	Ciné-Ressources film ID	1
+P3222	NE.se ID	1
+P3258	LiveJournal ID	1
+P3277	KANTL member ID	1
+P3280	BAnQ author ID	1
+P3291	DocCheck Flexikon En ID	1
+P3301	broadcast by	1
+P3302	Open Media Database film ID	1
+P3306	ICAA rating	1
+P3307	Galiciana author ID	1
+P3318	Patrimonio Inmueble de Andalucía ID	1
+P3338	Encyclopedia of Surfing ID	1
+P3341	Kvikmyndir person ID	1
+P3354	positive therapeutic predictor	1
+P3392	Surman ID	1
+P3402	CNC film rating (Romania)	1
+P3408	FINA athlete ID	1
+P3410	Clergy of the Church of England database ID	1
+P3412	Canadian Environmental Sustainability Indicators ID (Protected areas)	1
+P3414	Yle Areena item ID	1
+P3417	Quora topic ID	1
+P3425	Natura 2000 site ID	1
+P3430	SNAC Ark ID	1
+P3445	Cinema of Israel ID	1
+P3459	Euring number	1
+P3536	euroleague.net ID	1
+P3539	NFL.com ID (former scheme)	1
+P3542	FIBA player ID	1
+P3545	Theoi Project ID	1
+P3548	Australian Business Number	1
+P3567	HHOF.com NHL player ID	1
+P3569	Cultureel Woordenboek ID	1
+P3579	Sina Weibo user ID	1
+P3580	SIPCA code	1
+P3581	Pro Football Hall of Fame ID (old)	1
+P3591	WCSPF ID	1
+P3603	Minneapolis Institute of Art constituent ID	1
+P3604	ITU triathlete ID	1
+P3606	BOLD Systems taxon ID	1
+P3635	Peakbagger area ID	1
+P3636	PDB ligand ID	1
+P3643	significant environmental impact	1
+P3653	ARRS runner ID	1
+P367	astronomic symbol image	1
+P3681	ESPNFC.com player ID	1
+P3686	ESPN.com NFL player ID	1
+P3690	IFSC climber ID	1
+P3697	Sports-Reference.com college football player ID	1
+P3698	Tennis Australia player ID	1
+P3708	PhDTree person ID	1
+P3722		1
+P3741	seed dispersal	1
+P3760	Iditarod musher ID	1
+P3763	MIMO instrument ID	1
+P3764	pole position	1
+P3766	European Athletics ID	1
+P3767	French Athletics Federation athlete ID	1
+P3795	Flora of Israel Online plant ID	1
+P380	Mérimée ID	1
+P3816	film script	1
+P3820	Flanders Arts Institute venue ID	1
+P3832	Europeana Fashion Vocabulary ID	1
+P3839	Tab4u artist ID	1
+P3844	Deutsche Synchronkartei film ID	1
+P3848	Irish Rugby Football Union men's player ID	1
+P3855	LombardiaBeniCulturali artwork ID	1
+P3856	Quebec municipalities geographical code	1
+P3874	Justia Patents inventor ID	1
+P3875	Justia Patents company ID	1
+P3876	category for alumni of educational institution	1
+P3889	Swiss Federal Archives ID	1
+P3895	INAO product ID	1
+P3916	UNESCO Thesaurus ID	1
+P3929	V&A item ID	1
+P3952	Stereo Ve Mono artist ID	1
+P3965	Bridgeman artist ID	1
+P3973	PIM authority ID	1
+P3977	Songkick venue ID	1
+P3979	Unifrance company ID	1
+P3980	Unifrance person ID	1
+P4007	DBS ID	1
+P402	OpenStreetMap relation ID	1
+P4021	danskefilm animated film ID	1
+P4026	Cullum number	1
+P4053	German Olympic Sports Confederation athlete ID	1
+P4087	MyAnimeList manga ID	1
+P4090	Biodiversity Repository ID	1
+P4097	MuseScore ID	1
+P4104	Carnegie Hall agent ID	1
+P4192	LNH player ID	1
+P4197	IBM graphic character set global ID	1
+P4198	Google Play Music artist ID (former scheme)	1
+P4200	Christie's creator ID	1
+P4230	Sefaria ID	1
+P4239	vocalized name	1
+P424	Wikimedia language code	1
+P4252	All-Russian Mathematical Portal ID	1
+P4255	Banglapedia (English version) ID	1
+P4263	THW Kiel player ID	1
+P4264	LinkedIn company ID	1
+P4273	New York City Landmarks Preservation Commission ID	1
+P4276	Cinémathèque québécoise work identifier	1
+P4285	Theses.fr person ID	1
+P4293	PM20 folder ID	1
+P4311	FOIH taxon ID	1
+P4316	kinship equivalent in SPARQL at Wikidata	1
+P4333	GenBank assembly accession	1
+P4338	LOINC ID	1
+P4343	WBPLN author ID	1
+P4348	Lotsawa House Tibetan author ID	1
+P4353	nominated by	1
+P4365	Hawai‘i Sports Hall of Fame ID	1
+P4369	Cairn author ID	1
+P4375	North Carolina Sports Hall of Fame ID	1
+P4376	Oklahoma Sports Hall of Fame ID	1
+P4384	DAMIT asteroid ID	1
+P4389	Science Museum people ID	1
+P4395	BrainInfo ID (hierarchical)	1
+P4402	Women's Collegiate Tennis Hall of Fame ID	1
+P4405	NLBPA ID	1
+P4407	Opera Vivra singer ID	1
+P4411	Quora username	1
+P4415	Sport Australia Hall of Fame inductee ID	1
+P4416	Panthéon des sports du Québec ID	1
+P4426	Y-DNA Haplogroup	1
+P4428	implementation of	1
+P4436	The Coptic Library ID	1
+P4466	Unified Astronomy Thesaurus ID	1
+P4468	Mountain Bike Hall of Fame inductee ID	1
+P4469	IGHOF athlete ID	1
+P4472	Czech Jockey Club horse ID	1
+P4477	Humble Store ID	1
+P4495	Xenopus Anatomical Ontology ID	1
+P4497		1
+P4533	Czech street ID	1
+P4537	Spider Ontology ID	1
+P4547	Serbian Olympic Committee athlete ID	1
+P4548	Commonwealth Games Federation athlete ID	1
+P455	Emporis building ID	1
+P4553	RA Collections ID	1
+P4561	Basketball Reference WNBA player ID	1
+P4563	Art Museum of Estonia artist ID	1
+P4567	BTO five-letter code	1
+P4573	Merchant Category Code	1
+P4581	Städel Museum artist ID	1
+P4583	U.S. Gymnastics Hall of Fame athlete ID	1
+P4585	Accademia della Crusca ID	1
+P4592	Mountain Project ID	1
+P4604	World Rugby Hall of Fame ID	1
+P4611	LACMA ID	1
+P4638	The Peerage person ID	1
+P4643	Philadelphia Museum of Art work ID	1
+P4644	ESCO skill ID	1
+P4652	ESCO Occupation ID	1
+P4659	Musée d'Orsay artwork ID	1
+P4664	Wiki Aves bird ID	1
+P4671	Hall of Light ID	1
+P4683	National Gallery of Art artwork ID	1
+P4690	Oireachtas member ID	1
+P4691	OpenSecrets organisation ID	1
+P4696	CIQUAL2017 ID	1
+P4702	Google Arts & Culture partner ID	1
+P4716	Académie des Inscriptions et Belles-Lettres member ID	1
+P4718	Basketball-Reference.com NBA coach ID	1
+P4746	Elhuyar ZTH ID	1
+P4751	Sports-Reference.com college basketball coach ID	1
+P4759	Luminous-Lint ID	1
+P476	CELEX number	1
+P477	Canadian Register of Historic Places ID	1
+P4776	MAC Address Block Large ID	1
+P4802	BVPB authority ID	1
+P4813	PARES ID	1
+P4816	Lemon 64 identifier	1
+P4819	Swedish Portrait Archive ID	1
+P4823	American National Biography ID	1
+P4844	research intervention	1
+P4845	Bulbapedia article	1
+P4848	Libraries.org ID	1
+P4852	JECFA database ID	1
+P486	MeSH descriptor ID	1
+P4862	Amazon author ID	1
+P4904	Tropicos publication ID	1
+P4916	Ready64 ID	1
+P4917	Gamebase64 identifier	1
+P4928	Ricorso author ID	1
+P4930	Julien ID	1
+P4931	Todotango.com person ID	1
+P4933	Big Cartoon Database ID	1
+P4939	BFMTV.com director ID	1
+P4947	TMDb movie ID	1
+P496	ORCID iD	1
+P4967	prerequisite	1
+P4971	UK Provider Reference Number	1
+P4978	PRS Legislative Research MP ID	1
+P4989	RKDlibrary ID	1
+P5004	in opposition to	1
+P5021	test taken	1
+P5038	Fogis.se player ID	1
+P5047	Rosetta Code ID	1
+P5080	Norsk biografisk leksikon ID	1
+P5108	HanCinema film ID	1
+P5152	KAVI rating	1
+P5176	KIT Linked Open Numbers ID	1
+P5179	FloraCatalana ID	1
+P5218	Armenian Cinema ID	1
+P5224	OlimpBase Women's Chess Olympiad player ID	1
+P5226	BRAHMS artist ID	1
+P5229	Carnegie Hall work ID	1
+P5239	Artists in Canada record number	1
+P5246	Pornhub ID	1
+P5252	winter view	1
+P5254	FilmTv.it person ID	1
+P5259	Swedish Gravestone ID	1
+P5267	YouPorn ID	1
+P5270	MonDO ID	1
+P5271	Saint Louis Art Museum person ID	1
+P5273	Nelson-Atkins Museum of Art person ID	1
+P5290	Redump.org ID	1
+P5325	Swedish Academy member ID	1
+P5331	OCLC work ID	1
+P5335	Or Movement settlement ID	1
+P5337	Google News topics ID	1
+P5338	SilentEra.com film ID	1
+P5354	Amphibian Species of the World ID	1
+P5365	Internet Book Database of Fiction writer ID	1
+P5369	Encyclopædia Universalis author ID	1
+P537	twinning	1
+P538	fracturing	1
+P539	Museofile	1
+P5397	Tierstimmenarchiv ID	1
+P5398	TDKIV term ID	1
+P5414	The Paris Review interviewee ID	1
+P5415	Whonamedit? doctor ID	1
+P5417	Common Procurement Vocabulary	1
+P5422	has pattern	1
+P5445	Language Council of Norways termwiki ID	1
+P5449	Inventory of French sanctuaries ID	1
+P5459	RHE doctor ID	1
+P549	Mathematics Genealogy Project ID	1
+P5496	Médicos históricos doctor ID	1
+P5498	Base de datos de premiados person ID	1
+P5506	Poetry In Voice poet ID	1
+P5534	Open Media Database person ID	1
+P5541	Paris Faculty of Science professor ID	1
+P5575	coefficient of friction	1
+P5708	force	1
+P579	IMA status and/or rank	1
+P594	Ensembl Gene ID	1
+P595	Guide to Pharmacology Ligand ID	1
+P633	Quebec cultural heritage directory ID	1
+P635	ISTAT ID	1
+P649	NRHP reference number	1
+P652	UNII	1
+P657	RTECS number	1
+P661	ChemSpider ID	1
+P665	KEGG ID	1
+P695	UN number	1
+P707	satellite bus	1
+P711	Strunz 8th edition (series ID, updated)	1
+P713	Nickel-Strunz '10th ed', review of (9th ed/ 2009 update)	1
+P715	DrugBank ID	1
+P721	OKATO ID	1
+P729	service entry	1
+P745	Low German Bibliography and Biography ID	1
+P757	World Heritage Site ID	1
+P758	Kulturminne ID	1
+P761	Lake ID (Sweden)	1
+P775	Swedish urban area code	1
+P784	mushroom cap shape	1
+P808	Bien de Interés Cultural (BIC) code	1
+P815	ITIS TSN	1
+P863	InPhO ID	1
+P865	BMLO ID	1
+P867	ROME Occupation Code (v3)	1
+P882	FIPS 6-4 (US counties)	1
+P901	FIPS 10-4 (countries and regions)	1
+P905	PORT film ID	1
+P918	NOC Occupation Code	1
+P946	ISIN	1
+P947	RSL ID (person)	1
+P962	MycoBank taxon name ID	1
+P981	BAG residence ID	1
+P996	document file on Wikimedia Commons	1
+P999	ARICNS	1

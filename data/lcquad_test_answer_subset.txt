@@ -1,0 +1,43 @@
+174	16	Q1065, Q1624231	+P37	Is Hokkien the official language of United Nations?	ASK WHERE { wd:Q1065 wdt:P37 wd:Q1624231 }
+44	16	Q11036, Q918542	+P136	is it true that the genre of the Rolling Stones is British blues?	ASK WHERE { wd:Q11036 wdt:P136 wd:Q918542 }
+40	16	Q229313, Q102427	+P1411	Was Jessica Chastain nominated for Academy Award for Best Picture?	ASK WHERE { wd:Q229313 wdt:P1411 wd:Q102427 }
+26	16	Q748, Q1309633	+P138	Did Buddhism was named after the immigration of united states	ASK WHERE { wd:Q748 wdt:P138 wd:Q1309633 }
+197	16	Q49740, Q178990	+P437	Was Minecraft distributed in an HD DVD?	ASK WHERE { wd:Q49740 wdt:P437 wd:Q178990 }
+223	16	Q1203, Q211573	+P136	Did John Lennon play garage rock?	ASK WHERE { wd:Q1203 wdt:P136 wd:Q211573 }
+106	16	Q34851, Q294	+P1412	Does Elizabeth Taylor speak Icelandic?	ASK WHERE { wd:Q34851 wdt:P1412 wd:Q294 }
+457	16	Q1060310, Q183257	+P1995	Is Narcissistic personality disorder a health speciality of psychotherapy?	ASK WHERE { wd:Q1060310 wdt:P1995 wd:Q183257 }
+237	16	Q25, Q11010	+P194	Is wales legislative body Parliament of the United Kingdom?	ASK WHERE { wd:Q25 wdt:P194 wd:Q11010 }
+107	16	Q131723, Q33976	+P407	Did Bitcoin come from Sardinia?	ASK WHERE { wd:Q131723 wdt:P407 wd:Q33976 }
+487	16	Q36949, Q205380	+P19	Is it true that Robert de Niro was born in Greenwich Village?	ASK WHERE { wd:Q36949 wdt:P19 wd:Q205380 }
+418	16	Q6425, Q9325	+P137	Was Boeing 777 operated by Lufthansa?	ASK WHERE { wd:Q6425 wdt:P137 wd:Q9325 }
+63	16	Q6096, Q42365	+P1412	Does Snoop Dogg speaks, writes  or signs in Old English?	ASK WHERE { wd:Q6096 wdt:P1412 wd:Q42365 }
+387	16	Q2331, Q1546001	+P264	Did Led Zeppelin record with Stax?	ASK WHERE { wd:Q2331 wdt:P264 wd:Q1546001 }
+259	16	Q80823, Q84	+P119	Is Anne Boleyn place of burial in London?	ASK WHERE { wd:Q80823 wdt:P119 wd:Q84 }
+71	16	Q43044, Q42365	+P1412	Is it true that Demi Moore knows Old English?	ASK WHERE { wd:Q43044 wdt:P1412 wd:Q42365 }
+235	16	Q8683, Q170314	+P793	Is Second Sino-Japanese War significant to the Cold War?	ASK WHERE { wd:Q8683 wdt:P793 wd:Q170314 }
+324	16	Q10285, Q43338	+P186	Was the Colosseum built with basalt?	ASK WHERE { wd:Q10285 wdt:P186 wd:Q43338 }
+194	16	Q133087, Q5120034	+P2176	Is cilomilast a drug used for treatment of gout?	ASK WHERE { wd:Q133087 wdt:P2176 wd:Q5120034 }
+317	16	Q11885, Q186506	+P412	Is Axl Rose's voice type a mezzo-soprano?	ASK WHERE { wd:Q11885 wdt:P412 wd:Q186506 }
+378	16	Q213512, Q23733	+P800	Is it true Bill_Cosby notable work Seinfeld?	ASK WHERE { wd:Q213512 wdt:P800 wd:Q23733 }
+227	16	Q190679, Q181900	+P170	did Stan Lee create Captain America?	ASK WHERE { wd:Q190679 wdt:P170 wd:Q181900 }
+299	16	Q11256, Q796897	+P39	Was the dictator, Fidel Castro, the Prime Minister of Italy?	ASK WHERE { wd:Q11256 wdt:P39 wd:Q796897 }
+148	16	Q44329, Q209496	+P140	Was Bashar_al-Assad religion Alawi?	ASK WHERE { wd:Q44329 wdt:P140 wd:Q209496 }
+412	16	Q142794, Q8558	+P1344	Did Neymar participate in the 2004 Summer Olympics?	ASK WHERE { wd:Q142794 wdt:P1344 wd:Q8558 }
+210	16	Q15869, Q193023	+P264	Did Freddie Mercury record for Capital Records?	ASK WHERE { wd:Q15869 wdt:P264 wd:Q193023 }
+460	16	Q8777, Q73	+P1889	Is Hypertext Transfer Protocol different from Internet Relay Chat?	ASK WHERE { wd:Q8777 wdt:P1889 wd:Q73 }
+361	16	Q365144, Q2312659	+P166	Did Caitlyn Jenner received the Danish Sports Name of the Year award?	ASK WHERE { wd:Q365144 wdt:P166 wd:Q2312659 }
+479	16	Q36669, Q6313217	+P461	Was Daylight_saving_time opposite of time standard?	ASK WHERE { wd:Q36669 wdt:P461 wd:Q6313217 }
+270	16	Q44301, Q244976	+P1303	Did Jim Morrison play bodhran?	ASK WHERE { wd:Q44301 wdt:P1303 wd:Q244976 }
+363	16	Q3626950, Q217025	+P463	Was Zayn Malik a member of Manic Street Preachers?	ASK WHERE { wd:Q3626950 wdt:P463 wd:Q217025 }
+300	16	Q186327, Q1164252	+P136	Was Marilyn_Manson genre Deathrock?	ASK WHERE { wd:Q186327 wdt:P136 wd:Q1164252 }
+284	16	Q127912, Q1345	+P276	Was United States Declaration of Independence signed in Philadelphia?	ASK WHERE { wd:Q127912 wdt:P276 wd:Q1345 }
+466	16	Q9488, Q1651597	+P140	Do Sachin_Tendulkar religion is of Indian religions?	ASK WHERE { wd:Q9488 wdt:P140 wd:Q1651597 }
+161	16	Q37150, Q294	+P1412	Is Icelandic a language Lana Del Rey can speak?	ASK WHERE { wd:Q37150 wdt:P1412 wd:Q294 }
+77	16	Q47131, Q698752	+P1142	Was Ku_Klux_Klan political ideology white supremacy?	ASK WHERE { wd:Q47131 wdt:P1142 wd:Q698752 }
+253	16	Q29250, Q102427	+P1411	Has Bill Murray ever been in a movie that was nominated for the Academy Award for Best Picture?	ASK WHERE { wd:Q29250 wdt:P1411 wd:Q102427 }
+64	16	Q1924847, Q5110500	+P172	Is Margot Robbie Australian Christian?	ASK WHERE { wd:Q1924847 wdt:P172 wd:Q5110500 }
+429	16	Q283, Q218091	+P462	Is it true that water colored Seal?	ASK WHERE { wd:Q283 wdt:P462 wd:Q218091 }
+187	16	Q40949, Q16931712	+P710	Were Six Californias part of the American Revolutionary War?	ASK WHERE { wd:Q40949 wdt:P710 wd:Q16931712 }
+125	16	Q41576, Q411188	+P769	Does cocaine has a significant interaction with aripiprazole?	ASK WHERE { wd:Q41576 wdt:P769 wd:Q411188 }
+16	16	Q212976, Q46825	+P155	Was the Middle Ages following the Gothic art?	ASK WHERE { wd:Q212976 wdt:P155 wd:Q46825 }
+424	16	Q324867, Q5849	+P641	Was La Liga a member team of the rugby union?	ASK WHERE { wd:Q324867 wdt:P641 wd:Q5849 }

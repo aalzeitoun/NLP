@@ -1,0 +1,15 @@
+174	16	Q1065, Q1624231	Is Hokkien the official language of United Nations?	+official language	+Library of Congress authority ID	Not top 5
+197	16	Q49740, Q178990	Was Minecraft distributed in an HD DVD?	+distribution format	+distributed by	Top 5
+223	16	Q1203, Q211573	Did John Lennon play garage rock?	+genre	+partner in business or sport	Not top 5
+106	16	Q34851, Q294	Does Elizabeth Taylor speak Icelandic?	+languages spoken, written or signed	+occupation	Top 5
+107	16	Q131723, Q33976	Did Bitcoin come from Sardinia?	+language of work or name	+subreddit	Not top 5
+418	16	Q6425, Q9325	Was Boeing 777 operated by Lufthansa?	+operator	-item operated	Top 5
+63	16	Q6096, Q42365	Does Snoop Dogg speaks, writes  or signs in Old English?	+languages spoken, written or signed	-lyrics by	Not top 5
+71	16	Q43044, Q42365	Is it true that Demi Moore knows Old English?	+languages spoken, written or signed	+subreddit	Not top 5
+324	16	Q10285, Q43338	Was the Colosseum built with basalt?	+made from material	-Wikidata property example	Top 5
+299	16	Q11256, Q796897	Was the dictator, Fidel Castro, the Prime Minister of Italy?	+position held	+National Library of Brazil ID	Not top 5
+361	16	Q365144, Q2312659	Did Caitlyn Jenner received the Danish Sports Name of the Year award?	+award received	+Behind The Voice Actors person ID	Not top 5
+284	16	Q127912, Q1345	Was United States Declaration of Independence signed in Philadelphia?	+location	+signatory	Not top 5
+161	16	Q37150, Q294	Is Icelandic a language Lana Del Rey can speak?	+languages spoken, written or signed	+Cultureel Woordenboek ID	Not top 5
+429	16	Q283, Q218091	Is it true that water colored Seal?	+color	-conjugate acid	Top 5
+187	16	Q40949, Q16931712	Were Six Californias part of the American Revolutionary War?	+participant	+Commons gallery	Top 5

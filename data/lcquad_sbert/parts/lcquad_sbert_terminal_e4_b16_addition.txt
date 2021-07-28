@@ -1,0 +1,311 @@
+========= 1 =========
+174	Q1065, Q1624231	+P37	175	Is Hokkien the official language of United Nations?
++P37, +official language
+top answer: +official language
+top one
+1	1	0	0
+Time: 6.561572551727295
+========= 2 =========
+44	Q11036, Q918542	+P136	108	is it true that the genre of the Rolling Stones is British blues?
++P136, +genre
+top answer: +genre
+top one
+2	2	0	0
+Time: 2.11601185798645
+========= 3 =========
+40	Q229313, Q102427	+P1411	76	Was Jessica Chastain nominated for Academy Award for Best Picture?
++P1411, +nominated for
+top answer: +filmography
+Top 5
+3	2	1	0
+Time: 2.1584765911102295
+========= 4 =========
+26	Q748, Q1309633	+P138	98	Did Buddhism was named after the immigration of united states
++P138, +named after
+top answer: +named after
+top one
+4	3	1	0
+Time: 2.05940318107605
+========= 5 =========
+197	Q49740, Q178990	+P437	82	Was Minecraft distributed in an HD DVD?
++P437, +distribution format
+top answer: +distribution format
+top one
+5	4	1	0
+Time: 2.231884241104126
+========= 6 =========
+223	Q1203, Q211573	+P136	249	Did John Lennon play garage rock?
++P136, +genre
+top answer: +religion
+Top 5
+6	4	2	0
+Time: 2.4261205196380615
+========= 7 =========
+106	Q34851, Q294	+P1412	146	Does Elizabeth Taylor speak Icelandic?
++P1412, +languages spoken, written or signed
+top answer: +given name
+Top 5
+7	4	3	0
+Time: 2.2354414463043213
+========= 8 =========
+457	Q1060310, Q183257	+P1995	32	Is Narcissistic personality disorder a health speciality of psychotherapy?
++P1995, +health specialty
+top answer: +health specialty
+top one
+8	5	3	0
+Time: 2.300309181213379
+========= 9 =========
+237	Q25, Q11010	+P194	149	Is wales legislative body Parliament of the United Kingdom?
++P194, +legislative body
+top answer: +legislative body
+top one
+9	6	3	0
+Time: 2.2075629234313965
+========= 10 =========
+107	Q131723, Q33976	+P407	78	Did Bitcoin come from Sardinia?
++P407, +language of work or name
+top answer: +named after
+Top 5
+10	6	4	0
+Time: 2.293095588684082
+========= 11 =========
+487	Q36949, Q205380	+P19	163	Is it true that Robert de Niro was born in Greenwich Village?
++P19, +place of birth
+top answer: +place of birth
+top one
+11	7	4	0
+Time: 2.229285717010498
+========= 12 =========
+418	Q6425, Q9325	+P137	25	Was Boeing 777 operated by Lufthansa?
++P137, +operator
+top answer: -item operated
+Top 5
+12	7	5	0
+Time: 2.0196728706359863
+========= 13 =========
+63	Q6096, Q42365	+P1412	125	Does Snoop Dogg speaks, writes  or signs in Old English?
++P1412, +languages spoken, written or signed
+top answer: +languages spoken, written or signed
+top one
+13	8	5	0
+Time: 2.223510503768921
+========= 14 =========
+387	Q2331, Q1546001	+P264	106	Did Led Zeppelin record with Stax?
++P264, +record label
+top answer: +record label
+top one
+14	9	5	0
+Time: 2.154505968093872
+========= 15 =========
+259	Q80823, Q84	+P119	112	Is Anne Boleyn place of burial in London?
++P119, +place of burial
+top answer: +place of burial
+top one
+15	10	5	0
+Time: 2.1803276538848877
+========= 16 =========
+71	Q43044, Q42365	+P1412	155	Is it true that Demi Moore knows Old English?
++P1412, +languages spoken, written or signed
+top answer: +given name
+Not top 5
+16	10	5	1
+Time: 2.5626935958862305
+========= 17 =========
+235	Q8683, Q170314	+P793	62	Is Second Sino-Japanese War significant to the Cold War?
++P793, +significant event
+top answer: +topic's main Wikimedia portal
+Not top 5
+17	10	5	2
+Time: 2.1998283863067627
+========= 18 =========
+324	Q10285, Q43338	+P186	69	Was the Colosseum built with basalt?
++P186, +made from material
+top answer: -Wikidata property example
+Not top 5
+18	10	5	3
+Time: 2.2336790561676025
+========= 19 =========
+194	Q133087, Q5120034	+P2176	64	Is cilomilast a drug used for treatment of gout?
++P2176, +drug used for treatment
+top answer: +drug used for treatment
+top one
+19	11	5	3
+Time: 2.1659226417541504
+========= 20 =========
+317	Q11885, Q186506	+P412	63	Is Axl Rose's voice type a mezzo-soprano?
++P412, +voice type
+top answer: +voice type
+top one
+20	12	5	3
+Time: 2.3366074562072754
+========= 21 =========
+378	Q213512, Q23733	+P800	124	Is it true Bill_Cosby notable work Seinfeld?
++P800, +notable work
+top answer: +notable work
+top one
+21	13	5	3
+Time: 2.441018581390381
+========= 22 =========
+227	Q190679, Q181900	+P170	51	did Stan Lee create Captain America?
++P170, +creator
+top answer: +creator
+top one
+22	14	5	3
+Time: 2.218261480331421
+========= 23 =========
+299	Q11256, Q796897	+P39	149	Was the dictator, Fidel Castro, the Prime Minister of Italy?
++P39, +position held
+top answer: +National Library of Greece ID
+Not top 5
+23	14	5	4
+Time: 2.325629234313965
+========= 24 =========
+148	Q44329, Q209496	+P140	86	Was Bashar_al-Assad religion Alawi?
++P140, +religion
+top answer: +religion
+top one
+24	15	5	4
+Time: 2.2981698513031006
+========= 25 =========
+412	Q142794, Q8558	+P1344	109	Did Neymar participate in the 2004 Summer Olympics?
++P1344, +participant in
+top answer: +participant in
+top one
+25	16	5	4
+Time: 2.234675645828247
+========= 26 =========
+210	Q15869, Q193023	+P264	151	Did Freddie Mercury record for Capital Records?
++P264, +record label
+top answer: +record label
+top one
+26	17	5	4
+Time: 2.1932132244110107
+========= 27 =========
+460	Q8777, Q73	+P1889	51	Is Hypertext Transfer Protocol different from Internet Relay Chat?
++P1889, +different from
+top answer: +different from
+top one
+27	18	5	4
+Time: 2.295388698577881
+========= 28 =========
+361	Q365144, Q2312659	+P166	110	Did Caitlyn Jenner received the Danish Sports Name of the Year award?
++P166, +award received
+top answer: +award received
+top one
+28	19	5	4
+Time: 2.155501365661621
+========= 29 =========
+479	Q36669, Q6313217	+P461	26	Was Daylight_saving_time opposite of time standard?
++P461, +opposite of
+top answer: -located in time zone
+Top 5
+29	19	6	4
+Time: 2.1178743839263916
+========= 30 =========
+270	Q44301, Q244976	+P1303	121	Did Jim Morrison play bodhran?
++P1303, +instrument
+top answer: +member of
+Not top 5
+30	19	6	5
+Time: 2.3784871101379395
+========= 31 =========
+363	Q3626950, Q217025	+P463	76	Was Zayn Malik a member of Manic Street Preachers?
++P463, +member of
+top answer: +member of
+top one
+31	20	6	5
+Time: 2.2593791484832764
+========= 32 =========
+300	Q186327, Q1164252	+P136	100	Was Marilyn_Manson genre Deathrock?
++P136, +genre
+top answer: +genre
+top one
+32	21	6	5
+Time: 2.414788007736206
+========= 33 =========
+284	Q127912, Q1345	+P276	64	Was United States Declaration of Independence signed in Philadelphia?
++P276, +location
+top answer: -foundational text
+Not top 5
+33	21	6	6
+Time: 2.344313859939575
+========= 34 =========
+466	Q9488, Q1651597	+P140	62	Do Sachin_Tendulkar religion is of Indian religions?
++P140, +religion
+top answer: +religion
+top one
+34	22	6	6
+Time: 2.374291181564331
+========= 35 =========
+161	Q37150, Q294	+P1412	105	Is Icelandic a language Lana Del Rey can speak?
++P1412, +languages spoken, written or signed
+top answer: +languages spoken, written or signed
+top one
+35	23	6	6
+Time: 2.355377435684204
+========= 36 =========
+77	Q47131, Q698752	+P1142	47	Was Ku_Klux_Klan political ideology white supremacy?
++P1142, +political ideology
+top answer: +political ideology
+top one
+36	24	6	6
+Time: 2.222578287124634
+========= 37 =========
+253	Q29250, Q102427	+P1411	104	Has Bill Murray ever been in a movie that was nominated for the Academy Award for Best Picture?
++P1411, +nominated for
+top answer: +filmography
+Top 5
+37	24	7	6
+Time: 2.3423986434936523
+========= 38 =========
+64	Q1924847, Q5110500	+P172	102	Is Margot Robbie Australian Christian?
++P172, +ethnic group
+top answer: +ethnic group
+top one
+38	25	7	6
+Time: 2.3079967498779297
+========= 39 =========
+429	Q283, Q218091	+P462	147	Is it true that water colored Seal?
++P462, +color
+top answer: +color
+top one
+39	26	7	6
+Time: 2.307257652282715
+========= 40 =========
+187	Q40949, Q16931712	+P710	45	Were Six Californias part of the American Revolutionary War?
++P710, +participant
+top answer: +topic's main Wikimedia portal
+Top 5
+40	26	8	6
+Time: 2.168966293334961
+========= 41 =========
+125	Q41576, Q411188	+P769	100	Does cocaine has a significant interaction with aripiprazole?
++P769, +significant drug interaction
+top answer: +significant drug interaction
+top one
+41	27	8	6
+Time: 2.1988792419433594
+========= 42 =========
+16	Q212976, Q46825	+P155	30	Was the Middle Ages following the Gothic art?
++P155, +follows
+top answer: +follows
+top one
+42	28	8	6
+Time: 2.1121580600738525
+========= 43 =========
+424	Q324867, Q5849	+P641	37	Was La Liga a member team of the rugby union?
++P641, +sport
+top answer: +organizer
+Top 5
+43	28	9	6
+Time: 2.346820831298828
+43	28	9	6
+all question #: 	43
+correct question #: 	43
+1st #: 	28
+in top5 but not 1st #: 	9
+not in top5 #: 	6
+elapsed_time	101.31061697006226
+Max time	6.561572551727295
+Min time	2.0196728706359863
+Avg time	2.3560310907142106
